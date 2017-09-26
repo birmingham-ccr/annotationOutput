@@ -62,7 +62,7 @@
 
 <p pid="29" id="settlers.c0.p29"><s>"Then I wish you were a justice, my dear; for we cannot get anybody punished as it is."</s> </p>
 
-<p pid="30" id="settlers.c0.p30"><s>"Mildred," said Oliver, "I wish you would finish the cabbages.</s> <s>You know they must be done; and I am very busy."</s> </p>
+<p pid="30" id="settlers.c0.p30" type="speech"><s>"Mildred," said Oliver, <qs/>"I wish you would finish the cabbages.</s> <s>You know they must be done; and I am very busy."<qe/></s> </p>
 
 <p pid="31" id="settlers.c0.p31"><s>"Oh, Oliver!</s> <s>I am such a little thing to plant a whole cabbage bed.</s> <s>You will be able to come by and by; I want to help you."</s> </p>
 
@@ -88,7 +88,7 @@
 
 <p pid="42" id="settlers.c0.p42"><s>"I do not think it is the gipsies," said she.</s> <s>"I am afraid it is worse than that.</s> <s>I am afraid it is the Redfurns.</s> <s>This is just the way they settle themselves--in just that sort of tent--when they come to fowl, all autumn."</s> </p>
 
-<p pid="43" id="settlers.c0.p43"><s>"If I catch that Roger," said Ailwin, "I'll--."</s> <s>And she clenched her hand, as if she meant to do terrible things, if she caught Roger.</s> </p>
+<p pid="43" id="settlers.c0.p43" type="speech"><s>"If I catch that Roger," said Ailwin, <qs/>"I'll--."<qe/></s> <s>And she clenched her hand, as if she meant to do terrible things, if she caught Roger.</s> </p>
 
 <p pid="44" id="settlers.c0.p44"><s>"I will go and call father, shall I?" said Mildred, her teeth chattering, as she stood in the hot sun.</s> </p>
 
@@ -106,7 +106,7 @@
 
 <p pid="51" id="settlers.c0.p51"><s>The miller looked grave, and said here was an end of all peace, for some time to come.</s> </p>
 
-<p pid="52" id="settlers.c0.p52"><s>"Are you all at the mercy of a boy like Roger Redfurn," asked the pastor, "so that you look as if a plague had come with this fresh breeze?"</s> </p>
+<p pid="52" id="settlers.c0.p52" type="speech"><s>"Are you all at the mercy of a boy like Roger Redfurn," asked the pastor, <qs/>"so that you look as if a plague had come with this fresh breeze?"<qe/></s> </p>
 
 <p pid="53" id="settlers.c0.p53"><s>"And his uncle, sir."</s> </p>
 
@@ -120,7 +120,7 @@
 
 <p pid="58" id="settlers.c0.p58"><s>"And they mixed all mother's feathers, for the whole year," exclaimed Mildred.</s> </p>
 
-<p pid="59" id="settlers.c0.p59"><s>"And they blinded my dog," cried Oliver;--"put out its eyes."</s> </p>
+<p pid="59" id="settlers.c0.p59" type="speech"><s>"And they blinded my dog,<qs/>" cried Oliver;--<alt-qs/>"<qe/>put out its eyes."<alt-qe/></s> </p>
 
 <p pid="60" id="settlers.c0.p60"><s>"Oh!</s> <s>What will they do next?" said Mildred, looking up through her tears at the pastor.</s> </p>
 
@@ -144,7 +144,7 @@
 
 <p pid="70" id="settlers.c0.p70"><s>"They keep one another in mind that it is God's will, my dears; and that obedient children can, if they try, bear all that God sees fit to lay upon them.</s> <s>So they praise His name with a strong heart, though their voices be weak.</s> <s>Morning and night, those mountains echo with hymns; though death, in one form or another, is about the sufferers on every side.</s> </p>
 
-<p pid="71" id="settlers.c0.p71"><s>"My dear," said Mr Linacre, "let us make no more complaints about the Redfurns.</s> <s>I am ashamed, when I think of our brethren abroad, that we ever let Stephen and Roger put us up to anger.</s> <s>You will see no more tears here, sir, I hope."</s> </p>
+<p pid="71" id="settlers.c0.p71" type="speech"><s>"My dear," said Mr Linacre, <qs/>"let us make no more complaints about the Redfurns.</s> <s>I am ashamed, when I think of our brethren abroad, that we ever let Stephen and Roger put us up to anger.</s> <s>You will see no more tears here, sir, I hope."<qe/></s> </p>
 
 <p pid="72" id="settlers.c0.p72"><s>"Mildred will not quite promise that," said the pastor, smiling kindly on the little girl.</s> <s>"Make no promises, my dear, that a little girl like you may be tempted to break.</s> <s>Only try to forgive all people who tease and injure you; and remember that nothing more ever happens than God permits,--though He does not yet see fit to let us know why."</s> </p>
 
@@ -156,7 +156,7 @@
 
 <p pid="76" id="settlers.c0.p76"><s>The pastor's eye had been upon Oliver for some time.</s> <s>He now asked whether he meant to make his new cups plain, like all the rest, or to try to ornament them.</s> <s>Mildred assured him that Oliver had carved a beading round the two last bowls that he had cut.</s> </p>
 
-<p pid="77" id="settlers.c0.p77"><s>"I think you might attempt something far prettier than beading," said the pastor; "particularly with so many patterns before your eyes to work by."</s> </p>
+<p pid="77" id="settlers.c0.p77" type="speech"><s>"I think you might attempt something far prettier than beading," said the pastor; <qs/>"particularly with so many patterns before your eyes to work by."<qe/></s> </p>
 
 <p pid="78" id="settlers.c0.p78"><s>He was looking up at the little recess above the door of the house, near which they were standing.</s> <s>This recess, in which there had formerly been an image, was surrounded with carved stone-work.</s> </p>
 
@@ -168,7 +168,7 @@
 
 <p pid="82" id="settlers.c0.p82"><s>When Mrs Linacre was told in the evening of the arrival of the disagreeable neighbours who were in the marsh, she was sorry; but when she had gone round the premises with her husband at night, and found all safe, and no tokens of any intrusion, she was disposed to hope that the Redfurns would, this time, keep to their fishing and fowling, and make no disturbance.</s> <s>Oliver and Mildred crept down to the garden hedge at sunrise, and peeped through it, so as to see all that was doing in the carr, as the marsh was called.</s> <s>[In that part of the country, a carr means a morass.] After watching some time, they saw Stephen and Roger creep out from under the low brown tent.</s> <s>As the almost level sun shone full in their faces, they rubbed their eyes; then they stretched and yawned, and seemed to be trying hard to wake themselves thoroughly.</s> </p>
 
-<p pid="83" id="settlers.c0.p83"><s>"They have been sound asleep, however," observed Oliver to his sister; "and it is still so early, that I do not believe they have been abroad about mischief in the night.</s> <s>They would not have been awake yet if they had."</s> </p>
+<p pid="83" id="settlers.c0.p83" type="speech"><s>"They have been sound asleep, however," observed Oliver to his sister; <qs/>"and it is still so early, that I do not believe they have been abroad about mischief in the night.</s> <s>They would not have been awake yet if they had."<qe/></s> </p>
 
 <p pid="84" id="settlers.c0.p84"><s>"Look!</s> <s>There is a woman!" exclaimed Mildred.</s> <s>"Is that Nan?"</s> </p>
 
@@ -210,7 +210,7 @@
 
 <p pid="103" id="settlers.c0.p103"><s>And he carried it out, and tied it upon the mill-steps.</s> <s>It was no easy matter to fasten it so as to make it look at all like a man naturally mounting stairs.</s> <s>The more difficult it was, however, the more they all became interested in the business.</s> <s>Mildred brought straw, and Ailwin tied a knot here, and another knot there, while Oliver cocked the hat in various directions upon the head, till they all forgot what they were dressing up the figure for.</s> <s>The reason popped into Ailwin's head again, when she had succeeded in raising the right arm to the rail, in a very life-like manner.</s> </p>
 
-<p pid="104" id="settlers.c0.p104"><s>"There!" said she, stepping backwards to view her work, "that makes a very good master for me.</s> <s>I will obey him in everything he bids me till master comes home."</s> </p>
+<p pid="104" id="settlers.c0.p104" type="speech"><s>"There!" said she, stepping backwards to view her work, <qs/>"that makes a very good master for me.</s> <s>I will obey him in everything he bids me till master comes home."<qe/></s> </p>
 
 <p pid="105" id="settlers.c0.p105"><s>At the same moment, she walked backwards against something, and little George clung screaming to Mildred's knees.</s> <s>Roger had spread his arms for Ailwin to walk back into; and Stephen was behind, leaning against the cow-shed.</s> <s>They had been watching all that the party had been doing, and, having overheard every word, had found out the reason.</s> </p>
 
@@ -244,7 +244,7 @@
 
 <p pid="120" id="settlers.c0.p120"><s>Stephen's wife had, indeed, come up to enjoy the sport, when she found that no man was on the premises, and that there was no danger.</s> <s>There she stood, leaning against a post of the mill, her black, untidy hair hanging about her pale, hollow cheeks, and her lean arms crossed upon her bosom.</s> </p>
 
-<p pid="121" id="settlers.c0.p121"><s>"There were such ague-struck folk to be seen at every turn," said Ailwin, "before the foreigners came to live in the carr.</s> <s>I suppose they brought some healing with them; for one does not often see now such a poor creature as that.</s> <s>She might be ashamed of herself,--that woman; she laughs all her poor sides can, at every pailful Roger pours out.-- Eh!</s> <s>But she's not laughing now!</s> <s>Eh!</s> <s>What's the matter now?"</s> </p>
+<p pid="121" id="settlers.c0.p121" type="speech"><s>"There were such ague-struck folk to be seen at every turn," said Ailwin, <qs/>"before the foreigners came to live in the carr.</s> <s>I suppose they brought some healing with them; for one does not often see now such a poor creature as that.</s> <s>She might be ashamed of herself,--that woman; she laughs all her poor sides can, at every pailful Roger pours out.-- Eh!</s> <s>But she's not laughing now!</s> <s>Eh!</s> <s>What's the matter now?"<qe/></s> </p>
 
 <p pid="122" id="settlers.c0.p122"><s>The matter was that neighbour Gool was in sight, with three or four men.</s> <s>A cheer was heard from them while they were still some way off.</s> <s>Oliver ran out and cheered, waving his hat over his head.</s> <s>Ailwin cheered, waving a towel out of the window.</s> <s>Mildred cheered from the roof, waving her red flag; and George stood in the doorway, shouting and clapping his little hands.</s> </p>
 
@@ -252,9 +252,9 @@
 
 <p pid="124" id="settlers.c0.p124"><s>Oliver did not see that it could make up to them for what they had lost, to burn the tent; and he was pretty sure his father would not wish such a thing to be done.</s> <s>His father would soon be home.</s> <s>As for the woman, he thought she ought to go to prison, if Mr Gool would take her there.</s> </p>
 
-<p pid="125" id="settlers.c0.p125"><s>"That I will," said Gool.</s> <s>"I will go through with the thing now I am in it.</s> <s>I came off the minute I saw your red flag; and I might have been here sooner, if I had not been so full of watching the mill-sails, that I never looked off from them till my wife came to help to watch.</s> <s>Come, you woman," said he to Nan Redfurn, "make no faces about going to prison, for I am about to give you a ride there."</s> </p>
+<p pid="125" id="settlers.c0.p125" type="speech"><s>"That I will," said Gool.</s> <s>"I will go through with the thing now I am in it.</s> <s>I came off the minute I saw your red flag; and I might have been here sooner, if I had not been so full of watching the mill-sails, that I never looked off from them till my wife came to help to watch.</s> <s>Come, you woman," said he to Nan Redfurn, <qs/>"make no faces about going to prison, for I am about to give you a ride there."<qe/></s> </p>
 
-<p pid="126" id="settlers.c0.p126"><s>"She looks very ill," thought Oliver,--"not fit to be jolted on a horse."</s> </p>
+<p pid="126" id="settlers.c0.p126" type="speech"><s>"She looks very ill,<qs/>" thought Oliver,--<alt-qs/>"<qe/>not fit to be jolted on a horse."<alt-qe/></s> </p>
 
 <p pid="127" id="settlers.c0.p127"><s>"You'll get no magistrate to send me to prison," said the woman.</s> <s>"The justices are with the parliament, every one.</s> <s>You will only have to bring me back, and be sorry you caught me, when you see what comes of it."</s> </p>
 
@@ -286,11 +286,11 @@
 
 <p pid="141" id="settlers.c0.p141"><s>"Then we will save you that pain," said the man.</s> <s>"If you will oblige us with it to-day we won't leave any to pain you in the winter."</s> </p>
 
-<p pid="142" id="settlers.c0.p142"><s>"For shame," cried Oliver, "when you know she has lost her stockings and her cloak already!</s> <s>And all out of kindness!</s> <s>I would not drink a drop of her cherry-brandy, I am sure."</s> </p>
+<p pid="142" id="settlers.c0.p142" type="speech"><s>"For shame," cried Oliver, <qs/>"when you know she has lost her stockings and her cloak already!</s> <s>And all out of kindness!</s> <s>I would not drink a drop of her cherry-brandy, I am sure."<qe/></s> </p>
 
 <p pid="143" id="settlers.c0.p143"><s>"Then you shall, Oliver, for saying so, and taking my part," said Ailwin.</s> <s>"I am not going to give it to anyone else that has not the ague; some people may be assured of that."</s> </p>
 
-<p pid="144" id="settlers.c0.p144"><s>"If I thought there was any cherry-brandy for me when I came back," said the man, throwing a stone down to try the nature of the bog-ground beneath, "I would get below there, and try what I could find.</s> <s>I might lay hold of a linsey-woolsey cloak somewhere in the bog."</s> </p>
+<p pid="144" id="settlers.c0.p144" type="speech"><s>"If I thought there was any cherry-brandy for me when I came back," said the man, throwing a stone down to try the nature of the bog-ground beneath, <qs/>"I would get below there, and try what I could find.</s> <s>I might lay hold of a linsey-woolsey cloak somewhere in the bog."<qe/></s> </p>
 
 <p pid="145" id="settlers.c0.p145"><s>"You can never catch the Redfurns, I doubt," said Ailwin.</s> <s>"What was it they said to you, Oliver, as they were going off?"</s> </p>
 
@@ -302,11 +302,11 @@
 
 <p pid="149" id="settlers.c0.p149"><s>"Rather late for that, neighbour, when here is the stock you were grinding and grinding for a week, all gone to plaster," said one of Gool's men.</s> </p>
 
-<p pid="150" id="settlers.c0.p150"><s>"That is what I say," replied the miller, contemplating the waste; "but it may be better late than not at all."</s> </p>
+<p pid="150" id="settlers.c0.p150" type="speech"><s>"That is what I say," replied the miller, contemplating the waste; <qs/>"but it may be better late than not at all."<qe/></s> </p>
 
 <p pid="151" id="settlers.c0.p151"><s>Mrs Linacre was more affected than her husband by what had happened.</s> <s>When she came home, poor Mildred's fortitude had just given way, and she was crying over the body of her dear white hen.</s> <s>This caused Ailwin's eyes to fill at the thought of her stockings and cloak, so that the family faces looked cheerless enough.</s> </p>
 
-<p pid="152" id="settlers.c0.p152"><s>"We deserve it all," said Mrs Linacre, "for leaving our place and our children to the care of Gool's men, or of anybody but ourselves.</s> <s>I will go no more to the spring.</s> <s>I have been out of my duty; and we may be thankful that we have been no further punished."</s> </p>
+<p pid="152" id="settlers.c0.p152" type="speech"><s>"We deserve it all," said Mrs Linacre, <qs/>"for leaving our place and our children to the care of Gool's men, or of anybody but ourselves.</s> <s>I will go no more to the spring.</s> <s>I have been out of my duty; and we may be thankful that we have been no further punished."<qe/></s> </p>
 
 <p pid="153" id="settlers.c0.p153"><s>As she spoke a few tears started.</s> <s>Her tears were so rare, that the children looked in dismay at their father.</s> </p>
 
@@ -340,7 +340,7 @@
 
 <p pid="168" id="settlers.c0.p168"><s>"I hope you will not mind being hungry, Mildred," said her brother, after a time of silence.</s> <s>"We are not likely to have any dinner to-day, I think."</s> </p>
 
-<p pid="169" id="settlers.c0.p169"><s>"I don't mind that, very much," said Mildred, "but how do you think we are to get away, with this great river between us and home?"</s> </p>
+<p pid="169" id="settlers.c0.p169" type="speech"><s>"I don't mind that, very much," said Mildred, <qs/>"but how do you think we are to get away, with this great river between us and home?"<qe/></s> </p>
 
 <p pid="170" id="settlers.c0.p170"><s>"We shall see what father does," said Oliver.</s> <s>"He is further off still, on the other side."</s> </p>
 
@@ -358,7 +358,7 @@
 
 <p pid="177" id="settlers.c0.p177"><s>"A dead horse!" exclaimed Mildred.</s> <s>"Drowned, I suppose.</s> <s>Don't you think so, Oliver?"</s> </p>
 
-<p pid="178" id="settlers.c0.p178"><s>"Drowned, of course.--Do you know, Mildred," he continued, after a silence, during which he was looking towards the sheds in the yard, while his sister's eyes were following the body of the horse as it was swept along, now whirled round in an eddy, and now going clear over the hedge into the carr,--"do you know, Mildred," said Oliver, "I think father will be completely ruined by this flood."</s> </p>
+<p pid="178" id="settlers.c0.p178" type="speech"><s>"Drowned, of course.--Do you know, Mildred,<qs/>" he continued, after a silence, during which he was looking towards the sheds in the yard, while his sister's eyes were following the body of the horse as it was swept along, now whirled round in an eddy, and now going clear over the hedge into the carr,--<alt-qs/>"<qe/><sls/>do you know, Mildred,"<alt-qe/> said Oliver, <sle/><qs/>"I think father will be completely ruined by this flood."<qe/></s> </p>
 
 <p pid="179" id="settlers.c0.p179"><s>"Do you?" said Mildred, who did not quite know what it was to be ruined.</s> <s>"How?</s> <s>Why?"</s> </p>
 
@@ -366,15 +366,15 @@
 
 <p pid="181" id="settlers.c0.p181"><s>"Not the fowls," said Mildred.</s> <s>"Look at them, all in a row on the top of the cow-shed.</s> <s>They will not be drowned, at any rate."</s> </p>
 
-<p pid="182" id="settlers.c0.p182"><s>"But then they may be starved.</s> <s>O dear!" he continued, with a start of recollection, "I wonder whether Ailwin has thought of moving the meal and the grain up-stairs.</s> <s>It will be all rotted and spoiled if the water runs through it."</s> </p>
+<p pid="182" id="settlers.c0.p182" type="speech"><s>"But then they may be starved.</s> <s>O dear!" he continued, with a start of recollection, <qs/>"I wonder whether Ailwin has thought of moving the meal and the grain up-stairs.</s> <s>It will be all rotted and spoiled if the water runs through it."<qe/></s> </p>
 
 <p pid="183" id="settlers.c0.p183"><s>He shouted, and made signs to Ailwin, with all his might; but in vain.</s> <s>She could not hear a word he said, or make anything of his signs.</s> <s>He was vexed, and said Ailwin was always stupid.</s> </p>
 
-<p pid="184" id="settlers.c0.p184"><s>"So she is," replied Mildred; "but it does not signify now.</s> <s>Look how the water is pouring out of the parlour-window.</s> <s>The meal and grain must have been wet through long ago.</s> <s>Is not that a pretty waterfall?</s> <s>A waterfall from our parlour-window, down upon the tulip-bed!</s> <s>How very odd!"</s> </p>
+<p pid="184" id="settlers.c0.p184" type="speech"><s>"So she is," replied Mildred; <qs/>"but it does not signify now.</s> <s>Look how the water is pouring out of the parlour-window.</s> <s>The meal and grain must have been wet through long ago.</s> <s>Is not that a pretty waterfall?</s> <s>A waterfall from our parlour-window, down upon the tulip-bed!</s> <s>How very odd!"<qe/></s> </p>
 
-<p pid="185" id="settlers.c0.p185"><s>"If one could think how to feed these poor animals," said Oliver,--"and the fowls!</s> <s>If there was anything here that one could get for them!</s> <s>One might cut a little grass for the cow;--but there is nothing else."</s> </p>
+<p pid="185" id="settlers.c0.p185" type="speech"><s>"If one could think how to feed these poor animals,<qs/>" said Oliver,--<alt-qs/>"<qe/>and the fowls!</s> <s>If there was anything here that one could get for them!</s> <s>One might cut a little grass for the cow;--but there is nothing else."<alt-qe/></s> </p>
 
-<p pid="186" id="settlers.c0.p186"><s>"Only the leaves of the trees, and a few blackberries, when they are ripe," said Mildred, looking round her, "and flowers,--wild-flowers, and a few that mother planted."</s> </p>
+<p pid="186" id="settlers.c0.p186" type="speech"><s>"Only the leaves of the trees, and a few blackberries, when they are ripe," said Mildred, looking round her, <qs/>"and flowers,--wild-flowers, and a few that mother planted."<qe/></s> </p>
 
 <p pid="187" id="settlers.c0.p187"><s>"The bees!" cried Oliver.</s> <s>"Let us save them.</s> <s>They can feed themselves.</s> <s>We will save the bees."</s> </p>
 
@@ -392,13 +392,13 @@
 
 <p pid="194" id="settlers.c0.p194"><s>"They never will," said Oliver.</s> <s>"I wish I had thought of the bees a little sooner.</s> <s>It is very odd that you did not, Mildred."</s> </p>
 
-<p pid="195" id="settlers.c0.p195"><s>"I don't know how to think of anything," said Mildred, dolefully; "it is all so odd and so frightful!"</s> </p>
+<p pid="195" id="settlers.c0.p195" type="speech"><s>"I don't know how to think of anything," said Mildred, dolefully; <qs/>"it is all so odd and so frightful!"<qe/></s> </p>
 
 <p pid="196" id="settlers.c0.p196"><s>"Well, don't cry, if you can help it, dear," said her brother.</s> <s>"We shall see what father will do.</s> <s>He won't cry;--I am sure of that."</s> </p>
 
 <p pid="197" id="settlers.c0.p197"><s>Mildred laughed: for she never had seen her father cry.</s> </p>
 
-<p pid="198" id="settlers.c0.p198"><s>"He was not far off crying yesterday, though," said Oliver, "when he saw your poor hen lying dead.</s> <s>He looked--but, O Mildred!</s> <s>What can have become of the Redfurns?</s> <s>We have, been thinking all this while about the bees; and we never once remembered the Redfurns.</s> <s>Why, their tent was scarcely bigger than our hives; and I am sure it could not stand a minute against the flood."</s> </p>
+<p pid="198" id="settlers.c0.p198" type="speech"><s>"He was not far off crying yesterday, though," said Oliver, <qs/>"when he saw your poor hen lying dead.</s> <s>He looked--but, O Mildred!</s> <s>What can have become of the Redfurns?</s> <s>We have, been thinking all this while about the bees; and we never once remembered the Redfurns.</s> <s>Why, their tent was scarcely bigger than our hives; and I am sure it could not stand a minute against the flood."<qe/></s> </p>
 
 <p pid="199" id="settlers.c0.p199"><s>While he spoke, Oliver was running to the part of the hill which commanded the widest view of the carr, and Mildred was following at his heels,--a good deal startled by the hares which leaped across her path.</s> <s>There seemed to be more hares now on the hill than she had seen in all her life before.</s> <s>She could not ask about the hares, however, when she saw the brown tent, or a piece of it, flapping about in the water, a great way off, and sweeping along with the current.</s> </p>
 
@@ -412,7 +412,7 @@
 
 <p pid="204" id="settlers.c0.p204"><s>They heard nothing more, amidst the dash of the flood, and they fancied they could see some figures moving on the ridge of the bank, far out over the carr.</s> <s>When they were tired of straining their eyes, they looked about them, and saw, in a smoother piece of water near their hill, a dog swimming, and seeming to labour very much.</s> </p>
 
-<p pid="205" id="settlers.c0.p205"><s>"It has got something fastened to it," cried Mildred;--"something tied round its neck."</s> </p>
+<p pid="205" id="settlers.c0.p205" type="speech"><s>"It has got something fastened to it,<qs/>" cried Mildred;--<alt-qs/>"<qe/>something tied round its neck."<alt-qe/></s> </p>
 
 <p pid="206" id="settlers.c0.p206"><s>"It is somebody swimming," replied Oliver.</s> <s>"They will get safe here now.</s> <s>Cannot we help them?</s> <s>I wish I had a rope!</s> <s>A long switch may do.</s> <s>I will get a long switch."</s> </p>
 
@@ -520,7 +520,7 @@
 
 <p pid="258" id="settlers.c0.p258"><s>"Father will be wet, and so cold all night!" said Mildred, crying.</s> </p>
 
-<p pid="259" id="settlers.c0.p259"><s>"If I could only swim," exclaimed Oliver, "I would get over to him somehow, and carry a rope from the house.</s> <s>I am sure there must be a rope long enough somewhere about the yard.</s> <s>If I could only swim, I would get to him."</s> </p>
+<p pid="259" id="settlers.c0.p259" type="speech"><s>"If I could only swim," exclaimed Oliver, <qs/>"I would get over to him somehow, and carry a rope from the house.</s> <s>I am sure there must be a rope long enough somewhere about the yard.</s> <s>If I could only swim, I would get to him."<qe/></s> </p>
 
 <p pid="260" id="settlers.c0.p260"><s>"That you wouldn't," said Roger.</s> <s>"Your father can swim; and why does not he?</s> <s>Because nobody could swim across that stream.</s> <s>It is a torrent.</s> <s>It would carry any stout man out over the carr; and you would be no better than a twig in the middle of it."</s> </p>
 
@@ -552,7 +552,7 @@
 
 <p pid="274" id="settlers.c0.p274"><s>"In the lumber-room," said Mildred.</s> <s>"The spare bed is tied round and round with a long rope--I don't know how long."</s> </p>
 
-<p pid="275" id="settlers.c0.p275"><s>"I wish we had set about it an hour ago," muttered Roger, "instead of waiting for dark.</s> <s>A pretty set of fools we have been to lose the daylight!</s> <s>I say, lad, can you think of anyway of making a fire?</s> <s>Here are sticks enough, if one could set them alight."</s> </p>
+<p pid="275" id="settlers.c0.p275" type="speech"><s>"I wish we had set about it an hour ago," muttered Roger, <qs/>"instead of waiting for dark.</s> <s>A pretty set of fools we have been to lose the daylight!</s> <s>I say, lad, can you think of anyway of making a fire?</s> <s>Here are sticks enough, if one could set them alight."<qe/></s> </p>
 
 <p pid="276" id="settlers.c0.p276"><s>"To cook a supper?" asked Mildred.</s> </p>
 
@@ -560,9 +560,9 @@
 
 <p pid="278" id="settlers.c0.p278"><s>Oliver had a steel knife; but it was too dark to look for a flint, if any other plan than a fire would do.</s> </p>
 
-<p pid="279" id="settlers.c0.p279"><s>"Well, don't plague any more about a fire," said Roger, "but listen to me.</s> <s>Can you climb a tree?</s> <s>I'll be bound you can't: and now you'll die if you can't."</s> </p>
+<p pid="279" id="settlers.c0.p279" type="speech"><s>"Well, don't plague any more about a fire," said Roger, <qs/>"but listen to me.</s> <s>Can you climb a tree?</s> <s>I'll be bound you can't: and now you'll die if you can't."<qe/></s> </p>
 
-<p pid="280" id="settlers.c0.p280"><s>"I can," said Oliver; "but what is Mildred to do?"</s> </p>
+<p pid="280" id="settlers.c0.p280" type="speech"><s>"I can," said Oliver; <qs/>"but what is Mildred to do?"<qe/></s> </p>
 
 <p pid="281" id="settlers.c0.p281"><s>"We'll see that afterwards.</s> <s>Which of these trees stands nearest to the nearest of yon upper windows?"</s> </p>
 
@@ -602,7 +602,7 @@
 
 <p pid="299" id="settlers.c0.p299"><s>It was a tinder-box.</s> </p>
 
-<p pid="300" id="settlers.c0.p300"><s>"There now!" said Oliver, "we shall soon know what we are about.</s> <s>Do you know where the tree was cut down, the other day?"</s> </p>
+<p pid="300" id="settlers.c0.p300" type="speech"><s>"There now!" said Oliver, <qs/>"we shall soon know what we are about.</s> <s>Do you know where the tree was cut down, the other day?"<qe/></s> </p>
 
 <p pid="301" id="settlers.c0.p301"><s>"Close by?</s> <s>Yes."</s> </p>
 
@@ -614,7 +614,7 @@
 
 <p pid="305" id="settlers.c0.p305"><s>Oliver gave all his strength to pulling the rope tight, and winding it round the trunk of the beech, just above a large knob in the stem.</s> <s>It seemed to him that the rope stretched pretty evenly, as far as he could see,--not slanting either up or down; so that the sill of the upper window must be about upon a level with the great knob in the beech-trunk.</s> <s>Oliver tied knot upon knot, till no more rope was left to knot.</s> <s>It still hung too slack, if it was meant for a bridge.</s> <s>He did not think he could ever cross the water on a rope that would keep him dangling at every move: but he had pulled it tight with all his force, and he could do no more.</s> <s>When he had tied the last knot, he and Mildred stood in front of the fire, and raised one more great shout, waving their arms--sure now of being seen as well as heard.</s> </p>
 
-<p pid="306" id="settlers.c0.p306"><s>"Look!</s> <s>Look!" cried Oliver, "it is moving;--the rope is not so slack!</s> <s>They are tightening it.</s> <s>How much tighter it is than I could pull it!</s> <s>That must be Ailwin's strong arm,--together with Roger's."</s> </p>
+<p pid="306" id="settlers.c0.p306" type="speech"><s>"Look!</s> <s>Look!" cried Oliver, <qs/>"it is moving;--the rope is not so slack!</s> <s>They are tightening it.</s> <s>How much tighter it is than I could pull it!</s> <s>That must be Ailwin's strong arm,--together with Roger's."<qe/></s> </p>
 
 <p pid="307" id="settlers.c0.p307"><s>"But still I never can creep across that way," declared Mildred.</s> <s>"I wish you would not try.</s> <s>Oliver.</s> <s>Do stay with me!"</s> </p>
 
@@ -632,9 +632,9 @@
 
 <p pid="314" id="settlers.c0.p314"><s>Feeling how much depended upon this, the little girl managed it.</s> <s>She tumbled into the basket, took a lesson from Oliver how to help her own passage, and earnestly begged him to take care of his line, that nothing might prevent his following her immediately.</s> <s>Then came a great tug, and she felt herself drawn back into the darkness.</s> <s>She did not like it at all.</s> <s>The water roared louder than ever as she hung over it; and the light which was cast upon it from the fire showed how rapidly it was shooting beneath.</s> <s>Then she saw Oliver go, and throw some more chips and twigs on the fire; and she knew by that that he could see her no longer.</s> <s>She worked as hard as she could, putting her hands one behind the other along the rope: but her hands were weak, and her head was very dizzy.</s> <s>She had had nothing to eat since breakfast, and was quite tired out.</s> </p>
 
-<p pid="315" id="settlers.c0.p315"><s>While still keeping her eyes upon Oliver, she felt a jerk.</s> <s>The basket knocked against something; and it made her quite sick.</s> <s>She immediately heard Ailwin's voice saying, "'tis one of them, that's certain.</s> <s>Well!</s> <s>If I didn't think it was some vile conjuring trick, up to this very moment!"</s> </p>
+<p pid="315" id="settlers.c0.p315" type="speech"><s>While still keeping her eyes upon Oliver, she felt a jerk.</s> <s>The basket knocked against something; and it made her quite sick.</s> <s>She immediately heard Ailwin's voice saying, <qs/>"'tis one of them, that's certain.</s> <s>Well!</s> <s>If I didn't think it was some vile conjuring trick, up to this very moment!"<qe/></s> </p>
 
-<p pid="316" id="settlers.c0.p316"><s>The poor dizzy child felt a strong arm passed round her waist, and found herself carried near a fire in a room.</s> <s>She faltered out, "Ailwin, get something for Oliver to eat.</s> <s>He will be here presently."</s> </p>
+<p pid="316" id="settlers.c0.p316" type="speech"><s>The poor dizzy child felt a strong arm passed round her waist, and found herself carried near a fire in a room.</s> <s>She faltered out, <qs/>"Ailwin, get something for Oliver to eat.</s> <s>He will be here presently."<qe/></s> </p>
 
 <p pid="317" id="settlers.c0.p317"><s>"That I will: and for you first.</s> <s>You shall both have a drop of my cherry-brandy too."</s> </p>
 
@@ -642,7 +642,7 @@
 
 <p pid="319" id="settlers.c0.p319"><s>Just when Mildred thought she could stand at the window, and watch for Oliver, Oliver came in at the window.</s> <s>He was not too tired to have his wits about him, as Ailwin said;--wits, she added, that were worth more than hers.</s> <s>He had brought over some dry wood with him,--as much as the basket would hold; thinking that the peat-stack was probably all afloat, and the wood-heap wetted through.</s> <s>All were pleased at the prospect of keeping up a fire during this strange night.</s> <s>All agreed that the bridge-rope must be left as it was, while the flood lasted.</s> <s>There were wild animals and birds enough on the Red-hill to last for food for a long while; and there alone could they get fuel.</s> </p>
 
-<p pid="320" id="settlers.c0.p320"><s>"You can't catch game without my dog," cried Roger, surlily, to Ailwin; "and my dog shan't put his nose to the ground, if you don't feed him well: and he shall be where I am,--mind you that."</s> </p>
+<p pid="320" id="settlers.c0.p320" type="speech"><s>"You can't catch game without my dog," cried Roger, surlily, to Ailwin; <qs/>"and my dog shan't put his nose to the ground, if you don't feed him well: and he shall be where I am,--mind you that."<qe/></s> </p>
 
 <p pid="321" id="settlers.c0.p321"><s>As he spoke, he opened the door to admit the dog, which Ailwin had put out upon the stairs, for the sake of her pet hen and chicks which were all in the room.</s> <s>The hen fluttered up to a beam below the ceiling, on the appearance of the dog, and the chicks cluttered about, till Ailwin and Mildred caught them, and kept them in their laps.</s> <s>They glanced timidly at Roger, remembering the fate of the white hen, the day before.</s> <s>Roger did not heed them.</s> <s>He had taken out his knife, forked up the mutton out of the kettle, and cut off the best half for himself and his dog.</s> </p>
 
@@ -650,7 +650,7 @@
 
 <p pid="323" id="settlers.c0.p323"><s>"I am sure, Roger, Mildred and I shall never forget,--nor father and mother either, if ever they know, it,--what you have done for us to-night.</s> <s>We might have died on the Red-hill but for you."</s> </p>
 
-<p pid="324" id="settlers.c0.p324"><s>"Stuff!" muttered Roger, as he sat, swinging his legs, with his open knife in his hand, and his mouth crammed,--"Stuff!</s> <s>As if I cared whether you and she sink or swim!</s> <s>I like sport that's all."</s> </p>
+<p pid="324" id="settlers.c0.p324" type="speech"><s>"Stuff!" muttered Roger, as he sat, swinging his legs, with his open knife in his hand, and his mouth crammed,--<qs/>"Stuff!</s> <s>As if I cared whether you and she sink or swim!</s> <s>I like sport that's all."<qe/></s> </p>
 
 <p pid="325" id="settlers.c0.p325"><s>Nobody spoke.</s> <s>Ailwin helped the children to the poor broth, and the remains of the meat, shaking her head when they begged her to take some.</s> <s>She whispered a good deal to Oliver about cherry-brandy; but he replied aloud that it looked and smelled very good; but that the only time he had tasted it, it made him rather giddy; and he did not wish to be giddy to-night;--there was so much to think about; and he was not at all sure that the flood had got to its height.</s> <s>He said no more, though his mind was full of his father.</s> <s>Neither he nor Mildred could mention their father to Ailwin to-night, even if Roger had been out of the way.</s> </p>
 
@@ -678,7 +678,7 @@
 
 <p pid="337" id="settlers.c0.p337"><s>All the party slept for some hours, as quietly and unconsciously as little George himself.</s> <s>If the children were so weary that the dreadful uncertainty about their father's fate could not keep them awake, it is probable that a knowledge of their own danger might have failed to disturb them.</s> <s>But they had little more idea than George himself of the extent of the peril they were in.</s> <s>They did not know that the Levels were surrounded by hills on every side but towards the sea; or, if they knew, they did not consider this, because the hills were a great way off.</s> <s>But, whether they were far or near, this circle of hills was the cause of the waters rising to a great height in the Levels, when once the defences that had kept out the sea and the rivers were broken down.</s> <s>As the hills prevented the overflowing waters from running off on three sides, it was clear that the waters must rise to the level of the sea and the rivers from which they flowed in.</s> <s>They had not reached this height when the children lay down to rest, though Ailwin was so sure that the worst was over; and the danger increased as they slept; slept too soundly even to dream of accidents.</s> </p>
 
-<p pid="338" id="settlers.c0.p338"><s>The first disturbance was from the child.</s> <s>Oliver became aware, through his sleep, that little George was moving about and laughing.</s> <s>Oliver murmured, "Be quiet, George.</s> <s>Lie still, dear," and the child was quiet for a minute.</s> <s>Presently, however, he moved again, and something like a dabbling in water was heard, while, at the same moment, Oliver found his feet cold.</s> <s>He roused himself with a start, felt that his bed was wet, and turning out, was up to the ankles in water.</s> <s>By the light of the embers, he saw that the floor was a pond, with some shoes floating on it.</s> <s>His call woke Ailwin and Mildred at once.</s> <s>Roger did not stir, though there was a good deal of bustle and noise.</s> </p>
+<p pid="338" id="settlers.c0.p338" type="speech"><s>The first disturbance was from the child.</s> <s>Oliver became aware, through his sleep, that little George was moving about and laughing.</s> <s>Oliver murmured, <qs/>"Be quiet, George.</s> <s>Lie still, dear,"<qe/> and the child was quiet for a minute.</s> <s>Presently, however, he moved again, and something like a dabbling in water was heard, while, at the same moment, Oliver found his feet cold.</s> <s>He roused himself with a start, felt that his bed was wet, and turning out, was up to the ankles in water.</s> <s>By the light of the embers, he saw that the floor was a pond, with some shoes floating on it.</s> <s>His call woke Ailwin and Mildred at once.</s> <s>Roger did not stir, though there was a good deal of bustle and noise.</s> </p>
 
 <p pid="339" id="settlers.c0.p339"><s>Mildred's bed was so high above the floor as to be still quite dry.</s> <s>Oliver told her to stay there till he should settle what was to be done next: and he took up the child to put him with Mildred, asking her to strip off his drenched clothes, and keep him warm.</s> <s>All the apparel that had been taken off was luckily on the top of a chest, far above the water.</s> <s>Oliver handed this to his sister, bidding her dress herself, as well as the child.</s> <s>He then carefully put the fire together, to make as much light as possible, and then told Ailwin that they must bestir themselves, as the fire would presently be drowned out.</s> </p>
 
@@ -686,7 +686,7 @@
 
 <p pid="341" id="settlers.c0.p341"><s>Oliver disapproved of the plan of mounting on the furniture of the room.</s> <s>It might be all very well, he said, if there were nothing better to be done.</s> <s>But, by the time the water would reach the top of the chests, it would be impossible to get out by the door.</s> <s>He thought it would be wisest to reach the roof of the house while they could, and to carry with them all the comforts they could collect, while they might be removed in a dry condition.</s> <s>Ailwin agreed, and was going to throw open the door, when Oliver stopped her hand.</s> </p>
 
-<p pid="342" id="settlers.c0.p342"><s>"Why, Oliver," she cried, "you won't let one do anything; and you say, all the time, that there is not a minute to be lost."</s> </p>
+<p pid="342" id="settlers.c0.p342" type="speech"><s>"Why, Oliver," she cried, <qs/>"you won't let one do anything; and you say, all the time, that there is not a minute to be lost."<qe/></s> </p>
 
 <p pid="343" id="settlers.c0.p343"><s>Oliver showed her that water was streaming in at the sides of the door, a good way higher up than it stood on the floor.</s> <s>He said that the door was a defence at present,--that the water was higher on the stairs than in the room, and that there would be a great rush as soon as the door should be opened.</s> <s>He wished, therefore, that the bedding, and the clothes from the drawers, and all else that they could remove to the top of the house, should be bundled up, and placed on the highest chest of drawers, before the water should be let in.</s> <s>They must borrow the line from the clothes' basket, to tie round George's waist, that they might not lose him in the confusion.</s> <s>One other thing must be done: they must rouse Roger, or he might be drowned.</s> </p>
 
@@ -706,7 +706,7 @@
 
 <p pid="351" id="settlers.c0.p351"><s>Ailwin made many lamentations at having to step down into the water; but she took good care of the child, carrying him quite high and dry.</s> <s>Oliver followed, to see that he was tied securely to the balustrade on the roof.</s> <s>While he was doing this, Ailwin brought Mildred in the same way.</s> <s>Mildred wanted to be of use below; but her brother told her the best thing she could do was to watch and amuse George, and to stand ready to receive the things saved from the chambers,--she not being tall enough to do any service in four feet of water.</s> </p>
 
-<p pid="352" id="settlers.c0.p352"><s>It was a strange forlorn feeling to Mildred,--the being left on the house-top in the cold grey morning, at an hour when she had always hitherto been asleep in bed.</s> <s>The world itself, as she looked round her, seemed unlike the one she had hitherto lived in.</s> <s>The stars were in the sky; but they were dim,--fading before the light of morning.</s> <s>There were no fields, no gardens, no roads to be seen;--only grey water, far away on every side.</s> <s>She could see nothing beyond this grey water, except towards the east, where a line of low hills stood between her and the brightening sky.</s> <s>Poor Mildred felt dizzy, with so much moving water before her eyes, and in her ears the sound of the current below.</s> <s>The house shook and trembled, too, under the force of the flood: so that she was glad to fix her sight on the steady line of the distant hills.</s> <s>She spoke to George occasionally, to keep him quiet; and she was ready to receive every article that was handed up the stairs from below: but, in all the intervals, she fixed her eyes on the distant hills.</s> <s>She thought how easy it would be to reach that ridge, if she were a bird; and how hard it would be to pine away on this house-top, or to sink to death in these waters, for want of the wings which inferior creatures had.</s> <s>Then she thought of superior creatures that had wings too: and she longed to be an angel.</s> <s>She longed to be out of all this trouble and fear; and considered that it would be worth while to be drowned, to be as free as a bird or an angel.</s> <s>She resolved to remember this, and not to be frightened, if the water should rise and rise, till it should sweep her quite away.</s> <s>She thought that this might have befallen her mother yesterday.</s> <s>No boat had been seen on the waters in the direction of Gainsborough; no sign had reached the family that any one was thinking of them at a distance, and trying to save them: and Oliver and Mildred had agreed that it was likely that Mrs Linacre had heard some report of the pulling up of the sluices, and might have been on her way home when the flood overtook and drowned her.</s> <s>If so, she might be now an angel.</s> <s>If an angel, Mildred was sure her first thought would be, as it had ever been, of her home and her children; and the little girl looked up to see whether there was anything like the shadow of wings between her and the dim stars.</s> <s>She saw nothing; but still, in some kind of hope, she softly breathed the words, "O, mother!</s> <s>Mother!"</s> </p>
+<p pid="352" id="settlers.c0.p352" type="speech"><s>It was a strange forlorn feeling to Mildred,--the being left on the house-top in the cold grey morning, at an hour when she had always hitherto been asleep in bed.</s> <s>The world itself, as she looked round her, seemed unlike the one she had hitherto lived in.</s> <s>The stars were in the sky; but they were dim,--fading before the light of morning.</s> <s>There were no fields, no gardens, no roads to be seen;--only grey water, far away on every side.</s> <s>She could see nothing beyond this grey water, except towards the east, where a line of low hills stood between her and the brightening sky.</s> <s>Poor Mildred felt dizzy, with so much moving water before her eyes, and in her ears the sound of the current below.</s> <s>The house shook and trembled, too, under the force of the flood: so that she was glad to fix her sight on the steady line of the distant hills.</s> <s>She spoke to George occasionally, to keep him quiet; and she was ready to receive every article that was handed up the stairs from below: but, in all the intervals, she fixed her eyes on the distant hills.</s> <s>She thought how easy it would be to reach that ridge, if she were a bird; and how hard it would be to pine away on this house-top, or to sink to death in these waters, for want of the wings which inferior creatures had.</s> <s>Then she thought of superior creatures that had wings too: and she longed to be an angel.</s> <s>She longed to be out of all this trouble and fear; and considered that it would be worth while to be drowned, to be as free as a bird or an angel.</s> <s>She resolved to remember this, and not to be frightened, if the water should rise and rise, till it should sweep her quite away.</s> <s>She thought that this might have befallen her mother yesterday.</s> <s>No boat had been seen on the waters in the direction of Gainsborough; no sign had reached the family that any one was thinking of them at a distance, and trying to save them: and Oliver and Mildred had agreed that it was likely that Mrs Linacre had heard some report of the pulling up of the sluices, and might have been on her way home when the flood overtook and drowned her.</s> <s>If so, she might be now an angel.</s> <s>If an angel, Mildred was sure her first thought would be, as it had ever been, of her home and her children; and the little girl looked up to see whether there was anything like the shadow of wings between her and the dim stars.</s> <s>She saw nothing; but still, in some kind of hope, she softly breathed the words, <qs/>"O, mother!</s> <s>Mother!"<qe/></s> </p>
 
 <p pid="353" id="settlers.c0.p353"><s>"Mother!</s> <s>Mother!" shouted little George, as he overheard her.</s> <s>Oliver leaped up the stairs, and inquired whether there was a boat,--whether mother was coming.</s> </p>
 
@@ -714,7 +714,7 @@
 
 <p pid="355" id="settlers.c0.p355"><s>Oliver bit his lip to prevent crying, and could not speak directly; but seemed to be gazing carefully all around the waste.</s> </p>
 
-<p pid="356" id="settlers.c0.p356"><s>"Unless she should be an angel now," whispered Mildred,--"unless she died yesterday; and then she might be with us now, at this very moment, though we cannot see her;--might not she?"</s> </p>
+<p pid="356" id="settlers.c0.p356" type="speech"><s>"Unless she should be an angel now,<qs/>" whispered Mildred,--<alt-qs/>"<qe/>unless she died yesterday; and then she might be with us now, at this very moment, though we cannot see her;--might not she?"<alt-qe/></s> </p>
 
 <p pid="357" id="settlers.c0.p357"><s>"Yes, I believe so, dear.</s> <s>And, for one thing, I almost wish she may not come in a boat.</s> <s>Who should tell her that father was carried away into all those waters, without having spoken one word to us?"</s> </p>
 
@@ -724,7 +724,7 @@
 
 <p pid="360" id="settlers.c0.p360"><s>"And I am sure they did," said Mildred.</s> </p>
 
-<p pid="361" id="settlers.c0.p361"><s>"If they see us now," said Oliver, "it must make a great difference to them whether we are frightened and miserable, or whether we behave as we ought to do.</s> <s>Let us try not to be frightened, for their sakes, dear."</s> </p>
+<p pid="361" id="settlers.c0.p361" type="speech"><s>"If they see us now," said Oliver, <qs/>"it must make a great difference to them whether we are frightened and miserable, or whether we behave as we ought to do.</s> <s>Let us try not to be frightened, for their sakes, dear."<qe/></s> </p>
 
 <p pid="362" id="settlers.c0.p362"><s>"And if they are not with us all the while, God is," whispered Mildred.</s> </p>
 
@@ -838,7 +838,7 @@
 
 <p pid="417" id="settlers.c0.p417"><s>One thing more must be had;--chips for fuel.</s> <s>When Oliver had got enough of these, and of sticks too, he found courage and strength to stay a few minutes more, to make up such a fire for Roger as would probably last till after he should have discovered the loss of the flint, and so prevent his being without fire till he could find another flint.</s> <s>In order to give him a broad hint, Oliver spread out the blanket on the ground, and set the tinder-box in the middle of it, where it would be sure to invite attention.</s> <s>He then climbed into the tub, and was glad to be off, drawing the basket with the fire-wood after him.</s> </p>
 
-<p pid="418" id="settlers.c0.p418"><s>"Here, Ailwin," said he, faintly, as he reached the window, "take the flint and the tinder, and the wood in the basket, and make a fire.</s> <s>I have brought you nothing to eat."</s> </p>
+<p pid="418" id="settlers.c0.p418" type="speech"><s>"Here, Ailwin," said he, faintly, as he reached the window, <qs/>"take the flint and the tinder, and the wood in the basket, and make a fire.</s> <s>I have brought you nothing to eat."<qe/></s> </p>
 
 <p pid="419" id="settlers.c0.p419"><s>"No need!" said Ailwin, with an uncommonly merry countenance.</s> </p>
 
@@ -846,7 +846,7 @@
 
 <p pid="421" id="settlers.c0.p421"><s>"No need, Oliver dear!" said Ailwin again.</s> </p>
 
-<p pid="422" id="settlers.c0.p422"><s>"What do you think we have found to eat?" cried Mildred, from the stairs.--"What is the matter with him, Ailwin?</s> <s>Why does not he speak?"</s> </p>
+<p pid="422" id="settlers.c0.p422" type="speech"><s>"What do you think we have found to eat?" cried Mildred, from the stairs.--<qs/>"What is the matter with him, Ailwin?</s> <s>Why does not he speak?"<qe/></s> </p>
 
 <p pid="423" id="settlers.c0.p423"><s>"He is so tired, he does not know what to do," said Ailwin.</s> <s>"No, don't get down into the water again, dear.</s> <s>I'll carry you.</s> <s>Put your arm round my neck, and I'll carry you."</s> </p>
 
@@ -902,7 +902,7 @@
 
 <p pid="449" id="settlers.c0.p449"><s>The time was now come for which he had so often longed.</s> <s>He was his own master completely.</s> <s>There was nobody near who could order or compel him to do anything; while he, on his part, had an obedient servant in his dog.</s> <s>The sky was blue and warm overhead, and the trees cast a pleasant shade.</s> <s>The Red-hill was now an island, which he had all to himself; and it was richly stocked with game, for his food and sport.</s> <s>Here he could have his own way, and be completely happy.</s> </p>
 
-<p pid="450" id="settlers.c0.p450"><s>Such was Roger's idea when he stole the tinder-box, and crossed to the hill; and this was what he said to himself as he cooked his meal, and when he lay down after it on the grass, with the bees humming round him, and the sound of the waters being now a pleasant ripple, instead of the rush and roar of yesterday.</s> <s>He desired his dog to lie down, and not disturb him; and he took this opportunity to change the animal's name.</s> <s>Stephen Redfurn, taking up the quarrel of the day against the bishops, would have the dog called "Bishop," and nothing else.</s> <s>Roger had always wished to call him "Spy;" but Bishop would never answer to the name of Spy, or even seem to hear it.</s> <s>Now, however, Bishop was to be Spy, as there was no one here to indulge the dog with his old name; and Spy was told so many times over, and with all the devices that could be thought of for impressing the fact on his memory.</s> </p>
+<p pid="450" id="settlers.c0.p450" type="speech"><s>Such was Roger's idea when he stole the tinder-box, and crossed to the hill; and this was what he said to himself as he cooked his meal, and when he lay down after it on the grass, with the bees humming round him, and the sound of the waters being now a pleasant ripple, instead of the rush and roar of yesterday.</s> <s>He desired his dog to lie down, and not disturb him; and he took this opportunity to change the animal's name.</s> <s>Stephen Redfurn, taking up the quarrel of the day against the bishops, would have the dog called <qs/>"Bishop,"<qe/> and nothing else.</s> <s>Roger had always wished to call him <qs/>"Spy;"<qe/> but Bishop would never answer to the name of Spy, or even seem to hear it.</s> <s>Now, however, Bishop was to be Spy, as there was no one here to indulge the dog with his old name; and Spy was told so many times over, and with all the devices that could be thought of for impressing the fact on his memory.</s> </p>
 
 <p pid="451" id="settlers.c0.p451"><s>This lesson being given, Roger shut his eyes, and thought he would sleep as long as he chose; but, in the first place, he found himself too much heated for sleep.</s> <s>He considered that it was no wonder, after broiling himself in making a fire to broil his hare.</s> <s>He wished animals ran about ready cooked--as fruits grow on the sunny side of trees.</s> <s>It was too bad to have to bustle and toil for an hour, to get ready what was eaten in ten minutes; and it just passed through his mind that, whatever Nan Redfurn might have sometimes said and done to him, she had usually saved him all trouble in cooking, and had had his meals ready for him whenever he chose to be at the tent at meal times.</s> <s>He rose, and thought he could find a cooler place, further under the trees.</s> </p>
 
@@ -934,7 +934,7 @@
 
 <p pid="465" id="settlers.c0.p465"><s>Just then, his eye fell on the rug, blanket, and knife and fork left by Oliver,--the very accommodation he had been wishing for, and more.</s> <s>When he felt the thick warm rug, he gave over his anger at some one having entered his island without his leave, and, for a moment, again felt pleased and happy.</s> <s>But when he saw that the bridge-basket was gone-- that other people had the means of coming in upon him when they pleased--he was more angry than he had been all day.</s> </p>
 
-<p pid="466" id="settlers.c0.p466"><s>"However," thought he, "I got over to the house before anyone else crossed the water, and I can do the same again whenever I please.</s> <s>I have only to swim over with Spy, and bring away anything I like, while they are busy on the other side, about their good-for-nothing cow, or something.</s> <s>That will be tit-for-tat."</s> </p>
+<p pid="466" id="settlers.c0.p466" type="speech"><s>"However," thought he, <qs/>"I got over to the house before anyone else crossed the water, and I can do the same again whenever I please.</s> <s>I have only to swim over with Spy, and bring away anything I like, while they are busy on the other side, about their good-for-nothing cow, or something.</s> <s>That will be tit-for-tat."<qe/></s> </p>
 
 <p pid="467" id="settlers.c0.p467"><s>He was doubly mistaken here.</s> <s>His going over to steal comforts from the Linacres would not be tit-for-tat for Oliver's coming over to his father's hill, to bring away his mother's clothes basket, and leave comforts for an unwelcome visitor!</s> <s>Neither could Roger now enter the Linacres' dwelling when he pleased, by swimming the stream.</s> <s>He saw this when he examined and considered.</s> <s>The water had sunk so as to show a few inches of the top of the entrance-door and lower windows.</s> <s>It was not high enough to allow of his getting in at the upper window, as he did yesterday; and too high for entrance below.</s> <s>The stream appeared to be as rapid and strong as ever; and it shot its force through the carr as vehemently as at first; for it was almost, or quite as deep as ever.</s> <s>It had worn away soil at the bottom of its channel, to nearly or quite the same depth as it had sunk at the surface; so that it was still working against the walls and foundation of the house, and the soil of the hill, with as much force as during the first hour.</s> <s>When Roger examined the red precipice from which he looked down upon the rushing stream, he perceived that not a yard of Linacres' garden could now be in existence.</s> <s>That garden, with its flourishing vegetables, its rare, gay, sweet flowers, and its laden fruit trees,--that garden which he and Stephen could not help admiring, while they told everybody that it had no business in the middle of their carr,--that garden, its earth and its plants, was all spread in ruins over the marsh; and instead of it would be found, if the waters could be dried up, a deep, gravelly, stony watercourse, or a channel of red mud.</s> <s>Roger wondered whether the boy and girl were aware of this fate of their garden; or whether they supposed that everything stood fast and in order under the waters.</s> <s>He wanted to point out the truth to them; and looked up to the chamber window, in hopes that they might be watching him from it.</s> <s>No one was there, however.</s> <s>On glancing higher, he saw them sitting within the balustrade on the roof.</s> <s>They were all looking another way, and not appearing to think of him at all.</s> <s>He watched them for a long while; but they never turned towards the Red-hill.</s> <s>He could have made them hear by calling; but they might think he wished to be with them, or wanted something from them, instead of understanding that he desired to tell them that their pretty garden was destroyed.</s> <s>So he began to settle with himself which of his dead game he would have for supper, and then fed his fire, in order to cook it.</s> <s>He now thought that he should have liked a bird for supper,--a pheasant or partridge instead of a rabbit or leveret; of which he had plenty.</s> <s>He felt it very provoking that he had neither a net nor a gun, for securing feathered game, when there was so much on the hill; so that he must put up with four-footed game, when he had rather have had a bird.</s> <s>There was no bread either, or vegetables; but he minded that less, because neither of these were at hand, and he had often lived for a long time together on animal food.</s> <s>During the whole time of his listless preparations for cooking his supper, he glanced up occasionally at the roof; but he never once saw the party look his way.</s> <s>He thought it very odd that they should care so much less about him, than he knew they did when Stephen and he came into the carr.</s> <s>They neither seemed to want him nor to fear him to-day.</s> </p>
 
@@ -992,11 +992,11 @@
 
 <p pid="494" id="settlers.c0.p494"><s>Oliver had been in the basket, out of reach, during this conversation.</s> <s>He now flung down the basket line, and returned.</s> <s>Roger was not long in following, with some of his game, some fire-wood, and his dog.</s> <s>He left his bedding hidden in the thicket, and the tinder-box in a dry hole in a tree, that he might come back to his island at any time, in case of quarrel with the Linacres.</s> </p>
 
-<p pid="495" id="settlers.c0.p495"><s>Poor little George did indeed look ill.  He was lying across Mildred's lap, very fretful, his cheeks burning hot, his lips dry, and his mouth sore.</s> <s>Ailwin had put a charm round his neck the day before; but he did not seem to be the better for it.</s> <s>Busy as she was, she tied on another the moment she heard from Oliver that Roger was coming.</s> <s>When Roger and the basket darkened the window, Ailwin and Mildred called out at once, "Here he is!"</s> <s>George turned his hot head that way, and repeated, "Here he is!"</s> </p>
+<p pid="495" id="settlers.c0.p495" type="speech"><s>Poor little George did indeed look ill.  He was lying across Mildred's lap, very fretful, his cheeks burning hot, his lips dry, and his mouth sore.</s> <s>Ailwin had put a charm round his neck the day before; but he did not seem to be the better for it.</s> <s>Busy as she was, she tied on another the moment she heard from Oliver that Roger was coming.</s> <s>When Roger and the basket darkened the window, Ailwin and Mildred called out at once, <qs/>"Here he is!"<qe/></s> <s>George turned his hot head that way, and repeated, <qs/>"Here he is!"<qe/></s> </p>
 
 <p pid="496" id="settlers.c0.p496"><s>"Yes, here I am!</s> <s>And here's what I have brought," said Roger, throwing down two rabbits and a leveret.</s> <s>He took up the leveret presently, and brought it to George, that he might feel how soft the fur was.</s> <s>The child flinched from him at first, but was persuaded, at length, to stroke the leveret's back, and play with its paws.</s> </p>
 
-<p pid="497" id="settlers.c0.p497"><s>"That boy has some good in him after all," thought Ailwin, "unless this be a trick.</s> <s>It is some trick, I'll be bound."</s> </p>
+<p pid="497" id="settlers.c0.p497" type="speech"><s>"That boy has some good in him after all," thought Ailwin, <qs/>"unless this be a trick.</s> <s>It is some trick, I'll be bound."<qe/></s> </p>
 
 <p pid="498" id="settlers.c0.p498"><s>"You are tight and dry enough here," said Roger, glancing round the room.</s> <s>"By the look of the house from the hill, I thought you had been all in ruins."</s> </p>
 
@@ -1030,7 +1030,7 @@
 
 <p pid="513" id="settlers.c0.p513"><s>"Take him!</s> <s>Oh, that's what you are at!</s> <s>To be sure I will; and I might have thought of that before,--only I had my pans and things to put away.</s> <s>I'll wash my hands now directly, and take him:--only, there is not much use in washing one's hands: this foul damp smell seems to stick to everything one touches.</s> <s>It is that boy's doing, depend upon it.</s> <s>He is at the bottom of all mischief.--Ay, Mildred, you need not object to what I say.</s> <s>After what I saw of him yesterday morning, with all that plague of animals about him on the stairs, you will never persuade me that he has not some league with bad creatures, a good way off.</s> <s>I don't half like Oliver's being with him on the raft, in the stream there.</s> <s>That raft was wonderfully ready made for two slips of boys."</s> </p>
 
-<p pid="514" id="settlers.c0.p514"><s>"They had the planks ready to their hands," said Mildred, trembling; "and leather harness and ropes to tie it with.</s> <s>I think they might to do it as they said.</s> <s>What harm do you suppose will happen, Ailwin?</s> <s>I am sure Oliver would do nothing wrong, about making the raft, or anything else.--O dear!</s> <s>I wish George would not cry so!"</s> </p>
+<p pid="514" id="settlers.c0.p514" type="speech"><s>"They had the planks ready to their hands," said Mildred, trembling; <qs/>"and leather harness and ropes to tie it with.</s> <s>I think they might to do it as they said.</s> <s>What harm do you suppose will happen, Ailwin?</s> <s>I am sure Oliver would do nothing wrong, about making the raft, or anything else.--O dear!</s> <s>I wish George would not cry so!"<qe/></s> </p>
 
 <p pid="515" id="settlers.c0.p515"><s>"Here, give him to me," said Ailwin, who had now washed her hands, and taken off her cooking apron.</s> <s>"There, go you and finish the dishes, and then to play,--there's a dear!</s> <s>And don't think about George, or about Roger, and the raft, or anything that will vex you,--there's a dear!"</s> </p>
 
@@ -1040,7 +1040,7 @@
 
 <p pid="518" id="settlers.c0.p518"><s>Mildred went at once to the top of the staircase, which stood up firm, though the building had fallen away on almost every side of it.</s> <s>It was rather a giddy affair at first, sitting on the top stair of a spiral staircase of which part of the walls were gone, while the bare rafters of the roof let the water be seen through them.</s> <s>Mildred soon grew accustomed to her place, however, and fixed her eyes on the raft with which the boys were plying in the stream.</s> <s>She supposed they had caught a hay-cock; for the cow was eating, very industriously,--no longer on the dunghill, but on a slip of ground which had been left dry between it and the stable.</s> <s>The cow had company to share her good cheer: whether invited or uninvited, there was no saying.</s> <s>A strange pony was there; and a sheep, and a well-grown calf.</s> <s>These animals all pressed upon one another on the narrow space of ground, thrusting their heads over or under one another's necks, to snatch the hay.</s> </p>
 
-<p pid="519" id="settlers.c0.p519"><s>"How hungry they are!" thought Mildred, "and how they tease one another!"</s> <s>She then remembered having read of men starving in a boat at sea, who became as selfish as these animals in snatching from one another their last remaining morsels of food.</s> <s>She hoped that she and Oliver should not be starved, at last, in the middle of this flood: but if they were, she did not believe that Oliver and she could ever snatch food from each other, or help themselves before Geordie, whatever Roger might do, or even Ailwin.</s> <s>Ailwin was very kind and good-tempered; but then she was apt to be so very hungry!</s> <s>However, there was no occasion to think of want of food yet.</s> <s>The meal which had been wetted, round the sides and under the lid of the chest, served well to feed the fowls; and they seemed to find something worth picking up in the mud and slime that the waters had left behind as they sank.</s> <s>The poor sow had farrowed too.</s> <s>She and her little pigs were found almost dead with hunger and wet: but the meal-chest had come just in time to save them.</s> <s>Ailwin had said it was worth while to spare them some of the meal; for the little pigs, if their mother was well fed, would give them many a good dinner.</s> <s>There was no occasion to fear want of food at present.</s> </p>
+<p pid="519" id="settlers.c0.p519" type="speech"><s>"How hungry they are!" thought Mildred, <qs/>"and how they tease one another!"<qe/></s> <s>She then remembered having read of men starving in a boat at sea, who became as selfish as these animals in snatching from one another their last remaining morsels of food.</s> <s>She hoped that she and Oliver should not be starved, at last, in the middle of this flood: but if they were, she did not believe that Oliver and she could ever snatch food from each other, or help themselves before Geordie, whatever Roger might do, or even Ailwin.</s> <s>Ailwin was very kind and good-tempered; but then she was apt to be so very hungry!</s> <s>However, there was no occasion to think of want of food yet.</s> <s>The meal which had been wetted, round the sides and under the lid of the chest, served well to feed the fowls; and they seemed to find something worth picking up in the mud and slime that the waters had left behind as they sank.</s> <s>The poor sow had farrowed too.</s> <s>She and her little pigs were found almost dead with hunger and wet: but the meal-chest had come just in time to save them.</s> <s>Ailwin had said it was worth while to spare them some of the meal; for the little pigs, if their mother was well fed, would give them many a good dinner.</s> <s>There was no occasion to fear want of food at present.</s> </p>
 
 <p pid="520" id="settlers.c0.p520"><s>The boys were on their raft in the middle of the stream, working away with their broad paddles, evidently wishing to catch something which was floating down.</s> <s>Mildred could see only a small tree bobbing about, sometimes showing its roots above water, and sometimes its leafy branches.</s> <s>What could they want with a young tree, so well off as they were for drier fire-wood than it would make?</s> <s>They were determined to have it, it was clear; for Roger threw down his paddle as they neared the tree, caught up a long rope, and gave it a cast towards the branching top as the rope went through the air, Mildred saw that it had a noose at the end.</s> <s>The noose caught:--the tree gave a topple in the water, when it found itself stopped in its course with a jerk; and the boys set up a shout as they pulled for the house, hauling in their prize after them.</s> </p>
 
@@ -1094,7 +1094,7 @@
 
 <p pid="545" id="settlers.c0.p545"><s>Ailwin said, as she met them on the stairs, that she was glad enough to see them home again; and more especially without Roger.</s> </p>
 
-<p pid="546" id="settlers.c0.p546"><s>"Roger must be fetched, however," said Oliver, "and the sooner the better."</s> </p>
+<p pid="546" id="settlers.c0.p546" type="speech"><s>"Roger must be fetched, however," said Oliver, <qs/>"and the sooner the better."<qe/></s> </p>
 
 <p pid="547" id="settlers.c0.p547"><s>"Oh not yet!" pleaded Mildred.</s> <s>"He is so angry!"</s> </p>
 
@@ -1114,7 +1114,7 @@
 
 <p pid="555" id="settlers.c0.p555"><s>"Why, you see, I can't abide going on the water, any way, and never could: and most of all without so much as a boat."</s> </p>
 
-<p pid="556" id="settlers.c0.p556"><s>"But I will row you as carefully," said Oliver, "as safely as in any boat.</s> <s>You see how often we have crossed, and how easy it is.</s> <s>You cannot think what care I will take of you, if you will go."</s> </p>
+<p pid="556" id="settlers.c0.p556" type="speech"><s>"But I will row you as carefully," said Oliver, <qs/>"as safely as in any boat.</s> <s>You see how often we have crossed, and how easy it is.</s> <s>You cannot think what care I will take of you, if you will go."<qe/></s> </p>
 
 <p pid="557" id="settlers.c0.p557"><s>"Then there's the coming back," objected Ailwin.</s> <s>"If I am on board the same raft with Roger, we shall all go to the bottom, that's certain!"</s> </p>
 
@@ -1140,7 +1140,7 @@
 
 <p pid="568" id="settlers.c0.p568"><s>Ailwin asked Oliver to bring her the cord from off the raft, and they two could tie up the boy from doing mischief.</s> <s>Oliver brought the cord, but he could not bear to think of using it so.</s> </p>
 
-<p pid="569" id="settlers.c0.p569"><s>"Come, now, Roger," said he, "you picked this quarrel; and you may get out of it in a moment.</s> <s>We don't want to quarrel at such a time as this.</s> <s>Never mind what has happened.</s> <s>Only say you wont meddle between me and the others while the flood lasts; and you shall help me to row home, and I will thank you.</s> <s>After all, we can fight it out some other day, if you like."</s> </p>
+<p pid="569" id="settlers.c0.p569" type="speech"><s>"Come, now, Roger," said he, <qs/>"you picked this quarrel; and you may get out of it in a moment.</s> <s>We don't want to quarrel at such a time as this.</s> <s>Never mind what has happened.</s> <s>Only say you wont meddle between me and the others while the flood lasts; and you shall help me to row home, and I will thank you.</s> <s>After all, we can fight it out some other day, if you like."<qe/></s> </p>
 
 <p pid="570" id="settlers.c0.p570"><s>More kicks from Roger.</s> <s>No other answer.</s> <s>So Oliver and Ailwin tied his arms and legs with the cord; and then Ailwin proceeded to milk the cow, and Oliver, after washing his face, to give the pony some more hay, and see how the little pigs went on.</s> <s>The animals were all drooping, and especially the cow.</s> <s>Oliver wished to have given the pigs some of her milk, as the poor sow seemed weak and ill; but the cow gave so very little milk this afternoon, that there was none to spare.</s> <s>Her legs trembled as she stood to be milked; and she lay down again, as soon as Ailwin had done.</s> </p>
 
@@ -1172,7 +1172,7 @@
 
 <p pid="584" id="settlers.c0.p584"><s>Mildred was delighted to see them back, and especially without Roger.</s> <s>She thought Oliver's face looked very shocking, but Oliver would not say a word about this, or anything else, till he had found Roger's dog, and gone over in the basket, to set him ashore with his master.</s> </p>
 
-<p pid="585" id="settlers.c0.p585"><s>"There!" said he, as he stepped in at the window when this was accomplished, "we have done their business.</s> <s>There they are, in their desert island, as they were before.</s> <s>Now we need not think any more about them, but attend to our own affairs."</s> </p>
+<p pid="585" id="settlers.c0.p585" type="speech"><s>"There!" said he, as he stepped in at the window when this was accomplished, <qs/>"we have done their business.</s> <s>There they are, in their desert island, as they were before.</s> <s>Now we need not think any more about them, but attend to our own affairs."<qe/></s> </p>
 
 <p pid="586" id="settlers.c0.p586"><s>"Your face, Oliver!</s> <s>Pray do--"</s> </p>
 
@@ -1186,7 +1186,7 @@
 
 <p pid="591" id="settlers.c0.p591"><s>"What is that?" cried Oliver.</s> </p>
 
-<p pid="592" id="settlers.c0.p592"><s>"It is a crack," said Ailwin, "in the wall or somewhere.</s> <s>I heard just such a one while Mildred was gone out to play, after dinner."</s> </p>
+<p pid="592" id="settlers.c0.p592" type="speech"><s>"It is a crack," said Ailwin, <qs/>"in the wall or somewhere.</s> <s>I heard just such a one while Mildred was gone out to play, after dinner."<qe/></s> </p>
 
 <p pid="593" id="settlers.c0.p593"><s>"And there was another while you were away," said Mildred.</s> <s>"Some plaster fell that time:--look here!</s> <s>In this corner.--What is the matter, Oliver?</s> <s>What makes you look so frightened?</s> <s>What does it mean?"</s> </p>
 
@@ -1208,7 +1208,7 @@
 
 <p pid="602" id="settlers.c0.p602"><s>"Yes, dear; but we will talk over all that when we get to the Red-hill:--we must not talk any more now, but set to work.</s> <s>However, I really think, Mildred, that father and mother are still alive somewhere.</s> <s>I feel as if they were."</s> </p>
 
-<p pid="603" id="settlers.c0.p603"><s>"But the Red-hill," said Mildred, "what do you mean about the Red-hill?</s> <s>We are not going there, where Roger is,--are we?"</s> </p>
+<p pid="603" id="settlers.c0.p603" type="speech"><s>"But the Red-hill," said Mildred, <qs/>"what do you mean about the Red-hill?</s> <s>We are not going there, where Roger is,--are we?"<qe/></s> </p>
 
 <p pid="604" id="settlers.c0.p604"><s>"We must, dear.</s> <s>There is no other place.</s> <s>Roger is very unkind: but floods and falling houses are unkinder still.</s> <s>Come, Ailwin, help me with the raft.</s> <s>We must carry away what we can before dark.</s> <s>There will be no house standing to-morrow morning, I am afraid."</s> </p>
 
@@ -1220,7 +1220,7 @@
 
 <p pid="608" id="settlers.c0.p608"><s>"Come, come, there are the trees," said Oliver.</s> <s>"They are something of a roof, while the leaves are on."</s> </p>
 
-<p pid="609" id="settlers.c0.p609"><s>"And there is all that cloth," said Mildred; "that immensely long piece of cloth.</s> <s>Would not that make a tent, somehow?"</s> </p>
+<p pid="609" id="settlers.c0.p609" type="speech"><s>"And there is all that cloth," said Mildred; <qs/>"that immensely long piece of cloth.</s> <s>Would not that make a tent, somehow?"<qe/></s> </p>
 
 <p pid="610" id="settlers.c0.p610"><s>"Capital!" cried Oliver.</s> <s>"How well we shall be off with a cloth tent!</s> <s>It seems as if that cloth was sent on purpose.</s> <s>It is so spoiled already, that we can hardly do it any harm.</s> <s>And I am sure the person that wove it would be very glad that it should cover our heads to-night.</s> <s>I shall carry it and you across before anything else--this very minute.</s> <s>I will run down and bring the raft round to the door below.</s> <s>The water is low enough now for you to get out that way.--Oh dear!</s> <s>I wish I was not so tired!</s> <s>I can hardly move.</s> <s>But I must forget all that; for it will not do to stay here."</s> </p>
 
@@ -1236,13 +1236,13 @@
 
 <p pid="616" id="settlers.c0.p616"><s>Mildred took charge of the lighter articles that required care--her mother's china, for one thing; for it was found that nothing made of earthenware remained unbroken in the lower rooms.</s> <s>There were some pewter plates, which were now lodged under the beech, together with pots and pans, knives and forks, and horn spoons.</s> <s>There was no table light enough to be moved, but a small one of deal, which Ailwin dragged out from under water, with all its legs broken: but enough of it remained entire to make it preferable to the bare ground for preparing their food on, when once it should be dry.</s> <s>There was a stool a-piece--not forgetting one for Roger; and Mildred took care that Geordie should have his own little chair.</s> <s>Not even Ailwin could carry a chest of drawers: but she carried down the separate drawers, with the clothes of the family in them.</s> <s>No one of the household had ever seen a carpet; but there was matting on some of the floors.</s> <s>Ailwin pulled up pieces of this, to be some protection against the damp and insects of the ground.</s> </p>
 
-<p pid="617" id="settlers.c0.p617"><s>"It is as wet as water now," said she; "but we must not quarrel with anything to-day on that account; and matting will dry on the hill better than at home.</s> <s>If it turns out rotten, we must try and spare a piece of the cloth from overhead, to lay underfoot: but George will feel it more like home, if he has a bit of matting to trip his little foot against."</s> </p>
+<p pid="617" id="settlers.c0.p617" type="speech"><s>"It is as wet as water now," said she; <qs/>"but we must not quarrel with anything to-day on that account; and matting will dry on the hill better than at home.</s> <s>If it turns out rotten, we must try and spare a piece of the cloth from overhead, to lay underfoot: but George will feel it more like home, if he has a bit of matting to trip his little foot against."<qe/></s> </p>
 
 <p pid="618" id="settlers.c0.p618"><s>So down-stairs went a great bundle of wet matting.</s> </p>
 
 <p pid="619" id="settlers.c0.p619"><s>"Will not that do for to-night?" asked Oliver, languidly, as he saw Ailwin preparing to put off again, when the sun was just touching the western hills.</s> <s>"You know we have to put up the tent, and get something to eat before we can go to sleep; and it has been such a long, long day!"</s> </p>
 
-<p pid="620" id="settlers.c0.p620"><s>"As you please," said Ailwin; "but you said the house would be down in the night; and there are many things yet that we should be sorry to have to do without."</s> </p>
+<p pid="620" id="settlers.c0.p620" type="speech"><s>"As you please," said Ailwin; <qs/>"but you said the house would be down in the night; and there are many things yet that we should be sorry to have to do without."<qe/></s> </p>
 
 <p pid="621" id="settlers.c0.p621"><s>"Never mind them:--let them go, I am sure we all want to be asleep more than anything else."</s> </p>
 
@@ -1254,7 +1254,7 @@
 
 <p pid="625" id="settlers.c0.p625"><s>She determined to go and seek Roger,--not with any wish like Ailwin's, that he could be bound by force, and carried away, to be alone and miserable,--but with a much happier hope and purpose.</s> <s>She did not think he would hurt her; but, if he did, she had rather that he should strike her than that Oliver and he should fight, day after day, as Ailwin had whispered to her they meant to do.</s> <s>She did not believe he could come to blows with Oliver again, after she had taken all the blame upon herself.</s> <s>So she set forth to do so.</s> </p>
 
-<p pid="626" id="settlers.c0.p626"><s>She went on quickly enough while she was upon the slope, in the full moonlight, and with the blaze of Ailwin's fire not far off on her right hand.</s> <s>But she felt the difference when she entered the shade of the trees.</s> <s>It was rather chilly there, and very silent.</s> <s>There was only a rustle in the grass and brambles about her feet, as if she disturbed some small animals hidden there.</s> <s>When she thought she was far enough away from her party not to be heard by them, she began to call softly, hoping that Roger might presently answer, so that she should not have to go much further into the darkness.</s> <s>But she heard nothing but her own voice, as she called, "Roger!</s> <s>Where are you, Roger?</s> <s>I want to speak to you."</s> </p>
+<p pid="626" id="settlers.c0.p626" type="speech"><s>She went on quickly enough while she was upon the slope, in the full moonlight, and with the blaze of Ailwin's fire not far off on her right hand.</s> <s>But she felt the difference when she entered the shade of the trees.</s> <s>It was rather chilly there, and very silent.</s> <s>There was only a rustle in the grass and brambles about her feet, as if she disturbed some small animals hidden there.</s> <s>When she thought she was far enough away from her party not to be heard by them, she began to call softly, hoping that Roger might presently answer, so that she should not have to go much further into the darkness.</s> <s>But she heard nothing but her own voice, as she called, <qs/>"Roger!</s> <s>Where are you, Roger?</s> <s>I want to speak to you."<qe/></s> </p>
 
 <p pid="627" id="settlers.c0.p627"><s>Further and further on she went; and still there was no reply.</s> <s>Though she knew every inch of her way, she tripped several times over the roots of the trees; and once she fell.</s> <s>She saw the stars in the spaces of the wood, as she looked up, and knew that she should soon come out upon the grass again.</s> <s>But when she did so, she found it almost as dark as in the wood, though the moon shone on the waters afar.</s> <s>She still went on calling Roger--now a little louder, till she stumbled over something which was not the root of a tree, for it was warm, and it growled.</s> </p>
 
@@ -1294,7 +1294,7 @@
 
 <p pid="645" id="settlers.c0.p645"><s>Roger did not quite know what to say and do, when he had finished his supper, and fed Spy.</s> <s>He swung his legs, as he sat upon his stool, stared into the fire, and began to whistle.</s> <s>Roger's shrillest whistle, as it had been sometimes heard in the carr, was anything but agreeable: but his low whistle, when he was not thinking about it, was soft and sweet.</s> <s>A gentle chuckle was soon heard from George, as he lay across Mildred's knees.</s> </p>
 
-<p pid="646" id="settlers.c0.p646"><s>"He likes it!</s> <s>He likes such a whistle as that!" exclaimed Mildred.</s> <s>Her eyes said to Roger, "Do go on!"</s> </p>
+<p pid="646" id="settlers.c0.p646" type="speech"><s>"He likes it!</s> <s>He likes such a whistle as that!" exclaimed Mildred.</s> <s>Her eyes said to Roger, <qs/>"Do go on!"<qe/></s> </p>
 
 <p pid="647" id="settlers.c0.p647"><s>Roger went on whistling, better and better,--more and more softly, he drawing nearer, till he quite bent over the poor sick child, who, after many signs of pleasure, dropped off into a sleep,--a quiet, sound sleep.</s> </p>
 
@@ -1320,11 +1320,11 @@
 
 <p pid="658" id="settlers.c0.p658"><s>"I am sure it is not," said Oliver.</s> <s>"Mildred and I say as little as we can about father and mother, but don't you imagine such a thing as that they are out of our minds.</s> <s>I know Mildred never shuts her eyes, but she sees the mill floating away, as it did that evening, and father standing..."</s> </p>
 
-<p pid="659" id="settlers.c0.p659"><s>He could not go on about that.</s> <s>Presently he said, "When the flood came, I suppose, there were no boats to be had.</s> <s>It would take the first day to bring them from a distance, and get them afloat.</s> <s>Then the people would look round (as they ought to do) to see where they could do most good.</s> <s>Nobody who looked through a glass this way, since the day before yesterday, and saw those rafters sticking up in the air,--the house in ruins as it is,--would suppose that any one could be left alive here.</s> <s>From a distance, they can hardly fancy that even any little mouse could help being either drowned or starved.</s> <s>This will be about the last spot in the Levels that any boat will come to.--You see, Mildred, our Red-hill, though it is everything to us, is but a speck compared with the grounds that have stood above water since the waters began to sink.</s> <s>We had better not think of anything but living on as we can, unless it should please God that we should die."</s> </p>
+<p pid="659" id="settlers.c0.p659" type="speech"><s>He could not go on about that.</s> <s>Presently he said, <qs/>"When the flood came, I suppose, there were no boats to be had.</s> <s>It would take the first day to bring them from a distance, and get them afloat.</s> <s>Then the people would look round (as they ought to do) to see where they could do most good.</s> <s>Nobody who looked through a glass this way, since the day before yesterday, and saw those rafters sticking up in the air,--the house in ruins as it is,--would suppose that any one could be left alive here.</s> <s>From a distance, they can hardly fancy that even any little mouse could help being either drowned or starved.</s> <s>This will be about the last spot in the Levels that any boat will come to.--You see, Mildred, our Red-hill, though it is everything to us, is but a speck compared with the grounds that have stood above water since the waters began to sink.</s> <s>We had better not think of anything but living on as we can, unless it should please God that we should die."<qe/></s> </p>
 
 <p pid="660" id="settlers.c0.p660"><s>Roger did not want to hear anything more of this kind; so he went to where George was lying, and began to whistle softly to him.</s> <s>The child was so altered that his own mother would hardly have known him: but he smiled when he heard the whistle; and the smile was his own.</s> <s>He put up his hand and patted Roger's face, and even pulled his hair with a good stout pull.</s> <s>Roger had been used to nurse his dog, though not little children.</s> <s>He now took George into his arms, and laid him comfortably across his knees, while he whistled till the little fellow looked full in his face, and puckered up his poor white lips, as if he would whistle too.</s> <s>This made Roger laugh aloud; and then George laughed.</s> <s>Ailwin heard them, and peeped into the corner of the tent where they were.</s> <s>She flew to Oliver, to tell him that Roger was at his tricks worse than ever,--he was bewitching the baby.</s> <s>She was angry at Oliver for telling his sister, when he had looked in too, that they might have been very glad any of them, to bewitch poor baby in this manner, when he was crying so sadly all yesterday.</s> <s>Mildred, for her part, ran to thank Roger, and say how glad she should be to be able to whistle as he could.</s> </p>
 
-<p pid="661" id="settlers.c0.p661"><s>"How should you?" said Roger,--"you who never had a dog, or caught any sort of a bird in your life, I dare say."</s> </p>
+<p pid="661" id="settlers.c0.p661" type="speech"><s>"How should you?" said Roger,--<qs/>"you who never had a dog, or caught any sort of a bird in your life, I dare say."<qe/></s> </p>
 
 <p pid="662" id="settlers.c0.p662"><s>"No, I never could.</s> <s>One day, long ago, when mother was very busy, and I was tired of playing, she gave me some salt into my hand, and told me I might put it upon the birds' tails in the garden, and so catch them: but I did not get one.</s> <s>At last, half the salt was spilt, and the other half was melted in my hand; and then dinner was ready.</s> <s>I suppose that was a joke of mother's."</s> </p>
 
@@ -1356,13 +1356,13 @@
 
 <p pid="676" id="settlers.c0.p676"><s>"So you have heard, Mildred,--you have heard, I see by your being so white.</s> <s>Oliver says she has been dead ever so many hours.</s> <s>I say, if we had gone the first thing, instead of staring and poking about yon tumble-down house, we might have saved her.</s> <s>I shall never milk her again,--not a drop!--nor any other either, so far as I see; for there is no saying that we shall ever get away.</s> <s>Here I have not a drop of milk to give you, my dear, though you are as white as the wall."</s> </p>
 
-<p pid="677" id="settlers.c0.p677"><s>"Never mind," gasped Mildred, "if it is only the cow.</s> <s>I thought it had been Oliver."</s> </p>
+<p pid="677" id="settlers.c0.p677" type="speech"><s>"Never mind," gasped Mildred, <qs/>"if it is only the cow.</s> <s>I thought it had been Oliver."<qe/></s> </p>
 
 <p pid="678" id="settlers.c0.p678"><s>"Oliver!</s> <s>Bless your heart!</s> <s>There he is as busy about the house and things, as if nothing had happened; and just as provoking as you for caring nothing about the poor cow.</s> <s>There she lies, poor soul!</s> <s>Dead and cold, half in the water, and half out.</s> <s>She was worth you two put together, for some things,--I can tell you that."</s> </p>
 
 <p pid="679" id="settlers.c0.p679"><s>"Indeed I am very sorry," said Mildred; and as she saw George pulling about the empty can, she melted into tears, which would come faster and faster till Oliver again stood by her side.</s> <s>She tried to tell him what she had been afraid of, and how she thought she should not have cried but for that;--or, at least, not so much; but she really could not explain what she felt, her sobs came so thick.</s> </p>
 
-<p pid="680" id="settlers.c0.p680"><s>"I do not know exactly what you mean, dear," said Oliver; "but I understand that you must be crying about the cow.</s> <s>I am very sorry,-- very.</s> <s>I had rather have lost anything we have left than the cow, now George is so ill."--Here he bit his lip, and looked away from George, lest he should cry like his sister.</s> <s>He went on, however, talking rather quickly at first, but becoming more composed as he proceeded.</s> <s>He said, "I have been thinking that it will never do for us who may be near losing everything we have, and our lives, after all, to grieve over each separate loss as it happens.</s> <s>When you said your prayers the first night of the flood..."</s> </p>
+<p pid="680" id="settlers.c0.p680" type="speech"><s>"I do not know exactly what you mean, dear," said Oliver; <qs/>"but I understand that you must be crying about the cow.</s> <s>I am very sorry,-- very.</s> <s>I had rather have lost anything we have left than the cow, now George is so ill."<qe/>--Here he bit his lip, and looked away from George, lest he should cry like his sister.</s> <s>He went on, however, talking rather quickly at first, but becoming more composed as he proceeded.</s> <s>He said, <qs/>"I have been thinking that it will never do for us who may be near losing everything we have, and our lives, after all, to grieve over each separate loss as it happens.</s> <s>When you said your prayers the first night of the flood..."<qe/></s> </p>
 
 <p pid="681" id="settlers.c0.p681"><s>"How long ago that does seem!" exclaimed Mildred.</s> </p>
 
@@ -1384,7 +1384,7 @@
 
 <p pid="690" id="settlers.c0.p690"><s>"We will look for something of that sort,--I am sure we might use such a thing as that," said Oliver:</s> <s>"but..."</s> </p>
 
-<p pid="691" id="settlers.c0.p691"><s>"But," said Mildred, "I don't think these other things are ours, any more than they ever were.</s> <s>Nobody ever gave them to us.</s> <s>They have belonged to somebody else;--to somebody that may be wondering at this moment where they are."</s> </p>
+<p pid="691" id="settlers.c0.p691" type="speech"><s>"But," said Mildred, <qs/>"I don't think these other things are ours, any more than they ever were.</s> <s>Nobody ever gave them to us.</s> <s>They have belonged to somebody else;--to somebody that may be wondering at this moment where they are."<qe/></s> </p>
 
 <p pid="692" id="settlers.c0.p692"><s>"Nonsense, Mildred!" exclaimed Ailwin.</s> <s>"Who gave you the harness that braces the raft, or the meal you have been living on these two days, I wonder: and how do you know but somebody is hungry, and longing for it, at this minute?"</s> </p>
 
@@ -1406,7 +1406,7 @@
 
 <p pid="701" id="settlers.c0.p701"><s>"Don't be afraid, dear," he said.</s> <s>"If Roger chooses to do a dishonest thing, it is his own affair.</s> <s>We have warned him; and that is all we have to do with it.</s> <s>We must be honest ourselves,--that is all."</s> </p>
 
-<p pid="702" id="settlers.c0.p702"><s>"Then I think we had better not look any further into the chest," said Mildred; "only just to find something warm to wrap Geordie in.</s> <s>The clothes look so nice--we might fancy we wanted things that we can very well do without."</s> </p>
+<p pid="702" id="settlers.c0.p702" type="speech"><s>"Then I think we had better not look any further into the chest," said Mildred; <qs/>"only just to find something warm to wrap Geordie in.</s> <s>The clothes look so nice--we might fancy we wanted things that we can very well do without."<qe/></s> </p>
 
 <p pid="703" id="settlers.c0.p703"><s>"I am not much afraid of that," replied her brother:</s> <s>"and it would be a pity the things should spoil with the damp.</s> <s>They would be dry in an hour in this warm sun; and we could pack them away again before night."</s> </p>
 
@@ -1418,7 +1418,7 @@
 
 <p pid="707" id="settlers.c0.p707"><s>"Nobody will ever come and fetch us off," said Ailwin, beginning to cry.</s> <s>"The people at a distance don't care a straw what becomes of us; and you children here at hand are so perverse and troublesome, I don't know how to bear my life between you."</s> </p>
 
-<p pid="708" id="settlers.c0.p708"><s>"If nobody comes to save us," said Oliver, calmly, "I do not see what good this money and these fine clothes will do to Roger and you."</s> </p>
+<p pid="708" id="settlers.c0.p708" type="speech"><s>"If nobody comes to save us," said Oliver, calmly, <qs/>"I do not see what good this money and these fine clothes will do to Roger and you."<qe/></s> </p>
 
 <p pid="709" id="settlers.c0.p709"><s>"Roger and me!</s> <s>Pray what do you mean by that?"</s> </p>
 
@@ -1438,7 +1438,7 @@
 
 <p pid="717" id="settlers.c0.p717"><s>Roger was struck with what he observed.</s> <s>He saw no difficulty in clearing away the game he ought never to have left lying in a heap in the sun.</s> <s>He believed, too, that with stout poles he and Oliver could shove the horse into the water; and, with a line tied to its head, tow it out of the still water into the current which yet ran from the quarry.</s> <s>But what troubled him more was, that there was evidently a mortality among the animals on the hill.</s> <s>They were dying in all directions; some for want of proper food, and from being put out of their usual habits: others from being preyed upon by their stronger neighbours.</s> <s>Nothing seemed to thrive but the ravenous birds which came in clusters, winging their way over the waters, and making a great rustling of their pinions as they descended to perch upon some dead animal, pulling it to pieces before the very eyes of the boys, as they stood consulting what to do.</s> <s>It was a horrid sight: and it brought the horrid thought that soon probably there would be no game left for food for the party; and that what there was meantime might be unwholesome.</s> <s>Oliver had never imagined that the bold boy, Roger Redfurn, could look so alarmed as he did at this moment.</s> </p>
 
-<p pid="718" id="settlers.c0.p718"><s>"Never mind, now, Roger," said he, "what is likely to become of you and me.</s> <s>Wait, and find that out by-and-by.</s> <s>What I am afraid of is seeing Mildred look at all as George does now.</s> <s>Come, let us set to work!</s> <s>Don't stand looking up in the sky, in that way.</s> <s>Help me--do.</s> <s>Cannot Spy help?</s> <s>Call him; will you?"</s> </p>
+<p pid="718" id="settlers.c0.p718" type="speech"><s>"Never mind, now, Roger," said he, <qs/>"what is likely to become of you and me.</s> <s>Wait, and find that out by-and-by.</s> <s>What I am afraid of is seeing Mildred look at all as George does now.</s> <s>Come, let us set to work!</s> <s>Don't stand looking up in the sky, in that way.</s> <s>Help me--do.</s> <s>Cannot Spy help?</s> <s>Call him; will you?"<qe/></s> </p>
 
 <p pid="719" id="settlers.c0.p719"><s>"We can't get away!" exclaimed Roger, as if now, for the first time, awakened to his situation.</s> <s>"Those vile birds--they can go where they like--nasty creatures--and we cannot stir from where we are!"</s> </p>
 
@@ -1498,17 +1498,17 @@
 
 <p pid="747" id="settlers.c0.p747"><s>"Yes.</s> <s>When that is done, we shall miss him sadly.</s> <s>We must expect that.</s> <s>But we must bear it."</s> </p>
 
-<p pid="748" id="settlers.c0.p748"><s>"If we die here," said Mildred, "it will be easy to do without, him for such a little while.</s> <s>But if we ever get away, if we grow up to be as old as father and mother, what shall we do, all those years, without once hearing Geordie laugh, or having him to wake us in the morning?</s> <s>What long things people's lives are!</s> <s>It will seem as if ours would never be done, if we have to wait all that time to see Geordie again."</s> </p>
+<p pid="748" id="settlers.c0.p748" type="speech"><s>"If we die here," said Mildred, <qs/>"it will be easy to do without, him for such a little while.</s> <s>But if we ever get away, if we grow up to be as old as father and mother, what shall we do, all those years, without once hearing Geordie laugh, or having him to wake us in the morning?</s> <s>What long things people's lives are!</s> <s>It will seem as if ours would never be done, if we have to wait all that time to see Geordie again."<qe/></s> </p>
 
 <p pid="749" id="settlers.c0.p749"><s>"I wish we were dead!" sighed Oliver.</s> <s>"I am sure, so do I.</s> <s>And dying is so very easy!"</s> </p>
 
-<p pid="750" id="settlers.c0.p750"><s>"The pastor always said there was nothing to be afraid of," said Oliver--"I mean, for innocent people.</s> <s>And Geordie was so innocent, he was fit to go directly to God."</s> </p>
+<p pid="750" id="settlers.c0.p750" type="speech"><s>"The pastor always said there was nothing to be afraid of,<qs/>" said Oliver--<alt-qs/>"<qe/>I mean, for innocent people.</s> <s>And Geordie was so innocent, he was fit to go directly to God."<alt-qe/></s> </p>
 
-<p pid="751" id="settlers.c0.p751"><s>"If we die here," said Mildred, "Roger must too.</s> <s>What was the matter with him just now, do you think?</s> <s>Was he thinking about that?"</s> </p>
+<p pid="751" id="settlers.c0.p751" type="speech"><s>"If we die here," said Mildred, <qs/>"Roger must too.</s> <s>What was the matter with him just now, do you think?</s> <s>Was he thinking about that?"<qe/></s> </p>
 
 <p pid="752" id="settlers.c0.p752"><s>"He was very miserable about something.</s> <s>Oh, Mildred, do look!</s> <s>Did you ever see Geordie look sweeter?</s> <s>Yes, you may have him now."</s> </p>
 
-<p pid="753" id="settlers.c0.p753"><s>And Oliver quietly laid the child in Mildred's arms.</s> <s>"Yet," said he, sighing, "we must bury him."</s> </p>
+<p pid="753" id="settlers.c0.p753" type="speech"><s>And Oliver quietly laid the child in Mildred's arms.</s> <s>"Yet," said he, sighing, <qs/>"we must bury him."<qe/></s> </p>
 
 <p pid="754" id="settlers.c0.p754"><s>"Oh, when?" asked Mildred.</s> </p>
 
@@ -1566,7 +1566,7 @@
 
 <p pid="781" id="settlers.c0.p781"><s>"Who gave you the gold?" asked Oliver.</s> </p>
 
-<p pid="782" id="settlers.c0.p782"><s>"You may ask that," said Roger; "but you may not believe me when I tell you.</s> <s>You know the Earl of Arundel comes sometimes into these parts.</s> <s>Well,--it was he."</s> </p>
+<p pid="782" id="settlers.c0.p782" type="speech"><s>"You may ask that," said Roger; <qs/>"but you may not believe me when I tell you.</s> <s>You know the Earl of Arundel comes sometimes into these parts.</s> <s>Well,--it was he."<qe/></s> </p>
 
 <p pid="783" id="settlers.c0.p783"><s>"When?</s> <s>Why?"</s> </p>
 
@@ -1574,7 +1574,7 @@
 
 <p pid="785" id="settlers.c0.p785"><s>"What sort of things?" asked Ailwin.</s> <s>"Horn spoons and pewter drinking-mugs to his old red earthenware?"</s> </p>
 
-<p pid="786" id="settlers.c0.p786"><s>"Perhaps," replied Roger, "But I heard nothing of them.</s> <s>What I heard of was old bricks, and stone figures, and all manner of stone jars.</s> <s>Well, a gentleman belonging to the Earl of Arundel chanced to come across us, just after we had found a pitcher or two down in the moss; and he made us go with him to the Earl..."</s> </p>
+<p pid="786" id="settlers.c0.p786" type="speech"><s>"Perhaps," replied Roger, <qs/>"But I heard nothing of them.</s> <s>What I heard of was old bricks, and stone figures, and all manner of stone jars.</s> <s>Well, a gentleman belonging to the Earl of Arundel chanced to come across us, just after we had found a pitcher or two down in the moss; and he made us go with him to the Earl..."<qe/></s> </p>
 
 <p pid="787" id="settlers.c0.p787"><s>"You don't mean that you ever saw a lord to speak to!" exclaimed Ailwin, turning sharp round upon Roger.</s> </p>
 
@@ -1582,7 +1582,7 @@
 
 <p pid="789" id="settlers.c0.p789"><s>Ailwin muttered that she did not believe a word of it; but her altered manner towards Roger at the moment, and ever after, showed that she did.</s> </p>
 
-<p pid="790" id="settlers.c0.p790"><s>"He asked us all manner of questions about the Levels," continued Roger:--"I mean about the things that lie in the moss.</s> <s>He did not seem to care about the settlers and the crops, otherwise than in the way of business.</s> <s>All that he did about the earthenware was plainly for his pleasure.</s> <s>He bought all we could find on that spot; and he said if we found any more curiosities at any time, we were ...  But I can't stand talking any more."</s> </p>
+<p pid="790" id="settlers.c0.p790" type="speech"><s>"He asked us all manner of questions about the Levels,<qs/>" continued Roger:--<alt-qs/>"<qe/>I mean about the things that lie in the moss.</s> <s>He did not seem to care about the settlers and the crops, otherwise than in the way of business.</s> <s>All that he did about the earthenware was plainly for his pleasure.</s> <s>He bought all we could find on that spot; and he said if we found any more curiosities at any time, we were ...  But I can't stand talking any more."<alt-qe/></s> </p>
 
 <p pid="791" id="settlers.c0.p791"><s>And Roger glanced with suspicious eyes from the piece of leather (as he called it) that he had met with in the bank to Oliver.</s> <s>He wanted to have the sole benefit of this new discovery.</s> </p>
 
@@ -1614,11 +1614,11 @@
 
 <p pid="805" id="settlers.c0.p805"><s>"Go, then," replied Oliver.</s> <s>It appeared as if the bold boy and the timid one had changed characters.</s> <s>The reason was that Roger had some very disagreeable thoughts connected with Stephen and Nan Redfurn.</s> <s>He never forgot, when their images were before him, that they had died in the midst of angry and contemptuous feelings between them and him.</s> <s>Oliver, on the other hand, was religious.</s> <s>Though, in easy times, more afraid than he ought to have been of dishonest and violent persons, he had yet enough trust in God to support his spirits and his hope in trial, as we have seen: and about death and the grave, and the other world, where he believed the dead went to meet their Maker and Father, he had no fear at all.</s> <s>Nothing that Roger now said, therefore, made him desist, till he had uncovered half the dried body.</s> </p>
 
-<p pid="806" id="settlers.c0.p806"><s>"Look here!" said he--for Roger had not gone away as he had threatened--"come closer and look, or you will see nothing in the dusk.</s> <s>Did either Stephen or Nan wear their hair this way?</s> <s>And is this dress anything like Ailwin's cloak?</s> <s>Look at the long black hair hanging all round the little flat brown face.</s> <s>And the dress: it is the skin of some beast, with the hair left on--a rough-edged skin, fastened with a bit of something like coal on the left shoulder.</s> <s>I dare say it was once a wooden skewer.</s> <s>I wonder how long ago this body was alive.</s> <s>I wonder what sort of a country this was to live in, at that day."</s> </p>
+<p pid="806" id="settlers.c0.p806" type="speech"><s>"Look here!" said he--for Roger had not gone away as he had threatened--<qs/>"come closer and look, or you will see nothing in the dusk.</s> <s>Did either Stephen or Nan wear their hair this way?</s> <s>And is this dress anything like Ailwin's cloak?</s> <s>Look at the long black hair hanging all round the little flat brown face.</s> <s>And the dress: it is the skin of some beast, with the hair left on--a rough-edged skin, fastened with a bit of something like coal on the left shoulder.</s> <s>I dare say it was once a wooden skewer.</s> <s>I wonder how long ago this body was alive.</s> <s>I wonder what sort of a country this was to live in, at that day."<qe/></s> </p>
 
 <p pid="807" id="settlers.c0.p807"><s>Roger's fear having now departed, his more habitual feelings again prevailed.</s> </p>
 
-<p pid="808" id="settlers.c0.p808"><s>"I say," said he, returning to the spot, and wrenching the tool from Oliver's hand; "I say--don't you meddle any more.</s> <s>The curiosity is mine, you know.</s> <s>I found it, and it's mine."</s> </p>
+<p pid="808" id="settlers.c0.p808" type="speech"><s>"I say," said he, returning to the spot, and wrenching the tool from Oliver's hand; <qs/>"I say--don't you meddle any more.</s> <s>The curiosity is mine, you know.</s> <s>I found it, and it's mine."<qe/></s> </p>
 
 <p pid="809" id="settlers.c0.p809"><s>"What will you do with it?" asked Oliver, who saw that, even now, Roger rather shrank from touching the limbs, and turned away from the open eyes of the body.</s> </p>
 
@@ -1696,7 +1696,7 @@
 
 <p pid="846" id="settlers.c0.p846"><s>"No," sobbed Mildred.</s> </p>
 
-<p pid="847" id="settlers.c0.p847"><s>"I cannot help being glad of this storm," continued Oliver, "though it is disagreeable, at the time, to people who have no house to go to.</s> <s>I hope it will clear the air, and freshen it; and that is the very thing we want, to make you better."</s> </p>
+<p pid="847" id="settlers.c0.p847" type="speech"><s>"I cannot help being glad of this storm," continued Oliver, <qs/>"though it is disagreeable, at the time, to people who have no house to go to.</s> <s>I hope it will clear the air, and freshen it; and that is the very thing we want, to make you better."<qe/></s> </p>
 
 <p pid="848" id="settlers.c0.p848"><s>"It is not that, Oliver.</s> <s>I don't mind the storm at all."</s> </p>
 
@@ -1724,7 +1724,7 @@
 
 <p pid="860" id="settlers.c0.p860"><s>"Yes: a boat may come, you know; and we must not detain it, if such a thing should happen.</s> <s>If you die without restoring that money, Roger, it will be a sin upon your soul: so tell me where it is, and have an easy mind, I advise you.</s> <s>That will be a good thing, if you live an hundred years."</s> </p>
 
-<p pid="861" id="settlers.c0.p861"><s>"There is a boat here now!</s> <s>You are going to leave me behind!" cried Roger, scrambling up on his feet, and falling again from weakness, two or three times.</s> <s>"I knew it," he continued; "I dreamt it all last night; and it is going to come true to-day."</s> </p>
+<p pid="861" id="settlers.c0.p861" type="speech"><s>"There is a boat here now!</s> <s>You are going to leave me behind!" cried Roger, scrambling up on his feet, and falling again from weakness, two or three times.</s> <s>"I knew it," he continued; <qs/>"I dreamt it all last night; and it is going to come true to-day."<qe/></s> </p>
 
 <p pid="862" id="settlers.c0.p862"><s>"Mildred dreamed the same thing; and it is because you are both ill," said Oliver.</s> <s>"Lean upon me--as heavily as you like--and I will go home with you, as slowly as you will, if you will tell me where the money-bag is.</s> <s>You will find no boat there now, whatever there may be by-and-by: but if you will not tell me where the money-bag is, I will shake you off now, and leave you here.</s> <s>It is another person's money: and I must have it."</s> </p>
 
@@ -1750,7 +1750,7 @@
 
 <p pid="873" id="settlers.c0.p873"><s>Oliver helped him home, amidst lightning and splashing rain, explaining as they went why the tent was down, but thinking it best to say nothing of the boat to one so weak-spirited as Roger was now.</s> <s>He then ran off, and found the money-bag.</s> <s>He wished the weather would clear, that he might look out again: but, meanwhile, he felt that he was not losing time in collecting together all the goods that were on the hill; for the tempest so darkened and filled the air, that he knew he could not have seen a furlong into the distance, if he had been on his perch at this moment.</s> <s>He wore his mother's watch in his pocket, feeling as if it promised that he should meet her again, to put it back into her hands.</s> </p>
 
-<p pid="874" id="settlers.c0.p874"><s>"Now, Oliver," said Ailwin, "I am vexed with you that you did not sleep while you might, before this growling, splashing weather came on, and while there was something of a shelter over your head.</s> <s>If you don't go to sleep the minute this tempest is over, I must see what I must do to you: for you will be having the fever else; and then what is to become of me, among you all, I should like to know?</s> <s>I wish you would creep in now between the mattresses under the tree, and never think of the storm, but go to sleep like a good boy.</s> <s>It is hardly likely that the lightning should strike that particular tree, just while you are under it."</s> </p>
+<p pid="874" id="settlers.c0.p874" type="speech"><s>"Now, Oliver," said Ailwin, <qs/>"I am vexed with you that you did not sleep while you might, before this growling, splashing weather came on, and while there was something of a shelter over your head.</s> <s>If you don't go to sleep the minute this tempest is over, I must see what I must do to you: for you will be having the fever else; and then what is to become of me, among you all, I should like to know?</s> <s>I wish you would creep in now between the mattresses under the tree, and never think of the storm, but go to sleep like a good boy.</s> <s>It is hardly likely that the lightning should strike that particular tree, just while you are under it."<qe/></s> </p>
 
 <p pid="875" id="settlers.c0.p875"><s>"But if you should chance to find me a cinder, when you thought it time for me to be waking, Ailwin--would not that be as bad as my having the fever?"</s> </p>
 
@@ -1782,7 +1782,7 @@
 
 <p pid="889" id="settlers.c0.p889"><s>CHAPTER TWELVE.</s> <s>NEWS.</s> </p>
 
-<p pid="890" id="settlers.c0.p890"><s>Oliver soon recovered.</s> <s>The strong, manly caress of the pastor seemed to revive him, even more than the water the others threw on his face.</s> <s>His first word was "Mother."</s> </p>
+<p pid="890" id="settlers.c0.p890" type="speech"><s>Oliver soon recovered.</s> <s>The strong, manly caress of the pastor seemed to revive him, even more than the water the others threw on his face.</s> <s>His first word was <qs/>"Mother."<qe/></s> </p>
 
 <p pid="891" id="settlers.c0.p891"><s>"She is safe, my boy: and she will be well when I take you to her.</s> <s>Are you alone here, Oliver?"</s> </p>
 
@@ -1820,7 +1820,7 @@
 
 <p pid="908" id="settlers.c0.p908"><s>Of his own escape the pastor would say nothing at present.</s> <s>The children's minds were too full now for such tales of wonder and of horror as they must hear hereafter.</s> <s>Neither would he permit a word on the origin of the flood.</s> <s>He said they must think as little as they could of the wicked deeds of men, in this hour of God's mercy.</s> <s>One prayer, in every heart, that God would forgive all evil-minded men,--one such prayer let there be; and then, no more disturbing thoughts of enemies in the hour of preservation.</s> </p>
 
-<p pid="909" id="settlers.c0.p909"><s>Oliver could not trust himself to ask, in the presence of strangers, what the rumour was, which the pastor had mentioned, about his father.</s> <s>The pastor was very apt to understand what was stirring in people's hearts; and he knew Oliver's at this moment.</s> <s>He explained to him that a sailor had declared, on landing at Hull, that the ship in which he was had spoken with a Dutch vessel, off the Humber, in the night, by the light of lanterns only, when a voice was heard, as if from the deck of the Dutchman, crying out, "Will some one have the charity to tell the wife of Linacre of the Levels that he is saved?"</s> <s>The sailors had some fears about this voice--thought the message odd--fancied the voice was like what they should suppose a ghost's to be; and at length, persuaded one another that it came, not from any ship, but from the air overhead; and that the message meant that Linacre was dead, and that his soul was saved.</s> <s>When they came ashore, however, and found what had befallen the Levels, they began to doubt whether it was not, after all, the voice of a flesh and blood man that had called out to them.</s> <s>When the pastor now heard how the miller was floated off in his mill, he had little doubt of the good man having been picked up in the Humber, by a vessel sailing for Holland, which could not stop to set him ashore, but which now contained him, safe and well.</s> <s>Within two months, he would be heard of or seen, it might fairly be hoped.</s> </p>
+<p pid="909" id="settlers.c0.p909" type="speech"><s>Oliver could not trust himself to ask, in the presence of strangers, what the rumour was, which the pastor had mentioned, about his father.</s> <s>The pastor was very apt to understand what was stirring in people's hearts; and he knew Oliver's at this moment.</s> <s>He explained to him that a sailor had declared, on landing at Hull, that the ship in which he was had spoken with a Dutch vessel, off the Humber, in the night, by the light of lanterns only, when a voice was heard, as if from the deck of the Dutchman, crying out, <qs/>"Will some one have the charity to tell the wife of Linacre of the Levels that he is saved?"<qe/></s> <s>The sailors had some fears about this voice--thought the message odd--fancied the voice was like what they should suppose a ghost's to be; and at length, persuaded one another that it came, not from any ship, but from the air overhead; and that the message meant that Linacre was dead, and that his soul was saved.</s> <s>When they came ashore, however, and found what had befallen the Levels, they began to doubt whether it was not, after all, the voice of a flesh and blood man that had called out to them.</s> <s>When the pastor now heard how the miller was floated off in his mill, he had little doubt of the good man having been picked up in the Humber, by a vessel sailing for Holland, which could not stop to set him ashore, but which now contained him, safe and well.</s> <s>Within two months, he would be heard of or seen, it might fairly be hoped.</s> </p>
 
 <p pid="910" id="settlers.c0.p910"><s>Mrs Linacre was kindly taken care of in a farm-house, near the spring-- that farm-house where she had often taken her copper money to be changed for silver: but she had been little within doors, day or night.</s> <s>She had paced all day by the brink of the flood; and as long as the moon was up, had sat at night on a rising ground, looking over the waters towards the Red-hill.</s> <s>She had discovered that the mill was gone, when other eyes could distinguish nothing so far off.</s> <s>No one had a glass to lend her-- so, at least, it was said; but some whispered that a glass might have been procured, but that it was thought she could see only what would distress her, and nothing that could do her any good.</s> </p>
 

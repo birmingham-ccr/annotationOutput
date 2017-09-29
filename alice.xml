@@ -1597,7 +1597,7 @@
 
 <p pid="51" id="alice.c12.p51" type="speech"><s sid="69" id="alice.c12.s69">The Knave shook his head sadly.</s> <s sid="70" id="alice.c12.s70"><qs/>'Do I look like it?'<qe/> he said.</s> <s sid="71" id="alice.c12.s71">(Which he certainly did NOT, being made entirely of cardboard.)</s> </p>
 
-<p pid="52" id="alice.c12.p52" type="speech"><s sid="72" id="alice.c12.s72"><qs/>'All right, so far,'<qe/> said the King, and he went on muttering over the verses to himself:</s> <s sid="73" id="alice.c12.s73"><qs/>'<alt-qs/>"WE KNOW IT TO BE TRUE--"<alt-qe/><sls/> that's the jury, of course--<sle/><alt-qs/>"I GAVE HER ONE, THEY GAVE HIM TWO--"<alt-qe/> why, that must be what he did with the tarts, you know--'<qe/></s> </p>
+<p pid="52" id="alice.c12.p52" type="speech"><s sid="72" id="alice.c12.s72"><qs/>'All right, so far,'<qe/> said the King, and he went on muttering over the verses to himself:</s> <s sid="73" id="alice.c12.s73"><qs/>'<alt-qs/>"WE KNOW IT TO BE TRUE--"<alt-qe/><alt-sls/><sls/> that's the jury, of course--<sle/><alt-sle/><alt-qs/>"I GAVE HER ONE, THEY GAVE HIM TWO--"<alt-qe/> why, that must be what he did with the tarts, you know--'<qe/></s> </p>
 
 <p pid="53" id="alice.c12.p53" type="speech"><s sid="74" id="alice.c12.s74"><qs/>'But, it goes on "THEY ALL RETURNED FROM HIM TO YOU,"'<qe/> said Alice.</s> </p>
 

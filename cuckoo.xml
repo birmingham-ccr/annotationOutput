@@ -54,7 +54,7 @@
 
 <p pid="16" id="cuckoo.c1.p16" type="speech"><s sid="29" id="cuckoo.c1.s29"><qs/>"Whom do you mean?"<qe/> said Griselda.</s> <s sid="30" id="cuckoo.c1.s30"><qs/>"Do you mean my great-aunts?"<qe/></s> </p>
 
-<p pid="17" id="cuckoo.c1.p17" type="speech"><s sid="31" id="cuckoo.c1.s31"><qs/>"Ah, yes, and others beside,"<qe/> replied the old woman.</s> <s sid="32" id="cuckoo.c1.s32"><qs/>"The rooks love it well, and others beside.</s> <s sid="33" id="cuckoo.c1.s33">Did you ever hear tell of the 'good people,' missie, over the sea where you come from?"<qe/></s> </p>
+<p pid="17" id="cuckoo.c1.p17" type="speech"><s sid="31" id="cuckoo.c1.s31"><qs/>"Ah, yes, and others beside,"<qe/> replied the old woman.</s> <s sid="32" id="cuckoo.c1.s32"><qs/>"The rooks love it well, and others beside.</s> <s sid="33" id="cuckoo.c1.s33">Did you ever hear tell of the <alt-qs/>'good people,'<alt-qe/> missie, over the sea where you come from?"<qe/></s> </p>
 
 <p pid="18" id="cuckoo.c1.p18" type="speech"><s sid="34" id="cuckoo.c1.s34"><qs/>"Fairies, do you mean?"<qe/> cried Griselda, her eyes sparkling.</s> <s sid="35" id="cuckoo.c1.s35"><qs/>"Of course I've _heard_ of them, but I never saw any.</s> <s sid="36" id="cuckoo.c1.s36">Did you ever?"<qe/></s> </p>
 
@@ -160,9 +160,9 @@
 
 <p pid="69" id="cuckoo.c1.p69" type="speech"><s sid="142" id="cuckoo.c1.s142">Miss Grizzel stood perfectly still, looking up at the clock; Griselda beside her, in breathless expectation.</s> <s sid="143" id="cuckoo.c1.s143">Presently there came a sort of distant rumbling.</s> <s sid="144" id="cuckoo.c1.s144">_Something_ was going to happen.</s> <s sid="145" id="cuckoo.c1.s145">Suddenly two little doors above the clock face, which Griselda had not known were there, sprang open with a burst and out flew a cuckoo, flapped his wings, and uttered his pretty cry, <qs/>"Cuckoo! cuckoo! cuckoo!"<qe/></s> <s sid="146" id="cuckoo.c1.s146">Miss Grizzel counted aloud, <qs/>"Seven, eight, nine, ten."<qe/></s> <s sid="147" id="cuckoo.c1.s147"><qs/>"Yes, he never makes a mistake,"<qe/> she added triumphantly.</s> <s sid="148" id="cuckoo.c1.s148"><qs/>"All these long years I have never known him wrong.</s> <s sid="149" id="cuckoo.c1.s149">There are no such clocks made nowadays, I can assure you, my dear."<qe/></s> </p>
 
-<p pid="70" id="cuckoo.c1.p70" type="speech"><s sid="150" id="cuckoo.c1.s150"><qs/>"But _is_ it a clock?</s> <s sid="151" id="cuckoo.c1.s151">Isn't he alive?"<qe/> exclaimed Griselda.</s> <s sid="152" id="cuckoo.c1.s152"><qs/>"He looked at me and nodded his head, before he flapped his wings and went in to his house again--he did indeed, aunt,"<qe/><sss/> she said earnestly; <sse/><qs/>"just like saying, 'How do you do?' to me."<qe/></s> </p>
+<p pid="70" id="cuckoo.c1.p70" type="speech"><s sid="150" id="cuckoo.c1.s150"><qs/>"But _is_ it a clock?</s> <s sid="151" id="cuckoo.c1.s151">Isn't he alive?"<qe/> exclaimed Griselda.</s> <s sid="152" id="cuckoo.c1.s152"><qs/>"He looked at me and nodded his head, before he flapped his wings and went in to his house again--he did indeed, aunt,"<qe/><sss/> she said earnestly; <sse/><qs/>"just like saying, <alt-qs/>'How do you do?'<alt-qe/> to me."<qe/></s> </p>
 
-<p pid="71" id="cuckoo.c1.p71" type="speech"><s sid="153" id="cuckoo.c1.s153">Again Miss Grizzel smiled, the same odd yet pleased smile that Griselda had seen on her face at breakfast.</s> <s sid="154" id="cuckoo.c1.s154"><qs/>"Just what Sybilla used to say,"<qe/> she murmured.</s> <s sid="155" id="cuckoo.c1.s155"><qs/>"Well, my dear,"<qe/><sss/> she added aloud, <sse/><qs/>"it is quite right he _should_ say, 'How do you do?' to you.</s> <s sid="156" id="cuckoo.c1.s156">It is the first time he has seen _you_, though many a year ago he knew your dear grandmother, and your father, too, when he was a little boy.</s> <s sid="157" id="cuckoo.c1.s157">You will find him a good friend, and one that can teach you many lessons."<qe/></s> </p>
+<p pid="71" id="cuckoo.c1.p71" type="speech"><s sid="153" id="cuckoo.c1.s153">Again Miss Grizzel smiled, the same odd yet pleased smile that Griselda had seen on her face at breakfast.</s> <s sid="154" id="cuckoo.c1.s154"><qs/>"Just what Sybilla used to say,"<qe/> she murmured.</s> <s sid="155" id="cuckoo.c1.s155"><qs/>"Well, my dear,"<qe/><sss/> she added aloud, <sse/><qs/>"it is quite right he _should_ say, <alt-qs/>'How do you do?'<alt-qe/> to you.</s> <s sid="156" id="cuckoo.c1.s156">It is the first time he has seen _you_, though many a year ago he knew your dear grandmother, and your father, too, when he was a little boy.</s> <s sid="157" id="cuckoo.c1.s157">You will find him a good friend, and one that can teach you many lessons."<qe/></s> </p>
 
 <p pid="72" id="cuckoo.c1.p72" type="speech"><s sid="158" id="cuckoo.c1.s158"><qs/>"What, Aunt Grizzel?"<qe/> inquired Griselda, looking puzzled.</s> </p>
 
@@ -438,7 +438,7 @@
 
 <p pid="64" id="cuckoo.c3.p64" type="speech"><s sid="127" id="cuckoo.c3.s127"><qs/>"You must come in now, little missie,"<qe/> said Dorcas's voice.</s> <s sid="128" id="cuckoo.c3.s128"><qs/>"Miss Grizzel says you have had play enough, and there's a nice fire in the ante-room for you to do your lessons by."<qe/></s> </p>
 
-<p pid="65" id="cuckoo.c3.p65" type="speech"><s sid="129" id="cuckoo.c3.s129"><qs/>"Play!"<qe/> repeated Griselda indignantly, as she turned to follow the old servant.</s> <s sid="130" id="cuckoo.c3.s130"><qs/>"Do you call walking up and down the terrace 'play,' Dorcas?</s> <s sid="131" id="cuckoo.c3.s131">I mustn't loiter even to pick a flower, if there were any, for fear of catching cold, and I mustn't run for fear of overheating myself.</s> <s sid="132" id="cuckoo.c3.s132">I declare, Dorcas, if I don't have some play soon, or something to amuse me, I think I'll run away."<qe/></s> </p>
+<p pid="65" id="cuckoo.c3.p65" type="speech"><s sid="129" id="cuckoo.c3.s129"><qs/>"Play!"<qe/> repeated Griselda indignantly, as she turned to follow the old servant.</s> <s sid="130" id="cuckoo.c3.s130"><qs/>"Do you call walking up and down the terrace <alt-qs/>'play,'<alt-qe/> Dorcas?</s> <s sid="131" id="cuckoo.c3.s131">I mustn't loiter even to pick a flower, if there were any, for fear of catching cold, and I mustn't run for fear of overheating myself.</s> <s sid="132" id="cuckoo.c3.s132">I declare, Dorcas, if I don't have some play soon, or something to amuse me, I think I'll run away."<qe/></s> </p>
 
 <p pid="66" id="cuckoo.c3.p66" type="speech"><s sid="133" id="cuckoo.c3.s133"><qs/>"Nay, nay, missie, don't talk like that.</s> <s sid="134" id="cuckoo.c3.s134">You'd never do anything so naughty, and you so like Miss Sybilla, who was so good."<qe/></s> </p>
 
@@ -565,7 +565,7 @@
 
 <p pid="19" id="cuckoo.c4.p19" type="speech"><s sid="34" id="cuckoo.c4.s34"><qs/>"But I didn't come up here to learn,"<qe/><sss/> said Griselda; <sse/><qs/>"I can do that down there;"<qe/> and she nodded her head in the direction of the ante-room table.</s> <s sid="35" id="cuckoo.c4.s35"><qs/>"I want to play."<qe/></s> </p>
 
-<p pid="20" id="cuckoo.c4.p20" type="speech"><s sid="36" id="cuckoo.c4.s36"><qs/>"Just so,"<qe/><sss/> said the cuckoo; <sse/><qs/>"that's what I want to talk about.</s> <s sid="37" id="cuckoo.c4.s37">What do you call 'play'--blindman's-buff and that sort of thing?"<qe/></s> </p>
+<p pid="20" id="cuckoo.c4.p20" type="speech"><s sid="36" id="cuckoo.c4.s36"><qs/>"Just so,"<qe/><sss/> said the cuckoo; <sse/><qs/>"that's what I want to talk about.</s> <s sid="37" id="cuckoo.c4.s37">What do you call <alt-qs/>'play'<alt-qe/>--blindman's-buff and that sort of thing?"<qe/></s> </p>
 
 <p pid="21" id="cuckoo.c4.p21" type="speech"><s sid="38" id="cuckoo.c4.s38"><qs/>"No,"<qe/> said Griselda, considering.</s> <s sid="39" id="cuckoo.c4.s39"><qs/>"I'm getting rather too big for that kind of play.</s> <s sid="40" id="cuckoo.c4.s40">Besides, cuckoo, you and I alone couldn't have much fun at blindman's-buff; there'd be only me to catch you or you to catch me."<qe/></s> </p>
 
@@ -1441,7 +1441,7 @@
 
 <p pid="54" id="cuckoo.c8.p54" type="speech"><s sid="134" id="cuckoo.c8.s134"><qs/>"How did he call you?"<qe/> asked Griselda.</s> </p>
 
-<p pid="55" id="cuckoo.c8.p55" type="speech"><s sid="135" id="cuckoo.c8.s135"><qs/>"First,"<qe/><sss/> said Phil gravely, <sse/><qs/>"it was in the night.</s> <s sid="136" id="cuckoo.c8.s136">I was asleep, and I had been wishing I had somebody to play with, and then I d'eamed of the cuckoo--such a nice d'eam.</s> <s sid="137" id="cuckoo.c8.s137">And when I woke up I heard him calling me, and I wasn't d'eaming then.</s> <s sid="138" id="cuckoo.c8.s138">And then when I was in the field he called me, but I _couldn't_ find him, and nurse said 'Nonsense.'</s> <s sid="139" id="cuckoo.c8.s139">And to-day he called me again, so I camed up through the bushes.</s> <s sid="140" id="cuckoo.c8.s140">And mayn't I come again?</s> <s sid="141" id="cuckoo.c8.s141">Perhaps if we both tried together we could find the way to fairyland.</s> <s sid="142" id="cuckoo.c8.s142">Do you think we could?"<qe/></s> </p>
+<p pid="55" id="cuckoo.c8.p55" type="speech"><s sid="135" id="cuckoo.c8.s135"><qs/>"First,"<qe/><sss/> said Phil gravely, <sse/><qs/>"it was in the night.</s> <s sid="136" id="cuckoo.c8.s136">I was asleep, and I had been wishing I had somebody to play with, and then I d'eamed of the cuckoo--such a nice d'eam.</s> <s sid="137" id="cuckoo.c8.s137">And when I woke up I heard him calling me, and I wasn't d'eaming then.</s> <s sid="138" id="cuckoo.c8.s138">And then when I was in the field he called me, but I _couldn't_ find him, and nurse said <alt-qs/>'Nonsense.'<alt-qe/></s> <s sid="139" id="cuckoo.c8.s139">And to-day he called me again, so I camed up through the bushes.</s> <s sid="140" id="cuckoo.c8.s140">And mayn't I come again?</s> <s sid="141" id="cuckoo.c8.s141">Perhaps if we both tried together we could find the way to fairyland.</s> <s sid="142" id="cuckoo.c8.s142">Do you think we could?"<qe/></s> </p>
 
 <p pid="56" id="cuckoo.c8.p56" type="speech"><s sid="143" id="cuckoo.c8.s143"><qs/>"I don't know,"<qe/> said Griselda, dreamily.</s> </p>
 
@@ -1893,7 +1893,7 @@
 
 <p pid="57" id="cuckoo.c10.p57" type="speech"><s sid="153" id="cuckoo.c10.s153"><qs/>"What _would_ Mr. Kneebreeches think if I told him where I had been?"<qe/> continued Griselda.</s> <s sid="154" id="cuckoo.c10.s154"><qs/>"Only, you see, cuckoo, I never tell anybody about what I see when I am with you."<qe/></s> </p>
 
-<p pid="58" id="cuckoo.c10.p58" type="speech"><s sid="155" id="cuckoo.c10.s155"><qs/>"No,"<qe/><sss/> replied the cuckoo; <sse/><qs/>"better not.</s> <s sid="156" id="cuckoo.c10.s156">('Not that you could if you tried,' he added to himself.)</s> <s sid="157" id="cuckoo.c10.s157">You're not frightened now, Griselda, are you?"<qe/></s> </p>
+<p pid="58" id="cuckoo.c10.p58" type="speech"><s sid="155" id="cuckoo.c10.s155"><qs/>"No,"<qe/><sss/> replied the cuckoo; <sse/><qs/>"better not.</s> <s sid="156" id="cuckoo.c10.s156">(<alt-qs/>'Not that you could if you tried,'<alt-qe/> he added to himself.)</s> <s sid="157" id="cuckoo.c10.s157">You're not frightened now, Griselda, are you?"<qe/></s> </p>
 
 <p pid="59" id="cuckoo.c10.p59" type="speech"><s sid="158" id="cuckoo.c10.s158"><qs/>"No, I don't think I am,"<qe/> she replied.</s> <s sid="159" id="cuckoo.c10.s159"><qs/>"But, cuckoo, isn't this sea _awfully_ big?"<qe/></s> </p>
 
@@ -1905,7 +1905,7 @@
 
 <p pid="63" id="cuckoo.c10.p63" type="speech"><s sid="167" id="cuckoo.c10.s167"><qs/>"What a stupid way to answer,"<qe/> said Griselda.</s> <s sid="168" id="cuckoo.c10.s168"><qs/>"There's no sense in that; there either must be or must not be.</s> <s sid="169" id="cuckoo.c10.s169">There couldn't be half mermaids."<qe/></s> </p>
 
-<p pid="64" id="cuckoo.c10.p64" type="speech"><s sid="170" id="cuckoo.c10.s170"><qs/>"I don't know about that,"<qe/> replied the cuckoo.</s> <s sid="171" id="cuckoo.c10.s171"><qs/>"They might have been here once and have left their tails behind them, like Bopeep's sheep, you know; and some day they might be coming to find them again, you know.</s> <s sid="172" id="cuckoo.c10.s172">That would do for 'not exactly,' wouldn't it?"<qe/></s> </p>
+<p pid="64" id="cuckoo.c10.p64" type="speech"><s sid="170" id="cuckoo.c10.s170"><qs/>"I don't know about that,"<qe/> replied the cuckoo.</s> <s sid="171" id="cuckoo.c10.s171"><qs/>"They might have been here once and have left their tails behind them, like Bopeep's sheep, you know; and some day they might be coming to find them again, you know.</s> <s sid="172" id="cuckoo.c10.s172">That would do for <alt-qs/>'not exactly,'<alt-qe/> wouldn't it?"<qe/></s> </p>
 
 <p pid="65" id="cuckoo.c10.p65" type="speech"><s sid="173" id="cuckoo.c10.s173"><qs/>"Cuckoo, you're laughing at me,"<qe/> said Griselda.</s> <s sid="174" id="cuckoo.c10.s174"><qs/>"Tell me, are there any mermaids, or fairies, or water-sprites, or any of those sort of creatures here?"<qe/></s> </p>
 

@@ -450,7 +450,7 @@
 
 <p pid="63" id="pan.c3.p63" type="speech"><s sid="112" id="pan.c3.s112"><qs/>"Ought to be?</s> <s sid="113" id="pan.c3.s113">Isn't there?"<qe/></s> </p>
 
-<p pid="64" id="pan.c3.p64" type="speech"><s sid="114" id="pan.c3.s114"><qs/>"No. You see children know such a lot now, they soon don't believe in fairies, and every time a child says, 'I don't believe in fairies,' there is a fairy somewhere that falls down dead."<qe/></s> </p>
+<p pid="64" id="pan.c3.p64" type="speech"><s sid="114" id="pan.c3.s114"><qs/>"No. You see children know such a lot now, they soon don't believe in fairies, and every time a child says, <alt-qs/>'I don't believe in fairies,'<alt-qe/> there is a fairy somewhere that falls down dead."<qe/></s> </p>
 
 <p pid="65" id="pan.c3.p65" type="speech"><s sid="115" id="pan.c3.s115">Really, he thought they had now talked enough about fairies, and it struck him that Tinker Bell was keeping very quiet.</s> <s sid="116" id="pan.c3.s116"><qs/>"I can't think where she has gone to,"<qe/> he said, rising, and he called Tink by name.</s> <s sid="117" id="pan.c3.s117">Wendy's heart went flutter with a sudden thrill.</s> </p>
 
@@ -767,7 +767,7 @@
 
 <p pid="29" id="pan.c4.p29" type="speech"><s sid="50" id="pan.c4.s50"><qs/>"I'm Wendy,"<qe/> she said agitatedly.</s> </p>
 
-<p pid="30" id="pan.c4.p30" type="speech"><s sid="51" id="pan.c4.s51">He was very sorry.</s> <s sid="52" id="pan.c4.s52"><qs/>"I say, Wendy,"<qe/><sss/> he whispered to her, <sse/><qs/>"always if you see me forgetting you, just keep on saying 'I'm Wendy,' and then I'll remember."<qe/></s> </p>
+<p pid="30" id="pan.c4.p30" type="speech"><s sid="51" id="pan.c4.s51">He was very sorry.</s> <s sid="52" id="pan.c4.s52"><qs/>"I say, Wendy,"<qe/><sss/> he whispered to her, <sse/><qs/>"always if you see me forgetting you, just keep on saying <alt-qs/>'I'm Wendy,'<alt-qe/> and then I'll remember."<qe/></s> </p>
 
 <p pid="31" id="pan.c4.p31" type="speech"><s sid="53" id="pan.c4.s53">Of course this was rather unsatisfactory.</s> <s sid="54" id="pan.c4.s54">However, to make amends he showed them how to lie out flat on a strong wind that was going their way, and this was such a pleasant change that they tried it several times and found that they could sleep thus with security.</s> <s sid="55" id="pan.c4.s55">Indeed they would have slept longer, but Peter tired quickly of sleeping, and soon he would cry in his captain voice, <qs/>"We get off here."<qe/></s> <s sid="56" id="pan.c4.s56">So with occasional tiffs, but on the whole rollicking, they drew near the Neverland; for after many moons they did reach it, and, what is more, they had been going pretty straight all the time, not perhaps so much owing to the guidance of Peter or Tink as because the island was looking for them.</s> <s sid="57" id="pan.c4.s57">It is only thus that any one may sight those magic shores.</s> </p>
 
@@ -1020,7 +1020,7 @@
 
 <p pid="24" id="pan.c5.p24"><s sid="76" id="pan.c5.s76">It was only in Peter's absence that they could speak of mothers, the subject being forbidden by him as silly.</s> </p>
 
-<p pid="25" id="pan.c5.p25" type="speech"><s sid="77" id="pan.c5.s77"><qs/>"All I remember about my mother,"<qe/><sss/> Nibs told them, <sse/><qs/>"is that she often said to my father, 'Oh, how I wish I had a cheque-book of my own!'</s> <s sid="78" id="pan.c5.s78">I don't know what a cheque-book is, but I should just love to give my mother one."<qe/></s> </p>
+<p pid="25" id="pan.c5.p25" type="speech"><s sid="77" id="pan.c5.s77"><qs/>"All I remember about my mother,"<qe/><sss/> Nibs told them, <sse/><qs/>"is that she often said to my father, <alt-qs/>'Oh, how I wish I had a cheque-book of my own!'<alt-qe/></s> <s sid="78" id="pan.c5.s78">I don't know what a cheque-book is, but I should just love to give my mother one."<qe/></s> </p>
 
 <p pid="26" id="pan.c5.p26"><s sid="79" id="pan.c5.s79">While they talked they heard a distant sound.</s> <s sid="80" id="pan.c5.s80">You or I, not being wild things of the woods, would have heard nothing, but they heard it, and it was the grim song:</s> </p>
 
@@ -1171,7 +1171,7 @@
 
 <p pid="11" id="pan.c6.p11"><s sid="19" id="pan.c6.s19">Tootles' face was very white, but there was a dignity about him now that had never been there before.</s> </p>
 
-<p pid="12" id="pan.c6.p12" type="speech"><s sid="20" id="pan.c6.s20"><qs/>"I did it,"<qe/> he said, reflecting.</s> <s sid="21" id="pan.c6.s21"><qs/>"When ladies used to come to me in dreams, I said, 'Pretty mother, pretty mother.'</s> <s sid="22" id="pan.c6.s22">But when at last she really came, I shot her."<qe/></s> </p>
+<p pid="12" id="pan.c6.p12" type="speech"><s sid="20" id="pan.c6.s20"><qs/>"I did it,"<qe/> he said, reflecting.</s> <s sid="21" id="pan.c6.s21"><qs/>"When ladies used to come to me in dreams, I said, <alt-qs/>'Pretty mother, pretty mother.'<alt-qe/></s> <s sid="22" id="pan.c6.s22">But when at last she really came, I shot her."<qe/></s> </p>
 
 <p pid="13" id="pan.c6.p13"><s sid="23" id="pan.c6.s23">He moved slowly away.</s> </p>
 
@@ -2150,7 +2150,7 @@
 
 <p pid="51" id="pan.c11.p51" type="speech"><s sid="67" id="pan.c11.s67"><qs/>"Oh!"<qe/></s> </p>
 
-<p pid="52" id="pan.c11.p52" type="speech"><s sid="68" id="pan.c11.s68"><qs/>"'See, dear brothers,' says Wendy pointing upwards, 'there is the window still standing open.</s> <s sid="69" id="pan.c11.s69">Ah, now we are rewarded for our sublime faith in a mother's love.'</s> <s sid="70" id="pan.c11.s70">So up they flew to their mummy and daddy, and pen cannot describe the happy scene, over which we draw a veil."<qe/></s> </p>
+<p pid="52" id="pan.c11.p52" type="speech"><s sid="68" id="pan.c11.s68"><qs/>"<alt-qs/>'See, dear brothers,'<alt-qe/><sss/> says Wendy pointing upwards, <sse/><alt-qs/>'there is the window still standing open.</s> <s sid="69" id="pan.c11.s69">Ah, now we are rewarded for our sublime faith in a mother's love.'<alt-qe/></s> <s sid="70" id="pan.c11.s70">So up they flew to their mummy and daddy, and pen cannot describe the happy scene, over which we draw a veil."<qe/></s> </p>
 
 <p pid="53" id="pan.c11.p53"><s sid="71" id="pan.c11.s71">That was the story, and they were as pleased with it as the fair narrator herself.</s> <s sid="72" id="pan.c11.s72">Everything just as it should be, you see.</s> <s sid="73" id="pan.c11.s73">Off we skip like the most heartless things in the world, which is what children are, but so attractive; and we have an entirely selfish time, and then when we have need of special attention we nobly return for it, confident that we shall be rewarded instead of smacked.</s> </p>
 

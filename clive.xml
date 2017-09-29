@@ -820,11 +820,11 @@
 
 <p pid="20" id="clive.c7.p20" type="speech" form="extended" position="beginning"><s sid="60" id="clive.c7.s60"><qs/>"It isn't their body, yer honor.</s> <s sid="61" id="clive.c7.s61">It's their legs.</s> <s sid="62" id="clive.c7.s62">They're just cruel to look at.</s> <s sid="63" id="clive.c7.s63">It was one of 'em that gave me a turn, a while ago.</s> <s sid="64" id="clive.c7.s64">I was just lying on my bed smoking my pipe, when I saw one of the creatures (as big as a saucer, I'll take my oath) walking towards me with his wicked eye fixed full on me.</s> <s sid="65" id="clive.c7.s65">I jumped off the bed and on to a bench that stood handy.</s> </p><p pid="21" id="clive.c7.p21" type="speech" form="extended" position="middle"><s sid="66" id="clive.c7.s66">"'What are ye yelling about, Tim Kelly?' said Corporal Jones to me.</s> </p>
 
-<p pid="22" id="clive.c7.p22" type="speech" form="extended" position="middle"><s sid="67" id="clive.c7.s67">"'Here's a riotous baste here, corporal,' says I, 'that's meditating an attack on me.'</s> </p>
+<p pid="22" id="clive.c7.p22" type="speech" form="extended" position="middle"><s sid="67" id="clive.c7.s67">"'Here's a riotous baste here, corporal,<alt-qs/>' says I, 'that's meditating an attack on me.'<alt-qe/></s> </p>
 
 <p pid="23" id="clive.c7.p23" type="speech" form="extended" position="middle"><s sid="68" id="clive.c7.s68">"'Put your foot on it, man,' says he.</s> </p>
 
-<p pid="24" id="clive.c7.p24" type="speech" form="extended" position="middle"><s sid="69" id="clive.c7.s69">"'It's mighty fine,' says I, 'and I in my bare feet.'</s> </p>
+<p pid="24" id="clive.c7.p24" type="speech" form="extended" position="middle"><s sid="69" id="clive.c7.s69">"'It's mighty fine,<alt-qs/>' says I, 'and I in my bare feet.'<alt-qe/></s> </p>
 
 <p pid="25" id="clive.c7.p25" type="speech" form="extended" position="middle"><s sid="70" id="clive.c7.s70">"So the corporal tells Pat Murphy, my right-hand man, to tackle the baste.</s> <s sid="71" id="clive.c7.s71">I could see Pat didn't like the job ayther, yer honor, but he's not the boy to shrink from his duty; so he comes and he takes post on the form by my side, and just when the cratur is making up his mind to charge us both, Pat jumps down upon him and squelched it.</s> </p>
 
@@ -2454,7 +2454,7 @@
 
 <p pid="5" id="clive.c19.p5"><s sid="9" id="clive.c19.s9">It was evident that Hossein did not intend doing anything, at present; for, still stooping and gathering brushwood, he gradually withdrew farther and farther from the wall.</s> <s sid="10" id="clive.c19.s10">Then they saw him make his sticks into a bundle, put them on his shoulder, and walk away.</s> <s sid="11" id="clive.c19.s11">During the rest of the day, they saw no more of Hossein.</s> </p>
 
-<p pid="6" id="clive.c19.p6" type="speech"><s sid="12" id="clive.c19.s12"><qs/>"I will write,<alt-qs/>"<qe/><sss/> Charlie said, <sse/><qs/>"<alt-qe/>--fortunately I have a pencil--telling him that we can lower a light string down to the moat, if he can manage to get underneath with a cord which we can hoist up, and that he must have two disguises in readiness."<qe/></s> </p>
+<p pid="6" id="clive.c19.p6" type="speech"><s sid="12" id="clive.c19.s12"><qs/>"I will write,"<qe/><sss/> Charlie said, <sse/><qs/>"--fortunately I have a pencil--telling him that we can lower a light string down to the moat, if he can manage to get underneath with a cord which we can hoist up, and that he must have two disguises in readiness."<qe/></s> </p>
 
 <p pid="7" id="clive.c19.p7" type="speech"><s sid="13" id="clive.c19.s13"><qs/>"I don't think Hossein can read,"<qe/><sss/> Tim said, <sse/><qs/>"any more than I can, myself."<qe/></s> </p>
 
@@ -3179,7 +3179,7 @@
 
 <p pid="46" id="clive.c24.p46" type="speech"><s sid="157" id="clive.c24.s157"><qs/>"What is the matter?"<qe/></s> <s sid="158" id="clive.c24.s158">Charlie said, sitting up in his bed.</s> </p>
 
-<p pid="47" id="clive.c24.p47" type="speech"><s sid="159" id="clive.c24.s159"><qs/>"I do not know, sahib.</s> <s sid="160" id="clive.c24.s160">When I went to him, he did not move.</s> <s sid="161" id="clive.c24.s161">He was wide awake, and his eyes are staring.</s> <s sid="162" id="clive.c24.s162">When I went beside him, he shook his head a little, and said, 'S-s-s-h.'</s> <s sid="163" id="clive.c24.s163">He seems quite rigid, and is as pale as death."<qe/></s> </p>
+<p pid="47" id="clive.c24.p47" type="speech"><s sid="159" id="clive.c24.s159"><qs/>"I do not know, sahib.</s> <s sid="160" id="clive.c24.s160">When I went to him, he did not move.</s> <s sid="161" id="clive.c24.s161">He was wide awake, and his eyes are staring.</s> <s sid="162" id="clive.c24.s162">When I went beside him, he shook his head a little, and said, <alt-qs/>'S-s-s-h.'<alt-qe/></s> <s sid="163" id="clive.c24.s163">He seems quite rigid, and is as pale as death."<qe/></s> </p>
 
 <p pid="48" id="clive.c24.p48"><s sid="164" id="clive.c24.s164">Charlie leaped out, and hurried to Tim.</s> <s sid="165" id="clive.c24.s165">The latter was lying on the ground, in the next room.</s> <s sid="166" id="clive.c24.s166">He had carried off three or four cushions, from the rajah's divan, and had thrown these down, and had spread a rug over him.</s> <s sid="167" id="clive.c24.s167">He lay on his back, exactly as Hossein had described.</s> </p>
 

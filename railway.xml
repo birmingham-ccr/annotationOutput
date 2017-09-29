@@ -744,9 +744,9 @@
 
 <p pid="19" id="railway.c3.p19"><s sid="47" id="railway.c3.s47">One day Peter was going down to the village to get buns to celebrate the sensibleness of the Editor of the Children's Globe, when he met the Station Master.</s> </p>
 
-<p pid="20" id="railway.c3.p20"><s sid="48" id="railway.c3.s48">Peter felt very uncomfortable, for he had now had time to think over the affair of the coal-mine.</s> <s sid="49" id="railway.c3.s49">He did not like to say "Good morning" to the Station Master, as you usually do to anyone you meet on a lonely road, because he had a hot feeling, which spread even to his ears, that the Station Master might not care to speak to a person who had stolen coals.</s> <s sid="50" id="railway.c3.s50">'Stolen' is a nasty word, but Peter felt it was the right one.</s> <s sid="51" id="railway.c3.s51">So he looked down, and said Nothing.</s> </p>
+<p pid="20" id="railway.c3.p20" type="speech"><s sid="48" id="railway.c3.s48">Peter felt very uncomfortable, for he had now had time to think over the affair of the coal-mine.</s> <s sid="49" id="railway.c3.s49">He did not like to say <qs/>"Good morning"<qe/> to the Station Master, as you usually do to anyone you meet on a lonely road, because he had a hot feeling, which spread even to his ears, that the Station Master might not care to speak to a person who had stolen coals.</s> <s sid="50" id="railway.c3.s50">'Stolen' is a nasty word, but Peter felt it was the right one.</s> <s sid="51" id="railway.c3.s51">So he looked down, and said Nothing.</s> </p>
 
-<p pid="21" id="railway.c3.p21" type="speech"><s sid="52" id="railway.c3.s52">It was the Station Master who said "Good morning" as he passed by.</s> <s sid="53" id="railway.c3.s53">And Peter answered, <qs/>"Good morning."<qe/></s> <s sid="54" id="railway.c3.s54">Then he thought:--</s> </p>
+<p pid="21" id="railway.c3.p21" type="speech"><s sid="52" id="railway.c3.s52">It was the Station Master who said <qs/>"Good morning"<qe/> as he passed by.</s> <s sid="53" id="railway.c3.s53">And Peter answered, <qs/>"Good morning."<qe/></s> <s sid="54" id="railway.c3.s54">Then he thought:--</s> </p>
 
 <p pid="22" id="railway.c3.p22" type="speech"><s sid="55" id="railway.c3.s55"><qs/>"Perhaps he doesn't know who I am by daylight, or he wouldn't be so polite."<qe/></s> </p>
 
@@ -980,7 +980,7 @@
 
 <p pid="137" id="railway.c3.p137"><s sid="261" id="railway.c3.s261">"Will you give the parsel to the Station Master, because of us not knowing what train you come down by?</s> <s sid="262" id="railway.c3.s262">Say it is for Peter that was sorry about the coals and he will know all right.</s> </p>
 
-<p pid="138" id="railway.c3.p138" type="speech"><s sid="263" id="railway.c3.s263">"Roberta.</s> <s sid="264" id="railway.c3.s264">"Phyllis.</s> <s sid="265" id="railway.c3.s265"><qs/>"Peter."<qe/></s> </p>
+<p pid="138" id="railway.c3.p138" type="speech"><s sid="263" id="railway.c3.s263"><qs/>"Roberta.</s> <s sid="264" id="railway.c3.s264">"<qe/>Phyllis.</s> <s sid="265" id="railway.c3.s265"><qs/>"Peter."<qe/></s> </p>
 
 <p pid="139" id="railway.c3.p139"><s sid="266" id="railway.c3.s266">Then came the list of things the Doctor had ordered.</s> </p>
 
@@ -1665,7 +1665,7 @@
 
 <p pid="49" id="railway.c6.p49" type="speech"><s sid="91" id="railway.c6.s91"><qs/>"So it was them strawberries you come down for this afternoon, eh?"<qe/> said he.</s> </p>
 
-<p pid="50" id="railway.c6.p50" type="speech"><s sid="92" id="railway.c6.s92">This was an awkward moment for Phyllis.</s> <s sid="93" id="railway.c6.s93">To say "yes" would seem rude and greedy, and unkind to Perks.</s> <s sid="94" id="railway.c6.s94">But she knew if she said <qs/>"no,"<qe/> she would not be pleased with herself afterwards.</s> <s sid="95" id="railway.c6.s95">So--</s> </p>
+<p pid="50" id="railway.c6.p50" type="speech"><s sid="92" id="railway.c6.s92">This was an awkward moment for Phyllis.</s> <s sid="93" id="railway.c6.s93">To say <qs/>"yes"<qe/> would seem rude and greedy, and unkind to Perks.</s> <s sid="94" id="railway.c6.s94">But she knew if she said <qs/>"no,"<qe/> she would not be pleased with herself afterwards.</s> <s sid="95" id="railway.c6.s95">So--</s> </p>
 
 <p pid="51" id="railway.c6.p51" type="speech"><s sid="96" id="railway.c6.s96"><qs/>"Yes,"<qe/><sss/> she said, <sse/><qs/>"it was."<qe/></s> </p>
 
@@ -1691,7 +1691,7 @@
 
 <p pid="62" id="railway.c6.p62" type="speech"><s sid="123" id="railway.c6.s123"><qs/>"Hush.</s> <s sid="124" id="railway.c6.s124">Stop!</s> <s sid="125" id="railway.c6.s125">What's that?"<qe/></s> </p>
 
-<p pid="63" id="railway.c6.p63"><s sid="126" id="railway.c6.s126">"That" was a very odd noise indeed--a soft noise, but quite plainly to be heard through the sound of the wind in tree branches, and the hum and whir of the telegraph wires.</s> <s sid="127" id="railway.c6.s127">It was a sort of rustling, whispering sound.</s> <s sid="128" id="railway.c6.s128">As they listened it stopped, and then it began again.</s> </p>
+<p pid="63" id="railway.c6.p63" type="speech"><s sid="126" id="railway.c6.s126"><qs/>"That"<qe/> was a very odd noise indeed--a soft noise, but quite plainly to be heard through the sound of the wind in tree branches, and the hum and whir of the telegraph wires.</s> <s sid="127" id="railway.c6.s127">It was a sort of rustling, whispering sound.</s> <s sid="128" id="railway.c6.s128">As they listened it stopped, and then it began again.</s> </p>
 
 <p pid="64" id="railway.c6.p64"><s sid="129" id="railway.c6.s129">And this time it did not stop, but it grew louder and more rustling and rumbling.</s> </p>
 
@@ -1876,7 +1876,7 @@
 
 <p pid="13" id="railway.c7.p13"><s sid="49" id="railway.c7.s49">"Yours faithfully,</s> </p>
 
-<p pid="14" id="railway.c7.p14" type="speech"><s sid="50" id="railway.c7.s50">"Jabez Inglewood.</s> <s sid="51" id="railway.c7.s51"><qs/>"Secretary, Great Northern and Southern Railway Co."<qe/></s> </p>
+<p pid="14" id="railway.c7.p14" type="speech"><s sid="50" id="railway.c7.s50"><qs/>"Jabez Inglewood.</s> <s sid="51" id="railway.c7.s51">"<qe/>Secretary, Great Northern and Southern Railway Co."</s> </p>
 
 <p pid="15" id="railway.c7.p15"><s sid="52" id="railway.c7.s52">There never had been a prouder moment in the lives of the three children.</s> <s sid="53" id="railway.c7.s53">They rushed to Mother with the letter, and she also felt proud and said so, and this made the children happier than ever.</s> </p>
 
@@ -2118,7 +2118,7 @@
 
 <p pid="136" id="railway.c7.p136"><s sid="269" id="railway.c7.s269">But she was as gay as anybody when the endless French talking was over, when Peter had torn down to the village for buns and cakes, and the girls had got tea ready and taken it out into the garden.</s> </p>
 
-<p pid="137" id="railway.c7.p137"><s sid="270" id="railway.c7.s270">The old gentleman was most merry and delightful.</s> <s sid="271" id="railway.c7.s271">He seemed to be able to talk in French and English almost at the same moment, and Mother did nearly as well.</s> <s sid="272" id="railway.c7.s272">It was a delightful time.</s> <s sid="273" id="railway.c7.s273">Mother seemed as if she could not make enough fuss about the old gentleman, and she said yes at once when he asked if he might present some "goodies" to his little friends.</s> </p>
+<p pid="137" id="railway.c7.p137" type="speech"><s sid="270" id="railway.c7.s270">The old gentleman was most merry and delightful.</s> <s sid="271" id="railway.c7.s271">He seemed to be able to talk in French and English almost at the same moment, and Mother did nearly as well.</s> <s sid="272" id="railway.c7.s272">It was a delightful time.</s> <s sid="273" id="railway.c7.s273">Mother seemed as if she could not make enough fuss about the old gentleman, and she said yes at once when he asked if he might present some <qs/>"goodies"<qe/> to his little friends.</s> </p>
 
 <p pid="138" id="railway.c7.p138"><s sid="274" id="railway.c7.s274">The word was new to the children--but they guessed that it meant sweets, for the three large pink and green boxes, tied with green ribbon, which he took out of his bag, held unheard-of layers of beautiful chocolates.</s> </p>
 
@@ -3370,7 +3370,7 @@
 
 <p pid="149" id="railway.c11.p149" type="speech"><s sid="293" id="railway.c11.s293"><qs/>"Don't be a silly cuckoo,"<qe/><sss/> said Peter; <sse/><qs/>"I've got a candle end and matches, and--what's that?"<qe/></s> </p>
 
-<p pid="150" id="railway.c11.p150"><s sid="294" id="railway.c11.s294">"That" was a low, humming sound on the railway line, a trembling of the wires beside it, a buzzing, humming sound that grew louder and louder as they listened.</s> </p>
+<p pid="150" id="railway.c11.p150" type="speech"><s sid="294" id="railway.c11.s294"><qs/>"That"<qe/> was a low, humming sound on the railway line, a trembling of the wires beside it, a buzzing, humming sound that grew louder and louder as they listened.</s> </p>
 
 <p pid="151" id="railway.c11.p151" type="speech"><s sid="295" id="railway.c11.s295"><qs/>"It's a train,"<qe/> said Bobbie.</s> </p>
 
@@ -3507,7 +3507,7 @@
 
 <p pid="37" id="railway.c12.p37"><s sid="77" id="railway.c12.s77">Bobbie watched their dark figures and the little light of the little candle with an odd feeling of having come to the end of everything.</s> <s sid="78" id="railway.c12.s78">She knew now, she thought, what nuns who were bricked up alive in convent walls felt like.</s> <s sid="79" id="railway.c12.s79">Suddenly she gave herself a little shake.</s> </p>
 
-<p pid="38" id="railway.c12.p38" type="speech"><s sid="80" id="railway.c12.s80"><qs/>"Don't be a silly little girl,"<qe/> she said.</s> <s sid="81" id="railway.c12.s81">She was always very angry when anyone else called her a little girl, even if the adjective that went first was not "silly" but "nice" or "good" or <qs/>"clever."<qe/></s> <s sid="82" id="railway.c12.s82">And it was only when she was very angry with herself that she allowed Roberta to use that expression to Bobbie.</s> </p>
+<p pid="38" id="railway.c12.p38" type="speech"><s sid="80" id="railway.c12.s80"><qs/>"Don't be a silly little girl,"<qe/> she said.</s> <s sid="81" id="railway.c12.s81">She was always very angry when anyone else called her a little girl, even if the adjective that went first was not <qs/>"silly"<qe/><sss/> but <sse/><qs/>"nice"<qe/><sss/> or <sse/><qs/>"good"<qe/><sss/> or <sse/><qs/>"clever."<qe/></s> <s sid="82" id="railway.c12.s82">And it was only when she was very angry with herself that she allowed Roberta to use that expression to Bobbie.</s> </p>
 
 <p pid="39" id="railway.c12.p39"><s sid="83" id="railway.c12.s83">She fixed the little candle end on a broken brick near the red-jerseyed boy's feet.</s> <s sid="84" id="railway.c12.s84">Then she opened Peter's knife.</s> <s sid="85" id="railway.c12.s85">It was always hard to manage--a halfpenny was generally needed to get it open at all.</s> <s sid="86" id="railway.c12.s86">This time Bobbie somehow got it open with her thumbnail.</s> <s sid="87" id="railway.c12.s87">She broke the nail, and it hurt horribly.</s> <s sid="88" id="railway.c12.s88">Then she cut the boy's bootlace, and got the boot off.</s> <s sid="89" id="railway.c12.s89">She tried to pull off his stocking, but his leg was dreadfully swollen, and it did not seem to be the proper shape.</s> <s sid="90" id="railway.c12.s90">So she cut the stocking down, very slowly and carefully.</s> <s sid="91" id="railway.c12.s91">It was a brown, knitted stocking, and she wondered who had knitted it, and whether it was the boy's mother, and whether she was feeling anxious about him, and how she would feel when he was brought home with his leg broken.</s> <s sid="92" id="railway.c12.s92">When Bobbie had got the stocking off and saw the poor leg, she felt as though the tunnel was growing darker, and the ground felt unsteady, and nothing seemed quite real.</s> </p>
 
@@ -3585,7 +3585,7 @@
 
 <p pid="76" id="railway.c12.p76" type="speech"><s sid="150" id="railway.c12.s150"><qs/>"Let's hold hands,"<qe/> said the boy, and it was really rather good of him, because he was like most boys of his age and hated all material tokens of affection, such as kissing and holding of hands.</s> <s sid="151" id="railway.c12.s151">He called all such things <qs/>"pawings,"<qe/> and detested them.</s> </p>
 
-<p pid="77" id="railway.c12.p77"><s sid="152" id="railway.c12.s152">The darkness was more bearable to Bobbie now that her hand was held in the large rough hand of the red-jerseyed sufferer; and he, holding her little smooth hot paw, was surprised to find that he did not mind it so much as he expected.</s> <s sid="153" id="railway.c12.s153">She tried to talk, to amuse him, and "take his mind off" his sufferings, but it is very difficult to go on talking in the dark, and presently they found themselves in a silence, only broken now and then by a--</s> </p>
+<p pid="77" id="railway.c12.p77" type="speech"><s sid="152" id="railway.c12.s152">The darkness was more bearable to Bobbie now that her hand was held in the large rough hand of the red-jerseyed sufferer; and he, holding her little smooth hot paw, was surprised to find that he did not mind it so much as he expected.</s> <s sid="153" id="railway.c12.s153">She tried to talk, to amuse him, and <qs/>"take his mind off"<qe/> his sufferings, but it is very difficult to go on talking in the dark, and presently they found themselves in a silence, only broken now and then by a--</s> </p>
 
 <p pid="78" id="railway.c12.p78" type="speech"><s sid="154" id="railway.c12.s154"><qs/>"You all right, Bobbie?"<qe/></s> </p>
 
@@ -4317,7 +4317,7 @@
 
 <p pid="103" id="railway.c14.p103" type="speech"><s sid="220" id="railway.c14.s220"><qs/>"Yes,"<qe/><sss/> he said, <sse/><qs/>"it's all his doing.</s> <s sid="221" id="railway.c14.s221">Mother wrote and told me you had found out.</s> <s sid="222" id="railway.c14.s222">And she told me what you'd been to her.</s> <s sid="223" id="railway.c14.s223">My own little girl!"<qe/></s> <s sid="224" id="railway.c14.s224">They stopped a minute then.</s> </p>
 
-<p pid="104" id="railway.c14.p104"><s sid="225" id="railway.c14.s225">And now I see them crossing the field.</s> <s sid="226" id="railway.c14.s226">Bobbie goes into the house, trying to keep her eyes from speaking before her lips have found the right words to "tell Mother quite quietly" that the sorrow and the struggle and the parting are over and done, and that Father has come home.</s> </p>
+<p pid="104" id="railway.c14.p104" type="speech"><s sid="225" id="railway.c14.s225">And now I see them crossing the field.</s> <s sid="226" id="railway.c14.s226">Bobbie goes into the house, trying to keep her eyes from speaking before her lips have found the right words to <qs/>"tell Mother quite quietly"<qe/> that the sorrow and the struggle and the parting are over and done, and that Father has come home.</s> </p>
 
 <p pid="105" id="railway.c14.p105"><s sid="227" id="railway.c14.s227">I see Father walking in the garden, waiting--waiting.</s> <s sid="228" id="railway.c14.s228">He is looking at the flowers, and each flower is a miracle to eyes that all these months of Spring and Summer have seen only flagstones and gravel and a little grudging grass.</s> <s sid="229" id="railway.c14.s229">But his eyes keep turning towards the house.</s> <s sid="230" id="railway.c14.s230">And presently he leaves the garden and goes to stand outside the nearest door.</s> <s sid="231" id="railway.c14.s231">It is the back door, and across the yard the swallows are circling.</s> <s sid="232" id="railway.c14.s232">They are getting ready to fly away from cold winds and keen frost to the land where it is always summer.</s> <s sid="233" id="railway.c14.s233">They are the same swallows that the children built the little clay nests for.</s> </p>
 

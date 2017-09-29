@@ -368,9 +368,9 @@
 
 <p pid="61" id="wind.c3.p61" type="speech"><s sid="132" id="wind.c3.s132"><qs/>"Stop, stop!"<qe/> he cried.</s> <s sid="133" id="wind.c3.s133"><qs/>"Please, I can't jump like that."<qe/></s> </p>
 
-<p pid="62" id="wind.c3.p62"><s sid="134" id="wind.c3.s134">"You don't try" said North Wind, who from the top looked down a foot taller than before.</s> </p>
+<p pid="62" id="wind.c3.p62" type="speech"><s sid="134" id="wind.c3.s134"><qs/>"You don't try"<qe/> said North Wind, who from the top looked down a foot taller than before.</s> </p>
 
-<p pid="63" id="wind.c3.p63"><s sid="135" id="wind.c3.s135">"Give me your hand again, and I will, try" said Diamond.</s> </p>
+<p pid="63" id="wind.c3.p63" type="speech"><s sid="135" id="wind.c3.s135"><qs/>"Give me your hand again, and I will, try"<qe/> said Diamond.</s> </p>
 
 <p pid="64" id="wind.c3.p64"><s sid="136" id="wind.c3.s136">She reached down, Diamond laid hold of her hand, gave a great spring, and stood beside her.</s> </p>
 
@@ -665,7 +665,7 @@
 
 <p pid="122" id="wind.c4.p122"><s sid="234" id="wind.c4.s234">Diamond got very angry.</s> <s sid="235" id="wind.c4.s235">But he remembered that even if she did box his ears, he musn't box hers again, for she was a girl, and all that boys must do, if girls are rude, is to go away and leave them.</s> <s sid="236" id="wind.c4.s236">So he went in at the door.</s> </p>
 
-<p pid="123" id="wind.c4.p123"><s sid="237" id="wind.c4.s237">"Good-bye, mister" said the girl.</s> </p>
+<p pid="123" id="wind.c4.p123" type="speech"><s sid="237" id="wind.c4.s237"><qs/>"Good-bye, mister"<qe/> said the girl.</s> </p>
 
 <p pid="124" id="wind.c4.p124"><s sid="238" id="wind.c4.s238">This brought Diamond to his senses.</s> </p>
 
@@ -850,7 +850,7 @@
 
 <p pid="82" id="wind.c5.p82" type="speech"><s sid="182" id="wind.c5.s182"><qs/>"Not very.</s> <s sid="183" id="wind.c5.s183">But I see it is no use.</s> <s sid="184" id="wind.c5.s184">I wasn't sent to tell you, and so I can't tell you.</s> <s sid="185" id="wind.c5.s185">I must be off.</s> <s sid="186" id="wind.c5.s186">Only first just look at the man."<qe/></s> </p>
 
-<p pid="83" id="wind.c5.p83" type="speech"><s sid="187" id="wind.c5.s187">"He's not much of a rower" said Diamond--<qs/>"paddling first with one fin and then with the other."<qe/></s> </p>
+<p pid="83" id="wind.c5.p83" type="speech"><s sid="187" id="wind.c5.s187"><qs/>"He's not much of a rower"<qe/><sss/> said Diamond--<sse/><qs/>"paddling first with one fin and then with the other."<qe/></s> </p>
 
 <p pid="84" id="wind.c5.p84" type="speech"><s sid="188" id="wind.c5.s188"><qs/>"Now look here!"<qe/> said North Wind.</s> </p>
 
@@ -1254,7 +1254,7 @@
 
 <p pid="5" id="wind.c9.p5" type="speech"><s sid="10" id="wind.c9.s10"><qs/>"There!</s> <s sid="11" id="wind.c9.s11">I told you,"<qe/> said his father and mother both at once.</s> </p>
 
-<p pid="6" id="wind.c9.p6"><s sid="12" id="wind.c9.s12">"The child's very poorly" added his mother.</s> </p>
+<p pid="6" id="wind.c9.p6" type="speech"><s sid="12" id="wind.c9.s12"><qs/>"The child's very poorly"<qe/> added his mother.</s> </p>
 
 <p pid="7" id="wind.c9.p7" type="speech"><s sid="13" id="wind.c9.s13"><qs/>"The child's quite well,"<qe/> added his father.</s> </p>
 
@@ -1456,7 +1456,7 @@
 
 <p pid="106" id="wind.c9.p106" type="speech"><s sid="206" id="wind.c9.s206"><qs/>"In spite of a north wind--yes,"<qe/> supplemented Diamond.</s> </p>
 
-<p pid="107" id="wind.c9.p107" type="speech"><s sid="207" id="wind.c9.s207">"Now, I do think you must be stupid, my dear" said North Wind.</s> <s sid="208" id="wind.c9.s208"><qs/>"Suppose the north wind did not blow where would he be then?"<qe/></s> </p>
+<p pid="107" id="wind.c9.p107" type="speech"><s sid="207" id="wind.c9.s207"><qs/>"Now, I do think you must be stupid, my dear"<qe/> said North Wind.</s> <s sid="208" id="wind.c9.s208"><qs/>"Suppose the north wind did not blow where would he be then?"<qe/></s> </p>
 
 <p pid="108" id="wind.c9.p108" type="speech"><s sid="209" id="wind.c9.s209"><qs/>"Why then the south wind would carry him."<qe/></s> </p>
 
@@ -1911,7 +1911,7 @@
 
 <p pid="10" id="wind.c14.p10" type="speech"><s sid="27" id="wind.c14.s27"><qs/>"He ain't a Hansom horse,"<qe/> said Diamond's father indignantly.</s> </p>
 
-<p pid="11" id="wind.c14.p11"><s sid="28" id="wind.c14.s28">"Well, you're right.</s> <s sid="29" id="wind.c14.s29">He ain't handsome, but he's a good un" said his owner.</s> </p>
+<p pid="11" id="wind.c14.p11" type="speech"><s sid="28" id="wind.c14.s28"><qs/>"Well, you're right.</s> <s sid="29" id="wind.c14.s29">He ain't handsome, but he's a good un"<qe/> said his owner.</s> </p>
 
 <p pid="12" id="wind.c14.p12" type="speech"><s sid="30" id="wind.c14.s30"><qs/>"Who says he ain't handsome?</s> <s sid="31" id="wind.c14.s31">He's one of the handsomest horses a gentleman's coachman ever druv,"<qe/><sls/> said Diamond's father; remarking to himself under his breath--<sle/><qs/>"though I says it as shouldn't"<qe/>--for he did not feel inclined all at once to confess that his own old horse could have sunk so low.</s> </p>
 
@@ -1942,7 +1942,7 @@
 
 <p pid="3" id="wind.c15.p3" type="speech"><s sid="21" id="wind.c15.s21"><qs/>"What nice bread and butter this is!"<qe/> said Diamond.</s> </p>
 
-<p pid="4" id="wind.c15.p4" type="speech"><s sid="22" id="wind.c15.s22">"I'm glad you like it, my dear" said his father.</s> <s sid="23" id="wind.c15.s23"><qs/>"I bought the butter myself at the little shop round the corner."<qe/></s> </p>
+<p pid="4" id="wind.c15.p4" type="speech"><s sid="22" id="wind.c15.s22"><qs/>"I'm glad you like it, my dear"<qe/> said his father.</s> <s sid="23" id="wind.c15.s23"><qs/>"I bought the butter myself at the little shop round the corner."<qe/></s> </p>
 
 <p pid="5" id="wind.c15.p5" type="speech"><s sid="24" id="wind.c15.s24"><qs/>"It's very nice, thank you, father.</s> <s sid="25" id="wind.c15.s25">Oh, there's baby waking!</s> <s sid="26" id="wind.c15.s26">I'll take him."<qe/></s> </p>
 
@@ -2076,7 +2076,7 @@
 
 <p pid="2" id="wind.c17.p2"><s sid="11" id="wind.c17.s11">One day Jack gave him a curry-comb and a brush to try his hand upon old Diamond's coat.</s> <s sid="12" id="wind.c17.s12">He used them so deftly, so gently, and yet so thoroughly, as far as he could reach, that the man could not help admiring him.</s> </p>
 
-<p pid="3" id="wind.c17.p3" type="speech"><s sid="13" id="wind.c17.s13">"You must make haste and, grow" he said.</s> <s sid="14" id="wind.c17.s14"><qs/>"It won't do to have a horse's belly clean and his back dirty, you know."<qe/></s> </p>
+<p pid="3" id="wind.c17.p3" type="speech"><s sid="13" id="wind.c17.s13"><qs/>"You must make haste and, grow"<qe/> he said.</s> <s sid="14" id="wind.c17.s14"><qs/>"It won't do to have a horse's belly clean and his back dirty, you know."<qe/></s> </p>
 
 <p pid="4" id="wind.c17.p4" type="speech"><s sid="15" id="wind.c17.s15"><qs/>"Give me a leg,"<qe/> said Diamond, and in a moment he was on the old horse's back with the comb and brush.</s> <s sid="16" id="wind.c17.s16">He sat on his withers, and reaching forward as he ate his hay, he curried and he brushed, first at one side of his neck, and then at the other.</s> <s sid="17" id="wind.c17.s17">When that was done he asked for a dressing-comb, and combed his mane thoroughly.</s> <s sid="18" id="wind.c17.s18">Then he pushed himself on to his back, and did his shoulders as far down as he could reach.</s> <s sid="19" id="wind.c17.s19">Then he sat on his croup, and did his back and sides; then he turned around like a monkey, and attacked his hind-quarters, and combed his tail.</s> <s sid="20" id="wind.c17.s20">This last was not so easy to manage, for he had to lift it up, and every now and then old Diamond would whisk it out of his hands, and once he sent the comb flying out of the stable door, to the great amusement of the men.</s> <s sid="21" id="wind.c17.s21">But Jack fetched it again, and Diamond began once more, and did not leave off until he had done the whole business fairly well, if not in a first-rate, experienced fashion.</s> <s sid="22" id="wind.c17.s22">All the time the old horse went on eating his hay, and, but with an occasional whisk of his tail when Diamond tickled or scratched him, took no notice of the proceeding.</s> <s sid="23" id="wind.c17.s23">But that was all a pretence, for he knew very well who it was that was perched on his back, and rubbing away at him with the comb and the brush.</s> <s sid="24" id="wind.c17.s24">So he was quite pleased and proud, and perhaps said to himself something like this--</s> </p>
 
@@ -2148,7 +2148,7 @@
 
 <p pid="38" id="wind.c17.p38" type="speech"><s sid="104" id="wind.c17.s104"><qs/>"Poor things!"<qe/> said the mother.</s> <s sid="105" id="wind.c17.s105"><qs/>"it's worse for them than it is for us.</s> <s sid="106" id="wind.c17.s106">You see they've been used to such grand things, and for them to come down to a little poky house like that--it breaks my heart to think of it."<qe/></s> </p>
 
-<p pid="39" id="wind.c17.p39" type="speech"><s sid="107" id="wind.c17.s107">"I don't know" said Diamond thoughtfully, <qs/>"whether Mrs. Coleman had bells on her toes."<qe/></s> </p>
+<p pid="39" id="wind.c17.p39" type="speech"><s sid="107" id="wind.c17.s107"><qs/>"I don't know"<qe/><sss/> said Diamond thoughtfully, <sse/><qs/>"whether Mrs. Coleman had bells on her toes."<qe/></s> </p>
 
 <p pid="40" id="wind.c17.p40" type="speech"><s sid="108" id="wind.c17.s108"><qs/>"What do you mean, child?"<qe/> said his mother.</s> </p>
 
@@ -2505,7 +2505,7 @@
 
 <p pid="62" id="wind.c20.p62" type="speech"><s sid="78" id="wind.c20.s78"><qs/>"Why do you hustle and jostle and bother?</s> <s sid="79" id="wind.c20.s79">Off with you all!</s> <s sid="80" id="wind.c20.s80">Take me back to my mother."<qe/></s> </p>
 
-<p pid="63" id="wind.c20.p63"><s sid="81" id="wind.c20.s81">The sunset stood at the gates of the west.</s> <s sid="82" id="wind.c20.s82">"Follow me, follow me" came from Birdie Brown's breast.</s> </p>
+<p pid="63" id="wind.c20.p63" type="speech"><s sid="81" id="wind.c20.s81">The sunset stood at the gates of the west.</s> <s sid="82" id="wind.c20.s82"><qs/>"Follow me, follow me"<qe/> came from Birdie Brown's breast.</s> </p>
 
 <p pid="64" id="wind.c20.p64" type="speech"><s sid="83" id="wind.c20.s83"><qs/>"I am going that way as fast as I can,"<qe/> Said the brook, as it sank and turned and ran.</s> </p>
 
@@ -2606,7 +2606,7 @@
 
 <p pid="32" id="wind.c21.p32" type="speech"><s sid="60" id="wind.c21.s60"><qs/>"What do you want there, my small kid?</s> <s sid="61" id="wind.c21.s61">It ain't where you was bred, I guess."<qe/></s> </p>
 
-<p pid="33" id="wind.c21.p33" type="speech"><s sid="62" id="wind.c21.s62">"No sir" answered Diamond.</s> <s sid="63" id="wind.c21.s63"><qs/>"I live in Bloomsbury."<qe/></s> </p>
+<p pid="33" id="wind.c21.p33" type="speech"><s sid="62" id="wind.c21.s62"><qs/>"No sir"<qe/> answered Diamond.</s> <s sid="63" id="wind.c21.s63"><qs/>"I live in Bloomsbury."<qe/></s> </p>
 
 <p pid="34" id="wind.c21.p34" type="speech"><s sid="64" id="wind.c21.s64"><qs/>"That's a long way off,"<qe/> said the policeman.</s> </p>
 
@@ -2672,7 +2672,7 @@
 
 <p pid="65" id="wind.c21.p65"><s sid="132" id="wind.c21.s132">Diamond turned and sat down on the doorstep, thinking with himself that the tall gentleman must either come in or come out, and he was therefore in the best possible position for finding him.</s> <s sid="133" id="wind.c21.s133">He had not waited long before the door opened again; but when he looked round, it was only the servant once more.</s> </p>
 
-<p pid="66" id="wind.c21.p66" type="speech"><s sid="134" id="wind.c21.s134">"Get, away" he said.</s> <s sid="135" id="wind.c21.s135"><qs/>"What are you doing on the doorstep?"<qe/></s> </p>
+<p pid="66" id="wind.c21.p66" type="speech"><s sid="134" id="wind.c21.s134"><qs/>"Get, away"<qe/> he said.</s> <s sid="135" id="wind.c21.s135"><qs/>"What are you doing on the doorstep?"<qe/></s> </p>
 
 <p pid="67" id="wind.c21.p67" type="speech"><s sid="136" id="wind.c21.s136"><qs/>"Waiting for Mr. Raymond,"<qe/> answered Diamond, getting up.</s> </p>
 
@@ -2686,7 +2686,7 @@
 
 <p pid="72" id="wind.c21.p72" type="speech"><s sid="141" id="wind.c21.s141"><qs/>"I don't know, sir.</s> <s sid="142" id="wind.c21.s142">An imperent little boy as will sit on the doorstep."<qe/></s> </p>
 
-<p pid="73" id="wind.c21.p73" type="speech"><s sid="143" id="wind.c21.s143">"Please sir" said Diamond, <qs/>"he told me you weren't at home, and I sat down to wait for you."<qe/></s> </p>
+<p pid="73" id="wind.c21.p73" type="speech"><s sid="143" id="wind.c21.s143"><qs/>"Please sir"<qe/><sss/> said Diamond, <sse/><qs/>"he told me you weren't at home, and I sat down to wait for you."<qe/></s> </p>
 
 <p pid="74" id="wind.c21.p74" type="speech"><s sid="144" id="wind.c21.s144"><qs/>"Eh, what!"<qe/> said Mr. Raymond.</s> <s sid="145" id="wind.c21.s145"><qs/>"John!</s> <s sid="146" id="wind.c21.s146">John!</s> <s sid="147" id="wind.c21.s147">This won't do.</s> <s sid="148" id="wind.c21.s148">Is it a habit of yours to turn away my visitors?</s> <s sid="149" id="wind.c21.s149">There'll be some one else to turn away, I'm afraid, if I find any more of this kind of thing.</s> <s sid="150" id="wind.c21.s150">Come in, my little man.</s> <s sid="151" id="wind.c21.s151">I suppose you've come to claim your sixpence?"<qe/></s> </p>
 
@@ -2885,7 +2885,11 @@
 
 <p pid="32" id="wind.c24.p32" type="speech"><s sid="77" id="wind.c24.s77"><qs/>"Are you the driver of this cab?"<qe/> he asked.</s> </p>
 
-<p pid="33" id="wind.c24.p33" type="speech" form="extended" position="beginning"><s sid="78" id="wind.c24.s78"><qs/>"Yes, sir" said Diamond, showing his badge, of which, he was proud.</s> </p><p pid="34" id="wind.c24.p34" type="speech" form="extended" position="end"><s sid="79" id="wind.c24.s79">"You're the youngest cabman I ever saw.</s> <s sid="80" id="wind.c24.s80">How am I to know you won't break all my bones?"<qe/></s> </p><p pid="35" id="wind.c24.p35" type="speech"><s sid="81" id="wind.c24.s81"><qs/>"I would rather break all my own,"<qe/> said Diamond.</s> <s sid="82" id="wind.c24.s82"><qs/>"But if you're afraid, never mind me; I shall soon get another fare."<qe/></s> </p>
+<p pid="33" id="wind.c24.p33" type="speech"><s sid="78" id="wind.c24.s78"><qs/>"Yes, sir"<qe/> said Diamond, showing his badge, of which, he was proud.</s> </p>
+
+<p pid="34" id="wind.c24.p34" type="speech"><s sid="79" id="wind.c24.s79"><qs/>"You're the youngest cabman I ever saw.</s> <s sid="80" id="wind.c24.s80">How am I to know you won't break all my bones?"<qe/></s> </p>
+
+<p pid="35" id="wind.c24.p35" type="speech"><s sid="81" id="wind.c24.s81"><qs/>"I would rather break all my own,"<qe/> said Diamond.</s> <s sid="82" id="wind.c24.s82"><qs/>"But if you're afraid, never mind me; I shall soon get another fare."<qe/></s> </p>
 
 <p pid="36" id="wind.c24.p36" type="speech"><s sid="83" id="wind.c24.s83"><qs/>"I'll risk it,"<qe/> said the gentleman; and, opening the door himself, he jumped in.</s> </p>
 
@@ -3139,7 +3143,7 @@
 
 <p pid="15" id="wind.c26.p15" type="speech"><s sid="43" id="wind.c26.s43"><qs/>"If you didn't mind taking me to Chiswick, I should be able to pay you when we got there.</s> <s sid="44" id="wind.c26.s44">It's a long way, but you shall have the whole fare from the Docks--and something over."<qe/></s> </p>
 
-<p pid="16" id="wind.c26.p16" type="speech"><s sid="45" id="wind.c26.s45">"Very well, sir" said Diamond.</s> <s sid="46" id="wind.c26.s46"><qs/>"I shall be most happy."<qe/></s> </p>
+<p pid="16" id="wind.c26.p16" type="speech"><s sid="45" id="wind.c26.s45"><qs/>"Very well, sir"<qe/> said Diamond.</s> <s sid="46" id="wind.c26.s46"><qs/>"I shall be most happy."<qe/></s> </p>
 
 <p pid="17" id="wind.c26.p17"><s sid="47" id="wind.c26.s47">He was just clambering up again, when the gentleman put his head out of the window and said--</s> </p>
 
@@ -3161,7 +3165,7 @@
 
 <p pid="26" id="wind.c26.p26" type="speech"><s sid="90" id="wind.c26.s90"><qs/>"Tell Miss Coleman.</s> <s sid="91" id="wind.c26.s91">It's Miss Coleman he wants to see."<qe/></s> </p>
 
-<p pid="27" id="wind.c26.p27" type="speech"><s sid="92" id="wind.c26.s92">"I don't know" said the maid.</s> <s sid="93" id="wind.c26.s93"><qs/>"He don't look much like a gentleman."<qe/></s> </p>
+<p pid="27" id="wind.c26.p27" type="speech"><s sid="92" id="wind.c26.s92"><qs/>"I don't know"<qe/> said the maid.</s> <s sid="93" id="wind.c26.s93"><qs/>"He don't look much like a gentleman."<qe/></s> </p>
 
 <p pid="28" id="wind.c26.p28" type="speech"><s sid="94" id="wind.c26.s94"><qs/>"He is, though; and I know him, and so does Miss Coleman."<qe/></s> </p>
 
@@ -3381,7 +3385,7 @@
 
 <p pid="65" id="wind.c28.p65" type="speech"><s sid="223" id="wind.c28.s223"><qs/>"What do you want?"<qe/> she asked.</s> </p>
 
-<p pid="66" id="wind.c28.p66"><s sid="224" id="wind.c28.s224">"I beg your pardon.</s> <s sid="225" id="wind.c28.s225">I thought--the lightning" said the prince, hesitating.</s> </p>
+<p pid="66" id="wind.c28.p66" type="speech"><s sid="224" id="wind.c28.s224"><qs/>"I beg your pardon.</s> <s sid="225" id="wind.c28.s225">I thought--the lightning"<qe/> said the prince, hesitating.</s> </p>
 
 <p pid="67" id="wind.c28.p67" type="speech"><s sid="226" id="wind.c28.s226"><qs/>"There's nothing the matter,"<qe/> said the princess, waving him off rather haughtily.</s> </p>
 
@@ -4104,7 +4108,7 @@
 
 <p pid="54" id="wind.c33.p54" type="speech"><s sid="102" id="wind.c33.s102"><qs/>"I'm sorry to hear such a statement,"<qe/> said Mr. Raymond.</s> <s sid="103" id="wind.c33.s103"><qs/>"Hasn't he been of service to you?"<qe/></s> </p>
 
-<p pid="55" id="wind.c33.p55"><s sid="104" id="wind.c33.s104">"Not much, not with his lameness"</s> </p>
+<p pid="55" id="wind.c33.p55" type="speech"><s sid="104" id="wind.c33.s104"><qs/>"Not much, not with his lameness"<qe/></s> </p>
 
 <p pid="56" id="wind.c33.p56" type="speech"><s sid="105" id="wind.c33.s105"><qs/>"Ah!"<qe/><sss/> said Mr. Raymond, hastily--<sse/><qs/>"you've been laming him--have you?</s> <s sid="106" id="wind.c33.s106">That accounts for it.</s> <s sid="107" id="wind.c33.s107">I see, I see."<qe/></s> </p>
 
@@ -4603,7 +4607,11 @@
 
 <p pid="34" id="wind.c36.p34" type="speech"><s sid="95" id="wind.c36.s95"><qs/>"What does it matter?"<qe/> returned North Wind.</s> </p>
 
-<p pid="35" id="wind.c36.p35" type="speech" form="extended" position="beginning"><s sid="96" id="wind.c36.s96"><qs/>"I should, cry" said Diamond.</s> </p><p pid="36" id="wind.c36.p36" type="speech" form="extended" position="end"><s sid="97" id="wind.c36.s97">"But why should you cry?</s> <s sid="98" id="wind.c36.s98">The dream, if it is a dream, is a pleasant one--is it not?"<qe/></s> </p><p pid="37" id="wind.c36.p37" type="speech"><s sid="99" id="wind.c36.s99"><qs/>"That's just why I want it to be true."<qe/></s> </p>
+<p pid="35" id="wind.c36.p35" type="speech"><s sid="96" id="wind.c36.s96"><qs/>"I should, cry"<qe/> said Diamond.</s> </p>
+
+<p pid="36" id="wind.c36.p36" type="speech"><s sid="97" id="wind.c36.s97"><qs/>"But why should you cry?</s> <s sid="98" id="wind.c36.s98">The dream, if it is a dream, is a pleasant one--is it not?"<qe/></s> </p>
+
+<p pid="37" id="wind.c36.p37" type="speech"><s sid="99" id="wind.c36.s99"><qs/>"That's just why I want it to be true."<qe/></s> </p>
 
 <p pid="38" id="wind.c36.p38" type="speech"><s sid="100" id="wind.c36.s100"><qs/>"Have you forgotten what you said to Nanny about her dream?"<qe/></s> </p>
 
@@ -4711,7 +4719,7 @@
 
 <p pid="90" id="wind.c36.p90" type="speech"><s sid="214" id="wind.c36.s214"><qs/>"Very well; if you wish it,"<qe/> yielded Diamond with a sigh.</s> </p>
 
-<p pid="91" id="wind.c36.p91" type="speech"><s sid="215" id="wind.c36.s215">"You are a dear good, boy" said North Wind.</s> <s sid="216" id="wind.c36.s216"><qs/>"I will come for you again to-morrow night and take you out for a longer time.</s> <s sid="217" id="wind.c36.s217">We shall make a little journey together, in fact, we shall start earlier, and as the moon will be later, we shall have a little moonlight all the way."<qe/></s> </p>
+<p pid="91" id="wind.c36.p91" type="speech"><s sid="215" id="wind.c36.s215"><qs/>"You are a dear good, boy"<qe/> said North Wind.</s> <s sid="216" id="wind.c36.s216"><qs/>"I will come for you again to-morrow night and take you out for a longer time.</s> <s sid="217" id="wind.c36.s217">We shall make a little journey together, in fact, we shall start earlier, and as the moon will be later, we shall have a little moonlight all the way."<qe/></s> </p>
 
 <p pid="92" id="wind.c36.p92"><s sid="218" id="wind.c36.s218">She rose, and swept over the meadow and the trees.</s> <s sid="219" id="wind.c36.s219">In a few moments the Mound appeared below them.</s> <s sid="220" id="wind.c36.s220">She sank a little, and floated in at the window of Diamond's room.</s> <s sid="221" id="wind.c36.s221">There she laid him on his bed, covered him over, and in a moment he was lapt in a dreamless sleep.</s> </p>
 

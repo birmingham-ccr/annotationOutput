@@ -741,7 +741,7 @@
 
 <p pid="4" id="carved.c6.p4" type="speech"><s sid="9" id="carved.c6.s9"><qs/>"I am not eleven, Miss Broom,"<qe/> I said.</s> <s sid="10" id="carved.c6.s10"><qs/>"I am only nine past."<qe/></s> </p>
 
-<p pid="5" id="carved.c6.p5"><s sid="11" id="carved.c6.s11">[Illustration:</s> <s sid="12" id="carved.c6.s12">"LITTLE GIRLS MUST NOT CONTRADICT, AND MUST NOT BE RUDE."]</s> </p>
+<p pid="5" id="carved.c6.p5" type="speech"><s sid="11" id="carved.c6.s11">[Illustration:</s> <s sid="12" id="carved.c6.s12"><qs/>"LITTLE GIRLS MUST NOT CONTRADICT, AND MUST NOT BE RUDE."<qe/>]</s> </p>
 
 <p pid="6" id="carved.c6.p6" type="speech"><s sid="13" id="carved.c6.s13"><qs/>"Little girls must not contradict, and must not be rude,"<qe/> was the reply.</s> </p>
 
@@ -893,7 +893,7 @@
 
 <p pid="80" id="carved.c6.p80" type="speech"><s sid="193" id="carved.c6.s193"><qs/>"Then why have you come to school?"<qe/> inquired Harriet.</s> </p>
 
-<p pid="81" id="carved.c6.p81" type="speech"><s sid="194" id="carved.c6.s194"><qs/>"Because"<qe/>--"because father and mamma have to go away," I was going to say, when suddenly the full meaning of the words seemed to rush over me.</s> <s sid="195" id="carved.c6.s195">A strange giddy feeling made me shut my eyes and I caught hold of Harriet's arm.</s> </p>
+<p pid="81" id="carved.c6.p81" type="speech"><s sid="194" id="carved.c6.s194"><qs/>"Because"<qe/>--<qs/>"because father and mamma have to go away,"<qe/> I was going to say, when suddenly the full meaning of the words seemed to rush over me.</s> <s sid="195" id="carved.c6.s195">A strange giddy feeling made me shut my eyes and I caught hold of Harriet's arm.</s> </p>
 
 <p pid="82" id="carved.c6.p82" type="speech"><s sid="196" id="carved.c6.s196"><qs/>"What's the matter?"<qe/> she said wonderingly, as I opened my eyes and looked at her again.</s> </p>
 
@@ -1026,7 +1026,7 @@
 
 <p pid="47" id="carved.c7.p47"><s sid="120" id="carved.c7.s120">I do not think I cried loudly.</s> <s sid="121" id="carved.c7.s121">I only remember the terrible sort of shaking that went through me--I had never felt anything like it in my life--and I remember trying to choke down my sobs for fear of Miss Broom hearing me and coming back.</s> </p>
 
-<p pid="48" id="carved.c7.p48"><s sid="122" id="carved.c7.s122">[Illustration:</s> <s sid="123" id="carved.c7.s123">"MY POOR LITTLE GIRL, WHAT _IS_ THE MATTER?"]</s> </p>
+<p pid="48" id="carved.c7.p48" type="speech"><s sid="122" id="carved.c7.s122">[Illustration:</s> <s sid="123" id="carved.c7.s123"><qs/>"MY POOR LITTLE GIRL, WHAT _IS_ THE MATTER?"<qe/>]</s> </p>
 
 <p pid="49" id="carved.c7.p49"><s sid="124" id="carved.c7.s124">Some one opened the door and looked in.</s> <s sid="125" id="carved.c7.s125">I tried to be perfectly quiet.</s> <s sid="126" id="carved.c7.s126">But the some one, whoever it was, had seen and perhaps heard me, for she came forward, and in another moment I felt an arm steal gently round me, while a kind voice said softly, very softly,</s> </p>
 

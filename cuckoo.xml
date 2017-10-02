@@ -322,7 +322,7 @@
 
 <p pid="6" id="cuckoo.c3.p6"><s sid="12" id="cuckoo.c3.s12">It looked darker than the great saloon, for it had but one window.</s> <s sid="13" id="cuckoo.c3.s13">But through the uncovered space at the top of this window there penetrated some brilliant moonbeams, one of which lighted up brightly the face of the clock with its queer over-hanging eaves.</s> </p>
 
-<p pid="7" id="cuckoo.c3.p7"><s sid="14" id="cuckoo.c3.s14">[Illustration:</s> <s sid="15" id="cuckoo.c3.s15">"WHY WON'T YOU SPEAK TO ME?"]</s> </p>
+<p pid="7" id="cuckoo.c3.p7" type="speech"><s sid="14" id="cuckoo.c3.s14">[Illustration:</s> <s sid="15" id="cuckoo.c3.s15"><qs/>"WHY WON'T YOU SPEAK TO ME?"<qe/>]</s> </p>
 
 <p pid="8" id="cuckoo.c3.p8"><s sid="16" id="cuckoo.c3.s16">Griselda approached it and stood below, looking up.</s> </p>
 
@@ -1766,7 +1766,7 @@
 
 <p pid="132" id="cuckoo.c9.p132" type="speech"><s sid="299" id="cuckoo.c9.s299"><qs/>"You don't care to go back to the mandarins, or the butterflies, I suppose?"<qe/> asked the cuckoo.</s> </p>
 
-<p pid="133" id="cuckoo.c9.p133"><s sid="300" id="cuckoo.c9.s300">[Illustration:</s> <s sid="301" id="cuckoo.c9.s301">"TIRED!</s> <s sid="302" id="cuckoo.c9.s302">HOW COULD I BE TIRED, CUCKOO?"]</s> </p>
+<p pid="133" id="cuckoo.c9.p133" type="speech"><s sid="300" id="cuckoo.c9.s300">[Illustration:</s> <s sid="301" id="cuckoo.c9.s301"><qs/>"TIRED!</s> <s sid="302" id="cuckoo.c9.s302">HOW COULD I BE TIRED, CUCKOO?"<qe/>]</s> </p>
 
 <p pid="134" id="cuckoo.c9.p134" type="speech"><s sid="303" id="cuckoo.c9.s303"><qs/>"No, thank you,"<qe/><sss/> said Griselda; <sse/><qs/>"I'd like something new.</s> <s sid="304" id="cuckoo.c9.s304">And I'm not sure that I care for seeing any more countries of that kind, unless you could take me to the _real_ fairyland."<qe/></s> </p>
 

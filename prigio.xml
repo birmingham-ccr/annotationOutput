@@ -12,11 +12,11 @@
 
 <p pid="4" id="prigio.c0.p4"><s>It may surprise the young reader that princes like Prigio and Ricardo, whose feet were ever in the stirrup, and whose lances were always in rest, should have descended from the family of the Hypnotidae, who were remarkably lazy and peaceful.</s> <s>But these heroes doubtless inherited the spirit of their great ancestress, whose story is necessary to be known.</s> <s>On leaving his native realm during the Crusades, in search of some secure asylum, the founder of the Pantouflian monarchy landed in the island of Cyprus, where, during the noon-tide heat, he lay down to sleep in a cave.</s> <s>Now in this cave dwelt a dragon of enormous size and unamiable character.</s> <s>What was the horror of the exiled prince when he was aroused from slumber by the fiery breath of the dragon, and felt its scaly coils about him!</s> </p>
 
-<p pid="5" id="prigio.c0.p5"><s>"Oh, hang your practical jokes!" exclaimed the prince, imagining that some of his courtiers were playing a prank on him.</s> </p>
+<p pid="5" id="prigio.c0.p5" type="speech"><s><qs/>"Oh, hang your practical jokes!"<qe/> exclaimed the prince, imagining that some of his courtiers were playing a prank on him.</s> </p>
 
-<p pid="6" id="prigio.c0.p6"><s>"Do you call _this_ a joke?" asked the dragon, twisting its forked tail into a line with his royal highness's eye.</s> </p>
+<p pid="6" id="prigio.c0.p6" type="speech"><s><qs/>"Do you call _this_ a joke?"<qe/> asked the dragon, twisting its forked tail into a line with his royal highness's eye.</s> </p>
 
-<p pid="7" id="prigio.c0.p7"><s>"Do take that thing away," said the prince, "and let a man have his nap peacefully.''</s> </p>
+<p pid="7" id="prigio.c0.p7" type="speech"><s><qs/>"Do take that thing away,"<qe/> said the prince, "and let a man have his nap peacefully.''</s> </p>
 
 <p pid="8" id="prigio.c0.p8"><s>"Kiss me!" cried the dragon, which had already devoured many gallant knights for declining to kiss it.</s> </p>
 
@@ -24,7 +24,7 @@
 
 <p pid="10" id="prigio.c0.p10"><s>So saying, he kissed the dragon, which instantly became a most beautiful princess; for she had lain enchanted as a dragon, by a wicked magician, till somebody should be bold enough to kiss her.</s> </p>
 
-<p pid="11" id="prigio.c0.p11"><s>"My love! my hero! my lord! how long I have waited for thee; and now I am eternally thine own!"</s> </p>
+<p pid="11" id="prigio.c0.p11" type="speech"><s><qs/>"My love! my hero! my lord! how long I have waited for thee; and now I am eternally thine own!"<qe/></s> </p>
 
 <p pid="12" id="prigio.c0.p12"><s>So murmured, in the most affectionate accents, the Lady Dragonissa, as she was now called.</s> </p>
 

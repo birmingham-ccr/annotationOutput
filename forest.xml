@@ -3544,7 +3544,11 @@
 
 <p pid="33" id="forest.c19.p33"><s sid="86" id="forest.c19.s86">Patience Heatherstone, however, did not make any answer to this second appeal made by Clara.</s> </p>
 
-<p pid="34" id="forest.c19.p34" type="speech" form="extended" position="beginning"><s sid="87" id="forest.c19.s87"><qs/>"Why don't you answer me, Patience?", said Clara.</s> </p><p pid="35" id="forest.c19.p35" type="speech" form="extended" position="end"><s sid="88" id="forest.c19.s88">"My dear Clara, it's not the custom for young maidens to make remarks upon people's attire.</s> <s sid="89" id="forest.c19.s89">Little girls like you may do so."<qe/></s> </p><p pid="36" id="forest.c19.p36" type="speech"><s sid="90" id="forest.c19.s90"><qs/>"Why, did you not tell Pablo that he looked well in his new clothes?"<qe/></s> </p>
+<p pid="34" id="forest.c19.p34" type="speech"><s sid="87" id="forest.c19.s87"><qs/>"Why don't you answer me, Patience?"<qe/>, said Clara.</s> </p>
+
+<p pid="35" id="forest.c19.p35" type="speech"><s sid="88" id="forest.c19.s88"><qs/>"My dear Clara, it's not the custom for young maidens to make remarks upon people's attire.</s> <s sid="89" id="forest.c19.s89">Little girls like you may do so."<qe/></s> </p>
+
+<p pid="36" id="forest.c19.p36" type="speech"><s sid="90" id="forest.c19.s90"><qs/>"Why, did you not tell Pablo that he looked well in his new clothes?"<qe/></s> </p>
 
 <p pid="37" id="forest.c19.p37" type="speech"><s sid="91" id="forest.c19.s91"><qs/>"Yes, but Pablo is not Mr. Armitage, Clara.</s> <s sid="92" id="forest.c19.s92">That is very different."<qe/></s> </p>
 
@@ -4817,7 +4821,11 @@
 
 <p pid="56" id="forest.c26.p56" type="speech"><s sid="132" id="forest.c26.s132"><qs/>"Yes, I see it all now,"<qe/><sss/> replied Patience; <sse/><qs/>"in one hour he is rejected by me, and in the next he is told that I have obtained possession of his property.</s> <s sid="133" id="forest.c26.s133">No wonder that he is indignant, and looks upon us with scorn.</s> <s sid="134" id="forest.c26.s134">And now he has left us; we have driven him into danger, and may never see him again.</s> <s sid="135" id="forest.c26.s135">Oh, father!</s> <s sid="136" id="forest.c26.s136">I am very, very miserable!"<qe/></s> </p>
 
-<p pid="57" id="forest.c26.p57" type="speech" form="extended" position="beginning"><s sid="137" id="forest.c26.s137"><qs/>"We must hope for the best, Patience.</s> <s sid="138" id="forest.c26.s138">It is true that he has gone to the wars, but it does not therefore follow that he is to be killed.</s> <s sid="139" id="forest.c26.s139">You are both very young--much too young to marry--and all may be explained.</s> <s sid="140" id="forest.c26.s140">I must see Humphrey and be candid with him.".</s> </p><p pid="58" id="forest.c26.p58" type="speech" form="extended" position="end"><s sid="141" id="forest.c26.s141">"But Alice and Edith--where are they gone, father?"<qe/></s> </p><p pid="59" id="forest.c26.p59" type="speech"><s sid="142" id="forest.c26.s142"><qs/>"That I can inform you.</s> <s sid="143" id="forest.c26.s143">I have a letter from Langton on the subject, for I begged him to find out.</s> <s sid="144" id="forest.c26.s144">He says that there are two young ladies of the name of Beverley, who have been placed under the charge of his friends, the Ladies Conynghame, who is aunt to Major Chaloner, who has been for some time concealed in the forest.</s> <s sid="145" id="forest.c26.s145">But I have letters to write, my dear Patience.</s> <s sid="146" id="forest.c26.s146">To-morrow, if I live and do well, I will ride over to the cottage to see Humphrey Beverley."<qe/></s> </p>
+<p pid="57" id="forest.c26.p57" type="speech"><s sid="137" id="forest.c26.s137"><qs/>"We must hope for the best, Patience.</s> <s sid="138" id="forest.c26.s138">It is true that he has gone to the wars, but it does not therefore follow that he is to be killed.</s> <s sid="139" id="forest.c26.s139">You are both very young--much too young to marry--and all may be explained.</s> <s sid="140" id="forest.c26.s140">I must see Humphrey and be candid with him."<qe/>.</s> </p>
+
+<p pid="58" id="forest.c26.p58" type="speech"><s sid="141" id="forest.c26.s141"><qs/>"But Alice and Edith--where are they gone, father?"<qe/></s> </p>
+
+<p pid="59" id="forest.c26.p59" type="speech"><s sid="142" id="forest.c26.s142"><qs/>"That I can inform you.</s> <s sid="143" id="forest.c26.s143">I have a letter from Langton on the subject, for I begged him to find out.</s> <s sid="144" id="forest.c26.s144">He says that there are two young ladies of the name of Beverley, who have been placed under the charge of his friends, the Ladies Conynghame, who is aunt to Major Chaloner, who has been for some time concealed in the forest.</s> <s sid="145" id="forest.c26.s145">But I have letters to write, my dear Patience.</s> <s sid="146" id="forest.c26.s146">To-morrow, if I live and do well, I will ride over to the cottage to see Humphrey Beverley."<qe/></s> </p>
 
 <p pid="60" id="forest.c26.p60"><s sid="147" id="forest.c26.s147">The intendant kissed his daughter, and she left the room.</s> </p>
 

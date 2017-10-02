@@ -4,13 +4,13 @@
 
 <title>Holiday House</title>
 <author>Catherine Sinclair</author>
-<p pid="1" id="holiday.c0.p1"><s>"Young heads are giddy, and young hearts are warm, And make mistakes for manhood to reform."</s> </p>
+<p pid="1" id="holiday.c0.p1" type="speech"><s><qs/>"Young heads are giddy, and young hearts are warm, And make mistakes for manhood to reform."<qe/></s> </p>
 
 <p pid="2" id="holiday.c0.p2"><s>Cowper.</s> </p>
 
 <p pid="3" id="holiday.c0.p3"><s>PREFACE.</s> </p>
 
-<p pid="4" id="holiday.c0.p4"><s>"Of all the paper I have blotted, I have written nothing without the intention of some good.</s> <s>Whether I have succeeded or not, is for others to judge."</s> <s>Sir William Temple.</s> </p>
+<p pid="4" id="holiday.c0.p4" type="speech"><s><qs/>"Of all the paper I have blotted, I have written nothing without the intention of some good.</s> <s>Whether I have succeeded or not, is for others to judge."<qe/></s> <s>Sir William Temple.</s> </p>
 
 <p pid="5" id="holiday.c0.p5"><s>The minds of young people are now manufactured like webs of linen, all alike, and nothing left to nature.</s> <s>From the hour when children can speak, till they come to years of discretion or of indiscretion, they are carefully prompted what to say, and what to think, and what to look, and how to feel; while in most school-rooms nature has been turned out of doors with obloquy, and art has entirely supplanted her.</s> </p>
 
@@ -2041,7 +2041,7 @@
 
 <p pid="22" id="holiday.c16.p22"><s sid="66" id="holiday.c16.s66">Frank became exhausted with speaking so much, but pointed to a seat near himself, where Harry and Laura sat down, after which he gazed at them long and earnestly, with a look of affectionate pleasure, while his smile, which had lost all its former cheerfulness, was now full of tenderness and sensibility.</s> <s sid="67" id="holiday.c16.s67">At length his countenance gradually changed, while large tears gathered in his eyes, and coursed each other silently down his cheeks.</s> <s sid="68" id="holiday.c16.s68">Thoughts of the deepest sadness seemed passing through his mind during some moments, but checking the heavy sigh that rose in his breast, he riveted his hands together, and looked towards heaven with an expression of placid submission, saying these words in a scarcely audible tone, though evidently addressed to those around,</s> </p>
 
-<p pid="23" id="holiday.c16.p23" type="speech"><s sid="69" id="holiday.c16.s69"><qs/>"Weeping endureth for a night, but joy cometh in the morning."<qe/></s> <s sid="70" id="holiday.c16.s70"><qs/>"We know that if our earthly house of this tabernacle be dissolved, we have a building of God, an house not made with hands, eternal in the heavens."<qe/></s> <s sid="71" id="holiday.c16.s71">"Weep ye not for the dead, neither bemoan him; _but_ weep sore for him that goeth away: for he shall return no more, nor see his native country."[1]</s> </p>
+<p pid="23" id="holiday.c16.p23" type="speech"><s sid="69" id="holiday.c16.s69"><qs/>"Weeping endureth for a night, but joy cometh in the morning."<qe/></s> <s sid="70" id="holiday.c16.s70"><qs/>"We know that if our earthly house of this tabernacle be dissolved, we have a building of God, an house not made with hands, eternal in the heavens."<qe/></s> <s sid="71" id="holiday.c16.s71"><qs/>"Weep ye not for the dead, neither bemoan him; _but_ weep sore for him that goeth away: for he shall return no more, nor see his native country."<qe/>[1]</s> </p>
 
 <p pid="24" id="holiday.c16.p24"><s sid="72" id="holiday.c16.s72">[1] Jeremiah xxii. 10.</s> </p>
 

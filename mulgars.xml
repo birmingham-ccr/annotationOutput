@@ -2280,11 +2280,9 @@
 
 <p pid="59" id="mulgars.c23.p59"><s sid="191" id="mulgars.c23.s191">ENVOY</s> </p>
 
-<p pid="60" id="mulgars.c23.p60"><s sid="192" id="mulgars.c23.s192">"Long--long is Time, though books be brief:</s> <s sid="193" id="mulgars.c23.s193">Adventures strange--ay, past belief-- Await the Reader's drowsy eye; But, wearied out, he'd lay them by.</s> </p>
+<p pid="60" id="mulgars.c23.p60" type="speech" form="extended" position="beginning"><s sid="192" id="mulgars.c23.s192"><qs/>"Long--long is Time, though books be brief:</s> <s sid="193" id="mulgars.c23.s193">Adventures strange--ay, past belief-- Await the Reader's drowsy eye; But, wearied out, he'd lay them by.</s> </p><p pid="61" id="mulgars.c23.p61" type="speech" form="extended" position="middle"><s sid="194" id="mulgars.c23.s194">"But, if so be he'd some day hear All that befell these brothers dear In Tishnar's lovely Valleys--well, Poor pen, thou must that story tell!</s> </p>
 
-<p pid="61" id="mulgars.c23.p61"><s sid="194" id="mulgars.c23.s194">"But, if so be he'd some day hear All that befell these brothers dear In Tishnar's lovely Valleys--well, Poor pen, thou must that story tell!</s> </p>
-
-</div>
+<p pid="62" id="mulgars.c23.p62" type="speech" form="extended" position="end"><s sid="195" id="mulgars.c23.s195">"But farewell, now, you Mulgars three!</s> <s sid="196" id="mulgars.c23.s196">Farewell, your faithful company!</s> <s sid="197" id="mulgars.c23.s197">Farewell, the heart that loved unbidden-- Nod's dark-eyed, beauteous Water-midden!"<qe/></s> </p></div>
 
 
 </div0>

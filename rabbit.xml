@@ -4,13 +4,6 @@
 
 <title>The Tale of Peter Rabbit</title>
 <author>Beatrix Potter</author>
-<div id="rabbit.0" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" book="rabbit" type="chapter" num="0">
-<title/>
-<p pid="1" id="rabbit.c0.p1"><s sid="1" id="rabbit.c0.s1">[Illustration]</s> </p>
-
-<p pid="2" id="rabbit.c0.p2"><s sid="2" id="rabbit.c0.s2">[Illustration]</s> </p>
-
-</div>
 <div id="rabbit.1" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" book="rabbit" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="rabbit.c1.p1"><s sid="1" id="rabbit.c1.s1">Once upon a time there were four little Rabbits, and their names were--</s> </p>
@@ -21,121 +14,71 @@
 
 <p pid="4" id="rabbit.c1.p4" type="speech"><s sid="4" id="rabbit.c1.s4"><qs/>'Now my dears,'<qe/><sls/> said old Mrs. Rabbit one morning, <sle/><qs/>'you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had an accident there; he was put in a pie by Mrs. McGregor.'<qe/></s> </p>
 
-<p pid="5" id="rabbit.c1.p5"><s sid="5" id="rabbit.c1.s5">[Illustration]</s> </p>
+<p pid="5" id="rabbit.c1.p5" type="speech"><s sid="5" id="rabbit.c1.s5"><qs/>'Now run along, and don't get into mischief.</s> <s sid="6" id="rabbit.c1.s6">I am going out.'<qe/></s> </p>
 
-<p pid="6" id="rabbit.c1.p6"><s sid="6" id="rabbit.c1.s6">[Illustration]</s> </p>
+<p pid="6" id="rabbit.c1.p6"><s sid="7" id="rabbit.c1.s7">Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's.</s> <s sid="8" id="rabbit.c1.s8">She bought a loaf of brown bread and five currant buns.</s> </p>
 
-<p pid="7" id="rabbit.c1.p7" type="speech"><s sid="7" id="rabbit.c1.s7"><qs/>'Now run along, and don't get into mischief.</s> <s sid="8" id="rabbit.c1.s8">I am going out.'<qe/></s> </p>
+<p pid="7" id="rabbit.c1.p7"><s sid="9" id="rabbit.c1.s9">Flopsy, Mopsy, and Cottontail, who were good little bunnies, went down the lane to gather blackberries:</s> </p>
 
-<p pid="8" id="rabbit.c1.p8"><s sid="9" id="rabbit.c1.s9">Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's.</s> <s sid="10" id="rabbit.c1.s10">She bought a loaf of brown bread and five currant buns.</s> </p>
+<p pid="8" id="rabbit.c1.p8"><s sid="10" id="rabbit.c1.s10">But Peter, who was very naughty, ran straight away to Mr. McGregor's garden, and squeezed under the gate!</s> </p>
 
-<p pid="9" id="rabbit.c1.p9"><s sid="11" id="rabbit.c1.s11">[Illustration]</s> </p>
+<p pid="9" id="rabbit.c1.p9"><s sid="11" id="rabbit.c1.s11">First he ate some lettuces and some French beans; and then he ate some radishes;</s> </p>
 
-<p pid="10" id="rabbit.c1.p10"><s sid="12" id="rabbit.c1.s12">[Illustration]</s> </p>
+<p pid="10" id="rabbit.c1.p10"><s sid="12" id="rabbit.c1.s12">And then, feeling rather sick, he went to look for some parsley.</s> </p>
 
-<p pid="11" id="rabbit.c1.p11"><s sid="13" id="rabbit.c1.s13">Flopsy, Mopsy, and Cottontail, who were good little bunnies, went down the lane to gather blackberries:</s> </p>
+<p pid="11" id="rabbit.c1.p11"><s sid="13" id="rabbit.c1.s13">But round the end of a cucumber frame, whom should he meet but Mr. McGregor!</s> </p>
 
-<p pid="12" id="rabbit.c1.p12"><s sid="14" id="rabbit.c1.s14">But Peter, who was very naughty, ran straight away to Mr. McGregor's garden, and squeezed under the gate!</s> </p>
+<p pid="12" id="rabbit.c1.p12" type="speech"><s sid="14" id="rabbit.c1.s14">Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, <qs/>'Stop thief!'<qe/></s> </p>
 
-<p pid="13" id="rabbit.c1.p13"><s sid="15" id="rabbit.c1.s15">[Illustration]</s> </p>
+<p pid="13" id="rabbit.c1.p13"><s sid="15" id="rabbit.c1.s15">Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate.</s> </p>
 
-<p pid="14" id="rabbit.c1.p14"><s sid="16" id="rabbit.c1.s16">[Illustration]</s> </p>
+<p pid="14" id="rabbit.c1.p14"><s sid="16" id="rabbit.c1.s16">He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.</s> </p>
 
-<p pid="15" id="rabbit.c1.p15"><s sid="17" id="rabbit.c1.s17">First he ate some lettuces and some French beans; and then he ate some radishes;</s> </p>
+<p pid="15" id="rabbit.c1.p15"><s sid="17" id="rabbit.c1.s17">After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket.</s> <s sid="18" id="rabbit.c1.s18">It was a blue jacket with brass buttons, quite new.</s> </p>
 
-<p pid="16" id="rabbit.c1.p16"><s sid="18" id="rabbit.c1.s18">And then, feeling rather sick, he went to look for some parsley.</s> </p>
+<p pid="16" id="rabbit.c1.p16"><s sid="19" id="rabbit.c1.s19">Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.</s> </p>
 
-<p pid="17" id="rabbit.c1.p17"><s sid="19" id="rabbit.c1.s19">[Illustration]</s> </p>
+<p pid="17" id="rabbit.c1.p17"><s sid="20" id="rabbit.c1.s20">Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.</s> </p>
 
-<p pid="18" id="rabbit.c1.p18"><s sid="20" id="rabbit.c1.s20">[Illustration]</s> </p>
+<p pid="18" id="rabbit.c1.p18"><s sid="21" id="rabbit.c1.s21">And rushed into the tool-shed, and jumped into a can.</s> <s sid="22" id="rabbit.c1.s22">It would have been a beautiful thing to hide in, if it had not had so much water in it.</s> </p>
 
-<p pid="19" id="rabbit.c1.p19"><s sid="21" id="rabbit.c1.s21">But round the end of a cucumber frame, whom should he meet but Mr. McGregor!</s> </p>
+<p pid="19" id="rabbit.c1.p19"><s sid="23" id="rabbit.c1.s23">Mr. McGregor was quite sure that Peter was somewhere in the tool-shed, perhaps hidden underneath a flower-pot.</s> <s sid="24" id="rabbit.c1.s24">He began to turn them over carefully, looking under each.</s> </p>
 
-<p pid="20" id="rabbit.c1.p20" type="speech"><s sid="22" id="rabbit.c1.s22">Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, <qs/>'Stop thief!'<qe/></s> </p>
+<p pid="20" id="rabbit.c1.p20" type="speech"><s sid="25" id="rabbit.c1.s25">Presently Peter sneezed--<qs/>'Kertyschoo!'<qe/></s> <s sid="26" id="rabbit.c1.s26">Mr. McGregor was after him in no time.</s> </p>
 
-<p pid="21" id="rabbit.c1.p21"><s sid="23" id="rabbit.c1.s23">[Illustration]</s> </p>
+<p pid="21" id="rabbit.c1.p21"><s sid="27" id="rabbit.c1.s27">And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants.</s> <s sid="28" id="rabbit.c1.s28">The window was too small for Mr. McGregor, and he was tired of running after Peter.</s> <s sid="29" id="rabbit.c1.s29">He went back to his work.</s> </p>
 
-<p pid="22" id="rabbit.c1.p22"><s sid="24" id="rabbit.c1.s24">[Illustration]</s> </p>
+<p pid="22" id="rabbit.c1.p22"><s sid="30" id="rabbit.c1.s30">Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go.</s> <s sid="31" id="rabbit.c1.s31">Also he was very damp with sitting in that can.</s> </p>
 
-<p pid="23" id="rabbit.c1.p23"><s sid="25" id="rabbit.c1.s25">Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate.</s> </p>
+<p pid="23" id="rabbit.c1.p23"><s sid="32" id="rabbit.c1.s32">After a time he began to wander about, going lippity--lippity--not very fast, and looking all round.</s> </p>
 
-<p pid="24" id="rabbit.c1.p24"><s sid="26" id="rabbit.c1.s26">He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.</s> </p>
+<p pid="24" id="rabbit.c1.p24"><s sid="33" id="rabbit.c1.s33">He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath.</s> </p>
 
-<p pid="25" id="rabbit.c1.p25"><s sid="27" id="rabbit.c1.s27">After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket.</s> <s sid="28" id="rabbit.c1.s28">It was a blue jacket with brass buttons, quite new.</s> </p>
+<p pid="25" id="rabbit.c1.p25"><s sid="34" id="rabbit.c1.s34">An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood.</s> <s sid="35" id="rabbit.c1.s35">Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer.</s> <s sid="36" id="rabbit.c1.s36">She only shook her head at him.</s> <s sid="37" id="rabbit.c1.s37">Peter began to cry.</s> </p>
 
-<p pid="26" id="rabbit.c1.p26"><s sid="29" id="rabbit.c1.s29">[Illustration]</s> </p>
+<p pid="26" id="rabbit.c1.p26"><s sid="38" id="rabbit.c1.s38">Then he tried to find his way straight across the garden, but he became more and more puzzled.</s> <s sid="39" id="rabbit.c1.s39">Presently, he came to a pond where Mr. McGregor filled his water-cans.</s> <s sid="40" id="rabbit.c1.s40">A white cat was staring at some gold-fish, she sat very, very still, but now and then the tip of her tail twitched as if it were alive.</s> <s sid="41" id="rabbit.c1.s41">Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny.</s> </p>
 
-<p pid="27" id="rabbit.c1.p27"><s sid="30" id="rabbit.c1.s30">[Illustration]</s> </p>
+<p pid="27" id="rabbit.c1.p27"><s sid="42" id="rabbit.c1.s42">He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe--scr-r-ritch, scratch, scratch, scritch.</s> <s sid="43" id="rabbit.c1.s43">Peter scuttered underneath the bushes.</s> <s sid="44" id="rabbit.c1.s44">But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over.</s> <s sid="45" id="rabbit.c1.s45">The first thing he saw was Mr. McGregor hoeing onions.</s> <s sid="46" id="rabbit.c1.s46">His back was turned towards Peter, and beyond him was the gate!</s> </p>
 
-<p pid="28" id="rabbit.c1.p28"><s sid="31" id="rabbit.c1.s31">Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.</s> </p>
+<p pid="28" id="rabbit.c1.p28"><s sid="47" id="rabbit.c1.s47">Peter got down very quietly off the wheelbarrow; and started running as fast as he could go, along a straight walk behind some black-currant bushes.</s> </p>
 
-<p pid="29" id="rabbit.c1.p29"><s sid="32" id="rabbit.c1.s32">Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.</s> </p>
+<p pid="29" id="rabbit.c1.p29"><s sid="48" id="rabbit.c1.s48">Mr. McGregor caught sight of him at the corner, but Peter did not care.</s> <s sid="49" id="rabbit.c1.s49">He slipped underneath the gate, and was safe at last in the wood outside the garden.</s> </p>
 
-<p pid="30" id="rabbit.c1.p30"><s sid="33" id="rabbit.c1.s33">[Illustration]</s> </p>
+<p pid="30" id="rabbit.c1.p30"><s sid="50" id="rabbit.c1.s50">Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the blackbirds.</s> </p>
 
-<p pid="31" id="rabbit.c1.p31"><s sid="34" id="rabbit.c1.s34">[Illustration]</s> </p>
+<p pid="31" id="rabbit.c1.p31"><s sid="51" id="rabbit.c1.s51">Peter never stopped running or looked behind him till he got home to the big fir-tree.</s> </p>
 
-<p pid="32" id="rabbit.c1.p32"><s sid="35" id="rabbit.c1.s35">And rushed into the tool-shed, and jumped into a can.</s> <s sid="36" id="rabbit.c1.s36">It would have been a beautiful thing to hide in, if it had not had so much water in it.</s> </p>
+<p pid="32" id="rabbit.c1.p32"><s sid="52" id="rabbit.c1.s52">He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes.</s> <s sid="53" id="rabbit.c1.s53">His mother was busy cooking; she wondered what he had done with his clothes.</s> <s sid="54" id="rabbit.c1.s54">It was the second little jacket and pair of shoes that Peter had lost in a fortnight!</s> </p>
 
-<p pid="33" id="rabbit.c1.p33"><s sid="37" id="rabbit.c1.s37">Mr. McGregor was quite sure that Peter was somewhere in the tool-shed, perhaps hidden underneath a flower-pot.</s> <s sid="38" id="rabbit.c1.s38">He began to turn them over carefully, looking under each.</s> </p>
+<p pid="33" id="rabbit.c1.p33"><s sid="55" id="rabbit.c1.s55">I am sorry to say that Peter was not very well during the evening.</s> </p>
 
-<p pid="34" id="rabbit.c1.p34" type="speech"><s sid="39" id="rabbit.c1.s39">Presently Peter sneezed--<qs/>'Kertyschoo!'<qe/></s> <s sid="40" id="rabbit.c1.s40">Mr. McGregor was after him in no time.</s> </p>
+<p pid="34" id="rabbit.c1.p34"><s sid="56" id="rabbit.c1.s56">His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter!</s> </p>
 
-<p pid="35" id="rabbit.c1.p35"><s sid="41" id="rabbit.c1.s41">[Illustration]</s> </p>
+<p pid="35" id="rabbit.c1.p35" type="speech"><s sid="57" id="rabbit.c1.s57"><qs/>'One table-spoonful to be taken at bed-time.'<qe/></s> </p>
 
-<p pid="36" id="rabbit.c1.p36"><s sid="42" id="rabbit.c1.s42">[Illustration]</s> </p>
+<p pid="36" id="rabbit.c1.p36"><s sid="58" id="rabbit.c1.s58">But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries for supper.</s> </p>
 
-<p pid="37" id="rabbit.c1.p37"><s sid="43" id="rabbit.c1.s43">And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants.</s> <s sid="44" id="rabbit.c1.s44">The window was too small for Mr. McGregor, and he was tired of running after Peter.</s> <s sid="45" id="rabbit.c1.s45">He went back to his work.</s> </p>
-
-<p pid="38" id="rabbit.c1.p38"><s sid="46" id="rabbit.c1.s46">Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go.</s> <s sid="47" id="rabbit.c1.s47">Also he was very damp with sitting in that can.</s> </p>
-
-<p pid="39" id="rabbit.c1.p39"><s sid="48" id="rabbit.c1.s48">After a time he began to wander about, going lippity--lippity--not very fast, and looking all round.</s> </p>
-
-<p pid="40" id="rabbit.c1.p40"><s sid="49" id="rabbit.c1.s49">[Illustration]</s> </p>
-
-<p pid="41" id="rabbit.c1.p41"><s sid="50" id="rabbit.c1.s50">[Illustration]</s> </p>
-
-<p pid="42" id="rabbit.c1.p42"><s sid="51" id="rabbit.c1.s51">He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath.</s> </p>
-
-<p pid="43" id="rabbit.c1.p43"><s sid="52" id="rabbit.c1.s52">An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood.</s> <s sid="53" id="rabbit.c1.s53">Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer.</s> <s sid="54" id="rabbit.c1.s54">She only shook her head at him.</s> <s sid="55" id="rabbit.c1.s55">Peter began to cry.</s> </p>
-
-<p pid="44" id="rabbit.c1.p44"><s sid="56" id="rabbit.c1.s56">Then he tried to find his way straight across the garden, but he became more and more puzzled.</s> <s sid="57" id="rabbit.c1.s57">Presently, he came to a pond where Mr. McGregor filled his water-cans.</s> <s sid="58" id="rabbit.c1.s58">A white cat was staring at some gold-fish, she sat very, very still, but now and then the tip of her tail twitched as if it were alive.</s> <s sid="59" id="rabbit.c1.s59">Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny.</s> </p>
-
-<p pid="45" id="rabbit.c1.p45"><s sid="60" id="rabbit.c1.s60">[Illustration]</s> </p>
-
-<p pid="46" id="rabbit.c1.p46"><s sid="61" id="rabbit.c1.s61">[Illustration]</s> </p>
-
-<p pid="47" id="rabbit.c1.p47"><s sid="62" id="rabbit.c1.s62">He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe--scr-r-ritch, scratch, scratch, scritch.</s> <s sid="63" id="rabbit.c1.s63">Peter scuttered underneath the bushes.</s> <s sid="64" id="rabbit.c1.s64">But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over.</s> <s sid="65" id="rabbit.c1.s65">The first thing he saw was Mr. McGregor hoeing onions.</s> <s sid="66" id="rabbit.c1.s66">His back was turned towards Peter, and beyond him was the gate!</s> </p>
-
-<p pid="48" id="rabbit.c1.p48"><s sid="67" id="rabbit.c1.s67">Peter got down very quietly off the wheelbarrow; and started running as fast as he could go, along a straight walk behind some black-currant bushes.</s> </p>
-
-<p pid="49" id="rabbit.c1.p49"><s sid="68" id="rabbit.c1.s68">Mr. McGregor caught sight of him at the corner, but Peter did not care.</s> <s sid="69" id="rabbit.c1.s69">He slipped underneath the gate, and was safe at last in the wood outside the garden.</s> </p>
-
-<p pid="50" id="rabbit.c1.p50"><s sid="70" id="rabbit.c1.s70">[Illustration]</s> </p>
-
-<p pid="51" id="rabbit.c1.p51"><s sid="71" id="rabbit.c1.s71">[Illustration]</s> </p>
-
-<p pid="52" id="rabbit.c1.p52"><s sid="72" id="rabbit.c1.s72">Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the blackbirds.</s> </p>
-
-<p pid="53" id="rabbit.c1.p53"><s sid="73" id="rabbit.c1.s73">Peter never stopped running or looked behind him till he got home to the big fir-tree.</s> </p>
-
-<p pid="54" id="rabbit.c1.p54"><s sid="74" id="rabbit.c1.s74">He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes.</s> <s sid="75" id="rabbit.c1.s75">His mother was busy cooking; she wondered what he had done with his clothes.</s> <s sid="76" id="rabbit.c1.s76">It was the second little jacket and pair of shoes that Peter had lost in a fortnight!</s> </p>
-
-<p pid="55" id="rabbit.c1.p55"><s sid="77" id="rabbit.c1.s77">[Illustration]</s> </p>
-
-<p pid="56" id="rabbit.c1.p56"><s sid="78" id="rabbit.c1.s78">I am sorry to say that Peter was not very well during the evening.</s> </p>
-
-<p pid="57" id="rabbit.c1.p57"><s sid="79" id="rabbit.c1.s79">His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter!</s> </p>
-
-<p pid="58" id="rabbit.c1.p58" type="speech"><s sid="80" id="rabbit.c1.s80"><qs/>'One table-spoonful to be taken at bed-time.'<qe/></s> </p>
-
-<p pid="59" id="rabbit.c1.p59"><s sid="81" id="rabbit.c1.s81">[Illustration]</s> </p>
-
-<p pid="60" id="rabbit.c1.p60"><s sid="82" id="rabbit.c1.s82">[Illustration]</s> </p>
-
-<p pid="61" id="rabbit.c1.p61"><s sid="83" id="rabbit.c1.s83">But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries for supper.</s> </p>
-
-<p pid="62" id="rabbit.c1.p62"><s sid="84" id="rabbit.c1.s84">THE END</s> </p>
+<p pid="37" id="rabbit.c1.p37"><s sid="59" id="rabbit.c1.s59">THE END</s> </p>
 
 </div>
 

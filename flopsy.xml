@@ -15,171 +15,117 @@
 </div>
 <div id="flopsy.1" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" book="flopsy" type="chapter" num="1">
 <title>BOOK 1.</title>
-<p pid="1" id="flopsy.c1.p1"><s sid="1" id="flopsy.c1.s1">[Illustration]</s> </p>
+<p pid="1" id="flopsy.c1.p1" type="speech"><s sid="1" id="flopsy.c1.s1">It is said that the effect of eating too much lettuce is <qs/>"soporific."<qe/></s> </p>
 
-<p pid="2" id="flopsy.c1.p2" type="speech"><s sid="2" id="flopsy.c1.s2">It is said that the effect of eating too much lettuce is <qs/>"soporific."<qe/></s> </p>
+<p pid="2" id="flopsy.c1.p2"><s sid="2" id="flopsy.c1.s2">_I_ have never felt sleepy after eating lettuces; but then _I_ am not a rabbit.</s> </p>
 
-<p pid="3" id="flopsy.c1.p3"><s sid="3" id="flopsy.c1.s3">_I_ have never felt sleepy after eating lettuces; but then _I_ am not a rabbit.</s> </p>
+<p pid="3" id="flopsy.c1.p3"><s sid="3" id="flopsy.c1.s3">They certainly had a very soporific effect upon the Flopsy Bunnies!</s> </p>
 
-<p pid="4" id="flopsy.c1.p4"><s sid="4" id="flopsy.c1.s4">They certainly had a very soporific effect upon the Flopsy Bunnies!</s> </p>
+<p pid="4" id="flopsy.c1.p4"><s sid="4" id="flopsy.c1.s4">When Benjamin Bunny grew up, he married his Cousin Flopsy.</s> <s sid="5" id="flopsy.c1.s5">They had a large family, and they were very improvident and cheerful.</s> </p>
 
-<p pid="5" id="flopsy.c1.p5"><s sid="5" id="flopsy.c1.s5">When Benjamin Bunny grew up, he married his Cousin Flopsy.</s> <s sid="6" id="flopsy.c1.s6">They had a large family, and they were very improvident and cheerful.</s> </p>
+<p pid="5" id="flopsy.c1.p5" type="speech"><s sid="6" id="flopsy.c1.s6">I do not remember the separate names of their children; they were generally called the <qs/>"Flopsy Bunnies."<qe/></s> </p>
 
-<p pid="6" id="flopsy.c1.p6" type="speech"><s sid="7" id="flopsy.c1.s7">I do not remember the separate names of their children; they were generally called the <qs/>"Flopsy Bunnies."<qe/></s> </p>
+<p pid="6" id="flopsy.c1.p6"><s sid="7" id="flopsy.c1.s7">As there was not always quite enough to eat,--Benjamin used to borrow cabbages from Flopsy's brother, Peter Rabbit, who kept a nursery garden.</s> </p>
 
-<p pid="7" id="flopsy.c1.p7"><s sid="8" id="flopsy.c1.s8">[Illustration]</s> </p>
+<p pid="7" id="flopsy.c1.p7"><s sid="8" id="flopsy.c1.s8">Sometimes Peter Rabbit had no cabbages to spare.</s> </p>
 
-<p pid="8" id="flopsy.c1.p8"><s sid="9" id="flopsy.c1.s9">[Illustration]</s> </p>
+<p pid="8" id="flopsy.c1.p8"><s sid="9" id="flopsy.c1.s9">When this happened, the Flopsy Bunnies went across the field to a rubbish heap, in the ditch outside Mr. McGregor's garden.</s> </p>
 
-<p pid="9" id="flopsy.c1.p9"><s sid="10" id="flopsy.c1.s10">As there was not always quite enough to eat,--Benjamin used to borrow cabbages from Flopsy's brother, Peter Rabbit, who kept a nursery garden.</s> </p>
+<p pid="9" id="flopsy.c1.p9"><s sid="10" id="flopsy.c1.s10">Mr. McGregor's rubbish heap was a mixture.</s> <s sid="11" id="flopsy.c1.s11">There were jam pots and paper bags, and mountains of chopped grass from the mowing machine (which always tasted oily), and some rotten vegetable marrows and an old boot or two.</s> <s sid="12" id="flopsy.c1.s12">One day--oh joy!--there were a quantity of overgrown lettuces, which had "shot" into flower.</s> </p>
 
-<p pid="10" id="flopsy.c1.p10"><s sid="11" id="flopsy.c1.s11">Sometimes Peter Rabbit had no cabbages to spare.</s> </p>
+<p pid="10" id="flopsy.c1.p10"><s sid="13" id="flopsy.c1.s13">The Flopsy Bunnies simply stuffed lettuces.</s> <s sid="14" id="flopsy.c1.s14">By degrees, one after another, they were overcome with slumber, and lay down in the mown grass.</s> </p>
 
-<p pid="11" id="flopsy.c1.p11"><s sid="12" id="flopsy.c1.s12">[Illustration]</s> </p>
+<p pid="11" id="flopsy.c1.p11"><s sid="15" id="flopsy.c1.s15">Benjamin was not so much overcome as his children.</s> <s sid="16" id="flopsy.c1.s16">Before going to sleep he was sufficiently wide awake to put a paper bag over his head to keep off the flies.</s> </p>
 
-<p pid="12" id="flopsy.c1.p12"><s sid="13" id="flopsy.c1.s13">[Illustration]</s> </p>
+<p pid="12" id="flopsy.c1.p12"><s sid="17" id="flopsy.c1.s17">The little Flopsy Bunnies slept delightfully in the warm sun.</s> <s sid="18" id="flopsy.c1.s18">From the lawn beyond the garden came the distant clacketty sound of the mowing machine.</s> <s sid="19" id="flopsy.c1.s19">The bluebottles buzzed about the wall, and a little old mouse picked over the rubbish among the jam pots.</s> </p>
 
-<p pid="13" id="flopsy.c1.p13"><s sid="14" id="flopsy.c1.s14">When this happened, the Flopsy Bunnies went across the field to a rubbish heap, in the ditch outside Mr. McGregor's garden.</s> </p>
+<p pid="13" id="flopsy.c1.p13"><s sid="20" id="flopsy.c1.s20">(I can tell you her name, she was called Thomasina Tittlemouse, a woodmouse with a long tail.)</s> </p>
 
-<p pid="14" id="flopsy.c1.p14"><s sid="15" id="flopsy.c1.s15">Mr. McGregor's rubbish heap was a mixture.</s> <s sid="16" id="flopsy.c1.s16">There were jam pots and paper bags, and mountains of chopped grass from the mowing machine (which always tasted oily), and some rotten vegetable marrows and an old boot or two.</s> <s sid="17" id="flopsy.c1.s17">One day--oh joy!--there were a quantity of overgrown lettuces, which had "shot" into flower.</s> </p>
+<p pid="14" id="flopsy.c1.p14"><s sid="21" id="flopsy.c1.s21">She rustled across the paper bag, and awakened Benjamin Bunny.</s> </p>
 
-<p pid="15" id="flopsy.c1.p15"><s sid="18" id="flopsy.c1.s18">[Illustration]</s> </p>
+<p pid="15" id="flopsy.c1.p15"><s sid="22" id="flopsy.c1.s22">The mouse apologized profusely, and said that she knew Peter Rabbit.</s> </p>
 
-<p pid="16" id="flopsy.c1.p16"><s sid="19" id="flopsy.c1.s19">The Flopsy Bunnies simply stuffed lettuces.</s> <s sid="20" id="flopsy.c1.s20">By degrees, one after another, they were overcome with slumber, and lay down in the mown grass.</s> </p>
+<p pid="16" id="flopsy.c1.p16"><s sid="23" id="flopsy.c1.s23">While she and Benjamin were talking, close under the wall, they heard a heavy tread above their heads; and suddenly Mr. McGregor emptied out a sackful of lawn mowings right upon the top of the sleeping Flopsy Bunnies!</s> <s sid="24" id="flopsy.c1.s24">Benjamin shrank down under his paper bag.</s> <s sid="25" id="flopsy.c1.s25">The mouse hid in a jam pot.</s> </p>
 
-<p pid="17" id="flopsy.c1.p17"><s sid="21" id="flopsy.c1.s21">Benjamin was not so much overcome as his children.</s> <s sid="22" id="flopsy.c1.s22">Before going to sleep he was sufficiently wide awake to put a paper bag over his head to keep off the flies.</s> </p>
+<p pid="17" id="flopsy.c1.p17"><s sid="26" id="flopsy.c1.s26">The little rabbits smiled sweetly in their sleep under the shower of grass; they did not awake because the lettuces had been so soporific.</s> </p>
 
-<p pid="18" id="flopsy.c1.p18"><s sid="23" id="flopsy.c1.s23">The little Flopsy Bunnies slept delightfully in the warm sun.</s> <s sid="24" id="flopsy.c1.s24">From the lawn beyond the garden came the distant clacketty sound of the mowing machine.</s> <s sid="25" id="flopsy.c1.s25">The bluebottles buzzed about the wall, and a little old mouse picked over the rubbish among the jam pots.</s> </p>
+<p pid="18" id="flopsy.c1.p18"><s sid="27" id="flopsy.c1.s27">They dreamt that their mother Flopsy was tucking them up in a hay bed.</s> </p>
 
-<p pid="19" id="flopsy.c1.p19"><s sid="26" id="flopsy.c1.s26">(I can tell you her name, she was called Thomasina Tittlemouse, a woodmouse with a long tail.)</s> </p>
+<p pid="19" id="flopsy.c1.p19"><s sid="28" id="flopsy.c1.s28">Mr. McGregor looked down after emptying his sack.</s> <s sid="29" id="flopsy.c1.s29">He saw some funny little brown tips of ears sticking up through the lawn mowings.</s> <s sid="30" id="flopsy.c1.s30">He stared at them for some time.</s> </p>
 
-<p pid="20" id="flopsy.c1.p20"><s sid="27" id="flopsy.c1.s27">[Illustration]</s> </p>
+<p pid="20" id="flopsy.c1.p20"><s sid="31" id="flopsy.c1.s31">Presently a fly settled on one of them and it moved.</s> </p>
 
-<p pid="21" id="flopsy.c1.p21"><s sid="28" id="flopsy.c1.s28">[Illustration]</s> </p>
+<p pid="21" id="flopsy.c1.p21"><s sid="32" id="flopsy.c1.s32">Mr. McGregor climbed down on to the rubbish heap--</s> </p>
 
-<p pid="22" id="flopsy.c1.p22"><s sid="29" id="flopsy.c1.s29">She rustled across the paper bag, and awakened Benjamin Bunny.</s> </p>
+<p pid="22" id="flopsy.c1.p22" type="speech"><s sid="33" id="flopsy.c1.s33"><qs/>"One, two, three, four! five! six leetle rabbits!"<qe/> said he as he dropped them into his sack.</s> <s sid="34" id="flopsy.c1.s34">The Flopsy Bunnies dreamt that their mother was turning them over in bed.</s> <s sid="35" id="flopsy.c1.s35">They stirred a little in their sleep, but still they did not wake up.</s> </p>
 
-<p pid="23" id="flopsy.c1.p23"><s sid="30" id="flopsy.c1.s30">The mouse apologized profusely, and said that she knew Peter Rabbit.</s> </p>
+<p pid="23" id="flopsy.c1.p23"><s sid="36" id="flopsy.c1.s36">Mr. McGregor tied up the sack and left it on the wall.</s> </p>
 
-<p pid="24" id="flopsy.c1.p24"><s sid="31" id="flopsy.c1.s31">While she and Benjamin were talking, close under the wall, they heard a heavy tread above their heads; and suddenly Mr. McGregor emptied out a sackful of lawn mowings right upon the top of the sleeping Flopsy Bunnies!</s> <s sid="32" id="flopsy.c1.s32">Benjamin shrank down under his paper bag.</s> <s sid="33" id="flopsy.c1.s33">The mouse hid in a jam pot.</s> </p>
+<p pid="24" id="flopsy.c1.p24"><s sid="37" id="flopsy.c1.s37">He went to put away the mowing machine.</s> </p>
 
-<p pid="25" id="flopsy.c1.p25"><s sid="34" id="flopsy.c1.s34">[Illustration]</s> </p>
+<p pid="25" id="flopsy.c1.p25"><s sid="38" id="flopsy.c1.s38">While he was gone, Mrs. Flopsy Bunny (who had remained at home) came across the field.</s> </p>
 
-<p pid="26" id="flopsy.c1.p26"><s sid="35" id="flopsy.c1.s35">[Illustration]</s> </p>
+<p pid="26" id="flopsy.c1.p26"><s sid="39" id="flopsy.c1.s39">She looked suspiciously at the sack and wondered where everybody was?</s> </p>
 
-<p pid="27" id="flopsy.c1.p27"><s sid="36" id="flopsy.c1.s36">The little rabbits smiled sweetly in their sleep under the shower of grass; they did not awake because the lettuces had been so soporific.</s> </p>
+<p pid="27" id="flopsy.c1.p27"><s sid="40" id="flopsy.c1.s40">Then the mouse came out of her jam pot, and Benjamin took the paper bag off his head, and they told the doleful tale.</s> </p>
 
-<p pid="28" id="flopsy.c1.p28"><s sid="37" id="flopsy.c1.s37">They dreamt that their mother Flopsy was tucking them up in a hay bed.</s> </p>
+<p pid="28" id="flopsy.c1.p28"><s sid="41" id="flopsy.c1.s41">Benjamin and Flopsy were in despair, they could not undo the string.</s> </p>
 
-<p pid="29" id="flopsy.c1.p29"><s sid="38" id="flopsy.c1.s38">Mr. McGregor looked down after emptying his sack.</s> <s sid="39" id="flopsy.c1.s39">He saw some funny little brown tips of ears sticking up through the lawn mowings.</s> <s sid="40" id="flopsy.c1.s40">He stared at them for some time.</s> </p>
+<p pid="29" id="flopsy.c1.p29"><s sid="42" id="flopsy.c1.s42">But Mrs. Tittlemouse was a resourceful person.</s> <s sid="43" id="flopsy.c1.s43">She nibbled a hole in the bottom corner of the sack.</s> </p>
 
-<p pid="30" id="flopsy.c1.p30"><s sid="41" id="flopsy.c1.s41">Presently a fly settled on one of them and it moved.</s> </p>
+<p pid="30" id="flopsy.c1.p30"><s sid="44" id="flopsy.c1.s44">The little rabbits were pulled out and pinched to wake them.</s> </p>
 
-<p pid="31" id="flopsy.c1.p31"><s sid="42" id="flopsy.c1.s42">Mr. McGregor climbed down on to the rubbish heap--</s> </p>
+<p pid="31" id="flopsy.c1.p31"><s sid="45" id="flopsy.c1.s45">Their parents stuffed the empty sack with three rotten vegetable marrows, an old blacking-brush and two decayed turnips.</s> </p>
 
-<p pid="32" id="flopsy.c1.p32" type="speech"><s sid="43" id="flopsy.c1.s43"><qs/>"One, two, three, four! five! six leetle rabbits!"<qe/> said he as he dropped them into his sack.</s> <s sid="44" id="flopsy.c1.s44">The Flopsy Bunnies dreamt that their mother was turning them over in bed.</s> <s sid="45" id="flopsy.c1.s45">They stirred a little in their sleep, but still they did not wake up.</s> </p>
+<p pid="32" id="flopsy.c1.p32"><s sid="46" id="flopsy.c1.s46">Then they all hid under a bush and watched for Mr. McGregor.</s> </p>
 
-<p pid="33" id="flopsy.c1.p33"><s sid="46" id="flopsy.c1.s46">[Illustration]</s> </p>
+<p pid="33" id="flopsy.c1.p33"><s sid="47" id="flopsy.c1.s47">Mr. McGregor came back and picked up the sack, and carried it off.</s> </p>
 
-<p pid="34" id="flopsy.c1.p34"><s sid="47" id="flopsy.c1.s47">[Illustration]</s> </p>
+<p pid="34" id="flopsy.c1.p34"><s sid="48" id="flopsy.c1.s48">He carried it hanging down, as if it were rather heavy.</s> </p>
 
-<p pid="35" id="flopsy.c1.p35"><s sid="48" id="flopsy.c1.s48">Mr. McGregor tied up the sack and left it on the wall.</s> </p>
+<p pid="35" id="flopsy.c1.p35"><s sid="49" id="flopsy.c1.s49">The Flopsy Bunnies followed at a safe distance.</s> </p>
 
-<p pid="36" id="flopsy.c1.p36"><s sid="49" id="flopsy.c1.s49">He went to put away the mowing machine.</s> </p>
+<p pid="36" id="flopsy.c1.p36"><s sid="50" id="flopsy.c1.s50">The watched him go into his house.</s> </p>
 
-<p pid="37" id="flopsy.c1.p37"><s sid="50" id="flopsy.c1.s50">While he was gone, Mrs. Flopsy Bunny (who had remained at home) came across the field.</s> </p>
+<p pid="37" id="flopsy.c1.p37"><s sid="51" id="flopsy.c1.s51">And then they crept up to the window to listen.</s> </p>
 
-<p pid="38" id="flopsy.c1.p38"><s sid="51" id="flopsy.c1.s51">She looked suspiciously at the sack and wondered where everybody was?</s> </p>
+<p pid="38" id="flopsy.c1.p38"><s sid="52" id="flopsy.c1.s52">Mr. McGregor threw down the sack on the stone floor in a way that would have been extremely painful to the Flopsy Bunnies, if they had happened to have been inside it.</s> </p>
 
-<p pid="39" id="flopsy.c1.p39"><s sid="52" id="flopsy.c1.s52">[Illustration]</s> </p>
+<p pid="39" id="flopsy.c1.p39"><s sid="53" id="flopsy.c1.s53">They could hear him drag his chair on the flags, and chuckle--</s> </p>
 
-<p pid="40" id="flopsy.c1.p40"><s sid="53" id="flopsy.c1.s53">Then the mouse came out of her jam pot, and Benjamin took the paper bag off his head, and they told the doleful tale.</s> </p>
+<p pid="40" id="flopsy.c1.p40" type="speech"><s sid="54" id="flopsy.c1.s54"><qs/>"One, two, three, four, five, six leetle rabbits!"<qe/> said Mr. McGregor.</s> </p>
 
-<p pid="41" id="flopsy.c1.p41"><s sid="54" id="flopsy.c1.s54">Benjamin and Flopsy were in despair, they could not undo the string.</s> </p>
+<p pid="41" id="flopsy.c1.p41" type="speech"><s sid="55" id="flopsy.c1.s55"><qs/>"Eh?</s> <s sid="56" id="flopsy.c1.s56">What's that?</s> <s sid="57" id="flopsy.c1.s57">What have they been spoiling now?"<qe/> enquired Mrs. McGregor.</s> </p>
 
-<p pid="42" id="flopsy.c1.p42"><s sid="55" id="flopsy.c1.s55">But Mrs. Tittlemouse was a resourceful person.</s> <s sid="56" id="flopsy.c1.s56">She nibbled a hole in the bottom corner of the sack.</s> </p>
+<p pid="42" id="flopsy.c1.p42" type="speech"><s sid="58" id="flopsy.c1.s58"><qs/>"One, two, three, four, five, six leetle fat rabbits!"<qe/><sls/> repeated Mr. McGregor, counting on his fingers--<sle/><qs/>"one, two, three--"<qe/></s> </p>
 
-<p pid="43" id="flopsy.c1.p43"><s sid="57" id="flopsy.c1.s57">[Illustration]</s> </p>
+<p pid="43" id="flopsy.c1.p43" type="speech"><s sid="59" id="flopsy.c1.s59"><qs/>"Don't you be silly; what do you mean, you silly old man?"<qe/></s> </p>
 
-<p pid="44" id="flopsy.c1.p44"><s sid="58" id="flopsy.c1.s58">The little rabbits were pulled out and pinched to wake them.</s> </p>
+<p pid="44" id="flopsy.c1.p44" type="speech"><s sid="60" id="flopsy.c1.s60"><qs/>"In the sack! one, two, three, four, five, six!"<qe/> replied Mr. McGregor.</s> </p>
 
-<p pid="45" id="flopsy.c1.p45"><s sid="59" id="flopsy.c1.s59">Their parents stuffed the empty sack with three rotten vegetable marrows, an old blacking-brush and two decayed turnips.</s> </p>
+<p pid="45" id="flopsy.c1.p45"><s sid="61" id="flopsy.c1.s61">(The youngest Flopsy Bunny got upon the window-sill.)</s> </p>
 
-<p pid="46" id="flopsy.c1.p46"><s sid="60" id="flopsy.c1.s60">[Illustration]</s> </p>
+<p pid="46" id="flopsy.c1.p46"><s sid="62" id="flopsy.c1.s62">Mrs. McGregor took hold of the sack and felt it.</s> <s sid="63" id="flopsy.c1.s63">She said she could feel six, but they must be _old_ rabbits, because they were so hard and all different shapes.</s> </p>
 
-<p pid="47" id="flopsy.c1.p47"><s sid="61" id="flopsy.c1.s61">Then they all hid under a bush and watched for Mr. McGregor.</s> </p>
+<p pid="47" id="flopsy.c1.p47" type="speech"><s sid="64" id="flopsy.c1.s64"><qs/>"Not fit to eat; but the skins will do fine to line my old cloak."<qe/></s> </p>
 
-<p pid="48" id="flopsy.c1.p48"><s sid="62" id="flopsy.c1.s62">[Illustration]</s> </p>
+<p pid="48" id="flopsy.c1.p48" type="speech"><s sid="65" id="flopsy.c1.s65"><qs/>"Line your old cloak?"<qe/><sss/> shouted Mr. McGregor--<sse/><qs/>"I shall sell them and buy myself baccy!"<qe/></s> </p>
 
-<p pid="49" id="flopsy.c1.p49"><s sid="63" id="flopsy.c1.s63">Mr. McGregor came back and picked up the sack, and carried it off.</s> </p>
+<p pid="49" id="flopsy.c1.p49" type="speech"><s sid="66" id="flopsy.c1.s66"><qs/>"Rabbit tobacco!</s> <s sid="67" id="flopsy.c1.s67">I shall skin them and cut off their heads."<qe/></s> </p>
 
-<p pid="50" id="flopsy.c1.p50"><s sid="64" id="flopsy.c1.s64">He carried it hanging down, as if it were rather heavy.</s> </p>
+<p pid="50" id="flopsy.c1.p50"><s sid="68" id="flopsy.c1.s68">Mrs. McGregor untied the sack and put her hand inside.</s> </p>
 
-<p pid="51" id="flopsy.c1.p51"><s sid="65" id="flopsy.c1.s65">The Flopsy Bunnies followed at a safe distance.</s> </p>
+<p pid="51" id="flopsy.c1.p51" type="speech"><s sid="69" id="flopsy.c1.s69">When she felt the vegetables she became very very angry.</s> <s sid="70" id="flopsy.c1.s70">She said that Mr. McGregor had <qs/>"done it a purpose."<qe/></s> </p>
 
-<p pid="52" id="flopsy.c1.p52"><s sid="66" id="flopsy.c1.s66">[Illustration]</s> </p>
+<p pid="52" id="flopsy.c1.p52"><s sid="71" id="flopsy.c1.s71">And Mr. McGregor was very angry too.</s> <s sid="72" id="flopsy.c1.s72">One of the rotten marrows came flying through the kitchen window, and hit the youngest Flopsy Bunny.</s> </p>
 
-<p pid="53" id="flopsy.c1.p53"><s sid="67" id="flopsy.c1.s67">The watched him go into his house.</s> </p>
+<p pid="53" id="flopsy.c1.p53"><s sid="73" id="flopsy.c1.s73">It was rather hurt.</s> </p>
 
-<p pid="54" id="flopsy.c1.p54"><s sid="68" id="flopsy.c1.s68">And then they crept up to the window to listen.</s> </p>
+<p pid="54" id="flopsy.c1.p54"><s sid="74" id="flopsy.c1.s74">Then Benjamin and Flopsy thought that it was time to go home.</s> </p>
 
-<p pid="55" id="flopsy.c1.p55"><s sid="69" id="flopsy.c1.s69">[Illustration]</s> </p>
+<p pid="55" id="flopsy.c1.p55"><s sid="75" id="flopsy.c1.s75">So Mr. McGregor did not get his tobacco, and Mrs. McGregor did not get her rabbit skins.</s> </p>
 
-<p pid="56" id="flopsy.c1.p56"><s sid="70" id="flopsy.c1.s70">Mr. McGregor threw down the sack on the stone floor in a way that would have been extremely painful to the Flopsy Bunnies, if they had happened to have been inside it.</s> </p>
-
-<p pid="57" id="flopsy.c1.p57"><s sid="71" id="flopsy.c1.s71">They could hear him drag his chair on the flags, and chuckle--</s> </p>
-
-<p pid="58" id="flopsy.c1.p58" type="speech"><s sid="72" id="flopsy.c1.s72"><qs/>"One, two, three, four, five, six leetle rabbits!"<qe/> said Mr. McGregor.</s> </p>
-
-<p pid="59" id="flopsy.c1.p59"><s sid="73" id="flopsy.c1.s73">[Illustration]</s> </p>
-
-<p pid="60" id="flopsy.c1.p60"><s sid="74" id="flopsy.c1.s74">[Illustration]</s> </p>
-
-<p pid="61" id="flopsy.c1.p61" type="speech"><s sid="75" id="flopsy.c1.s75"><qs/>"Eh?</s> <s sid="76" id="flopsy.c1.s76">What's that?</s> <s sid="77" id="flopsy.c1.s77">What have they been spoiling now?"<qe/> enquired Mrs. McGregor.</s> </p>
-
-<p pid="62" id="flopsy.c1.p62" type="speech"><s sid="78" id="flopsy.c1.s78"><qs/>"One, two, three, four, five, six leetle fat rabbits!"<qe/><sls/> repeated Mr. McGregor, counting on his fingers--<sle/><qs/>"one, two, three--"<qe/></s> </p>
-
-<p pid="63" id="flopsy.c1.p63" type="speech"><s sid="79" id="flopsy.c1.s79"><qs/>"Don't you be silly; what do you mean, you silly old man?"<qe/></s> </p>
-
-<p pid="64" id="flopsy.c1.p64" type="speech"><s sid="80" id="flopsy.c1.s80"><qs/>"In the sack! one, two, three, four, five, six!"<qe/> replied Mr. McGregor.</s> </p>
-
-<p pid="65" id="flopsy.c1.p65"><s sid="81" id="flopsy.c1.s81">(The youngest Flopsy Bunny got upon the window-sill.)</s> </p>
-
-<p pid="66" id="flopsy.c1.p66"><s sid="82" id="flopsy.c1.s82">Mrs. McGregor took hold of the sack and felt it.</s> <s sid="83" id="flopsy.c1.s83">She said she could feel six, but they must be _old_ rabbits, because they were so hard and all different shapes.</s> </p>
-
-<p pid="67" id="flopsy.c1.p67" type="speech"><s sid="84" id="flopsy.c1.s84"><qs/>"Not fit to eat; but the skins will do fine to line my old cloak."<qe/></s> </p>
-
-<p pid="68" id="flopsy.c1.p68" type="speech"><s sid="85" id="flopsy.c1.s85"><qs/>"Line your old cloak?"<qe/><sss/> shouted Mr. McGregor--<sse/><qs/>"I shall sell them and buy myself baccy!"<qe/></s> </p>
-
-<p pid="69" id="flopsy.c1.p69" type="speech"><s sid="86" id="flopsy.c1.s86"><qs/>"Rabbit tobacco!</s> <s sid="87" id="flopsy.c1.s87">I shall skin them and cut off their heads."<qe/></s> </p>
-
-<p pid="70" id="flopsy.c1.p70"><s sid="88" id="flopsy.c1.s88">[Illustration]</s> </p>
-
-<p pid="71" id="flopsy.c1.p71"><s sid="89" id="flopsy.c1.s89">Mrs. McGregor untied the sack and put her hand inside.</s> </p>
-
-<p pid="72" id="flopsy.c1.p72" type="speech"><s sid="90" id="flopsy.c1.s90">When she felt the vegetables she became very very angry.</s> <s sid="91" id="flopsy.c1.s91">She said that Mr. McGregor had <qs/>"done it a purpose."<qe/></s> </p>
-
-<p pid="73" id="flopsy.c1.p73"><s sid="92" id="flopsy.c1.s92">[Illustration]</s> </p>
-
-<p pid="74" id="flopsy.c1.p74"><s sid="93" id="flopsy.c1.s93">And Mr. McGregor was very angry too.</s> <s sid="94" id="flopsy.c1.s94">One of the rotten marrows came flying through the kitchen window, and hit the youngest Flopsy Bunny.</s> </p>
-
-<p pid="75" id="flopsy.c1.p75"><s sid="95" id="flopsy.c1.s95">It was rather hurt.</s> </p>
-
-<p pid="76" id="flopsy.c1.p76"><s sid="96" id="flopsy.c1.s96">[Illustration]</s> </p>
-
-<p pid="77" id="flopsy.c1.p77"><s sid="97" id="flopsy.c1.s97">Then Benjamin and Flopsy thought that it was time to go home.</s> </p>
-
-<p pid="78" id="flopsy.c1.p78"><s sid="98" id="flopsy.c1.s98">[Illustration]</s> </p>
-
-<p pid="79" id="flopsy.c1.p79"><s sid="99" id="flopsy.c1.s99">So Mr. McGregor did not get his tobacco, and Mrs. McGregor did not get her rabbit skins.</s> </p>
-
-<p pid="80" id="flopsy.c1.p80"><s sid="100" id="flopsy.c1.s100">[Illustration]</s> </p>
-
-<p pid="81" id="flopsy.c1.p81"><s sid="101" id="flopsy.c1.s101">But next Christmas Thomasina Tittlemouse got a present of enough rabbit-wool to make herself a cloak and a hood, and a handsome muff and a pair of warm mittens.</s> </p>
-
-<p pid="82" id="flopsy.c1.p82"><s sid="102" id="flopsy.c1.s102">[Illustration]</s> </p>
-
-<p pid="83" id="flopsy.c1.p83"><s sid="103" id="flopsy.c1.s103">[Illustration]</s> </p>
+<p pid="56" id="flopsy.c1.p56"><s sid="76" id="flopsy.c1.s76">But next Christmas Thomasina Tittlemouse got a present of enough rabbit-wool to make herself a cloak and a hood, and a handsome muff and a pair of warm mittens.</s> </p>
 
 </div>
 

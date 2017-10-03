@@ -4,12 +4,15 @@
 
 <title>The Book of Dragons</title>
 <author>Edith Nesbit</author>
-<p pid="1" id="dragons.c0.p1"><s>_To Rosamund, chief among those for whom these tales are told, The Book of Dragons is dedicated in the confident hope that she, one of these days, will dedicate a book of her very own making to the one who now bids eight dreadful dragons crouch in all humbleness at those little brown feet._</s> </p>
+<div id="dragons.0" subcorpus="ChiLit" booktitle="The Book of Dragons" book="dragons" type="chapter" num="0">
+<title/>
+<p pid="1" id="dragons.c0.p1"><s sid="1" id="dragons.c0.s1">_To Rosamund, chief among those for whom these tales are told, The Book of Dragons is dedicated in the confident hope that she, one of these days, will dedicate a book of her very own making to the one who now bids eight dreadful dragons crouch in all humbleness at those little brown feet._</s> </p>
 
-<p pid="2" id="dragons.c0.p2"><s>The Book of DRAGONS</s> </p>
+<p pid="2" id="dragons.c0.p2"><s sid="2" id="dragons.c0.s2">The Book of DRAGONS</s> </p>
 
-<p pid="3" id="dragons.c0.p3"><s>[Illustration:</s> <s>THE BOOK OF BEASTS]</s> </p>
+<p pid="3" id="dragons.c0.p3"><s sid="3" id="dragons.c0.s3">[Illustration:</s> <s sid="4" id="dragons.c0.s4">THE BOOK OF BEASTS]</s> </p>
 
+</div>
 <div id="dragons.1" subcorpus="ChiLit" booktitle="The Book of Dragons" book="dragons" type="chapter" num="1">
 <title>CHAPTER I. The Book of Beasts</title>
 <p pid="1" id="dragons.c1.p1"><s sid="1" id="dragons.c1.s1">He happened to be building a Palace when the news came, and he left all the bricks kicking about the floor for Nurse to clear up--but then the news was rather remarkable news.</s> <s sid="2" id="dragons.c1.s2">You see, there was a knock at the front door and voices talking downstairs, and Lionel thought it was the man come to see about the gas, which had not been allowed to be lighted since the day when Lionel made a swing by tying his skipping rope to the gas bracket.</s> </p>

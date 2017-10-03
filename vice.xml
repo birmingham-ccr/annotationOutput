@@ -4,16 +4,19 @@
 
 <title>Vice Versa</title>
 <author>F. Anstey</author>
-<p pid="1" id="vice.c0.p1" type="speech"><s>There is an old story of a punctiliously polite Greek, who, while performing the funeral of an infant daughter, felt bound to make his excuses to the spectators for <qs/>"bringing out such a ridiculously small corpse to so large a crowd."<qe/></s> </p>
+<div id="vice.0" subcorpus="ChiLit" booktitle="Vice Versa" book="vice" type="chapter" num="0">
+<title/>
+<p pid="1" id="vice.c0.p1" type="speech"><s sid="1" id="vice.c0.s1">There is an old story of a punctiliously polite Greek, who, while performing the funeral of an infant daughter, felt bound to make his excuses to the spectators for <qs/>"bringing out such a ridiculously small corpse to so large a crowd."<qe/></s> </p>
 
-<p pid="2" id="vice.c0.p2"><s>The Author, although he trusts that the present production has more vitality than the Greek gentleman's child, still feels that in these days of philosophical fiction, metaphysical romance, and novels with a purpose, some apology may perhaps be needed for a tale which has the unambitious and frivolous aim of mere amusement.</s> </p>
+<p pid="2" id="vice.c0.p2"><s sid="2" id="vice.c0.s2">The Author, although he trusts that the present production has more vitality than the Greek gentleman's child, still feels that in these days of philosophical fiction, metaphysical romance, and novels with a purpose, some apology may perhaps be needed for a tale which has the unambitious and frivolous aim of mere amusement.</s> </p>
 
-<p pid="3" id="vice.c0.p3"><s>However, he ventures to leave the tale to be its own apology, merely contenting himself with the entreaty that his little fish may be spared the rebuke that it is not a whale.</s> </p>
+<p pid="3" id="vice.c0.p3"><s sid="3" id="vice.c0.s3">However, he ventures to leave the tale to be its own apology, merely contenting himself with the entreaty that his little fish may be spared the rebuke that it is not a whale.</s> </p>
 
-<p pid="4" id="vice.c0.p4"><s>In submitting it with all possible respect to the Public, he conceives that no form of words he could devise would appeal so simply and powerfully to their feelings as that which he has ventured to adopt from a certain Anglo-Portuguese Phrase-Book of deserved popularity.</s> </p>
+<p pid="4" id="vice.c0.p4"><s sid="4" id="vice.c0.s4">In submitting it with all possible respect to the Public, he conceives that no form of words he could devise would appeal so simply and powerfully to their feelings as that which he has ventured to adopt from a certain Anglo-Portuguese Phrase-Book of deserved popularity.</s> </p>
 
-<p pid="5" id="vice.c0.p5" type="speech"><s>Like the compilers of that work, he--<qs/>"expects then who the little book, for the care what he wrote him and her typographical corrections, will commend itself to the--_British Paterfamilias_--at which he dedicates him particularly."<qe/></s> </p>
+<p pid="5" id="vice.c0.p5" type="speech"><s sid="5" id="vice.c0.s5">Like the compilers of that work, he--<qs/>"expects then who the little book, for the care what he wrote him and her typographical corrections, will commend itself to the--_British Paterfamilias_--at which he dedicates him particularly."<qe/></s> </p>
 
+</div>
 <div id="vice.1" subcorpus="ChiLit" booktitle="Vice Versa" book="vice" type="chapter" num="1">
 <title>CHAPTER 1. _Black Monday_</title>
 <p pid="1" id="vice.c1.p1" type="speech"><s sid="1" id="vice.c1.s1"><qs/>"In England, where boys go to boarding schools, if the holidays were not long there would be no opportunity for cultivating the domestic affections."<qe/>--_Letter of Lord Campbell's, 1835_.</s> </p>

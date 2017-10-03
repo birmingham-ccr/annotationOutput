@@ -4,10 +4,13 @@
 
 <title>The Tale of Peter Rabbit</title>
 <author>Beatrix Potter</author>
-<p pid="1" id="rabbit.c0.p1"><s>[Illustration]</s> </p>
+<div id="rabbit.0" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" book="rabbit" type="chapter" num="0">
+<title/>
+<p pid="1" id="rabbit.c0.p1"><s sid="1" id="rabbit.c0.s1">[Illustration]</s> </p>
 
-<p pid="2" id="rabbit.c0.p2"><s>[Illustration]</s> </p>
+<p pid="2" id="rabbit.c0.p2"><s sid="2" id="rabbit.c0.s2">[Illustration]</s> </p>
 
+</div>
 <div id="rabbit.1" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" book="rabbit" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="rabbit.c1.p1"><s sid="1" id="rabbit.c1.s1">Once upon a time there were four little Rabbits, and their names were--</s> </p>

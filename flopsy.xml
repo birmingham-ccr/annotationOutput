@@ -4,12 +4,15 @@
 
 <title>The Tale of the Flopsy Bunnies</title>
 <author>Beatrix Potter</author>
-<p pid="1" id="flopsy.c0.p1"><s>FOR ALL LITTLE FRIENDS</s> </p>
+<div id="flopsy.0" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" book="flopsy" type="chapter" num="0">
+<title/>
+<p pid="1" id="flopsy.c0.p1"><s sid="1" id="flopsy.c0.s1">FOR ALL LITTLE FRIENDS</s> </p>
 
-<p pid="2" id="flopsy.c0.p2"><s>OF</s> </p>
+<p pid="2" id="flopsy.c0.p2"><s sid="2" id="flopsy.c0.s2">OF</s> </p>
 
-<p pid="3" id="flopsy.c0.p3"><s>MR.</s> <s>MCGREGOR &amp; PETER &amp; BENJAMIN</s> </p>
+<p pid="3" id="flopsy.c0.p3"><s sid="3" id="flopsy.c0.s3">MR.</s> <s sid="4" id="flopsy.c0.s4">MCGREGOR &amp; PETER &amp; BENJAMIN</s> </p>
 
+</div>
 <div id="flopsy.1" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" book="flopsy" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="flopsy.c1.p1"><s sid="1" id="flopsy.c1.s1">[Illustration]</s> </p>

@@ -4,8 +4,11 @@
 
 <title>Nine Unlikely Tales</title>
 <author>E. Nesbit</author>
-<p pid="1" id="unlikely.c0.p1"><s>IRIDI MEAE HOC ET COR MEUM</s> </p>
+<div id="unlikely.0" subcorpus="ChiLit" booktitle="Nine Unlikely Tales" book="unlikely" type="chapter" num="0">
+<title/>
+<p pid="1" id="unlikely.c0.p1"><s sid="1" id="unlikely.c0.s1">IRIDI MEAE HOC ET COR MEUM</s> </p>
 
+</div>
 <div id="unlikely.1" subcorpus="ChiLit" booktitle="Nine Unlikely Tales" book="unlikely" type="chapter" num="1">
 <title>BOOK 1. _THE COCKATOUCAN_ _OR GREAT AUNT WILLOUGHBY_</title>
 <p pid="1" id="unlikely.c1.p1" type="speech"><s sid="1" id="unlikely.c1.s1">MATILDA'S ears were red and shiny.</s> <s sid="2" id="unlikely.c1.s2">So were her cheeks.</s> <s sid="3" id="unlikely.c1.s3">Her hands were red too.</s> <s sid="4" id="unlikely.c1.s4">This was because Pridmore had washed her.</s> <s sid="5" id="unlikely.c1.s5">It was not the usual washing, which makes you clean and comfortable, but the <qs/>"thorough good wash,"<qe/> which makes you burn and smart till you wish you could be like the poor little savages who do not know anything, and run about bare in the sun, and only go into the water when they are hot.</s> </p>

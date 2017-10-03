@@ -4,12 +4,15 @@
 
 <title>The Tale of Jemima Puddle-Duck</title>
 <author>Beatrix Potter</author>
-<p pid="1" id="jemima.c0.p1"><s>[Illustration]</s> </p>
+<div id="jemima.0" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" book="jemima" type="chapter" num="0">
+<title/>
+<p pid="1" id="jemima.c0.p1"><s sid="1" id="jemima.c0.s1">[Illustration]</s> </p>
 
-<p pid="2" id="jemima.c0.p2"><s>[Illustration]</s> </p>
+<p pid="2" id="jemima.c0.p2"><s sid="2" id="jemima.c0.s2">[Illustration]</s> </p>
 
-<p pid="3" id="jemima.c0.p3"><s>A FARMYARD TALE FOR RALPH AND BETSY</s> </p>
+<p pid="3" id="jemima.c0.p3"><s sid="3" id="jemima.c0.s3">A FARMYARD TALE FOR RALPH AND BETSY</s> </p>
 
+</div>
 <div id="jemima.1" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" book="jemima" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="jemima.c1.p1"><s sid="1" id="jemima.c1.s1">[Illustration]</s> </p>

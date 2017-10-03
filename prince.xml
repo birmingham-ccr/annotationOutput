@@ -4,8 +4,11 @@
 
 <title>The Happy Prince</title>
 <author>Oscar Wilde</author>
-<p pid="1" id="prince.c0.p1"><s>[Picture:</s> <s>Decorative graphic of children]</s> </p>
+<div id="prince.0" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="0">
+<title/>
+<p pid="1" id="prince.c0.p1"><s sid="1" id="prince.c0.s1">[Picture:</s> <s sid="2" id="prince.c0.s2">Decorative graphic of children]</s> </p>
 
+</div>
 <div id="prince.1" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="1">
 <title>BOOK 1. The Happy Prince.</title>
 <p pid="1" id="prince.c1.p1"><s sid="1" id="prince.c1.s1">[Picture:</s> <s sid="2" id="prince.c1.s2">Woman opening window and seeing bird]</s> </p>

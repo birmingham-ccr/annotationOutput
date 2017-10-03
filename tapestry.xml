@@ -4,14 +4,17 @@
 
 <title>The Tapestry Room</title>
 <author>Mrs. Molesworth</author>
-<p pid="1" id="tapestry.c0.p1"><s>[Illustration:</s> <s>'DUDU']</s> </p>
+<div id="tapestry.0" subcorpus="ChiLit" booktitle="The Tapestry Room" book="tapestry" type="chapter" num="0">
+<title/>
+<p pid="1" id="tapestry.c0.p1"><s sid="1" id="tapestry.c0.s1">[Illustration:</s> <s sid="2" id="tapestry.c0.s2">'DUDU']</s> </p>
 
-<p pid="2" id="tapestry.c0.p2"><s>'What tale did Iseult to the children say, Under the hollies, that bright winter's day?'</s> <s>MATTHEW ARNOLD</s> </p>
+<p pid="2" id="tapestry.c0.p2"><s sid="3" id="tapestry.c0.s3"><alt-qs/>'What tale did Iseult to the children say, Under the hollies, that bright winter's day?'<alt-qe/></s> <s sid="4" id="tapestry.c0.s4">MATTHEW ARNOLD</s> </p>
 
-<p pid="3" id="tapestry.c0.p3"><s>TO H.R.H. VITTORIO EMANUELE PRINCE OF NAPLES CROWN PRINCE OF ITALY ONE OF THE KINDLIEST OF MY YOUNG READERS</s> </p>
+<p pid="3" id="tapestry.c0.p3"><s sid="5" id="tapestry.c0.s5">TO H.R.H. VITTORIO EMANUELE PRINCE OF NAPLES CROWN PRINCE OF ITALY ONE OF THE KINDLIEST OF MY YOUNG READERS</s> </p>
 
-<p pid="4" id="tapestry.c0.p4"><s>MAISON DU CHANOINE, _October_ 1879.</s> </p>
+<p pid="4" id="tapestry.c0.p4"><s sid="6" id="tapestry.c0.s6">MAISON DU CHANOINE, _October_ 1879.</s> </p>
 
+</div>
 <div id="tapestry.1" subcorpus="ChiLit" booktitle="The Tapestry Room" book="tapestry" type="chapter" num="1">
 <title>CHAPTER I. MADEMOISELLE JEANNE.</title>
 <p pid="1" id="tapestry.c1.p1" type="speech"><s sid="1" id="tapestry.c1.s1"><qs/>"Maitre Corbeau, sur un arbre perche."<qe/></s> <s sid="2" id="tapestry.c1.s2">LA FONTAINE.</s> </p>

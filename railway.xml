@@ -4,8 +4,11 @@
 
 <title>The Railway Children</title>
 <author>E. Nesbit</author>
-<p pid="1" id="railway.c0.p1"><s>To my dear son Paul Bland, behind whose knowledge of railways my ignorance confidently shelters.</s> </p>
+<div id="railway.0" subcorpus="ChiLit" booktitle="The Railway Children" book="railway" type="chapter" num="0">
+<title/>
+<p pid="1" id="railway.c0.p1"><s sid="1" id="railway.c0.s1">To my dear son Paul Bland, behind whose knowledge of railways my ignorance confidently shelters.</s> </p>
 
+</div>
 <div id="railway.1" subcorpus="ChiLit" booktitle="The Railway Children" book="railway" type="chapter" num="1">
 <title>CHAPTER I. The beginning of things.</title>
 <p pid="1" id="railway.c1.p1"><s sid="1" id="railway.c1.s1">They were not railway children to begin with.</s> <s sid="2" id="railway.c1.s2">I don't suppose they had ever thought about railways except as a means of getting to Maskelyne and Cook's, the Pantomime, Zoological Gardens, and Madame Tussaud's.</s> <s sid="3" id="railway.c1.s3">They were just ordinary suburban children, and they lived with their Father and Mother in an ordinary red-brick-fronted villa, with coloured glass in the front door, a tiled passage that was called a hall, a bath-room with hot and cold water, electric bells, French windows, and a good deal of white paint, and 'every modern convenience', as the house-agents say.</s> </p>

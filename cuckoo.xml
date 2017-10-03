@@ -4,22 +4,25 @@
 
 <title>The Cuckoo Clock</title>
 <author>Mrs. Molesworth</author>
-<p pid="1" id="cuckoo.c0.p1"><s>[Illustration:</s> <s>IT WAS A LITTLE BOAT.]</s> </p>
+<div id="cuckoo.0" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="0">
+<title/>
+<p pid="1" id="cuckoo.c0.p1"><s sid="1" id="cuckoo.c0.s1">[Illustration:</s> <s sid="2" id="cuckoo.c0.s2">IT WAS A LITTLE BOAT.]</s> </p>
 
-<p pid="2" id="cuckoo.c0.p2"><s>[Illustration]</s> </p>
+<p pid="2" id="cuckoo.c0.p2"><s sid="3" id="cuckoo.c0.s3">[Illustration]</s> </p>
 
-<p pid="3" id="cuckoo.c0.p3"><s>TO</s> </p>
+<p pid="3" id="cuckoo.c0.p3"><s sid="4" id="cuckoo.c0.s4">TO</s> </p>
 
-<p pid="4" id="cuckoo.c0.p4"><s>MARY JOSEPHINE,</s> </p>
+<p pid="4" id="cuckoo.c0.p4"><s sid="5" id="cuckoo.c0.s5">MARY JOSEPHINE,</s> </p>
 
-<p pid="5" id="cuckoo.c0.p5"><s>AND TO THE DEAR MEMORY OF HER BROTHER,</s> </p>
+<p pid="5" id="cuckoo.c0.p5"><s sid="6" id="cuckoo.c0.s6">AND TO THE DEAR MEMORY OF HER BROTHER,</s> </p>
 
-<p pid="6" id="cuckoo.c0.p6"><s>THOMAS GRINDAL,</s> </p>
+<p pid="6" id="cuckoo.c0.p6"><s sid="7" id="cuckoo.c0.s7">THOMAS GRINDAL,</s> </p>
 
-<p pid="7" id="cuckoo.c0.p7"><s>BOTH FRIENDLY LITTLE CRITICS OF MY CHILDREN'S STORIES.</s> </p>
+<p pid="7" id="cuckoo.c0.p7"><s sid="8" id="cuckoo.c0.s8">BOTH FRIENDLY LITTLE CRITICS OF MY CHILDREN'S STORIES.</s> </p>
 
-<p pid="8" id="cuckoo.c0.p8"><s>Edinburgh, 1877.</s> </p>
+<p pid="8" id="cuckoo.c0.p8"><s sid="9" id="cuckoo.c0.s9">Edinburgh, 1877.</s> </p>
 
+</div>
 <div id="cuckoo.1" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="1">
 <title>CHAPTER I. THE OLD HOUSE.</title>
 <p pid="1" id="cuckoo.c1.p1" type="speech"><s sid="1" id="cuckoo.c1.s1"><qs/>"Somewhat back from the village street Stands the old-fashioned country seat."<qe/></s> </p>

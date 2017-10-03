@@ -4,12 +4,15 @@
 
 <title>The Story of the Treasure Seekers</title>
 <author>E. Nesbit</author>
-<p pid="1" id="seekers.c0.p1"><s>Being the adventures of the Bastable children in search of a fortune</s> </p>
+<div id="seekers.0" subcorpus="ChiLit" booktitle="The Story of the Treasure Seekers" book="seekers" type="chapter" num="0">
+<title/>
+<p pid="1" id="seekers.c0.p1"><s sid="1" id="seekers.c0.s1">Being the adventures of the Bastable children in search of a fortune</s> </p>
 
-<p pid="2" id="seekers.c0.p2"><s>TO OSWALD BARRON Without whom this book could never have been written</s> </p>
+<p pid="2" id="seekers.c0.p2"><s sid="2" id="seekers.c0.s2">TO OSWALD BARRON Without whom this book could never have been written</s> </p>
 
-<p pid="3" id="seekers.c0.p3"><s>The Treasure Seekers is dedicated in memory of childhoods identical but for the accidents of time and space</s> </p>
+<p pid="3" id="seekers.c0.p3"><s sid="3" id="seekers.c0.s3">The Treasure Seekers is dedicated in memory of childhoods identical but for the accidents of time and space</s> </p>
 
+</div>
 <div id="seekers.1" subcorpus="ChiLit" booktitle="The Story of the Treasure Seekers" book="seekers" type="chapter" num="1">
 <title>CHAPTER 1. THE COUNCIL OF WAYS AND MEANS</title>
 <p pid="1" id="seekers.c1.p1"><s sid="1" id="seekers.c1.s1">This is the story of the different ways we looked for treasure, and I think when you have read it you will see that we were not lazy about the looking.</s> </p>

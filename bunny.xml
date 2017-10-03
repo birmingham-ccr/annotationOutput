@@ -4,10 +4,13 @@
 
 <title>The Tale Of Benjamin Bunny</title>
 <author>Beatrix Potter</author>
-<p pid="1" id="bunny.c0.p1"><s>FOR THE CHILDREN OF SAWREY</s> </p>
+<div id="bunny.0" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" book="bunny" type="chapter" num="0">
+<title/>
+<p pid="1" id="bunny.c0.p1"><s sid="1" id="bunny.c0.s1">FOR THE CHILDREN OF SAWREY</s> </p>
 
-<p pid="2" id="bunny.c0.p2"><s>FROM OLD MR.</s> <s>BUNNY</s> </p>
+<p pid="2" id="bunny.c0.p2"><s sid="2" id="bunny.c0.s2">FROM OLD MR.</s> <s sid="3" id="bunny.c0.s3">BUNNY</s> </p>
 
+</div>
 <div id="bunny.1" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" book="bunny" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="bunny.c1.p1"><s sid="1" id="bunny.c1.s1">[Illustration]</s> </p>

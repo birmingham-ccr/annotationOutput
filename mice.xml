@@ -4,8 +4,11 @@
 
 <title>The Tale of Two Bad Mice</title>
 <author>Beatrix Potter</author>
-<p pid="1" id="mice.c0.p1"><s>[Illustration]</s> </p>
+<div id="mice.0" subcorpus="ChiLit" booktitle="The Tale of Two Bad Mice" book="mice" type="chapter" num="0">
+<title/>
+<p pid="1" id="mice.c0.p1"><s sid="1" id="mice.c0.s1">[Illustration]</s> </p>
 
+</div>
 <div id="mice.1" subcorpus="ChiLit" booktitle="The Tale of Two Bad Mice" book="mice" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="mice.c1.p1"><s sid="1" id="mice.c1.s1">ONCE upon a time there was a very beautiful doll's-house; it was red brick with white windows, and it had real muslin curtains and a front door and a chimney.</s> </p>

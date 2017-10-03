@@ -4,14 +4,17 @@
 
 <title>Mrs. Overtheway's Remembrances</title>
 <author>Juliana Horatia Ewing</author>
-<p pid="1" id="overtheway.c0.p1"><s>TO MY HUSBAND A.E. IN REMEMBRANCE OF 1866 AND 1867 J.H.E.</s> </p>
+<div id="overtheway.0" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" book="overtheway" type="chapter" num="0">
+<title/>
+<p pid="1" id="overtheway.c0.p1"><s sid="1" id="overtheway.c0.s1">TO MY HUSBAND A.E. IN REMEMBRANCE OF 1866 AND 1867 J.H.E.</s> </p>
 
-<p pid="2" id="overtheway.c0.p2"><s>IDA.</s> </p>
+<p pid="2" id="overtheway.c0.p2"><s sid="2" id="overtheway.c0.s2">IDA.</s> </p>
 
-<p pid="3" id="overtheway.c0.p3" type="speech"><s>... <qs/>"Thou shall not lack The flower that's like thy face, pale Primrose."<qe/></s> </p>
+<p pid="3" id="overtheway.c0.p3" type="speech"><s sid="3" id="overtheway.c0.s3">... <qs/>"Thou shall not lack The flower that's like thy face, pale Primrose."<qe/></s> </p>
 
-<p pid="4" id="overtheway.c0.p4"><s>_Cymbeline._</s> </p>
+<p pid="4" id="overtheway.c0.p4"><s sid="4" id="overtheway.c0.s4">_Cymbeline._</s> </p>
 
+</div>
 <div id="overtheway.1" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" book="overtheway" type="chapter" num="1">
 <title>BOOK 1.</title>
 <p pid="1" id="overtheway.c1.p1"><s sid="1" id="overtheway.c1.s1">The little old lady lived over the way, through a green gate that shut with a click, and up three white steps.</s> <s sid="2" id="overtheway.c1.s2">Every morning at eight o'clock the church bell chimed for Morning Prayer--chim! chime! chim! chime!--and every morning at eight o'clock the little old lady came down the white steps, and opened the gate with a click, and went where the bells were calling.</s> </p>

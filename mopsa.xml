@@ -4,12 +4,15 @@
 
 <title>Mopsa the Fairy</title>
 <author>Jean Ingelow</author>
-<p pid="1" id="mopsa.c0.p1"><s>DEDICATED TO MY DEAR LITTLE COUSIN JANE HOLLWAY.</s> </p>
+<div id="mopsa.0" subcorpus="ChiLit" booktitle="Mopsa the Fairy" book="mopsa" type="chapter" num="0">
+<title/>
+<p pid="1" id="mopsa.c0.p1"><s sid="1" id="mopsa.c0.s1">DEDICATED TO MY DEAR LITTLE COUSIN JANE HOLLWAY.</s> </p>
 
-<p pid="2" id="mopsa.c0.p2"><s>[Illustration:</s> <s>THE ENCHANTED BAY.</s> </p>
+<p pid="2" id="mopsa.c0.p2"><s sid="2" id="mopsa.c0.s2">[Illustration:</s> <s sid="3" id="mopsa.c0.s3">THE ENCHANTED BAY.</s> </p>
 
-<p pid="3" id="mopsa.c0.p3" type="speech"><s><qs/>"Look at those five grand ones with high prows: they were part of the Spanish Armada."<qe/>--PAGE 16.]</s> </p>
+<p pid="3" id="mopsa.c0.p3" type="speech"><s sid="4" id="mopsa.c0.s4"><qs/>"Look at those five grand ones with high prows: they were part of the Spanish Armada."<qe/>--PAGE 16.]</s> </p>
 
+</div>
 <div id="mopsa.1" subcorpus="ChiLit" booktitle="Mopsa the Fairy" book="mopsa" type="chapter" num="1">
 <title>CHAPTER I. ABOVE THE CLOUDS.</title>
 <p pid="1" id="mopsa.c1.p1" type="speech"><s sid="1" id="mopsa.c1.s1"><qs/>"And can this be my own world?</s> <s sid="2" id="mopsa.c1.s2"><alt-qs/>'Tis all gold and snow, Save where scarlet waves are hurled Down yon gulf below."<qe/></s> <s sid="3" id="mopsa.c1.s3"><qs/>"'<alt-qe/>Tis thy world, 'tis my world, City, mead, and shore, For he that hath his own world Hath many worlds more."<qe/></s> </p>

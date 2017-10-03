@@ -4,16 +4,19 @@
 
 <title>Treasure Island</title>
 <author>Robert Louis Stevenson</author>
-<p pid="1" id="treasure.c0.p1"><s>To S.L.O., an American gentleman in accordance with whose classic taste the following narrative has been designed, it is now, in return for numerous delightful hours, and with the kindest wishes, dedicated by his affectionate friend, the author.</s> </p>
+<div id="treasure.0" subcorpus="ChiLit" booktitle="Treasure Island" book="treasure" type="chapter" num="0">
+<title/>
+<p pid="1" id="treasure.c0.p1"><s sid="1" id="treasure.c0.s1">To S.L.O., an American gentleman in accordance with whose classic taste the following narrative has been designed, it is now, in return for numerous delightful hours, and with the kindest wishes, dedicated by his affectionate friend, the author.</s> </p>
 
-<p pid="2" id="treasure.c0.p2"><s>TO THE HESITATING PURCHASER</s> </p>
+<p pid="2" id="treasure.c0.p2"><s sid="2" id="treasure.c0.s2">TO THE HESITATING PURCHASER</s> </p>
 
-<p pid="3" id="treasure.c0.p3"><s>If sailor tales to sailor tunes, Storm and adventure, heat and cold, If schooners, islands, and maroons, And buccaneers, and buried gold, And all the old romance, retold Exactly in the ancient way, Can please, as me they pleased of old, The wiser youngsters of today:</s> </p>
+<p pid="3" id="treasure.c0.p3"><s sid="3" id="treasure.c0.s3">If sailor tales to sailor tunes, Storm and adventure, heat and cold, If schooners, islands, and maroons, And buccaneers, and buried gold, And all the old romance, retold Exactly in the ancient way, Can please, as me they pleased of old, The wiser youngsters of today:</s> </p>
 
-<p pid="4" id="treasure.c0.p4"><s>--So be it, and fall on!</s> <s>If not, If studious youth no longer crave, His ancient appetites forgot, Kingston, or Ballantyne the brave, Or Cooper of the wood and wave:</s> <s>So be it, also!</s> <s>And may I And all my pirates share the grave Where these and their creations lie!</s> </p>
+<p pid="4" id="treasure.c0.p4"><s sid="4" id="treasure.c0.s4">--So be it, and fall on!</s> <s sid="5" id="treasure.c0.s5">If not, If studious youth no longer crave, His ancient appetites forgot, Kingston, or Ballantyne the brave, Or Cooper of the wood and wave:</s> <s sid="6" id="treasure.c0.s6">So be it, also!</s> <s sid="7" id="treasure.c0.s7">And may I And all my pirates share the grave Where these and their creations lie!</s> </p>
 
-<p pid="5" id="treasure.c0.p5"><s>PART ONE.</s> <s>The Old Buccaneer</s> </p>
+<p pid="5" id="treasure.c0.p5"><s sid="8" id="treasure.c0.s8">PART ONE.</s> <s sid="9" id="treasure.c0.s9">The Old Buccaneer</s> </p>
 
+</div>
 <div id="treasure.1" subcorpus="ChiLit" booktitle="Treasure Island" book="treasure" type="chapter" num="1">
 <title>CHAPTER 1. The Old Sea-dog at the Admiral Benbow</title>
 <p pid="1" id="treasure.c1.p1"><s sid="1" id="treasure.c1.s1">SQUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.</s> </p>

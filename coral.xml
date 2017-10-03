@@ -4,14 +4,15 @@
 
 <title>The Coral Island</title>
 <author>R. M. Ballantyne</author>
-<p pid="1" id="coral.c0.p1"><s>PREFACE.</s> </p>
+<div id="coral.0" subcorpus="ChiLit" booktitle="The Coral Island" book="coral" type="chapter" num="0">
+<title>PREFACE.</title>
+<p pid="1" id="coral.c0.p1"><s sid="1" id="coral.c0.s1">I was a boy when I went through the wonderful adventures herein set down.</s> <s sid="2" id="coral.c0.s2">With the memory of my boyish feelings strong upon me, I present my book specially to boys, in the earnest hope that they may derive valuable information, much pleasure, great profit, and unbounded amusement from its pages.</s> </p>
 
-<p pid="2" id="coral.c0.p2"><s>I was a boy when I went through the wonderful adventures herein set down.</s> <s>With the memory of my boyish feelings strong upon me, I present my book specially to boys, in the earnest hope that they may derive valuable information, much pleasure, great profit, and unbounded amusement from its pages.</s> </p>
+<p pid="2" id="coral.c0.p2"><s sid="3" id="coral.c0.s3">One word more.</s> <s sid="4" id="coral.c0.s4">If there is any boy or man who loves to be melancholy and morose, and who cannot enter with kindly sympathy into the regions of fun, let me seriously advise him to shut my book and put it away.</s> <s sid="5" id="coral.c0.s5">It is not meant for him.</s> </p>
 
-<p pid="3" id="coral.c0.p3"><s>One word more.</s> <s>If there is any boy or man who loves to be melancholy and morose, and who cannot enter with kindly sympathy into the regions of fun, let me seriously advise him to shut my book and put it away.</s> <s>It is not meant for him.</s> </p>
+<p pid="3" id="coral.c0.p3"><s sid="6" id="coral.c0.s6">RALPH ROVER</s> </p>
 
-<p pid="4" id="coral.c0.p4"><s>RALPH ROVER</s> </p>
-
+</div>
 <div id="coral.1" subcorpus="ChiLit" booktitle="The Coral Island" book="coral" type="chapter" num="1">
 <title>CHAPTER I.</title>
 <p pid="1" id="coral.c1.p1"><s sid="1" id="coral.c1.s1">The beginning--My early life and character--I thirst for adventure in foreign lands and go to sea.</s> </p>

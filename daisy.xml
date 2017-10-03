@@ -4,14 +4,15 @@
 
 <title>The Daisy Chain</title>
 <author>Charlotte Yonge</author>
-<p pid="1" id="daisy.c0.p1"><s>PREFACE.</s> </p>
+<div id="daisy.0" subcorpus="ChiLit" booktitle="The Daisy Chain" book="daisy" type="chapter" num="0">
+<title>PREFACE.</title>
+<p pid="1" id="daisy.c0.p1"><s sid="1" id="daisy.c0.s1">No one can be more sensible than is the Author that the present is an overgrown book of a nondescript class, neither the "tale" for the young, nor the novel for their elders, but a mixture of both.</s> </p>
 
-<p pid="2" id="daisy.c0.p2"><s>No one can be more sensible than is the Author that the present is an overgrown book of a nondescript class, neither the "tale" for the young, nor the novel for their elders, but a mixture of both.</s> </p>
+<p pid="2" id="daisy.c0.p2"><s sid="2" id="daisy.c0.s2">Begun as a series of conversational sketches, the story outran both the original intention and the limits of the periodical in which it was commenced; and, such as it has become, it is here presented to those who have already made acquaintance with the May family, and may be willing to see more of them.</s> <s sid="3" id="daisy.c0.s3">It would beg to be considered merely as what it calls itself, a Family Chronicle--a domestic record of home events, large and small, during those years of early life when the character is chiefly formed, and as an endeavour to trace the effects of those aspirations which are a part of every youthful nature.</s> <s sid="4" id="daisy.c0.s4">That the young should take one hint, to think whether their hopes and upward-breathings are truly upwards, and founded in lowliness, may be called the moral of the tale.</s> </p>
 
-<p pid="3" id="daisy.c0.p3"><s>Begun as a series of conversational sketches, the story outran both the original intention and the limits of the periodical in which it was commenced; and, such as it has become, it is here presented to those who have already made acquaintance with the May family, and may be willing to see more of them.</s> <s>It would beg to be considered merely as what it calls itself, a Family Chronicle--a domestic record of home events, large and small, during those years of early life when the character is chiefly formed, and as an endeavour to trace the effects of those aspirations which are a part of every youthful nature.</s> <s>That the young should take one hint, to think whether their hopes and upward-breathings are truly upwards, and founded in lowliness, may be called the moral of the tale.</s> </p>
+<p pid="3" id="daisy.c0.p3"><s sid="5" id="daisy.c0.s5">For those who may deem the story too long, and the characters too numerous, the Author can only beg their pardon for any tedium that they may have undergone before giving it up.</s> <s sid="6" id="daisy.c0.s6">Feb.</s> <s sid="7" id="daisy.c0.s7">22nd, 1856.</s> </p>
 
-<p pid="4" id="daisy.c0.p4"><s>For those who may deem the story too long, and the characters too numerous, the Author can only beg their pardon for any tedium that they may have undergone before giving it up.</s> <s>Feb.</s> <s>22nd, 1856.</s> </p>
-
+</div>
 <div id="daisy.1" subcorpus="ChiLit" booktitle="The Daisy Chain" book="daisy" type="chapter" num="1">
 <title>PART 1. CHAPTER I.</title>
 <p pid="1" id="daisy.c1.p1"><s sid="1" id="daisy.c1.s1">Si douce est la Marguerite.--CHAUCER.</s> </p>

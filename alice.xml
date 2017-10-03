@@ -716,7 +716,7 @@
 
 <p pid="43" id="alice.c7.p43" type="speech"><s sid="65" id="alice.c7.s65"><qs/>'Ah! that accounts for it,'<qe/> said the Hatter.</s> <s sid="66" id="alice.c7.s66">'He won't stand beating.</s> <s sid="67" id="alice.c7.s67">Now, if you only kept on good terms with him, he'd do almost anything you liked with the clock.</s> <s sid="68" id="alice.c7.s68">For instance, suppose it were nine o'clock in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling!</s> <s sid="69" id="alice.c7.s69">Half-past one, time for dinner!'</s> </p>
 
-<p pid="44" id="alice.c7.p44"><s sid="70" id="alice.c7.s70">['I only wish it was,' the March Hare said to itself in a whisper.)</s> </p>
+<p pid="44" id="alice.c7.p44" type="speech"><s sid="70" id="alice.c7.s70">(<qs/>'I only wish it was,'<qe/> the March Hare said to itself in a whisper.)</s> </p>
 
 <p pid="45" id="alice.c7.p45" type="speech"><s sid="71" id="alice.c7.s71"><qs/>'That would be grand, certainly,'<qe/> said Alice thoughtfully:</s> <s sid="72" id="alice.c7.s72"><qs/>'but then--I shouldn't be hungry for it, you know.'<qe/></s> </p>
 

@@ -1,0 +1,21 @@
+#!/bin/sh
+set -eu
+
+cat <<EOF
+<html>
+<body>
+<ul>
+EOF
+
+
+for xml in `ls -1 */final/*.xml`; do
+    cat <<EOF
+<li><a href="$xml">$xml</a></li>
+EOF
+done
+
+cat <<EOF
+</ul>
+</body>
+</html>
+EOF

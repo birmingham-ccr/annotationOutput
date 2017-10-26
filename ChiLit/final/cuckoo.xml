@@ -4,8 +4,8 @@
 
 <title>The Cuckoo Clock</title>
 <author>Mrs. Molesworth</author>
-<div id="cuckoo.0" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="0">
-<title/>
+<div id="cuckoo.0" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="cuckoo.c0.p1"><s sid="1" id="cuckoo.c0.s1">[IT WAS A LITTLE BOAT.]</s> </p>
 
 <p pid="2" id="cuckoo.c0.p2"><s sid="2" id="cuckoo.c0.s2">TO</s> </p>
@@ -20,9 +20,9 @@
 
 <p pid="7" id="cuckoo.c0.p7"><s sid="7" id="cuckoo.c0.s7">Edinburgh, 1877.</s> </p>
 
-</div>
-<div id="cuckoo.1" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="1">
-<title>CHAPTER I. THE OLD HOUSE.</title>
+<qs/></div>
+<div id="cuckoo.1" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="1">
+<qe/><title>CHAPTER I. THE OLD HOUSE.</title>
 <p pid="1" id="cuckoo.c1.p1" type="speech"><s sid="1" id="cuckoo.c1.s1"><qs/>"Somewhat back from the village street Stands the old-fashioned country seat."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c1.p2"><s sid="2" id="cuckoo.c1.s2">Once upon a time in an old town, in an old street, there stood a very old house.</s> <s sid="3" id="cuckoo.c1.s3">Such a house as you could hardly find nowadays, however you searched, for it belonged to a gone-by time--a time now quite passed away.</s> </p>
@@ -181,9 +181,9 @@
 
 <p pid="79" id="cuckoo.c1.p79" type="speech"><s sid="168" id="cuckoo.c1.s168"><qs/>"She is very kind,"<qe/><sss/> thought Griselda; <sse/><qs/>"but I wish she wouldn't call my lessons tasks.</s> <s sid="169" id="cuckoo.c1.s169">It makes them sound so dreadfully hard.</s> <s sid="170" id="cuckoo.c1.s170">But, any way, I'm glad I'm to do them in the room where that dear cuckoo lives."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.2" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="2">
-<title>CHAPTER II. _IM_PATIENT GRISELDA.</title>
+<qs/></div>
+<div id="cuckoo.2" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="2">
+<qe/><title>CHAPTER II. _IM_PATIENT GRISELDA.</title>
 <p pid="1" id="cuckoo.c2.p1" type="speech"><s sid="1" id="cuckoo.c2.s1"><qs/>"... fairies but seldom appear; If we do wrong we must expect That it will cost us dear!"<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c2.p2" type="speech"><s sid="2" id="cuckoo.c2.s2">It was all very well for a few days.</s> <s sid="3" id="cuckoo.c2.s3">Griselda found plenty to amuse herself with while the novelty lasted, enough to prevent her missing _very_ badly the home she had left <qs/>"over the sea,"<qe/> and the troop of noisy merry brothers who teased and petted her.</s> <s sid="4" id="cuckoo.c2.s4">Of course she _missed_ them, but not <qs/>"dreadfully."<qe/></s> <s sid="5" id="cuckoo.c2.s5">She was neither homesick nor <qs/>"dull."<qe/></s> </p>
@@ -308,9 +308,9 @@
 
 <p pid="62" id="cuckoo.c2.p62"><s sid="174" id="cuckoo.c2.s174">For Griselda's childhood among the troop of noisy brothers had taught her one lesson--she was afraid of nothing.</s> <s sid="175" id="cuckoo.c2.s175">Or rather perhaps I should say she had never learnt that there was anything to be afraid of!</s> <s sid="176" id="cuckoo.c2.s176">And is there?</s> </p>
 
-</div>
-<div id="cuckoo.3" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="3">
-<title>CHAPTER III. OBEYING ORDERS.</title>
+<qs/></div>
+<div id="cuckoo.3" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="3">
+<qe/><title>CHAPTER III. OBEYING ORDERS.</title>
 <p pid="1" id="cuckoo.c3.p1" type="speech"><s sid="1" id="cuckoo.c3.s1"><qs/>"Little girl, thou must thy part fulfil, If we're to take kindly to ours:</s> <s sid="2" id="cuckoo.c3.s2">Then pull up the weeds with a will, And fairies will cherish the flowers."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c3.p2"><s sid="3" id="cuckoo.c3.s3">There was moonlight, though not so much, in the saloon and the ante-room, too; for though the windows, like those in Griselda's bed-room, had the shutters closed, there was a round part at the top, high up, which the shutters did not reach to, and in crept, through these clear uncovered panes, quite as many moonbeams, you may be sure, as could find their way.</s> </p>
@@ -525,9 +525,9 @@
 
 <p pid="107" id="cuckoo.c3.p107" type="speech"><s sid="228" id="cuckoo.c3.s228"><qs/>"Stuff,"<qe/><sss/> said the cuckoo; <sse/><qs/>"it won't stop the clock.</s> <s sid="229" id="cuckoo.c3.s229">Catch hold of the chains and swing yourself up.</s> <s sid="230" id="cuckoo.c3.s230">There now--I told you you could manage it."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.4" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="4">
-<title>CHAPTER IV. THE COUNTRY OF THE NODDING MANDARINS.</title>
+<qs/></div>
+<div id="cuckoo.4" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="4">
+<qe/><title>CHAPTER IV. THE COUNTRY OF THE NODDING MANDARINS.</title>
 <p pid="1" id="cuckoo.c4.p1" type="speech"><s sid="1" id="cuckoo.c4.s1"><qs/>"We're all nodding, nid-nid-nodding."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c4.p2"><s sid="2" id="cuckoo.c4.s2">_How_ she managed it she never knew; but, somehow or other, it _was_ managed.</s> <s sid="3" id="cuckoo.c4.s3">She seemed to slide up the chain just as easily as in a general way she would have slidden down, only without any disagreeable anticipation of a bump at the end of the journey.</s> <s sid="4" id="cuckoo.c4.s4">And when she got to the top how wonderfully different it looked from anything she could have expected!</s> <s sid="5" id="cuckoo.c4.s5">The doors stood open, and Griselda found them quite big enough, or herself quite small enough--which it was she couldn't tell, and as it was all a matter of fancy she decided not to trouble to inquire--to pass through quite comfortably.</s> </p>
@@ -760,9 +760,9 @@
 
 <p pid="116" id="cuckoo.c4.p116" type="speech"><s sid="270" id="cuckoo.c4.s270"><qs/>"They're very fond of good music, you see,"<qe/><sls/> he whispered as he passed Griselda; <sle/><qs/>"and they don't often get it."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.5" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="5">
-<title>CHAPTER V. PICTURES.</title>
+<qs/></div>
+<div id="cuckoo.5" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="5">
+<qe/><title>CHAPTER V. PICTURES.</title>
 <p pid="1" id="cuckoo.c5.p1" type="speech"><s sid="1" id="cuckoo.c5.s1"><qs/>"And she is always beautiful, And always is eighteen!"<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c5.p2"><s sid="2" id="cuckoo.c5.s2">When he got to the middle of the room the cuckoo cleared his throat, flapped his wings, and began to sing.</s> <s sid="3" id="cuckoo.c5.s3">Griselda was quite astonished.</s> <s sid="4" id="cuckoo.c5.s4">She had had no idea that her friend was so accomplished.</s> <s sid="5" id="cuckoo.c5.s5">It wasn't "cuckooing" at all; it was real singing, like that of the nightingale or the thrush, or like something prettier than either.</s> <s sid="6" id="cuckoo.c5.s6">It made Griselda think of woods in summer, and of tinkling brooks flowing through them, with the pretty brown pebbles sparkling up through the water; and then it made her think of something sad--she didn't know what; perhaps it was of the babes in the wood and the robins covering them up with leaves--and then again, in a moment, it sounded as if all the merry elves and sprites that ever were heard of had escaped from fairyland, and were rolling over and over with peals of rollicking laughter.</s> <s sid="7" id="cuckoo.c5.s7">And at last, all of a sudden, the song came to an end.</s> </p>
@@ -981,9 +981,9 @@
 
 <p pid="109" id="cuckoo.c5.p109" type="speech"><s sid="227" id="cuckoo.c5.s227"><qs/>"May she grow up as good, if not quite as beautiful--_that_ we could scarcely expect; and may she be longer spared to those that love her,"<qe/> added Miss Grizzel, bending over Griselda, while two or three tears slowly trickled down her aged cheeks.</s> <s sid="228" id="cuckoo.c5.s228"><qs/>"See, Tabitha, the dear child is fast asleep.</s> <s sid="229" id="cuckoo.c5.s229">How sweet she looks!</s> <s sid="230" id="cuckoo.c5.s230">I trust by to-morrow morning she will be quite herself again: her cold is so much better."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.6" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="6">
-<title>CHAPTER VI. RUBBED THE WRONG WAY.</title>
+<qs/></div>
+<div id="cuckoo.6" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="6">
+<qe/><title>CHAPTER VI. RUBBED THE WRONG WAY.</title>
 <p pid="1" id="cuckoo.c6.p1" type="speech"><s sid="1" id="cuckoo.c6.s1"><qs/>"For now and then there comes a day When everything goes wrong."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c6.p2" type="speech"><s sid="2" id="cuckoo.c6.s2">Griselda's cold _was_ much better by <qs/>"to-morrow morning."<qe/></s> <s sid="3" id="cuckoo.c6.s3">In fact, I might almost say it was quite well.</s> </p>
@@ -1130,9 +1130,9 @@
 
 <p pid="73" id="cuckoo.c6.p73"><s sid="188" id="cuckoo.c6.s188">Griselda opened her eyes.</s> </p>
 
-</div>
-<div id="cuckoo.7" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="7">
-<title>CHAPTER VII. BUTTERFLY-LAND.</title>
+<qs/></div>
+<div id="cuckoo.7" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="7">
+<qe/><title>CHAPTER VII. BUTTERFLY-LAND.</title>
 <p pid="1" id="cuckoo.c7.p1" type="speech"><s sid="1" id="cuckoo.c7.s1"><qs/>"I'd be a butterfly."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c7.p2"><s sid="2" id="cuckoo.c7.s2">Griselda opened her eyes.</s> </p>
@@ -1331,9 +1331,9 @@
 
 <p pid="99" id="cuckoo.c7.p99" type="speech"><s sid="221" id="cuckoo.c7.s221"><qs/>"Stuff and nonsense,"<qe/><sss/> replied Griselda; <sse/><qs/>"it's scent of my own, Dorcas.</s> <s sid="222" id="cuckoo.c7.s222">Aunt Grizzel never had any like it in her life.</s> <s sid="223" id="cuckoo.c7.s223">There now!</s> <s sid="224" id="cuckoo.c7.s224">Please give me my slippers, I want to get up and look over my lessons for Mr. Kneebreeches before he comes.</s> <s sid="225" id="cuckoo.c7.s225">Dear me,"<qe/><sls/> she added to herself, as she was putting on her slippers, <sle/><qs/>"how pretty my feet did look with the blue butterfly shoes!</s> <s sid="226" id="cuckoo.c7.s226">It was very good of the cuckoo to take me there, but I don't think I shall ever wish to be a butterfly again, now I know how hard they work!</s> <s sid="227" id="cuckoo.c7.s227">But I'd like to do my lessons well to-day.</s> <s sid="228" id="cuckoo.c7.s228">I fancy it'll please the dear old cuckoo."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.8" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="8">
-<title>CHAPTER VIII. MASTER PHIL.</title>
+<qs/></div>
+<div id="cuckoo.8" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="8">
+<qe/><title>CHAPTER VIII. MASTER PHIL.</title>
 <p pid="1" id="cuckoo.c8.p1" type="speech"><s sid="1" id="cuckoo.c8.s1"><qs/>"Who comes from the world of flowers?</s> <s sid="2" id="cuckoo.c8.s2">Daisy and crocus, and sea-blue bell, And violet shrinking in dewy cell-- Sly cells that know the secrets of night, When earth is bathed in fairy light-- Scarlet, and blue, and golden flowers."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c8.p2"><s sid="3" id="cuckoo.c8.s3">And so Mr. Kneebreeches had no reason to complain of his pupil that day.</s> </p>
@@ -1500,9 +1500,9 @@
 
 <p pid="83" id="cuckoo.c8.p83" type="speech"><s sid="199" id="cuckoo.c8.s199"><qs/>"Very well,"<qe/> said little Phil as he trotted off.</s> <s sid="200" id="cuckoo.c8.s200"><qs/>"I'll try to remember all those things.</s> <s sid="201" id="cuckoo.c8.s201">I'm so glad you'll play with me again; and if you see the cuckoo, please thank him."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.9" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="9">
-<title>CHAPTER IX. UP AND DOWN THE CHIMNEY.</title>
+<qs/></div>
+<div id="cuckoo.9" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="9">
+<qe/><title>CHAPTER IX. UP AND DOWN THE CHIMNEY.</title>
 <p pid="1" id="cuckoo.c9.p1"><s sid="1" id="cuckoo.c9.s1">"_Helper_.</s> <s sid="2" id="cuckoo.c9.s2">Well, but if it was all dream, it would be the same as if it was all real, would it not?</s> </p>
 
 <p pid="2" id="cuckoo.c9.p2" type="speech"><s sid="3" id="cuckoo.c9.s3"><qs/>"_Keeper_.</s> <s sid="4" id="cuckoo.c9.s4">Yes, I see.</s> <s sid="5" id="cuckoo.c9.s5">I mean, Sir, I do _not_ see."<qe/>--_A Liliput Revel_.</s> </p>
@@ -1777,9 +1777,9 @@
 
 <p pid="137" id="cuckoo.c9.p137" type="speech"><s sid="306" id="cuckoo.c9.s306"><qs/>"Cuckoo,"<qe/><sss/> she exclaimed, <sse/><qs/>"take me to the sea.</s> <s sid="307" id="cuckoo.c9.s307">It's _such_ a time since I saw the sea.</s> <s sid="308" id="cuckoo.c9.s308">I can fancy I hear it; do take me to see it."<qe/></s> </p>
 
-</div>
-<div id="cuckoo.10" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="10">
-<title>CHAPTER X. THE OTHER SIDE OF THE MOON.</title>
+<qs/></div>
+<div id="cuckoo.10" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="10">
+<qe/><title>CHAPTER X. THE OTHER SIDE OF THE MOON.</title>
 <p pid="1" id="cuckoo.c10.p1" type="speech"><s sid="1" id="cuckoo.c10.s1"><qs/>"That after supper time has come, And silver dews the meadow steep.</s> <s sid="2" id="cuckoo.c10.s2">And all is silent in the home, And even nurses are asleep, That be it late, or be it soon, Upon this lovely night in June They both will step into the moon."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c10.p2" type="speech"><s sid="3" id="cuckoo.c10.s3"><qs/>"Very well,"<qe/> said the cuckoo.</s> <s sid="4" id="cuckoo.c10.s4"><qs/>"You would like to look about you a little on the way, perhaps, Griselda, as we shall not be going down chimneys, or anything of that kind just at present."<qe/></s> </p>
@@ -1966,9 +1966,9 @@
 
 <p pid="93" id="cuckoo.c10.p93"><s sid="233" id="cuckoo.c10.s233">Off they glided somehow, but it seemed to Griselda that _somebody_ rowed, for she heard the soft dip, dip of the oars as they went along, so regularly that she couldn't help beginning to count in time--one, two, three, four--on, on--she thought she had got nearly to a hundred, when----</s> </p>
 
-</div>
-<div id="cuckoo.11" subcorpus="ChiLit" booktitle="The Cuckoo Clock" book="cuckoo" type="chapter" num="11">
-<title>CHAPTER XI. "CUCKOO, CUCKOO, GOOD-BYE!"</title>
+<qs/></div>
+<div id="cuckoo.11" subcorpus="ChiLit" booktitle="The Cuckoo Clock" bookauthor="Mrs. Molesworth" book="cuckoo" type="chapter" num="11">
+<qe/><title>CHAPTER XI. "CUCKOO, CUCKOO, GOOD-BYE!"</title>
 <p pid="1" id="cuckoo.c11.p1" type="speech"><s sid="1" id="cuckoo.c11.s1"><qs/>"Children, try to be good!</s> <s sid="2" id="cuckoo.c11.s2">That is the end of all teaching; Easily understood, And very easy in preaching.</s> <s sid="3" id="cuckoo.c11.s3">And if you find it hard, Your efforts you need but double; Nothing deserves reward Unless it has given as trouble."<qe/></s> </p>
 
 <p pid="2" id="cuckoo.c11.p2"><s sid="4" id="cuckoo.c11.s4">--When she forgot everything, and fell fast, fast asleep, to wake, of course, in her own little bed as usual!</s> </p>
@@ -2139,7 +2139,7 @@
 
 <p pid="85" id="cuckoo.c11.p85"><s sid="178" id="cuckoo.c11.s178">In the morning, when Griselda awoke, her pillow was wet with tears.</s> <s sid="179" id="cuckoo.c11.s179">Thus many stories end.</s> <s sid="180" id="cuckoo.c11.s180">She was happy, very happy in the thought of her kind new friends; but there were tears for the one she felt she had said farewell to, even though he was only a cuckoo in a clock.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

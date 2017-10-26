@@ -4,13 +4,13 @@
 
 <title>The Happy Prince</title>
 <author>Oscar Wilde</author>
-<div id="prince.0" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="0">
-<title/>
+<div id="prince.0" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="prince.c0.p1"><s sid="1" id="prince.c0.s1">[Decorative graphic of children]</s> </p>
 
-</div>
-<div id="prince.1" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="1">
-<title>BOOK 1. The Happy Prince.</title>
+<qs/></div>
+<div id="prince.1" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="1">
+<qe/><title>BOOK 1. The Happy Prince.</title>
 <p pid="1" id="prince.c1.p1"><s sid="1" id="prince.c1.s1">[Woman opening window and seeing bird]</s> </p>
 
 <p pid="2" id="prince.c1.p2"><s sid="2" id="prince.c1.s2">HIGH above the city, on a tall column, stood the statue of the Happy Prince.</s> <s sid="3" id="prince.c1.s3">He was gilded all over with thin leaves of fine gold, for eyes he had two bright sapphires, and a large red ruby glowed on his sword-hilt.</s> </p>
@@ -185,9 +185,9 @@
 
 <p pid="87" id="prince.c1.p87"><s sid="207" id="prince.c1.s207">[Decorative graphic of two birds]</s> </p>
 
-</div>
-<div id="prince.2" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="2">
-<title>BOOK 2. The Nightingale and the Rose.</title>
+<qs/></div>
+<div id="prince.2" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="2">
+<qe/><title>BOOK 2. The Nightingale and the Rose.</title>
 <p pid="1" id="prince.c2.p1"><s sid="1" id="prince.c2.s1">[Decorative graphic of young man lying on grass]</s> </p>
 
 <p pid="2" id="prince.c2.p2" type="speech"><s sid="2" id="prince.c2.s2"><qs/>"SHE said that she would dance with me if I brought her red roses,"<qe/><sss/> cried the young Student; <sse/><qs/>"but in all my garden there is no red rose."<qe/></s> </p>
@@ -316,9 +316,9 @@
 
 <p pid="64" id="prince.c2.p64"><s sid="125" id="prince.c2.s125">[Decorative graphic of nightingale and rose]</s> </p>
 
-</div>
-<div id="prince.3" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="3">
-<title>BOOK 3. The Selfish Giant.</title>
+<qs/></div>
+<div id="prince.3" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="3">
+<qe/><title>BOOK 3. The Selfish Giant.</title>
 <p pid="1" id="prince.c3.p1"><s sid="1" id="prince.c3.s1">[The Selfish Giant]</s> </p>
 
 <p pid="2" id="prince.c3.p2"><s sid="2" id="prince.c3.s2">EVERY afternoon, as they were coming from school, the children used to go and play in the Giant's garden.</s> </p>
@@ -389,9 +389,9 @@
 
 <p pid="35" id="prince.c3.p35"><s sid="98" id="prince.c3.s98">[Decorative graphic of wreath]</s> </p>
 
-</div>
-<div id="prince.4" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="4">
-<title>BOOK 4. The Devoted Friend.</title>
+<qs/></div>
+<div id="prince.4" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="4">
+<qe/><title>BOOK 4. The Devoted Friend.</title>
 <p pid="1" id="prince.c4.p1"><s sid="1" id="prince.c4.s1">[Hans and the Miller]</s> </p>
 
 <p pid="2" id="prince.c4.p2"><s sid="2" id="prince.c4.s2">ONE morning the old Water-rat put his head out of his hole.</s> <s sid="3" id="prince.c4.s3">He had bright beady eyes and stiff grey whiskers and his tail was like a long bit of black india-rubber.</s> <s sid="4" id="prince.c4.s4">The little ducks were swimming about in the pond, looking just like a lot of yellow canaries, and their mother, who was pure white with real red legs, was trying to teach them how to stand on their heads in the water.</s> </p>
@@ -610,9 +610,9 @@
 
 <p pid="115" id="prince.c4.p115"><s sid="215" id="prince.c4.s215">[Decorative graphic of windmill and overturned barrow]</s> </p>
 
-</div>
-<div id="prince.5" subcorpus="ChiLit" booktitle="The Happy Prince" book="prince" type="chapter" num="5">
-<title>BOOK 5. The Remarkable Rocket.</title>
+<qs/></div>
+<div id="prince.5" subcorpus="ChiLit" booktitle="The Happy Prince" bookauthor="Oscar Wilde" book="prince" type="chapter" num="5">
+<qe/><title>BOOK 5. The Remarkable Rocket.</title>
 <p pid="1" id="prince.c5.p1"><s sid="1" id="prince.c5.s1">[The Remarkable Rocket]</s> </p>
 
 <p pid="2" id="prince.c5.p2" type="speech"><s sid="2" id="prince.c5.s2">THE King's son was going to be married, so there were general rejoicings.</s> <s sid="3" id="prince.c5.s3">He had waited a whole year for his bride, and at last she had arrived.</s> <s sid="4" id="prince.c5.s4">She was a Russian Princess, and had driven all the way from Finland in a sledge drawn by six reindeer.</s> <s sid="5" id="prince.c5.s5">The sledge was shaped like a great golden swan, and between the swan's wings lay the little Princess herself.</s> <s sid="6" id="prince.c5.s6">Her long ermine-cloak reached right down to her feet, on her head was a tiny cap of silver tissue, and she was as pale as the Snow Palace in which she had always lived.</s> <s sid="7" id="prince.c5.s7">So pale was she that as she drove through the streets all the people wondered.</s> <s sid="8" id="prince.c5.s8"><qs/>"She is like a white rose!"<qe/> they cried, and they threw down flowers on her from the balconies.</s> </p>
@@ -827,7 +827,7 @@
 
 <p pid="107" id="prince.c5.p107" type="speech"><s sid="287" id="prince.c5.s287"><qs/>"I knew I should create a great sensation,"<qe/> gasped the Rocket, and he went out.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

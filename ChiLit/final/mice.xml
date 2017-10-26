@@ -4,8 +4,8 @@
 
 <title>The Tale of Two Bad Mice</title>
 <author>Beatrix Potter</author>
-<div id="mice.1" subcorpus="ChiLit" booktitle="The Tale of Two Bad Mice" book="mice" type="chapter" num="1">
-<title>BOOK 1.</title>
+<div id="mice.1" subcorpus="ChiLit" booktitle="The Tale of Two Bad Mice" bookauthor="Beatrix Potter" book="mice" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="mice.c1.p1"><s sid="1" id="mice.c1.s1">ONCE upon a time there was a very beautiful doll's-house; it was red brick with white windows, and it had real muslin curtains and a front door and a chimney.</s> </p>
 
 <p pid="2" id="mice.c1.p2"><s sid="2" id="mice.c1.s2">IT belonged to two Dolls called Lucinda and Jane; at least it belonged to Lucinda, but she never ordered meals.</s> </p>
@@ -90,7 +90,7 @@
 
 <p pid="42" id="mice.c1.p42"><s sid="58" id="mice.c1.s58">THE END.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

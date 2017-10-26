@@ -4,8 +4,8 @@
 
 <title>Mrs. Overtheway's Remembrances</title>
 <author>Juliana Horatia Ewing</author>
-<div id="overtheway.0" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" book="overtheway" type="chapter" num="0">
-<title/>
+<div id="overtheway.0" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" bookauthor="Juliana Horatia Ewing" book="overtheway" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="overtheway.c0.p1"><s sid="1" id="overtheway.c0.s1">TO MY HUSBAND A.E. IN REMEMBRANCE OF 1866 AND 1867 J.H.E.</s> </p>
 
 <p pid="2" id="overtheway.c0.p2"><s sid="2" id="overtheway.c0.s2">IDA.</s> </p>
@@ -14,9 +14,9 @@
 
 <p pid="4" id="overtheway.c0.p4"><s sid="4" id="overtheway.c0.s4">_Cymbeline._</s> </p>
 
-</div>
-<div id="overtheway.1" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" book="overtheway" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="overtheway.1" subcorpus="ChiLit" booktitle="Mrs. Overtheway's Remembrances" bookauthor="Juliana Horatia Ewing" book="overtheway" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="overtheway.c1.p1"><s sid="1" id="overtheway.c1.s1">The little old lady lived over the way, through a green gate that shut with a click, and up three white steps.</s> <s sid="2" id="overtheway.c1.s2">Every morning at eight o'clock the church bell chimed for Morning Prayer--chim! chime! chim! chime!--and every morning at eight o'clock the little old lady came down the white steps, and opened the gate with a click, and went where the bells were calling.</s> </p>
 
 <p pid="2" id="overtheway.c1.p2"><s sid="3" id="overtheway.c1.s3">About this time also little Ida would kneel on a chair at her nursery window in the opposite house to watch the old lady come out and go.</s> <s sid="4" id="overtheway.c1.s4">The old lady was one of those people who look always the same.</s> <s sid="5" id="overtheway.c1.s5">Every morning her cheeks looked like faded rose-leaves, and her white hair like a snow-wreath in a garden laughing at the last tea-rose.</s> <s sid="6" id="overtheway.c1.s6">Every morning she wore the same black satin bonnet, and the same white shawl; had delicate gloves on the smallest of hands, and gathered her skirt daintily up from the smallest of feet.</s> <s sid="7" id="overtheway.c1.s7">Every morning she carried a clean pocket-handkerchief, and a fresh rose in the same hand with her Prayer-book; and as the Prayer-book, being bound up with the Bible, was very thick, she seemed to have some difficulty in so doing.</s> <s sid="8" id="overtheway.c1.s8">Every morning, whatever the weather might be, she stood outside the green gate, and looked up at the sky to see if this were clear, and down at the ground to see if that were dry; and so went where the bells were calling.</s> </p>
@@ -2029,7 +2029,7 @@
 
 <p pid="1020" id="overtheway.c1.p1020"><s sid="2856" id="overtheway.c1.s2856">The story is ended, but the bells still call to Morning Prayer, and life goes on.</s> <s sid="2857" id="overtheway.c1.s2857">The little old lady comes through the green gate, and looks over the way, but there is no face at that window now; something in it made her start for an instant, but it is only a looking-glass, for the smart toilette-table has been brought back to the window where Ida used to kneel, and the nursery is a spare bedroom once more.</s> <s sid="2858" id="overtheway.c1.s2858">That episode in this dull house in the quiet street is over, and gone by.</s> <s sid="2859" id="overtheway.c1.s2859">The old lady thinks so rather sadly as she goes where the bells are calling.</s> <s sid="2860" id="overtheway.c1.s2860">The pale, eager, loving little face that turned to her in its loneliness, now brightens a happy home; but the remembrance of it is with the little old lady still, pleasant as the remembrance of flowers when winter has come.</s> <s sid="2861" id="overtheway.c1.s2861">Yes, truly, not the least pleasant of Mrs. Overtheway's Remembrances.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

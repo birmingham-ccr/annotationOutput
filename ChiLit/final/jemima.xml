@@ -4,13 +4,13 @@
 
 <title>The Tale of Jemima Puddle-Duck</title>
 <author>Beatrix Potter</author>
-<div id="jemima.0" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" book="jemima" type="chapter" num="0">
-<title/>
+<div id="jemima.0" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" bookauthor="Beatrix Potter" book="jemima" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="jemima.c0.p1"><s sid="1" id="jemima.c0.s1">A FARMYARD TALE FOR RALPH AND BETSY</s> </p>
 
-</div>
-<div id="jemima.1" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" book="jemima" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="jemima.1" subcorpus="ChiLit" booktitle="The Tale of Jemima Puddle-Duck" bookauthor="Beatrix Potter" book="jemima" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="jemima.c1.p1"><s sid="1" id="jemima.c1.s1">What a funny sight it is to see a brood of ducklings with a hen!</s> </p>
 
 <p pid="2" id="jemima.c1.p2"><s sid="2" id="jemima.c1.s2">--Listen to the story of Jemima Puddle-duck, who was annoyed because the farmer's wife would not let her hatch her own eggs.</s> </p>
@@ -133,7 +133,7 @@
 
 <p pid="61" id="jemima.c1.p61"><s sid="92" id="jemima.c1.s92">Jemima Puddle-duck said that it was because of her nerves; but she had always been a bad sitter.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

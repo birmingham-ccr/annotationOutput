@@ -4,8 +4,8 @@
 
 <title>Adventures in Wallypug-Land</title>
 <author>G. E. Farrow</author>
-<div id="wallypug.0" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="0">
-<title/>
+<div id="wallypug.0" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="wallypug.c0.p1"><s sid="1" id="wallypug.c0.s1">DEDICATED TO LIONEL</s> </p>
 
 <p pid="2" id="wallypug.c0.p2"><s sid="2" id="wallypug.c0.s2">PREFACE.</s> </p>
@@ -32,9 +32,9 @@
 
 <p pid="13" id="wallypug.c0.p13"><s sid="17" id="wallypug.c0.s17">[MR.</s> <s sid="18" id="wallypug.c0.s18">NOBODY.]</s> </p>
 
-</div>
-<div id="wallypug.1" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="1">
-<title>CHAPTER I. HOW I WENT TO WHY.</title>
+<qs/></div>
+<div id="wallypug.1" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="1">
+<qe/><title>CHAPTER I. HOW I WENT TO WHY.</title>
 <p pid="1" id="wallypug.c1.p1" type="speech"><s sid="1" id="wallypug.c1.s1">FOR some time past I have been the guest of his Majesty the Wallypug at his palace in the mysterious kingdom of Why--a country so remarkable that even now I am only just beginning to get used to my strange surroundings and stranger neighbors.</s> <s sid="2" id="wallypug.c1.s2">Imagine, if you can, a place where all of the animals not only talk, but take an active part in the government of the land, a place where one is as likely as not to receive an invitation to an evening party from an ostrich, or is expected to escort an elderly rhinoceros in to dinner; where it is quite an everyday occurrence to be called upon by a hen with a brood of young chickens just as you are sitting down to tea, and be expected to take a lively interest in her account of how the youngest chick passed through its latest attack of the <qs/>"pip."<qe/></s> </p>
 
 <p pid="2" id="wallypug.c1.p2"><s sid="3" id="wallypug.c1.s3">In such a country, the unexpected is always happening, and I am continually being startled in the streets at being addressed by some dangerous-looking quadruped, or an impertinent bird, for I must say that as a class the birds are the most insolent of all the inhabitants of this strange land.</s> <s sid="4" id="wallypug.c1.s4">There is in particular one old crow, a most objectionable personage, and a cockatoo who is really the most violent and ill-natured bird that I have ever been acquainted with.</s> </p>
@@ -185,9 +185,9 @@
 
 <p pid="75" id="wallypug.c1.p75" type="speech"><s sid="124" id="wallypug.c1.s124"><qs/>"Oh, get in, get in; don't make a fuss.</s> <s sid="125" id="wallypug.c1.s125">I suppose I shall have to take a turn myself,"<qe/> said Oom Hi, grasping the handles, and the Kangaroo and myself having taken our seats we were soon traveling down the road.</s> <s sid="126" id="wallypug.c1.s126">The Kangaroo turned out to be a very pleasant companion after all, and when he found out that I came from England told me all about his brother, who was a professional boxer, and had been to London and made his fortune as the Boxing Kangaroo.</s> <s sid="127" id="wallypug.c1.s127">He was quite delighted when I told him that I had seen notices of his performance in the papers.</s> <s sid="128" id="wallypug.c1.s128">We soon came in sight of a walled city, which Oom Hi, turning around, informed me was Why.</s> <s sid="129" id="wallypug.c1.s129">And on reaching the gate he gave the rickshaw in charge of an old turtle, who came waddling up, and each of the animals taking one of my arms, I was led in triumph through the city gates to the Wallypug's palace, several creatures, including a motherly-looking goose and a little gosling, taking a lively interest in my progress, while a giraffe in a very high collar craned his neck through a port-hole to try and get a glimpse of us as we passed under the portcullis.</s> </p>
 
-</div>
-<div id="wallypug.2" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="2">
-<title>CHAPTER II. A STRANGE WELCOME.</title>
+<qs/></div>
+<div id="wallypug.2" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="2">
+<qe/><title>CHAPTER II. A STRANGE WELCOME.</title>
 <p pid="1" id="wallypug.c2.p1"><s sid="1" id="wallypug.c2.s1">[GOOD BYE!]</s> </p>
 
 <p pid="2" id="wallypug.c2.p2"><s sid="2" id="wallypug.c2.s2">WE soon reached the Wallypug's palace, which stood in a large park in the center of the city of Why.</s> <s sid="3" id="wallypug.c2.s3">I had been very interested in noticing the curious architecture in the streets as we passed along, but was scarcely prepared to find the palace such a very remarkable place.</s> <s sid="4" id="wallypug.c2.s4">It was a long, low, rambling building, built in a most singular style, with all sorts of curious towers and gables at every point.</s> </p>
@@ -262,9 +262,9 @@
 
 <p pid="37" id="wallypug.c2.p37" type="speech"><s sid="80" id="wallypug.c2.s80"><qs/>"Oh! don't you,"<qe/> said his Majesty's Sister-in-Law, with a sarcastic smile.</s> <s sid="81" id="wallypug.c2.s81"><qs/>"Well, that's one of the _many_ points upon which we shall disagree.</s> <s sid="82" id="wallypug.c2.s82">Now, look here, I may tell you at once that I don't approve of you in the least; still, as you are here now you had better remain; but mind, no putting on parts or giving yourself airs and graces, or I shall have something to say to you.</s> <s sid="83" id="wallypug.c2.s83">Do you understand?"<qe/></s> <s sid="84" id="wallypug.c2.s84">And with a severe glance at me, the lady folded her arms and stalked out of the room, leaving his Majesty and myself staring blankly at one another.</s> </p>
 
-</div>
-<div id="wallypug.3" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="3">
-<title>CHAPTER III. A TERRIBLE NIGHT.</title>
+<qs/></div>
+<div id="wallypug.3" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="3">
+<qe/><title>CHAPTER III. A TERRIBLE NIGHT.</title>
 <p pid="1" id="wallypug.c3.p1"><s sid="1" id="wallypug.c3.s1">MY reception at Why had been such a very peculiar one that I had fully made up my mind to return home at once, but his Majesty the Wallypug begged me so earnestly to stay with him, at any rate for a few days, that I determined, out of friendship to him, to put up as best I could with that extraordinary person the Sister-in-Law, and the rest of the creatures, and remain, in order to help him if possible to establish his position at Why on a firmer basis.</s> </p>
 
 <p pid="2" id="wallypug.c3.p2"><s sid="2" id="wallypug.c3.s2">So I took possession of a suite of rooms in the west wing of the palace, near his Majesty's private apartments, and we spent a very pleasant evening together in my sitting-room, playing draughts till bedtime, when his Majesty left me to myself, promising that he would show me around the palace grounds the first thing in the morning.</s> </p>
@@ -325,9 +325,9 @@
 
 <p pid="30" id="wallypug.c3.p30" type="speech"><s sid="65" id="wallypug.c3.s65"><qs/>"Oh! thad's the troubadour, up to his old gabes agaid; he's ad awful dusadce.</s> <s sid="66" id="wallypug.c3.s66">I'll tell you aboud hib in the bordig--good dight."<qe/></s> <s sid="67" id="wallypug.c3.s67">And A. Fish, Esq., disappeared from view.</s> </p>
 
-</div>
-<div id="wallypug.4" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="4">
-<title>CHAPTER IV. LATE FOR BREAKFAST.</title>
+<qs/></div>
+<div id="wallypug.4" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="4">
+<qe/><title>CHAPTER IV. LATE FOR BREAKFAST.</title>
 <p pid="1" id="wallypug.c4.p1"><s sid="1" id="wallypug.c4.s1">I AWOKE very early in the morning, just as it was daylight, and being unable to get to sleep again amid my strange surroundings, I arose and crept down-stairs as noiselessly as possible, intending to go for a long walk before breakfast.</s> </p>
 
 <p pid="2" id="wallypug.c4.p2"><s sid="2" id="wallypug.c4.s2">At the bottom of the stairs I came upon a strange-looking white object, which, upon closer inspection, turned out to be the Pelican, asleep on the floor.</s> </p>
@@ -440,9 +440,9 @@
 
 <p pid="56" id="wallypug.c4.p56" type="speech"><s sid="107" id="wallypug.c4.s107"><qs/>"Sit there,"<qe/> she remarked coldly, motioning me to a vacant seat, and the Wallypug and A. Fish, Esq., subsided into the two other unoccupied chairs on the other side of the table.</s> </p>
 
-</div>
-<div id="wallypug.5" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="5">
-<title>CHAPTER V. THE TRIAL.</title>
+<qs/></div>
+<div id="wallypug.5" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="5">
+<qe/><title>CHAPTER V. THE TRIAL.</title>
 <p pid="1" id="wallypug.c5.p1"><s sid="1" id="wallypug.c5.s1">FOR a moment nobody spoke.</s> <s sid="2" id="wallypug.c5.s2">The Wallypug sat back in a huddled heap in his chair, looking up into Madame's face with a scared expression.</s> <s sid="3" id="wallypug.c5.s3">A. Fish unconcernedly began to eat some steaming porridge from a plate in front of him--and I sat still and waited events.</s> </p>
 
 <p pid="2" id="wallypug.c5.p2"><s sid="4" id="wallypug.c5.s4">A band of musicians in the gallery at the end of the hall were playing somewhat discordantly, till Madame turned around and called out in an angry voice:</s> </p>
@@ -549,9 +549,9 @@
 
 <p pid="53" id="wallypug.c5.p53" type="speech"><s sid="93" id="wallypug.c5.s93">Then pointing to me tragically, she called out, <qs/>"Officers! take away that Bauble!"<qe/></s> <s sid="94" id="wallypug.c5.s94">And I was immediately seized by two of the crocodiles, preparatory to being taken below.</s> </p>
 
-</div>
-<div id="wallypug.6" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="6">
-<title>CHAPTER VI. HIS MAJESTY IS DEPOSED.</title>
+<qs/></div>
+<div id="wallypug.6" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="6">
+<qe/><title>CHAPTER VI. HIS MAJESTY IS DEPOSED.</title>
 <p pid="1" id="wallypug.c6.p1" type="speech"><s sid="1" id="wallypug.c6.s1"><qs/>"STOP a minute!"<qe/> cried Madame, as I was being led away.</s> <s sid="2" id="wallypug.c6.s2"><qs/>"We may as well settle the Wallypug's affair at the same time and get rid of them both at once.</s> <s sid="3" id="wallypug.c6.s3">Put the creature into the dock."<qe/></s> </p>
 
 <p pid="2" id="wallypug.c6.p2"><s sid="4" id="wallypug.c6.s4">His Majesty was hustled forward, looking very nervous and white, as he stood trembling at the bar, while Madame regarded him fiercely.</s> </p>
@@ -632,9 +632,9 @@
 
 <p pid="40" id="wallypug.c6.p40" type="speech"><s sid="95" id="wallypug.c6.s95">[<qs/>"I saw the Doctor-in-Law rushing about with a packet of newspapers under one arm, calling out in a loud voice, 'Special edition!</s> <s sid="96" id="wallypug.c6.s96">Arrest of the Wallypug!'"<qe/>--Page 82.</s> <s sid="97" id="wallypug.c6.s97">_Wallypugland._]</s> </p>
 
-</div>
-<div id="wallypug.7" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="7">
-<title>CHAPTER VII. FOILED!</title>
+<qs/></div>
+<div id="wallypug.7" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="7">
+<qe/><title>CHAPTER VII. FOILED!</title>
 <p pid="1" id="wallypug.c7.p1"><s sid="1" id="wallypug.c7.s1">I STOOD at the barred window for some time, watching the Doctor-in-Law rushing about with his papers, and then started back as a huge and disreputable-looking black Crow settled on the stone ledge outside.</s> </p>
 
 <p pid="2" id="wallypug.c7.p2"><s sid="2" id="wallypug.c7.s2">I soon recognized him as being the bird who had behaved so impertinently to me on my first arrival at Why.</s> </p>
@@ -731,9 +731,9 @@
 
 <p pid="48" id="wallypug.c7.p48"><s sid="98" id="wallypug.c7.s98">That we were only just in time was evidenced by the cries of rage and disappointment which pursued us from the dungeon, as the Doctor-in-Law and the other creatures saw us escape from their clutches, and we could hear the Cockatoo's shrill cries grow fainter and fainter as we sped swiftly down the shute towards Ling Choo.</s> </p>
 
-</div>
-<div id="wallypug.8" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="8">
-<title>CHAPTER VIII. THE LITTLE BLUE PEOPLE.</title>
+<qs/></div>
+<div id="wallypug.8" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="8">
+<qe/><title>CHAPTER VIII. THE LITTLE BLUE PEOPLE.</title>
 <p pid="1" id="wallypug.c8.p1" type="speech"><s sid="1" id="wallypug.c8.s1">DOWN, and down, and down we flew, quicker and quicker each moment.</s> <s sid="2" id="wallypug.c8.s2">The shute was as smooth as glass, and grew steeper than ever as we descended.</s> <s sid="3" id="wallypug.c8.s3">His Majesty was a little way behind me, but the terrific rate at which we were traveling made it impossible for us to hold any conversation.</s> <s sid="4" id="wallypug.c8.s4">Once or twice I shouted out something to him, but receiving no reply I soon gave that up.</s> <s sid="5" id="wallypug.c8.s5">The attitude in which I was slipping down the shute was a most uncomfortable one, but after a considerable time I managed to turn over on to my back, and eventually to twist around, till, at any rate, I was traveling feet foremost, which was some slight consolation, although naturally I was dreadfully concerned as to what was to be our fate at the other end of our journey.</s> <s sid="6" id="wallypug.c8.s6"><qs/>"Slipping along at this rate,"<qe/><sss/> I thought, <sse/><qs/>"we shall probably be smashed to a jelly when we do arrive at the bottom.</s> <s sid="7" id="wallypug.c8.s7">At any rate I shall, for the Wallypug and the carpet-bag are bound to descend upon my devoted head."<qe/></s> </p>
 
 <p pid="2" id="wallypug.c8.p2"><s sid="8" id="wallypug.c8.s8">By and by I began to grow very hungry, and then came another dismal thought.</s> <s sid="9" id="wallypug.c8.s9">Supposing this extraordinary trip continued for any length of time, how should we get on for food?</s> </p>
@@ -792,9 +792,9 @@
 
 <p pid="29" id="wallypug.c8.p29" type="speech"><s sid="66" id="wallypug.c8.s66"><qs/>"He, he, he!</s> <s sid="67" id="wallypug.c8.s67">He, he, he!</s> <s sid="68" id="wallypug.c8.s68">He, he, he!"<qe/> giggled the little blue people.</s> <s sid="69" id="wallypug.c8.s69"><qs/>"They're Wallypugs.</s> <s sid="70" id="wallypug.c8.s70">Two great big fat Wallypugs.</s> <s sid="71" id="wallypug.c8.s71">Oh, oh! what funny things.</s> <s sid="72" id="wallypug.c8.s72">Let's go and fetch Ho-lor."<qe/></s> <s sid="73" id="wallypug.c8.s73">And they ran off as fast as their little blue legs would carry them.</s> </p>
 
-</div>
-<div id="wallypug.9" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="9">
-<title>CHAPTER IX. THE WALLYPUG RECOVERS HIS CROWN.</title>
+<qs/></div>
+<div id="wallypug.9" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="9">
+<qe/><title>CHAPTER IX. THE WALLYPUG RECOVERS HIS CROWN.</title>
 <p pid="1" id="wallypug.c9.p1"><s sid="1" id="wallypug.c9.s1">HIS Majesty and myself stared at each other in dismay.</s> <s sid="2" id="wallypug.c9.s2">Our position was growing more and more uncomfortable every moment, and, added to this, I had a growing impression that the rods to which we were attached would sooner or later break with our weight.</s> </p>
 
 <p pid="2" id="wallypug.c9.p2" type="speech"><s sid="3" id="wallypug.c9.s3"><qs/>"Well!</s> <s sid="4" id="wallypug.c9.s4">I do think that they might have helped us off the hooks, at any rate,"<qe/> grumbled his Majesty, discontentedly.</s> </p>
@@ -917,9 +917,9 @@
 
 <p pid="61" id="wallypug.c9.p61"><s sid="106" id="wallypug.c9.s106">The little blue people immediately jumped up and led the way to where behind a clump of curious blue trees the quaintest little boat you could possibly imagine was moored against the bank.</s> <s sid="107" id="wallypug.c9.s107">A blue lake stretched as far as the eye could reach, and a number of little islands were dotted about it.</s> <s sid="108" id="wallypug.c9.s108">On one, a little larger than the rest, a quaint little blue pagoda could be seen.</s> </p>
 
-</div>
-<div id="wallypug.10" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="10">
-<title>CHAPTER X. THE HOME OF HO-LOR.</title>
+<qs/></div>
+<div id="wallypug.10" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="10">
+<qe/><title>CHAPTER X. THE HOME OF HO-LOR.</title>
 <p pid="1" id="wallypug.c10.p1" type="speech"><s sid="1" id="wallypug.c10.s1"><qs/>"I LIVE over there,"<qe/> said Ho-Lor with pride, pointing to the island with the pagoda on it.</s> <s sid="2" id="wallypug.c10.s2"><qs/>"Mi-Hy shall row us across, and Gra-Shus shall make us some tea."<qe/></s> </p>
 
 <p pid="2" id="wallypug.c10.p2" type="speech"><s sid="3" id="wallypug.c10.s3"><qs/>"Oh! yes,"<qe/> said Gra-Shus clapping her hands.</s> <s sid="4" id="wallypug.c10.s4"><qs/>"And we'll show Mr. Majesty Wallypug our beautiful pet dog--won't we?"<qe/></s> </p>
@@ -1086,9 +1086,9 @@
 
 <p pid="83" id="wallypug.c10.p83"><s sid="141" id="wallypug.c10.s141">Indeed, directly the dog discovered that A. Fish, Esq., was a friend of the Wallypug's, he went up to him, and grinning in an absurd way, held out a paw to be shaken, which favor, however, was declined by A. Fish, Esq., who evidently regarded these overtures with a certain amount of suspicion, and looked greatly relieved when Ho-Lor and Mi-Hy, seeing that we were engaged with a friend, considerately left us to ourselves, and took Kis-Smee away with them.</s> </p>
 
-</div>
-<div id="wallypug.11" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="11">
-<title>CHAPTER XI. THE WHY AND WER-HAR-WEI RAILWAY.</title>
+<qs/></div>
+<div id="wallypug.11" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="11">
+<qe/><title>CHAPTER XI. THE WHY AND WER-HAR-WEI RAILWAY.</title>
 <p pid="1" id="wallypug.c11.p1" type="speech"><s sid="1" id="wallypug.c11.s1"><qs/>"FANCY seeing you!"<qe/> cried his Majesty, as we sat down beside the Fish under the gombobble tree.</s> <s sid="2" id="wallypug.c11.s2"><qs/>"How ever did you get here?</s> <s sid="3" id="wallypug.c11.s3">And what's the news at Why?"<qe/></s> </p>
 
 <p pid="2" id="wallypug.c11.p2" type="speech"><s sid="4" id="wallypug.c11.s4"><qs/>"Oh, thad's a log story,"<qe/> said A. Fish, Esq., and proceeded to tell us how that after we had escaped from Why, by means of the shute, there had been a great commotion in the place, and the Doctor-in-Law was furious.</s> <s sid="5" id="wallypug.c11.s5">He declared that we should not slip through his hands in this way, and had a long conversation with the Sister-in-Law and the others as to the best way of affecting our capture.</s> <s sid="6" id="wallypug.c11.s6">Finally they decided to attach themselves to a long rope, and come down the shute in pursuit of us.</s> </p>
@@ -1187,9 +1187,9 @@
 
 <p pid="49" id="wallypug.c11.p49"><s sid="83" id="wallypug.c11.s83">After several hours of bumping and jolting, we were delighted to see the familiar towers and gables of his Majesty's palace in the distance, and knew that we had at last arrived at the end of our journey.</s> </p>
 
-</div>
-<div id="wallypug.12" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="12">
-<title>CHAPTER XII. BACK AGAIN AT WHY.</title>
+<qs/></div>
+<div id="wallypug.12" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="12">
+<qe/><title>CHAPTER XII. BACK AGAIN AT WHY.</title>
 <p pid="1" id="wallypug.c12.p1"><s sid="1" id="wallypug.c12.s1">KIS-SMEE was overjoyed to get out of the train, and eagerly strained at the chain which his Majesty had affixed to his collar, in his endeavor to get through the barrier.</s> </p>
 
 <p pid="2" id="wallypug.c12.p2"><s sid="2" id="wallypug.c12.s2">The porter, however, who pretended not to know us, demanded our tickets.</s> </p>
@@ -1298,9 +1298,9 @@
 
 <p pid="54" id="wallypug.c12.p54"><s sid="87" id="wallypug.c12.s87">I thought this very kind of his Majesty, considering all he had suffered through the Doctor-in-Law's ingratitude; but the good-hearted little fellow was full of sympathy, and hurried towards the palace with all speed.</s> </p>
 
-</div>
-<div id="wallypug.13" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="13">
-<title>CHAPTER XIII. A NEW STATE OF AFFAIRS.</title>
+<qs/></div>
+<div id="wallypug.13" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="13">
+<qe/><title>CHAPTER XIII. A NEW STATE OF AFFAIRS.</title>
 <p pid="1" id="wallypug.c13.p1" type="speech"><s sid="1" id="wallypug.c13.s1"><qs/>"OH my!</s> <s sid="2" id="wallypug.c13.s2">Good gracious me!"<qe/> exclaimed a voice as we approached the entrance to the palace and looking up we beheld the Cockatoo perched on a window-sill.</s> <s sid="3" id="wallypug.c13.s3"><qs/>"Just look at these creatures.</s> <s sid="4" id="wallypug.c13.s4">_What_ a color.</s> <s sid="5" id="wallypug.c13.s5">Why, why,"<qe/><sls/> she exclaimed, peering at us closely, <sle/><qs/>"I'm bothered if it isn't the Wallypug and the Hatless Man, and the great Mr. A.</s> <s sid="6" id="wallypug.c13.s6">Fish, Esq.</s> <s sid="7" id="wallypug.c13.s7">Where have you been?</s> <s sid="8" id="wallypug.c13.s8">What did you come back for?</s> <s sid="9" id="wallypug.c13.s9">What do you want?"<qe/> she screamed.</s> </p>
 
 <p pid="2" id="wallypug.c13.p2" type="speech"><s sid="10" id="wallypug.c13.s10"><qs/>"It's dud of your busidess,"<qe/> replied A. Fish, Esq., shortly.</s> </p>
@@ -1375,9 +1375,9 @@
 
 <p pid="39" id="wallypug.c13.p39" type="speech"><s sid="74" id="wallypug.c13.s74">[<qs/>"THIS MUST BE A POST OFFICE PEN,"<qe/> SAID THE CROW.]</s> </p>
 
-</div>
-<div id="wallypug.14" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="14">
-<title>CHAPTER XIV. "GOOD FOR THE COMPLEXION."</title>
+<qs/></div>
+<div id="wallypug.14" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="14">
+<qe/><title>CHAPTER XIV. "GOOD FOR THE COMPLEXION."</title>
 <p pid="1" id="wallypug.c14.p1"><s sid="1" id="wallypug.c14.s1">THE Crow had scarcely left the room when there was another knock, and without waiting for a reply the Cockatoo burst into the room in a fine fluster.</s> <s sid="2" id="wallypug.c14.s2">She was followed by the Kangaroo and Oom Hi.</s> </p>
 
 <p pid="2" id="wallypug.c14.p2" type="speech"><s sid="3" id="wallypug.c14.s3"><qs/>"Look at them!</s> <s sid="4" id="wallypug.c14.s4">_Look at them!_"<qe/><sss/> she blurted out, <sse/><qs/>"did you ever see such objects in all your life.</s> <s sid="5" id="wallypug.c14.s5">What a color!"<qe/></s> </p>
@@ -1444,9 +1444,9 @@
 
 <p pid="33" id="wallypug.c14.p33"><s sid="74" id="wallypug.c14.s74">He was as smiling and happy as ever, and made me an elaborate bow with an elegant flourish, and then looked so very knowing that I felt sure that he had something important to communicate.</s> </p>
 
-</div>
-<div id="wallypug.15" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="15">
-<title>CHAPTER XV. "WALLYPUG'S BLUSH LIMITED."</title>
+<qs/></div>
+<div id="wallypug.15" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="15">
+<qe/><title>CHAPTER XV. "WALLYPUG'S BLUSH LIMITED."</title>
 <p pid="1" id="wallypug.c15.p1" type="speech"><s sid="1" id="wallypug.c15.s1"><qs/>"HOW do you do?"<qe/></s> <s sid="2" id="wallypug.c15.s2">I began.</s> </p>
 
 <p pid="2" id="wallypug.c15.p2"><s sid="3" id="wallypug.c15.s3">The little fellow bowed and smiled and brought forth a scrap of paper and a pencil.</s> </p>
@@ -1553,9 +1553,9 @@
 
 <p pid="53" id="wallypug.c15.p53"><s sid="75" id="wallypug.c15.s75">And so seeing them so busily and enthusiastically engaged in the business of drawing up the prospectus, we said good-night and retired to our rooms.</s> </p>
 
-</div>
-<div id="wallypug.16" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" book="wallypug" type="chapter" num="16">
-<title>CHAPTER XVI. "AU REVOIR."</title>
+<qs/></div>
+<div id="wallypug.16" subcorpus="ChiLit" booktitle="Adventures in Wallypug-Land" bookauthor="G. E. Farrow" book="wallypug" type="chapter" num="16">
+<qe/><title>CHAPTER XVI. "AU REVOIR."</title>
 <p pid="1" id="wallypug.c16.p1" type="speech"><s sid="1" id="wallypug.c16.s1">THE next morning all was excitement at the palace.</s> <s sid="2" id="wallypug.c16.s2">The news of our return had spread abroad, and in the morning copy of the _Daily Whyer_, which his Majesty found on the breakfast-table when we went down, a full and, I must say, surprisingly accurate account of the interview appeared, together with the information that his Majesty would attend Parliament in state in the afternoon, and that an address from the throne would be read, in which certain changes in the Government would be suggested.</s> <s sid="3" id="wallypug.c16.s3">There was also a paragraph about A. Fish, Esquire's, lecture upon the <qs/>"Unreasonableness of ability,"<qe/> which the editor advised everybody to try and hear.</s> </p>
 
 <p pid="2" id="wallypug.c16.p2"><s sid="4" id="wallypug.c16.s4">His Majesty was in quite a fluster, and we spent several hours in preparing an elaborate written speech which he was to read out in the afternoon; and then, having settled this and other matters to our satisfaction, we took Kis-Smee out for a little walk just before luncheon.</s> </p>
@@ -1948,7 +1948,7 @@
 
 <p pid="196" id="wallypug.c16.p196"><s sid="502" id="wallypug.c16.s502">THE END.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

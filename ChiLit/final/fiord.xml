@@ -4,8 +4,8 @@
 
 <title>Feats on the Fiord</title>
 <author>Harriet Martineau</author>
-<div id="fiord.0" subcorpus="ChiLit" booktitle="Feats on the Fiord" book="fiord" type="chapter" num="0">
-<title>INTRODUCTION.</title>
+<div id="fiord.0" subcorpus="ChiLit" booktitle="Feats on the Fiord" bookauthor="Harriet Martineau" book="fiord" type="chapter" num="0">
+<qe/><title>INTRODUCTION.</title>
 <p pid="1" id="fiord.c0.p1"><s sid="1" id="fiord.c0.s1">Miss Martineau's Norwegian romance won its way long since into the hearts of children in this country.</s> <s sid="2" id="fiord.c0.s2">The unhackneyed setting to the incidents of the tale distinguish it from thousands of more ordinary children's stories; nor is there any other tale so well-known having its scenes laid in the land of the fiords.</s> <s sid="3" id="fiord.c0.s3">It is quite safe to add that perhaps no other author has felt so strongly and communicated so convincingly the mystic charm of these northern lagoons with their still depths and reflections, their inaccessible walls of rock and their teeming wild-fowl life.</s> </p>
 
 <p pid="2" id="fiord.c0.p2"><s sid="4" id="fiord.c0.s4">This mystic charm is deepened in the book by the thread of popular superstition which runs throughout the episodes and, in fact, gives rise to them.</s> <s sid="5" id="fiord.c0.s5">Miss Martineau's _denouements_ were calculated to shatter the follies of belief in Nipen and other supernatural agents; but her own crusading traffic in them rather endears them to the imagination of the reader and certainly supplies a fascination which the most sceptical of young readers would be sorry to miss.</s> </p>
@@ -16,9 +16,9 @@
 
 <p pid="5" id="fiord.c0.p5"><s sid="11" id="fiord.c0.s11">F. C.</s> <s sid="12" id="fiord.c0.s12">TILNEY.</s> </p>
 
-</div>
-<div id="fiord.1" subcorpus="ChiLit" booktitle="Feats on the Fiord" book="fiord" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="fiord.1" subcorpus="ChiLit" booktitle="Feats on the Fiord" bookauthor="Harriet Martineau" book="fiord" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="fiord.c1.p1"><s sid="1" id="fiord.c1.s1">Every one who has looked at the map of Norway must have been struck with the singular character of its coast.</s> <s sid="2" id="fiord.c1.s2">On the map it looks so jagged; a strange mixture of land and sea.</s> <s sid="3" id="fiord.c1.s3">On the spot, however, this coast is very sublime.</s> <s sid="4" id="fiord.c1.s4">The long straggling promontories are mountainous, towering ridges of rock, springing up in precipices from the water; while the bays between them, instead of being rounded with shelving sandy shores, on which the sea tumbles its waves, as in bays of our coast, are, in fact, long narrow valleys, filled with sea, instead of being laid out in fields and meadows.</s> <s sid="5" id="fiord.c1.s5">The high rocky banks shelter these deep bays (called fiords) from almost every wind; so that their waters are usually as still as those of a lake.</s> <s sid="6" id="fiord.c1.s6">For days and weeks together, they reflect each separate tree-top of the pine-forests which clothe the mountain sides, the mirror being broken only by the leap of some sportive fish, or the oars of the boatman as he goes to inspect the sea-fowl from islet to islet of the fiord, or carries out his nets or his rod to catch the sea-trout, or char, or cod, or herrings, which abound, in their seasons, on the coast of Norway.</s> </p>
 
 <p pid="2" id="fiord.c1.p2"><s sid="7" id="fiord.c1.s7">It is difficult to say whether these fiords are the most beautiful in summer or in winter.</s> <s sid="8" id="fiord.c1.s8">In summer, they glitter with golden sunshine; and purple and green shadows from the mountain and forest lie on them; and these may be more lovely than the faint light of the winter noons of those latitudes, and the snowy pictures of frozen peaks which then show themselves on the surface: but before the day is half over, out come the stars--the glorious stars, which shine like nothing that we have ever seen.</s> <s sid="9" id="fiord.c1.s9">There the planets cast a faint shadow, as the young moon does with us; and these planets and the constellations of the sky, as they silently glide over from peak to peak of these rocky passes, are imaged on the waters so clearly that the fisherman, as he unmoors his boat for his evening task, feels as if he were about to shoot forth his vessel into another heaven, and to cleave his way among the stars.</s> </p>
@@ -1351,7 +1351,7 @@
 
 <p pid="666" id="fiord.c1.p666" type="speech"><s sid="1918" id="fiord.c1.s1918">Erica carried home in her heart, and kept there for ever, certain words of the Bishop's address which he uttered with his eye kindly fixed upon hers.</s> <s sid="1919" id="fiord.c1.s1919"><qs/>"Go, and abide under the shadow of the Almighty.</s> <s sid="1920" id="fiord.c1.s1920">So shall you not be afraid for the terror by night, nor for the arrow that flieth by day, nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noon-day.</s> <s sid="1921" id="fiord.c1.s1921">When you shall have made the Lord your habitation, you shall not fear that evil may befall you, or that any plague shall come nigh your dwelling.</s> <s sid="1922" id="fiord.c1.s1922">Go, and peace be on your house!"<qe/></s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

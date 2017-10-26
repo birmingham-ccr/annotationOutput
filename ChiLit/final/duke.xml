@@ -4,8 +4,8 @@
 
 <title>The Little Duke</title>
 <author>Charlotte M. Yonge</author>
-<div id="duke.1" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="1">
-<title>CHAPTER I.</title>
+<div id="duke.1" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="1">
+<qe/><title>CHAPTER I.</title>
 <p pid="1" id="duke.c1.p1"><s sid="1" id="duke.c1.s1">On a bright autumn day, as long ago as the year 943, there was a great bustle in the Castle of Bayeux in Normandy.</s> </p>
 
 <p pid="2" id="duke.c1.p2"><s sid="2" id="duke.c1.s2">The hall was large and low, the roof arched, and supported on thick short columns, almost like the crypt of a Cathedral; the walls were thick, and the windows, which had no glass, were very small, set in such a depth of wall that there was a wide deep window seat, upon which the rain might beat, without reaching the interior of the room.</s> <s sid="3" id="duke.c1.s3">And even if it had come in, there was nothing for it to hurt, for the walls were of rough stone, and the floor of tiles.</s> <s sid="4" id="duke.c1.s4">There was a fire at each end of this great dark apartment, but there were no chimneys over the ample hearths, and the smoke curled about in thick white folds in the vaulted roof, adding to the wreaths of soot, which made the hall look still darker.</s> </p>
@@ -114,9 +114,9 @@
 
 <p pid="54" id="duke.c1.p54"><s sid="111" id="duke.c1.s111">The next day, after morning service in the Chapel, and breakfast in the hall, the Duke again set forward on his journey, giving Richard hopes he might return in a fortnight's time, and obtaining from him a promise that he would be very attentive to Father Lucas, and very obedient to Sir Eric de Centeville.</s> </p>
 
-</div>
-<div id="duke.2" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="2">
-<title>CHAPTER II.</title>
+<qs/></div>
+<div id="duke.2" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="2">
+<qe/><title>CHAPTER II.</title>
 <p pid="1" id="duke.c2.p1"><s sid="1" id="duke.c2.s1">One evening Fru Astrida sat in her tall chair in the chimney corner, her distaff, with its load of flax in her hand, while she twisted and drew out the thread, and her spindle danced on the floor.</s> <s sid="2" id="duke.c2.s2">Opposite to her sat, sleeping in his chair, Sir Eric de Centeville; Osmond was on a low bench within the chimney corner, trimming and shaping with his knife some feathers of the wild goose, which were to fly in a different fashion from their former one, and serve, not to wing the flight of a harmless goose, but of a sharp arrow.</s> </p>
 
 <p pid="2" id="duke.c2.p2"><s sid="3" id="duke.c2.s3">The men of the household sat ranged on benches on one side of the hall, the women on the other; a great red fire, together with an immense flickering lamp which hung from the ceiling, supplied the light; the windows were closed with wooden shutters, and the whole apartment had a cheerful appearance.</s> <s sid="4" id="duke.c2.s4">Two or three large hounds were reposing in front of the hearth, and among them sat little Richard of Normandy, now smoothing down their broad silken ears; now tickling the large cushions of their feet with the end of one of Osmond's feathers; now fairly pulling open the eyes of one of the good-natured sleepy creatures, which only stretched its legs, and remonstrated with a sort of low groan, rather than a growl.</s> <s sid="5" id="duke.c2.s5">The boy's eyes were, all the time, intently fixed on Dame Astrida, as if he would not lose one word of the story she was telling him; how Earl Rollo, his grandfather, had sailed into the mouth of the Seine, and how Archbishop Franco, of Rouen, had come to meet him and brought him the keys of the town, and how not one Neustrian of Rouen had met with harm from the brave Northmen.</s> <s sid="6" id="duke.c2.s6">Then she told him of his grandfather's baptism, and how during the seven days that he wore his white baptismal robes, he had made large gifts to all the chief churches in his dukedom of Normandy.</s> </p>
@@ -235,9 +235,9 @@
 
 <p pid="59" id="duke.c2.p59"><s sid="158" id="duke.c2.s158">Richard wept too bitterly to speak, and Bernard de Harcourt, taking his hand, led him away from the Church.</s> </p>
 
-</div>
-<div id="duke.3" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="3">
-<title>CHAPTER III.</title>
+<qs/></div>
+<div id="duke.3" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="3">
+<qe/><title>CHAPTER III.</title>
 <p pid="1" id="duke.c3.p1"><s sid="1" id="duke.c3.s1">Duke William of the Long Sword was buried the next morning in high pomp and state, with many a prayer and psalm chanted over his grave.</s> </p>
 
 <p pid="2" id="duke.c3.p2"><s sid="2" id="duke.c3.s2">When this was over, little Richard, who had all the time stood or knelt nearest the corpse, in one dull heavy dream of wonder and sorrow, was led back to the palace, and there his long, heavy, black garments were taken off, and he was dressed in his short scarlet tunic, his hair was carefully arranged, and then he came down again into the hall, where there was a great assembly of Barons, some in armour, some in long furred gowns, who had all been attending his father's burial.</s> <s sid="3" id="duke.c3.s3">Richard, as he was desired by Sir Eric de Centeville, took off his cap, and bowed low in reply to the reverences with which they all greeted his entrance, and he then slowly crossed the hall, and descended the steps from the door, while they formed into a procession behind him, according to their ranks--the Duke of Brittany first, and then all the rest, down to the poorest knight who held his manor immediately from the Duke of Normandy.</s> </p>
@@ -304,9 +304,9 @@
 
 <p pid="33" id="duke.c3.p33" type="speech"><s sid="86" id="duke.c3.s86">How glad he was to sit in her lap, and lay his wearied head on her bosom, while, with a worn-out voice, he exclaimed, <qs/>"Oh, Fru Astrida!</s> <s sid="87" id="duke.c3.s87">I am very, very tired of being Duke of Normandy!"<qe/></s> </p>
 
-</div>
-<div id="duke.4" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="4">
-<title>CHAPTER IV.</title>
+<qs/></div>
+<div id="duke.4" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="4">
+<qe/><title>CHAPTER IV.</title>
 <p pid="1" id="duke.c4.p1"><s sid="1" id="duke.c4.s1">Richard of Normandy was very anxious to know more of the little boy whom he had seen among his vassals.</s> </p>
 
 <p pid="2" id="duke.c4.p2" type="speech"><s sid="2" id="duke.c4.s2"><qs/>"Ah! the young Baron de Montemar,"<qe/> said Sir Eric.</s> <s sid="3" id="duke.c4.s3"><qs/>"I knew his father well, and a brave man he was, though not of northern blood.</s> <s sid="4" id="duke.c4.s4">He was warden of the marches of the Epte, and was killed by your father's side in the inroad of the Viscount du Cotentin, {10} at the time when you were born, Lord Richard."<qe/></s> </p>
@@ -431,9 +431,9 @@
 
 <p pid="62" id="duke.c4.p62"><s sid="125" id="duke.c4.s125">[Louis of France and the Little Duke]</s> </p>
 
-</div>
-<div id="duke.5" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="5">
-<title>CHAPTER V.</title>
+<qs/></div>
+<div id="duke.5" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="5">
+<qe/><title>CHAPTER V.</title>
 <p pid="1" id="duke.c5.p1"><s sid="1" id="duke.c5.s1">Duke Richard of Normandy slept in the room which had been his father's; Alberic de Montemar, as his page, slept at his feet, and Osmond de Centeville had a bed on the floor, across the door, where he lay with his sword close at hand, as his young Lord's guard and protector.</s> </p>
 
 <p pid="2" id="duke.c5.p2" type="speech"><s sid="2" id="duke.c5.s2">All had been asleep for some little time, when Osmond was startled by a slight movement of the door, which could not be pushed open without awakening him.</s> <s sid="3" id="duke.c5.s3">In an instant he had grasped his sword, while he pressed his shoulder to the door to keep it closed; but it was his father's voice that answered him with a few whispered words in the Norse tongue, <qs/>"It is I, open."<qe/></s> <s sid="4" id="duke.c5.s4">He made way instantly, and old Sir Eric entered, treading cautiously with bare feet, and sat down on the bed motioning him to do the same, so that they might be able to speak lower.</s> <s sid="5" id="duke.c5.s5"><qs/>"Right, Osmond,"<qe/> he said.</s> <s sid="6" id="duke.c5.s6"><qs/>"It is well to be on the alert, for peril enough is around him--The Frank means mischief!</s> <s sid="7" id="duke.c5.s7">I know from a sure hand that Arnulf of Flanders was in council with him just before he came hither, with his false tongue, wiling and coaxing the poor child!"<qe/></s> </p>
@@ -674,9 +674,9 @@
 
 <p pid="120" id="duke.c5.p120" type="speech"><s sid="273" id="duke.c5.s273"><qs/>"Farewell, my own darling.</s> <s sid="274" id="duke.c5.s274">The blessing of Heaven go with you, and bring you safe home!</s> <s sid="275" id="duke.c5.s275">Farewell, Osmond.</s> <s sid="276" id="duke.c5.s276">Heaven guard you and strengthen you to be his shield and his defence!"<qe/></s> </p>
 
-</div>
-<div id="duke.6" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="6">
-<title>CHAPTER VI.</title>
+<qs/></div>
+<div id="duke.6" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="6">
+<qe/><title>CHAPTER VI.</title>
 <p pid="1" id="duke.c6.p1" type="speech"><s sid="1" id="duke.c6.s1">Away from the tall narrow gateway of Rollo's Tower, with the cluster of friendly, sorrowful faces looking forth from it, away from the booth-like shops of Rouen, and the stout burghers shouting with all the power of their lungs, <qs/>"Long live Duke Richard!</s> <s sid="2" id="duke.c6.s2">Long live King Louis!</s> <s sid="3" id="duke.c6.s3">Death to the Fleming!"<qe/>--away from the broad Seine--away from home and friends, rode the young Duke of Normandy, by the side of the palfrey of the King of France.</s> </p>
 
 <p pid="2" id="duke.c6.p2" type="speech"><s sid="4" id="duke.c6.s4">The King took much notice of him, kept him by his side, talked to him, admired the beautiful cattle grazing in security in the green pastures, and, as he looked at the rich dark brown earth of the fields, the Castles towering above the woods, the Convents looking like great farms, the many villages round the rude Churches, and the numerous population who came out to gaze at the party, and repeat the cry of <qs/>"Long live the King!</s> <s sid="5" id="duke.c6.s5">Blessings on the little Duke!"<qe/> he told Richard, again and again, that his was the most goodly duchy in France and Germany to boot.</s> </p>
@@ -819,9 +819,9 @@
 
 <p pid="71" id="duke.c6.p71"><s sid="149" id="duke.c6.s149">So Richard told the beads of his rosary--black polished wood, with amber at certain spaces--he repeated a prayer with every bead, and Osmond did the same; then the little Duke put himself into a narrow crib of richly carved walnut; while Osmond, having stuck his dagger so as to form an additional bolt to secure the door, and examined the hangings that no secret entrance might be concealed behind them, gathered a heap of rushes together, and lay down on them, wrapped in his mantle, across the doorway.</s> <s sid="150" id="duke.c6.s150">The Duke was soon asleep; but the Squire lay long awake, musing on the possible dangers that surrounded his charge, and on the best way of guarding against them.</s> </p>
 
-</div>
-<div id="duke.7" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="7">
-<title>CHAPTER VII.</title>
+<qs/></div>
+<div id="duke.7" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="7">
+<qe/><title>CHAPTER VII.</title>
 <p pid="1" id="duke.c7.p1"><s sid="1" id="duke.c7.s1">Osmond de Centeville was soon convinced that no immediate peril threatened his young Duke at the Court of Laon.</s> <s sid="2" id="duke.c7.s2">Louis seemed to intend to fulfil his oaths to the Normans by allowing the child to be the companion of his own sons, and to be treated in every respect as became his rank.</s> <s sid="3" id="duke.c7.s3">Richard had his proper place at table, and all due attendance; he learnt, rode, and played with the Princes, and there was nothing to complain of, excepting the coldness and inattention with which the King and Queen treated him, by no means fulfilling the promise of being as parents to their orphan ward.</s> <s sid="4" id="duke.c7.s4">Gerberge, who had from the first dreaded his superior strength and his roughness with her puny boys, and who had been by no means won by his manners at their first meeting, was especially distant and severe with him, hardly ever speaking to him except with some rebuke, which, it must be confessed, Richard often deserved.</s> </p>
 
 <p pid="2" id="duke.c7.p2"><s sid="5" id="duke.c7.s5">As to the boys, his constant companions, Richard was on very friendly terms with Carlo-man, a gentle, timid, weakly child.</s> <s sid="6" id="duke.c7.s6">Richard looked down upon him; but he was kind, as a generous-tempered boy could not fail to be, to one younger and weaker than himself.</s> <s sid="7" id="duke.c7.s7">He was so much kinder than Lothaire, that Carloman was fast growing very fond of him, and looked up to his strength and courage as something noble and marvellous.</s> </p>
@@ -956,9 +956,9 @@
 
 <p pid="67" id="duke.c7.p67" type="speech"><s sid="161" id="duke.c7.s161"><qs/>"Oh, Osmond!</s> <s sid="162" id="duke.c7.s162">Osmond!"<qe/><sss/> he exclaimed, <sse/><qs/>"they shall not hurt you.</s> <s sid="163" id="duke.c7.s163">I will never go out again.</s> <s sid="164" id="duke.c7.s164">I will never speak another hasty word.</s> <s sid="165" id="duke.c7.s165">I will never affront the Prince, if they will but leave you with me!"<qe/></s> <s sid="166" id="duke.c7.s166">{14}</s> </p>
 
-</div>
-<div id="duke.8" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="8">
-<title>CHAPTER VIII.</title>
+<qs/></div>
+<div id="duke.8" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="8">
+<qe/><title>CHAPTER VIII.</title>
 <p pid="1" id="duke.c8.p1"><s sid="1" id="duke.c8.s1">It was a fine summer evening, and Richard and Carloman were playing at ball on the steps of the Castle-gate, when a voice was heard from beneath, begging for alms from the noble Princes in the name of the blessed Virgin, and the two boys saw a pilgrim standing at the gate, wrapt in a long robe of serge, with a staff in his hand, surmounted by a Cross, a scrip at his girdle, and a broad shady hat, which he had taken off, as he stood, making low obeisances, and asking charity.</s> </p>
 
 <p pid="2" id="duke.c8.p2" type="speech"><s sid="2" id="duke.c8.s2"><qs/>"Come in, holy pilgrim,"<qe/> said Carloman.</s> <s sid="3" id="duke.c8.s3"><qs/>"It is late, and you shall sup and rest here to-night."<qe/></s> </p>
@@ -1129,9 +1129,9 @@
 
 <p pid="85" id="duke.c8.p85"><s sid="253" id="duke.c8.s253">As to Osmond, when he knelt before her, she blessed him, and sobbed over him, and blamed him for over-tiring her darling, all in one; and assuredly, when night closed in and Richard had, as of old, told his beads beside her knee, the happiest boy in Normandy was its little Duke.</s> </p>
 
-</div>
-<div id="duke.9" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="9">
-<title>CHAPTER IX.</title>
+<qs/></div>
+<div id="duke.9" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="9">
+<qe/><title>CHAPTER IX.</title>
 <p pid="1" id="duke.c9.p1"><s sid="1" id="duke.c9.s1">Montemar was too near the frontier to be a safe abode for the little Duke, and his uncle, Count Hubert of Senlis, agreed with Bernard the Dane that he would be more secure beyond the limits of his own duchy, which was likely soon to be the scene of war; and, sorely against his will, he was sent in secret, under a strong escort, first to the Castle of Coucy, and afterwards to Senlis.</s> </p>
 
 <p pid="2" id="duke.c9.p2"><s sid="2" id="duke.c9.s2">His consolation was, that he was not again separated from his friends; Alberic, Sir Eric, and even Fru Astrida, accompanied him, as well as his constant follower, Osmond.</s> <s sid="3" id="duke.c9.s3">Indeed, the Baron would hardly bear that he should be out of his sight; and he was still so carefully watched, that it was almost like a captivity.</s> <s sid="4" id="duke.c9.s4">Never, even in the summer days, was he allowed to go beyond the Castle walls; and his guardians would fain have had it supposed that the Castle did not contain any such guest.</s> </p>
@@ -1258,9 +1258,9 @@
 
 <p pid="63" id="duke.c9.p63" type="speech"><s sid="138" id="duke.c9.s138"><qs/>"Remember it, my child--beware of broken vows,"<qe/><sss/> said Father Lucas; <sse/><qs/>"but remember it not in triumph over a fallen foe.</s> <s sid="139" id="duke.c9.s139">It were better that all came at once to the chapel, to bestow their thanksgivings where alone they are due."<qe/></s> </p>
 
-</div>
-<div id="duke.10" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="10">
-<title>CHAPTER X.</title>
+<qs/></div>
+<div id="duke.10" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="10">
+<qe/><title>CHAPTER X.</title>
 <p pid="1" id="duke.c10.p1"><s sid="1" id="duke.c10.s1">After nearly a year's captivity, the King engaged to pay a ransom, and, until the terms could be arranged, his two sons were to be placed as hostages in the hands of the Normans, whilst he returned to his own domains.</s> <s sid="2" id="duke.c10.s2">The Princes were to be sent to Bayeux; whither Richard had returned, under the charge of the Centevilles, and was now allowed to ride and walk abroad freely, provided he was accompanied by a guard.</s> </p>
 
 <p pid="2" id="duke.c10.p2" type="speech"><s sid="3" id="duke.c10.s3"><qs/>"I shall rejoice to have Carloman, and make him happy,"<qe/><sss/> said Richard; <sse/><qs/>"but I wish Lothaire were not coming."<qe/></s> </p>
@@ -1401,9 +1401,9 @@
 
 <p pid="70" id="duke.c10.p70"><s sid="126" id="duke.c10.s126">Richard thought his advances might have been more graciously met, and, having little encouragement to say more, took Lothaire to bed, as soon as he was warm.</s> </p>
 
-</div>
-<div id="duke.11" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="11">
-<title>CHAPTER XI.</title>
+<qs/></div>
+<div id="duke.11" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="11">
+<qe/><title>CHAPTER XI.</title>
 <p pid="1" id="duke.c11.p1"><s sid="1" id="duke.c11.s1">As the Baron had said, there was more peace now that Lothaire had learnt to know that he must submit, and that no one cared for his threats of his father's or his mother's vengeance.</s> <s sid="2" id="duke.c11.s2">He was very sulky and disagreeable, and severely tried Richard's forbearance; but there were no fresh outbursts, and, on the whole, from one week to another, there might be said to be an improvement.</s> <s sid="3" id="duke.c11.s3">He could not always hold aloof from one so good-natured and good-humoured as the little Duke; and the fact of being kept in order could not but have some beneficial effect on him, after such spoiling as his had been at home.</s> </p>
 
 <p pid="2" id="duke.c11.p2" type="speech"><s sid="4" id="duke.c11.s4">Indeed, Osmond was once heard to say, it was a pity the boy was not to be a hostage for life; to which Sir Eric replied, <qs/>"So long as we have not the training of him."<qe/></s> </p>
@@ -1454,9 +1454,9 @@
 
 <p pid="25" id="duke.c11.p25"><s sid="71" id="duke.c11.s71">The little corpse, embalmed and lapped in lead, was to be sent back to France, that it might rest with its forefathers in the city of Rheims; and Lothaire seemed to feel this as an additional stroke of desertion.</s> <s sid="72" id="duke.c11.s72">He was almost beside himself with despair, imploring every one, in turn, to send him home, though he well knew they were unable to do so.</s> </p>
 
-</div>
-<div id="duke.12" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="12">
-<title>CHAPTER XII.</title>
+<qs/></div>
+<div id="duke.12" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="12">
+<qe/><title>CHAPTER XII.</title>
 <p pid="1" id="duke.c12.p1" type="speech"><s sid="1" id="duke.c12.s1"><qs/>"Sir Eric,"<qe/><sss/> said Richard, <sse/><qs/>"you told me there was a Parlement to be held at Falaise, between Count Bernard and the King of Denmark.</s> <s sid="2" id="duke.c12.s2">I mean to attend it.</s> <s sid="3" id="duke.c12.s3">Will you come with me, or shall Osmond go, and you remain in charge of the Prince?"<qe/></s> </p>
 
 <p pid="2" id="duke.c12.p2" type="speech"><s sid="4" id="duke.c12.s4"><qs/>"How now, Lord Richard, you were not wont to love a Parlement?"<qe/></s> </p>
@@ -1527,9 +1527,9 @@
 
 <p pid="35" id="duke.c12.p35"><s sid="89" id="duke.c12.s89">When Richard once more entered Rouen in state, his subjects shouting round him in transports of joy, better than all his honour and glory was the being able to enter the Church of our Lady, and kneel by his father's grave, with a clear conscience, and the sense that he had tried to keep that last injunction.</s> </p>
 
-</div>
-<div id="duke.13" subcorpus="ChiLit" booktitle="The Little Duke" book="duke" type="chapter" num="13">
-<title>CONCLUSION.</title>
+<qs/></div>
+<div id="duke.13" subcorpus="ChiLit" booktitle="The Little Duke" bookauthor="Charlotte M. Yonge" book="duke" type="chapter" num="13">
+<qe/><title>CONCLUSION.</title>
 <p pid="1" id="duke.c13.p1" type="speech"><s sid="1" id="duke.c13.s1">Years had passed away.</s> <s sid="2" id="duke.c13.s2">The oaths of Louis, and promises of Lothaire, had been broken; and Arnulf of Flanders, the murderer of Duke William, had incited them to repeated and treacherous inroads on Normandy; so that Richard's life, from fourteen to five or six-and-twenty, had been one long war in defence of his country.</s> <s sid="3" id="duke.c13.s3">But it had been a glorious war for him, and his gallant deeds had well earned for him the title of <qs/>"Richard the Fearless"<qe/>--a name well deserved; for there was but one thing he feared, and that was, to do wrong.</s> </p>
 
 <p pid="2" id="duke.c13.p2"><s sid="4" id="duke.c13.s4">By and by, success and peace came; and then Arnulf of Flanders, finding open force would not destroy him, three times made attempts to assassinate him, like his father, by treachery.</s> <s sid="5" id="duke.c13.s5">But all these had failed; and now Richard had enjoyed many years of peace and honour, whilst his enemies had vanished from his sight.</s> </p>
@@ -1620,7 +1620,7 @@
 
 <p pid="45" id="duke.c13.p45"><s sid="84" id="duke.c13.s84">{17}  Richard obtained for Arnulf the restitution of Arras, and several other Flemish towns.</s> <s sid="85" id="duke.c13.s85">He died eight years afterwards, in 996, leaving several children, among whom his daughter Emma is connected with English history, by her marriage, first, with Ethelred the Unready, and secondly, with Knute, the grandson of his firm friend and ally, Harald Blue-tooth.</s> <s sid="86" id="duke.c13.s86">His son was Richard, called the Good; his grandson, Robert the Magnificent; his great-grandson, William the Conqueror, who brought the Norman race to England.</s> <s sid="87" id="duke.c13.s87">Few names in history shine with so consistent a lustre as that of Richard; at first the little Duke, afterwards Richard aux longues jambes, but always Richard sans peur.</s> <s sid="88" id="duke.c13.s88">This little sketch has only brought forward the perils of his childhood, but his early manhood was likewise full of adventures, in which he always proved himself brave, honourable, pious, and forbearing.</s> <s sid="89" id="duke.c13.s89">But for these our readers must search for themselves into early French history, where all they will find concerning our hero will only tend to exalt his character.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

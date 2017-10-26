@@ -4,8 +4,8 @@
 
 <title>The Rival Crusoes</title>
 <author>Agnes Strickland</author>
-<div id="rival.1" subcorpus="ChiLit" booktitle="The Rival Crusoes" book="rival" type="chapter" num="1">
-<title>BOOK 1.</title>
+<div id="rival.1" subcorpus="ChiLit" booktitle="The Rival Crusoes" bookauthor="Agnes Strickland" book="rival" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="rival.c1.p1" type="speech"><s sid="1" id="rival.c1.s1"><qs/>"George!</s> <s sid="2" id="rival.c1.s2">Harry!--lazy fellows that you are!--Why are you not in attendance?"<qe/> said Lord Robert Summers in an angry tone, throwing the rein of his pony to his grooms, and rushing up the great staircase with his handkerchief held close to his face.</s> </p>
 
 <p pid="2" id="rival.c1.p2" type="speech"><s sid="3" id="rival.c1.s3"><qs/>"What is the matter with our young lord to-day?"<qe/><sss/> said Harry; <sse/><qs/>"he seems in a marvellous ill mood."<qe/></s> </p>
@@ -958,7 +958,7 @@
 
 <p pid="476" id="rival.c1.p476"><s sid="1360" id="rival.c1.s1360">THE END</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

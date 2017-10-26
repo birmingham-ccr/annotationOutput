@@ -4,13 +4,13 @@
 
 <title>The Tale of Squirrel Nutkin</title>
 <author>Beatrix Potter</author>
-<div id="squirrel.0" subcorpus="ChiLit" booktitle="The Tale of Squirrel Nutkin" book="squirrel" type="chapter" num="0">
-<title/>
+<div id="squirrel.0" subcorpus="ChiLit" booktitle="The Tale of Squirrel Nutkin" bookauthor="Beatrix Potter" book="squirrel" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="squirrel.c0.p1"><s sid="1" id="squirrel.c0.s1">A STORY FOR NORAH</s> </p>
 
-</div>
-<div id="squirrel.1" subcorpus="ChiLit" booktitle="The Tale of Squirrel Nutkin" book="squirrel" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="squirrel.1" subcorpus="ChiLit" booktitle="The Tale of Squirrel Nutkin" bookauthor="Beatrix Potter" book="squirrel" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="squirrel.c1.p1"><s sid="1" id="squirrel.c1.s1">This is a Tale about a tail--a tail that belonged to a little red squirrel, and his name was Nutkin.</s> </p>
 
 <p pid="2" id="squirrel.c1.p2"><s sid="2" id="squirrel.c1.s2">He had a brother called Twinkleberry, and a great many cousins: they lived in a wood at the edge of a lake.</s> </p>
@@ -131,7 +131,7 @@
 
 <p pid="60" id="squirrel.c1.p60"><s sid="78" id="squirrel.c1.s78">THE END</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

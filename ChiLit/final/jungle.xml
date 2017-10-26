@@ -4,8 +4,8 @@
 
 <title>The Jungle Book</title>
 <author>Rudyard Kipling</author>
-<div id="jungle.1" subcorpus="ChiLit" booktitle="The Jungle Book" book="jungle" type="chapter" num="1">
-<title>BOOK 1.</title>
+<div id="jungle.1" subcorpus="ChiLit" booktitle="The Jungle Book" bookauthor="Rudyard Kipling" book="jungle" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="jungle.c1.p1"><s sid="1" id="jungle.c1.s1">Mowgli's Brothers</s> </p>
 
 <p pid="2" id="jungle.c1.p2"><s sid="2" id="jungle.c1.s2">Now Rann the Kite brings home the night That Mang the Bat sets free-- The herds are shut in byre and hut For loosed till dawn are we.</s> <s sid="3" id="jungle.c1.s3">This is the hour of pride and power, Talon and tush and claw.</s> <s sid="4" id="jungle.c1.s4">Oh, hear the call!--Good hunting all That keep the Jungle Law!</s> <s sid="5" id="jungle.c1.s5">Night-Song in the Jungle</s> </p>
@@ -1954,7 +1954,7 @@
 
 <p pid="974" id="jungle.c1.p974"><s sid="3129" id="jungle.c1.s3129">Children of the Camp are we, Serving each in his degree; Children of the yoke and goad, Pack and harness, pad and load.</s> <s sid="3130" id="jungle.c1.s3130">See our line across the plain, Like a heel-rope bent again, Reaching, writhing, rolling far, Sweeping all away to war!</s> <s sid="3131" id="jungle.c1.s3131">While the men that walk beside, Dusty, silent, heavy-eyed, Cannot tell why we or they March and suffer day by day.</s> <s sid="3132" id="jungle.c1.s3132">Children of the Camp are we, Serving each in his degree; Children of the yoke and goad, Pack and harness, pad and load!</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

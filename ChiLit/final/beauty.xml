@@ -4,13 +4,13 @@
 
 <title>Black Beauty</title>
 <author>Anna Sewell</author>
-<div id="beauty.0" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="0">
-<title/>
+<div id="beauty.0" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="beauty.c0.p1"><s sid="1" id="beauty.c0.s1">To my dear and honored Mother, whose life, no less than her pen, has been devoted to the welfare of others, this little book is affectionately dedicated.</s> </p>
 
-</div>
-<div id="beauty.1" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="1">
-<title>PART I. CHAPTER 1. My Early Home</title>
+<qs/></div>
+<div id="beauty.1" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="1">
+<qe/><title>PART I. CHAPTER 1. My Early Home</title>
 <p pid="1" id="beauty.c1.p1"><s sid="1" id="beauty.c1.s1">The first place that I can well remember was a large pleasant meadow with a pond of clear water in it.</s> <s sid="2" id="beauty.c1.s2">Some shady trees leaned over it, and rushes and water-lilies grew at the deep end.</s> <s sid="3" id="beauty.c1.s3">Over the hedge on one side we looked into a plowed field, and on the other we looked over a gate at our master's house, which stood by the roadside; at the top of the meadow was a grove of fir trees, and at the bottom a running brook overhung by a steep bank.</s> </p>
 
 <p pid="2" id="beauty.c1.p2"><s sid="4" id="beauty.c1.s4">While I was young I lived upon my mother's milk, as I could not eat grass.</s> <s sid="5" id="beauty.c1.s5">In the daytime I ran by her side, and at night I lay down close by her.</s> <s sid="6" id="beauty.c1.s6">When it was hot we used to stand by the pond in the shade of the trees, and when it was cold we had a nice warm shed near the grove.</s> </p>
@@ -33,9 +33,9 @@
 
 <p pid="11" id="beauty.c1.p11" type="speech"><s sid="31" id="beauty.c1.s31"><qs/>"Bad boy!"<qe/><sss/> he said, <sse/><qs/>"bad boy! to chase the colts.</s> <s sid="32" id="beauty.c1.s32">This is not the first time, nor the second, but it shall be the last.</s> <s sid="33" id="beauty.c1.s33">There--take your money and go home; I shall not want you on my farm again."<qe/></s> <s sid="34" id="beauty.c1.s34">So we never saw Dick any more.</s> <s sid="35" id="beauty.c1.s35">Old Daniel, the man who looked after the horses, was just as gentle as our master, so we were well off.</s> </p>
 
-</div>
-<div id="beauty.2" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="2">
-<title>PART I. CHAPTER 2. The Hunt</title>
+<qs/></div>
+<div id="beauty.2" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="2">
+<qe/><title>PART I. CHAPTER 2. The Hunt</title>
 <p pid="1" id="beauty.c2.p1" type="speech"><s sid="1" id="beauty.c2.s1">Before I was two years old a circumstance happened which I have never forgotten.</s> <s sid="2" id="beauty.c2.s2">It was early in the spring; there had been a little frost in the night, and a light mist still hung over the woods and meadows.</s> <s sid="3" id="beauty.c2.s3">I and the other colts were feeding at the lower part of the field when we heard, quite in the distance, what sounded like the cry of dogs.</s> <s sid="4" id="beauty.c2.s4">The oldest of the colts raised his head, pricked his ears, and said, <qs/>"There are the hounds!"<qe/> and immediately cantered off, followed by the rest of us to the upper part of the field, where we could look over the hedge and see several fields beyond.</s> <s sid="5" id="beauty.c2.s5">My mother and an old riding horse of our master's were also standing near, and seemed to know all about it.</s> </p>
 
 <p pid="2" id="beauty.c2.p2" type="speech"><s sid="6" id="beauty.c2.s6"><qs/>"They have found a hare,"<qe/><sss/> said my mother, <sse/><qs/>"and if they come this way we shall see the hunt."<qe/></s> </p>
@@ -68,9 +68,9 @@
 
 <p pid="16" id="beauty.c2.p16"><s sid="40" id="beauty.c2.s40">Not many days after we heard the church-bell tolling for a long time, and looking over the gate we saw a long, strange black coach that was covered with black cloth and was drawn by black horses; after that came another and another and another, and all were black, while the bell kept tolling, tolling.</s> <s sid="41" id="beauty.c2.s41">They were carrying young Gordon to the churchyard to bury him.</s> <s sid="42" id="beauty.c2.s42">He would never ride again.</s> <s sid="43" id="beauty.c2.s43">What they did with Rob Roy I never knew; but 'twas all for one little hare.</s> </p>
 
-</div>
-<div id="beauty.3" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="3">
-<title>PART I. CHAPTER 3. My Breaking In</title>
+<qs/></div>
+<div id="beauty.3" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="3">
+<qe/><title>PART I. CHAPTER 3. My Breaking In</title>
 <p pid="1" id="beauty.c3.p1"><s sid="1" id="beauty.c3.s1">I was now beginning to grow handsome; my coat had grown fine and soft, and was bright black.</s> <s sid="2" id="beauty.c3.s2">I had one white foot and a pretty white star on my forehead.</s> <s sid="3" id="beauty.c3.s3">I was thought very handsome; my master would not sell me till I was four years old; he said lads ought not to work like men, and colts ought not to work like horses till they were quite grown up.</s> </p>
 
 <p pid="2" id="beauty.c3.p2" type="speech"><s sid="4" id="beauty.c3.s4">When I was four years old Squire Gordon came to look at me.</s> <s sid="5" id="beauty.c3.s5">He examined my eyes, my mouth, and my legs; he felt them all down; and then I had to walk and trot and gallop before him.</s> <s sid="6" id="beauty.c3.s6">He seemed to like me, and said, <qs/>"When he has been well broken in he will do very well."<qe/></s> <s sid="7" id="beauty.c3.s7">My master said he would break me in himself, as he should not like me to be frightened or hurt, and he lost no time about it, for the next day he began.</s> </p>
@@ -97,9 +97,9 @@
 
 <p pid="13" id="beauty.c3.p13" type="speech"><s sid="39" id="beauty.c3.s39">My master often drove me in double harness with my mother, because she was steady and could teach me how to go better than a strange horse.</s> <s sid="40" id="beauty.c3.s40">She told me the better I behaved the better I should be treated, and that it was wisest always to do my best to please my master; <qs/>"but,"<qe/><sss/> said she, <sse/><qs/>"there are a great many kinds of men; there are good thoughtful men like our master, that any horse may be proud to serve; and there are bad, cruel men, who never ought to have a horse or dog to call their own.</s> <s sid="41" id="beauty.c3.s41">Besides, there are a great many foolish men, vain, ignorant, and careless, who never trouble themselves to think; these spoil more horses than all, just for want of sense; they don't mean it, but they do it for all that.</s> <s sid="42" id="beauty.c3.s42">I hope you will fall into good hands; but a horse never knows who may buy him, or who may drive him; it is all a chance for us; but still I say, do your best wherever it is, and keep up your good name."<qe/></s> </p>
 
-</div>
-<div id="beauty.4" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="4">
-<title>PART I. CHAPTER 4. Birtwick Park</title>
+<qs/></div>
+<div id="beauty.4" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="4">
+<qe/><title>PART I. CHAPTER 4. Birtwick Park</title>
 <p pid="1" id="beauty.c4.p1" type="speech"><s sid="1" id="beauty.c4.s1">At this time I used to stand in the stable and my coat was brushed every day till it shone like a rook's wing.</s> <s sid="2" id="beauty.c4.s2">It was early in May, when there came a man from Squire Gordon's, who took me away to the hall.</s> <s sid="3" id="beauty.c4.s3">My master said, <qs/>"Good-by, Darkie; be a good horse, and always do your best."<qe/></s> <s sid="4" id="beauty.c4.s4">I could not say "good-by", so I put my nose into his hand; he patted me kindly, and I left my first home.</s> <s sid="5" id="beauty.c4.s5">As I lived some years with Squire Gordon, I may as well tell something about the place.</s> </p>
 
 <p pid="2" id="beauty.c4.p2"><s sid="6" id="beauty.c4.s6">Squire Gordon's park skirted the village of Birtwick.</s> <s sid="7" id="beauty.c4.s7">It was entered by a large iron gate, at which stood the first lodge, and then you trotted along on a smooth road between clumps of large old trees; then another lodge and another gate, which brought you to the house and the gardens.</s> <s sid="8" id="beauty.c4.s8">Beyond this lay the home paddock, the old orchard, and the stables.</s> <s sid="9" id="beauty.c4.s9">There was accommodation for many horses and carriages; but I need only describe the stable into which I was taken; this was very roomy, with four good stalls; a large swinging window opened into the yard, which made it pleasant and airy.</s> </p>
@@ -136,9 +136,9 @@
 
 <p pid="18" id="beauty.c4.p18" type="speech"><s sid="41" id="beauty.c4.s41"><qs/>"Well, I don't think she does find pleasure,"<qe/><sss/> says Merrylegs; <sse/><qs/>"it is just a bad habit; she says no one was ever kind to her, and why should she not bite?</s> <s sid="42" id="beauty.c4.s42">Of course, it is a very bad habit; but I am sure, if all she says be true, she must have been very ill-used before she came here.</s> <s sid="43" id="beauty.c4.s43">John does all he can to please her, and James does all he can, and our master never uses a whip if a horse acts right; so I think she might be good-tempered here.</s> <s sid="44" id="beauty.c4.s44">You see,"<qe/><sls/> he said, with a wise look, <sle/><qs/>"I am twelve years old; I know a great deal, and I can tell you there is not a better place for a horse all round the country than this.</s> <s sid="45" id="beauty.c4.s45">John is the best groom that ever was; he has been here fourteen years; and you never saw such a kind boy as James is; so that it is all Ginger's own fault that she did not stay in that box."<qe/></s> </p>
 
-</div>
-<div id="beauty.5" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="5">
-<title>PART I. CHAPTER 5. A Fair Start</title>
+<qs/></div>
+<div id="beauty.5" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="5">
+<qe/><title>PART I. CHAPTER 5. A Fair Start</title>
 <p pid="1" id="beauty.c5.p1"><s sid="1" id="beauty.c5.s1">The name of the coachman was John Manly; he had a wife and one little child, and they lived in the coachman's cottage, very near the stables.</s> </p>
 
 <p pid="2" id="beauty.c5.p2" type="speech"><s sid="2" id="beauty.c5.s2">The next morning he took me into the yard and gave me a good grooming, and just as I was going into my box, with my coat soft and bright, the squire came in to look at me, and seemed pleased.</s> <s sid="3" id="beauty.c5.s3"><qs/>"John,"<qe/><sss/> he said, <sse/><qs/>"I meant to have tried the new horse this morning, but I have other business.</s> <s sid="4" id="beauty.c5.s4">You may as well take him around after breakfast; go by the common and the Highwood, and back by the watermill and the river; that will show his paces."<qe/></s> </p>
@@ -189,9 +189,9 @@
 
 <p pid="25" id="beauty.c5.p25"><s sid="48" id="beauty.c5.s48">Our master had two other horses that stood in another stable.</s> <s sid="49" id="beauty.c5.s49">One was Justice, a roan cob, used for riding or for the luggage cart; the other was an old brown hunter, named Sir Oliver; he was past work now, but was a great favorite with the master, who gave him the run of the park; he sometimes did a little light carting on the estate, or carried one of the young ladies when they rode out with their father, for he was very gentle and could be trusted with a child as well as Merrylegs.</s> <s sid="50" id="beauty.c5.s50">The cob was a strong, well-made, good-tempered horse, and we sometimes had a little chat in the paddock, but of course I could not be so intimate with him as with Ginger, who stood in the same stable.</s> </p>
 
-</div>
-<div id="beauty.6" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="6">
-<title>PART I. CHAPTER 6. Liberty</title>
+<qs/></div>
+<div id="beauty.6" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="6">
+<qe/><title>PART I. CHAPTER 6. Liberty</title>
 <p pid="1" id="beauty.c6.p1"><s sid="1" id="beauty.c6.s1">I was quite happy in my new place, and if there was one thing that I missed it must not be thought I was discontented; all who had to do with me were good and I had a light airy stable and the best of food.</s> <s sid="2" id="beauty.c6.s2">What more could I want?</s> <s sid="3" id="beauty.c6.s3">Why, liberty!</s> <s sid="4" id="beauty.c6.s4">For three years and a half of my life I had had all the liberty I could wish for; but now, week after week, month after month, and no doubt year after year, I must stand up in a stable night and day except when I am wanted, and then I must be just as steady and quiet as any old horse who has worked twenty years.</s> <s sid="5" id="beauty.c6.s5">Straps here and straps there, a bit in my mouth, and blinkers over my eyes.</s> <s sid="6" id="beauty.c6.s6">Now, I am not complaining, for I know it must be so.</s> <s sid="7" id="beauty.c6.s7">I only mean to say that for a young horse full of strength and spirits, who has been used to some large field or plain where he can fling up his head and toss up his tail and gallop away at full speed, then round and back again with a snort to his companions--I say it is hard never to have a bit more liberty to do as you like.</s> <s sid="8" id="beauty.c6.s8">Sometimes, when I have had less exercise than usual, I have felt so full of life and spring that when John has taken me out to exercise I really could not keep quiet; do what I would, it seemed as if I must jump, or dance, or prance, and many a good shake I know I must have given him, especially at the first; but he was always good and patient.</s> </p>
 
 <p pid="2" id="beauty.c6.p2" type="speech"><s sid="9" id="beauty.c6.s9"><qs/>"Steady, steady, my boy,"<qe/><sss/> he would say; <sse/><qs/>"wait a bit, and we will have a good swing, and soon get the tickle out of your feet."<qe/></s> <s sid="10" id="beauty.c6.s10">Then as soon as we were out of the village, he would give me a few miles at a spanking trot, and then bring me back as fresh as before, only clear of the fidgets, as he called them.</s> <s sid="11" id="beauty.c6.s11">Spirited horses, when not enough exercised, are often called skittish, when it is only play; and some grooms will punish them, but our John did not; he knew it was only high spirits.</s> <s sid="12" id="beauty.c6.s12">Still, he had his own ways of making me understand by the tone of his voice or the touch of the rein.</s> <s sid="13" id="beauty.c6.s13">If he was very serious and quite determined, I always knew it by his voice, and that had more power with me than anything else, for I was very fond of him.</s> </p>
@@ -200,9 +200,9 @@
 
 <p pid="4" id="beauty.c6.p4"><s sid="16" id="beauty.c6.s16">It was a great treat to us to be turned out into the home paddock or the old orchard; the grass was so cool and soft to our feet, the air so sweet, and the freedom to do as we liked was so pleasant--to gallop, to lie down, and roll over on our backs, or to nibble the sweet grass.</s> <s sid="17" id="beauty.c6.s17">Then it was a very good time for talking, as we stood together under the shade of the large chestnut tree.</s> </p>
 
-</div>
-<div id="beauty.7" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="7">
-<title>PART I. CHAPTER 7. Ginger</title>
+<qs/></div>
+<div id="beauty.7" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="7">
+<qe/><title>PART I. CHAPTER 7. Ginger</title>
 <p pid="1" id="beauty.c7.p1"><s sid="1" id="beauty.c7.s1">One day when Ginger and I were standing alone in the shade, we had a great deal of talk; she wanted to know all about my bringing up and breaking in, and I told her.</s> </p>
 
 <p pid="2" id="beauty.c7.p2" type="speech"><s sid="2" id="beauty.c7.s2"><qs/>"Well,"<qe/><sss/> said she, <sse/><qs/>"if I had had your bringing up I might have had as good a temper as you, but now I don't believe I ever shall."<qe/></s> </p>
@@ -215,9 +215,9 @@
 
 <p pid="6" id="beauty.c7.p6" type="speech" form="extended" position="beginning"><s sid="24" id="beauty.c7.s24"><qs/>"If I did not do exactly what he wanted he would get put out, and make me run round with that long rein in the training field till he had tired me out.</s> <s sid="25" id="beauty.c7.s25">I think he drank a good deal, and I am quite sure that the oftener he drank the worse it was for me.</s> <s sid="26" id="beauty.c7.s26">One day he had worked me hard in every way he could, and when I lay down I was tired, and miserable, and angry; it all seemed so hard.</s> <s sid="27" id="beauty.c7.s27">The next morning he came for me early, and ran me round again for a long time.</s> <s sid="28" id="beauty.c7.s28">I had scarcely had an hour's rest, when he came again for me with a saddle and bridle and a new kind of bit.</s> <s sid="29" id="beauty.c7.s29">I could never quite tell how it came about; he had only just mounted me on the training ground, when something I did put him out of temper, and he chucked me hard with the rein.</s> <s sid="30" id="beauty.c7.s30">The new bit was very painful, and I reared up suddenly, which angered him still more, and he began to flog me.</s> <s sid="31" id="beauty.c7.s31">I felt my whole spirit set against him, and I began to kick, and plunge, and rear as I had never done before, and we had a regular fight; for a long time he stuck to the saddle and punished me cruelly with his whip and spurs, but my blood was thoroughly up, and I cared for nothing he could do if only I could get him off.</s> <s sid="32" id="beauty.c7.s32">At last after a terrible struggle I threw him off backward.</s> <s sid="33" id="beauty.c7.s33">I heard him fall heavily on the turf, and without looking behind me, I galloped off to the other end of the field; there I turned round and saw my persecutor slowly rising from the ground and going into the stable.</s> <s sid="34" id="beauty.c7.s34">I stood under an oak tree and watched, but no one came to catch me.</s> <s sid="35" id="beauty.c7.s35">The time went on, and the sun was very hot; the flies swarmed round me and settled on my bleeding flanks where the spurs had dug in.</s> <s sid="36" id="beauty.c7.s36">I felt hungry, for I had not eaten since the early morning, but there was not enough grass in that meadow for a goose to live on.</s> <s sid="37" id="beauty.c7.s37">I wanted to lie down and rest, but with the saddle strapped tightly on there was no comfort, and there was not a drop of water to drink.</s> <s sid="38" id="beauty.c7.s38">The afternoon wore on, and the sun got low.</s> <s sid="39" id="beauty.c7.s39">I saw the other colts led in, and I knew they were having a good feed.</s> </p><p pid="7" id="beauty.c7.p7" type="speech" form="extended" position="middle"><s sid="40" id="beauty.c7.s40">"At last, just as the sun went down, I saw the old master come out with a sieve in his hand.</s> <s sid="41" id="beauty.c7.s41">He was a very fine old gentleman with quite white hair, but his voice was what I should know him by among a thousand.</s> <s sid="42" id="beauty.c7.s42">It was not high, nor yet low, but full, and clear, and kind, and when he gave orders it was so steady and decided that every one knew, both horses and men, that he expected to be obeyed.</s> <s sid="43" id="beauty.c7.s43">He came quietly along, now and then shaking the oats about that he had in the sieve, and speaking cheerfully and gently to me:</s> <s sid="44" id="beauty.c7.s44"><alt-qs/>'Come along, lassie, come along, lassie; come along, come along.'<alt-qe/></s> <s sid="45" id="beauty.c7.s45">I stood still and let him come up; he held the oats to me, and I began to eat without fear; his voice took all my fear away.</s> <s sid="46" id="beauty.c7.s46">He stood by, patting and stroking me while I was eating, and seeing the clots of blood on my side he seemed very vexed.</s> <s sid="47" id="beauty.c7.s47"><alt-qs/>'Poor lassie! it was a bad business, a bad business;' then he quietly took the rein and led me to the stable; just at the door stood Samson.</s> <s sid="48" id="beauty.c7.s48">I laid my ears back and snapped at him.</s> <s sid="49" id="beauty.c7.s49">'Stand back,'<alt-qe/> said the master, <alt-qs/>'and keep out of her way; you've done a bad day's work for this filly.'<alt-qe/></s> <s sid="50" id="beauty.c7.s50">He growled out something about a vicious brute.</s> <s sid="51" id="beauty.c7.s51"><alt-qs/>'Hark ye,'<alt-qe/> said the father, <alt-qs/>'a bad-tempered man will never make a good-tempered horse.</s> <s sid="52" id="beauty.c7.s52">You've not learned your trade yet, Samson.'<alt-qe/></s> <s sid="53" id="beauty.c7.s53">Then he led me into my box, took off the saddle and bridle with his own hands, and tied me up; then he called for a pail of warm water and a sponge, took off his coat, and while the stable-man held the pail, he sponged my sides a good while, so tenderly that I was sure he knew how sore and bruised they were.</s> <s sid="54" id="beauty.c7.s54"><alt-qs/>'Whoa! my pretty one,'<alt-qe/> he said, <alt-qs/>'stand still, stand still.'<alt-qe/></s> <s sid="55" id="beauty.c7.s55">His very voice did me good, and the bathing was very comfortable.</s> <s sid="56" id="beauty.c7.s56">The skin was so broken at the corners of my mouth that I could not eat the hay, the stalks hurt me.</s> <s sid="57" id="beauty.c7.s57">He looked closely at it, shook his head, and told the man to fetch a good bran mash and put some meal into it.</s> <s sid="58" id="beauty.c7.s58">How good that mash was! and so soft and healing to my mouth.</s> <s sid="59" id="beauty.c7.s59">He stood by all the time I was eating, stroking me and talking to the man.</s> <s sid="60" id="beauty.c7.s60"><alt-qs/>'If a high-mettled creature like this,'<alt-qe/> said he, <alt-qs/>'can't be broken by fair means, she will never be good for anything.'<alt-qe/></s> </p>
 
-<p pid="8" id="beauty.c7.p8" type="speech" form="extended" position="end"><s sid="61" id="beauty.c7.s61">"After that he often came to see me, and when my mouth was healed the other breaker, Job, they called him, went on training me; he was steady and thoughtful, and I soon learned what he wanted."<qe/></s> </p></div>
-<div id="beauty.8" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="8">
-<title>PART I. CHAPTER 8. Ginger's Story Continued</title>
+<p pid="8" id="beauty.c7.p8" type="speech" form="extended" position="end"><s sid="61" id="beauty.c7.s61">"After that he often came to see me, and when my mouth was healed the other breaker, Job, they called him, went on training me; he was steady and thoughtful, and I soon learned what he wanted."<qe/></s> </p><qs/></div>
+<div id="beauty.8" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="8">
+<qe/><title>PART I. CHAPTER 8. Ginger's Story Continued</title>
 <p pid="1" id="beauty.c8.p1"><s sid="1" id="beauty.c8.s1">The next time that Ginger and I were together in the paddock she told me about her first place.</s> </p>
 
 <p pid="2" id="beauty.c8.p2" type="speech"><s sid="2" id="beauty.c8.s2"><qs/>"After my breaking in,"<qe/> she said, "I was bought by a dealer to match another chestnut horse.</s> <s sid="3" id="beauty.c8.s3">For some weeks he drove us together, and then we were sold to a fashionable gentleman, and were sent up to London.</s> <s sid="4" id="beauty.c8.s4">I had been driven with a check-rein by the dealer, and I hated it worse than anything else; but in this place we were reined far tighter, the coachman and his master thinking we looked more stylish so.</s> <s sid="5" id="beauty.c8.s5">We were often driven about in the park and other fashionable places.</s> <s sid="6" id="beauty.c8.s6">You who never had a check-rein on don't know what it is, but I can tell you it is dreadful.</s> </p>
@@ -244,9 +244,9 @@
 
 <p pid="15" id="beauty.c8.p15"><s sid="41" id="beauty.c8.s41">This was a little joke of John's; he used to say that a regular course of "the Birtwick horseballs" would cure almost any vicious horse; these balls, he said, were made up of patience and gentleness, firmness and petting, one pound of each to be mixed up with half a pint of common sense, and given to the horse every day.</s> </p>
 
-</div>
-<div id="beauty.9" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="9">
-<title>PART I. CHAPTER 9. Merrylegs</title>
+<qs/></div>
+<div id="beauty.9" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="9">
+<qe/><title>PART I. CHAPTER 9. Merrylegs</title>
 <p pid="1" id="beauty.c9.p1"><s sid="1" id="beauty.c9.s1">Mr. Blomefield, the vicar, had a large family of boys and girls; sometimes they used to come and play with Miss Jessie and Flora.</s> <s sid="2" id="beauty.c9.s2">One of the girls was as old as Miss Jessie; two of the boys were older, and there were several little ones.</s> <s sid="3" id="beauty.c9.s3">When they came there was plenty of work for Merrylegs, for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock, and this they would do by the hour together.</s> </p>
 
 <p pid="2" id="beauty.c9.p2"><s sid="4" id="beauty.c9.s4">One afternoon he had been out with them a long time, and when James brought him in and put on his halter he said:</s> </p>
@@ -269,9 +269,9 @@
 
 <p pid="11" id="beauty.c9.p11" type="speech"><s sid="32" id="beauty.c9.s32"><qs/>"Besides,"<qe/><sss/> he went on, <sse/><qs/>"if I took to kicking where should I be?</s> <s sid="33" id="beauty.c9.s33">Why, sold off in a jiffy, and no character, and I might find myself slaved about under a butcher's boy, or worked to death at some seaside place where no one cared for me, except to find out how fast I could go, or be flogged along in some cart with three or four great men in it going out for a Sunday spree, as I have often seen in the place I lived in before I came here; no,"<qe/><sls/> said he, shaking his head, <sle/><qs/>"I hope I shall never come to that."<qe/></s> </p>
 
-</div>
-<div id="beauty.10" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="10">
-<title>PART I. CHAPTER 10. A Talk in the Orchard</title>
+<qs/></div>
+<div id="beauty.10" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="10">
+<qe/><title>PART I. CHAPTER 10. A Talk in the Orchard</title>
 <p pid="1" id="beauty.c10.p1"><s sid="1" id="beauty.c10.s1">Ginger and I were not of the regular tall carriage horse breed, we had more of the racing blood in us.</s> <s sid="2" id="beauty.c10.s2">We stood about fifteen and a half hands high; we were therefore just as good for riding as we were for driving, and our master used to say that he disliked either horse or man that could do but one thing; and as he did not want to show off in London parks, he preferred a more active and useful kind of horse.</s> <s sid="3" id="beauty.c10.s3">As for us, our greatest pleasure was when we were saddled for a riding party; the master on Ginger, the mistress on me, and the young ladies on Sir Oliver and Merrylegs.</s> <s sid="4" id="beauty.c10.s4">It was so cheerful to be trotting and cantering all together that it always put us in high spirits.</s> <s sid="5" id="beauty.c10.s5">I had the best of it, for I always carried the mistress; her weight was little, her voice was sweet, and her hand was so light on the rein that I was guided almost without feeling it.</s> </p>
 
 <p pid="2" id="beauty.c10.p2" type="speech"><s sid="6" id="beauty.c10.s6">Oh! if people knew what a comfort to horses a light hand is, and how it keeps a good mouth and a good temper, they surely would not chuck, and drag, and pull at the rein as they often do.</s> <s sid="7" id="beauty.c10.s7">Our mouths are so tender that where they have not been spoiled or hardened with bad or ignorant treatment, they feel the slightest movement of the driver's hand, and we know in an instant what is required of us.</s> <s sid="8" id="beauty.c10.s8">My mouth has never been spoiled, and I believe that was why the mistress preferred me to Ginger, although her paces were certainly quite as good.</s> <s sid="9" id="beauty.c10.s9">She used often to envy me, and said it was all the fault of breaking in, and the gag bit in London, that her mouth was not so perfect as mine; and then old Sir Oliver would say, <qs/>"There, there! don't vex yourself; you have the greatest honor; a mare that can carry a tall man of our master's weight, with all your spring and sprightly action, does not need to hold her head down because she does not carry the lady; we horses must take things as they come, and always be contented and willing so long as we are kindly used."<qe/></s> </p>
@@ -316,9 +316,9 @@
 
 <p pid="22" id="beauty.c10.p22"><s sid="58" id="beauty.c10.s58">Merrylegs could not be resisted, so we broke off our long conversation, and got up our spirits by munching some very sweet apples which lay scattered on the grass.</s> </p>
 
-</div>
-<div id="beauty.11" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="11">
-<title>PART I. CHAPTER 11. Plain Speaking</title>
+<qs/></div>
+<div id="beauty.11" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="11">
+<qe/><title>PART I. CHAPTER 11. Plain Speaking</title>
 <p pid="1" id="beauty.c11.p1"><s sid="1" id="beauty.c11.s1">The longer I lived at Birtwick the more proud and happy I felt at having such a place.</s> <s sid="2" id="beauty.c11.s2">Our master and mistress were respected and beloved by all who knew them; they were good and kind to everybody and everything; not only men and women, but horses and donkeys, dogs and cats, cattle and birds; there was no oppressed or ill-used creature that had not a friend in them, and their servants took the same tone.</s> <s sid="3" id="beauty.c11.s3">If any of the village children were known to treat any creature cruelly they soon heard about it from the Hall.</s> </p>
 
 <p pid="2" id="beauty.c11.p2"><s sid="4" id="beauty.c11.s4">The squire and Farmer Grey had worked together, as they said, for more than twenty years to get check-reins on the cart-horses done away with, and in our parts you seldom saw them; and sometimes, if mistress met a heavily laden horse with his head strained up she would stop the carriage and get out, and reason with the driver in her sweet serious voice, and try to show him how foolish and cruel it was.</s> </p>
@@ -347,9 +347,9 @@
 
 <p pid="14" id="beauty.c11.p14" type="speech"><s sid="40" id="beauty.c11.s40"><qs/>"I believe you are right in theory,"<qe/><sss/> said the other, <sse/><qs/>"and that's rather a hard hit about the soldiers; but--well--I'll think about it,"<qe/> and so they parted.</s> </p>
 
-</div>
-<div id="beauty.12" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="12">
-<title>PART I. CHAPTER 12. A Stormy Day</title>
+<qs/></div>
+<div id="beauty.12" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="12">
+<qe/><title>PART I. CHAPTER 12. A Stormy Day</title>
 <p pid="1" id="beauty.c12.p1"><s sid="1" id="beauty.c12.s1">One day late in the autumn my master had a long journey to go on business.</s> <s sid="2" id="beauty.c12.s2">I was put into the dog-cart, and John went with his master.</s> <s sid="3" id="beauty.c12.s3">I always liked to go in the dog-cart, it was so light and the high wheels ran along so pleasantly.</s> <s sid="4" id="beauty.c12.s4">There had been a great deal of rain, and now the wind was very high and blew the dry leaves across the road in a shower.</s> <s sid="5" id="beauty.c12.s5">We went along merrily till we came to the toll-bar and the low wooden bridge.</s> <s sid="6" id="beauty.c12.s6">The river banks were rather high, and the bridge, instead of rising, went across just level, so that in the middle, if the river was full, the water would be nearly up to the woodwork and planks; but as there were good substantial rails on each side, people did not mind it.</s> </p>
 
 <p pid="2" id="beauty.c12.p2"><s sid="7" id="beauty.c12.s7">The man at the gate said the river was rising fast, and he feared it would be a bad night.</s> <s sid="8" id="beauty.c12.s8">Many of the meadows were under water, and in one low part of the road the water was halfway up to my knees; the bottom was good, and master drove gently, so it was no matter.</s> </p>
@@ -386,9 +386,9 @@
 
 <p pid="18" id="beauty.c12.p18" type="speech"><s sid="48" id="beauty.c12.s48"><qs/>"No, my dear; but if your Black Beauty had not been wiser than we were we should all have been carried down the river at the wooden bridge."<qe/></s> <s sid="49" id="beauty.c12.s49">I heard no more, as they went into the house, and John took me to the stable.</s> <s sid="50" id="beauty.c12.s50">Oh, what a good supper he gave me that night, a good bran mash and some crushed beans with my oats, and such a thick bed of straw! and I was glad of it, for I was tired.</s> </p>
 
-</div>
-<div id="beauty.13" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="13">
-<title>PART I. CHAPTER 13. The Devil's Trade Mark</title>
+<qs/></div>
+<div id="beauty.13" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="13">
+<qe/><title>PART I. CHAPTER 13. The Devil's Trade Mark</title>
 <p pid="1" id="beauty.c13.p1" type="speech"><s sid="1" id="beauty.c13.s1">One day when John and I had been out on some business of our master's, and were returning gently on a long, straight road, at some distance we saw a boy trying to leap a pony over a gate; the pony would not take the leap, and the boy cut him with the whip, but he only turned off on one side.</s> <s sid="2" id="beauty.c13.s2">He whipped him again, but the pony turned off on the other side.</s> <s sid="3" id="beauty.c13.s3">Then the boy got off and gave him a hard thrashing, and knocked him about the head; then he got up again and tried to make him leap the gate, kicking him all the time shamefully, but still the pony refused.</s> <s sid="4" id="beauty.c13.s4">When we were nearly at the spot the pony put down his head and threw up his heels, and sent the boy neatly over into a broad quickset hedge, and with the rein dangling from his head he set off home at a full gallop.</s> <s sid="5" id="beauty.c13.s5">John laughed out quite loud.</s> <s sid="6" id="beauty.c13.s6"><qs/>"Served him right,"<qe/> he said.</s> </p>
 
 <p pid="2" id="beauty.c13.p2" type="speech"><s sid="7" id="beauty.c13.s7"><qs/>"Oh, oh, oh!"<qe/><sls/> cried the boy as he struggled about among the thorns; <sle/><qs/>"I say, come and help me out."<qe/></s> </p>
@@ -411,9 +411,9 @@
 
 <p pid="11" id="beauty.c13.p11" type="speech"><s sid="35" id="beauty.c13.s35"><qs/>"Your master never taught you a truer thing,"<qe/><sss/> said John; <sse/><qs/>"there is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast it is all a sham--all a sham, James, and it won't stand when things come to be turned inside out."<qe/></s> </p>
 
-</div>
-<div id="beauty.14" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="14">
-<title>PART I. CHAPTER 14. James Howard</title>
+<qs/></div>
+<div id="beauty.14" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="14">
+<qe/><title>PART I. CHAPTER 14. James Howard</title>
 <p pid="1" id="beauty.c14.p1"><s sid="1" id="beauty.c14.s1">Early one morning in December John had just led me into my box after my daily exercise, and was strapping my cloth on and James was coming in from the corn chamber with some oats, when the master came into the stable.</s> <s sid="2" id="beauty.c14.s2">He looked rather serious, and held an open letter in his hand.</s> <s sid="3" id="beauty.c14.s3">John fastened the door of my box, touched his cap, and waited for orders.</s> </p>
 
 <p pid="2" id="beauty.c14.p2" type="speech"><s sid="4" id="beauty.c14.s4"><qs/>"Good-morning, John,"<qe/> said the master.</s> <s sid="5" id="beauty.c14.s5"><qs/>"I want to know if you have any complaint to make of James."<qe/></s> </p>
@@ -450,9 +450,9 @@
 
 <p pid="18" id="beauty.c14.p18"><s sid="33" id="beauty.c14.s33">Then it was wonderful what a number of places the master would go to in the city on Saturday, and what queer streets we were driven through.</s> <s sid="34" id="beauty.c14.s34">He was sure to go to the railway station just as the train was coming in, and cabs and carriages, carts and omnibuses were all trying to get over the bridge together; that bridge wanted good horses and good drivers when the railway bell was ringing, for it was narrow, and there was a very sharp turn up to the station, where it would not have been at all difficult for people to run into each other, if they did not look sharp and keep their wits about them.</s> </p>
 
-</div>
-<div id="beauty.15" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="15">
-<title>PART I. CHAPTER 15. The Old Hostler</title>
+<qs/></div>
+<div id="beauty.15" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="15">
+<qe/><title>PART I. CHAPTER 15. The Old Hostler</title>
 <p pid="1" id="beauty.c15.p1"><s sid="1" id="beauty.c15.s1">After this it was decided by my master and mistress to pay a visit to some friends who lived about forty-six miles from our home, and James was to drive them.</s> <s sid="2" id="beauty.c15.s2">The first day we traveled thirty-two miles.</s> <s sid="3" id="beauty.c15.s3">There were some long, heavy hills, but James drove so carefully and thoughtfully that we were not at all harassed.</s> <s sid="4" id="beauty.c15.s4">He never forgot to put on the brake as we went downhill, nor to take it off at the right place.</s> <s sid="5" id="beauty.c15.s5">He kept our feet on the smoothest part of the road, and if the uphill was very long, he set the carriage wheels a little across the road, so as not to run back, and gave us a breathing.</s> <s sid="6" id="beauty.c15.s6">All these little things help a horse very much, particularly if he gets kind words into the bargain.</s> </p>
 
 <p pid="2" id="beauty.c15.p2"><s sid="7" id="beauty.c15.s7">We stopped once or twice on the road, and just as the sun was going down we reached the town where we were to spend the night.</s> <s sid="8" id="beauty.c15.s8">We stopped at the principal hotel, which was in the market-place; it was a very large one; we drove under an archway into a long yard, at the further end of which were the stables and coachhouses.</s> <s sid="9" id="beauty.c15.s9">Two hostlers came to take us out.</s> <s sid="10" id="beauty.c15.s10">The head hostler was a pleasant, active little man, with a crooked leg, and a yellow striped waistcoat.</s> <s sid="11" id="beauty.c15.s11">I never saw a man unbuckle harness so quickly as he did, and with a pat and a good word he led me to a long stable, with six or eight stalls in it, and two or three horses.</s> <s sid="12" id="beauty.c15.s12">The other man brought Ginger; James stood by while we were rubbed down and cleaned.</s> </p>
@@ -481,9 +481,9 @@
 
 <p pid="14" id="beauty.c15.p14"><s sid="42" id="beauty.c15.s42">During this time the other man had finished Ginger and had brought our corn, and James and the old man left the stable together.</s> </p>
 
-</div>
-<div id="beauty.16" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="16">
-<title>PART I. CHAPTER 16. The Fire</title>
+<qs/></div>
+<div id="beauty.16" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="16">
+<qe/><title>PART I. CHAPTER 16. The Fire</title>
 <p pid="1" id="beauty.c16.p1"><s sid="1" id="beauty.c16.s1">Later on in the evening a traveler's horse was brought in by the second hostler, and while he was cleaning him a young man with a pipe in his mouth lounged into the stable to gossip.</s> </p>
 
 <p pid="2" id="beauty.c16.p2" type="speech"><s sid="2" id="beauty.c16.s2"><qs/>"I say, Towler,"<qe/><sss/> said the hostler, <sse/><qs/>"just run up the ladder into the loft and put some hay down into this horse's rack, will you? only lay down your pipe."<qe/></s> </p>
@@ -528,9 +528,9 @@
 
 <p pid="22" id="beauty.c16.p22"><s sid="53" id="beauty.c16.s53">James said the roof and floor had all fallen in, and that only the black walls were standing; the two poor horses that could not be got out were buried under the burnt rafters and tiles.</s> </p>
 
-</div>
-<div id="beauty.17" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="17">
-<title>PART I. CHAPTER 17. John Manly's Talk</title>
+<qs/></div>
+<div id="beauty.17" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="17">
+<qe/><title>PART I. CHAPTER 17. John Manly's Talk</title>
 <p pid="1" id="beauty.c17.p1"><s sid="1" id="beauty.c17.s1">The rest of our journey was very easy, and a little after sunset we reached the house of my master's friend.</s> <s sid="2" id="beauty.c17.s2">We were taken into a clean, snug stable; there was a kind coachman, who made us very comfortable, and who seemed to think a good deal of James when he heard about the fire.</s> </p>
 
 <p pid="2" id="beauty.c17.p2" type="speech"><s sid="3" id="beauty.c17.s3"><qs/>"There is one thing quite clear, young man,"<qe/><sss/> he said, <sse/><qs/>"your horses know who they can trust; it is one of the hardest things in the world to get horses out of a stable when there is either fire or flood.</s> <s sid="4" id="beauty.c17.s4">I don't know why they won't come out, but they won't--not one in twenty."<qe/></s> </p>
@@ -579,9 +579,9 @@
 
 <p pid="24" id="beauty.c17.p24"><s sid="50" id="beauty.c17.s50">Joe's father would often come in and give a little help, as he understood the work; and Joe took a great deal of pains to learn, and John was quite encouraged about him.</s> </p>
 
-</div>
-<div id="beauty.18" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="18">
-<title>PART I. CHAPTER 18. Going for the Doctor</title>
+<qs/></div>
+<div id="beauty.18" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="18">
+<qe/><title>PART I. CHAPTER 18. Going for the Doctor</title>
 <p pid="1" id="beauty.c18.p1" type="speech"><s sid="1" id="beauty.c18.s1">One night, a few days after James had left, I had eaten my hay and was lying down in my straw fast asleep, when I was suddenly roused by the stable bell ringing very loud.</s> <s sid="2" id="beauty.c18.s2">I heard the door of John's house open, and his feet running up to the hall.</s> <s sid="3" id="beauty.c18.s3">He was back again in no time; he unlocked the stable door, and came in, calling out, <qs/>"Wake up, Beauty!</s> <s sid="4" id="beauty.c18.s4">You must go well now, if ever you did;"<qe/> and almost before I could think he had got the saddle on my back and the bridle on my head.</s> <s sid="5" id="beauty.c18.s5">He just ran round for his coat, and then took me at a quick trot up to the hall door.</s> <s sid="6" id="beauty.c18.s6">The squire stood there, with a lamp in his hand.</s> </p>
 
 <p pid="2" id="beauty.c18.p2" type="speech"><s sid="7" id="beauty.c18.s7"><qs/>"Now, John,"<qe/><sss/> he said, <sse/><qs/>"ride for your life--that is, for your mistress' life; there is not a moment to lose.</s> <s sid="8" id="beauty.c18.s8">Give this note to Dr. White; give your horse a rest at the inn, and be back as soon as you can."<qe/></s> </p>
@@ -616,9 +616,9 @@
 
 <p pid="17" id="beauty.c18.p17" type="speech"><s sid="58" id="beauty.c18.s58">I was now very ill; a strong inflammation had attacked my lungs, and I could not draw my breath without pain.</s> <s sid="59" id="beauty.c18.s59">John nursed me night and day; he would get up two or three times in the night to come to me.</s> <s sid="60" id="beauty.c18.s60">My master, too, often came to see me.</s> <s sid="61" id="beauty.c18.s61"><qs/>"My poor Beauty,"<qe/><sss/> he said one day, <sse/><qs/>"my good horse, you saved your mistress' life, Beauty; yes, you saved her life."<qe/></s> <s sid="62" id="beauty.c18.s62">I was very glad to hear that, for it seems the doctor had said if we had been a little longer it would have been too late.</s> <s sid="63" id="beauty.c18.s63">John told my master he never saw a horse go so fast in his life.</s> <s sid="64" id="beauty.c18.s64">It seemed as if the horse knew what was the matter.</s> <s sid="65" id="beauty.c18.s65">Of course I did, though John thought not; at least I knew as much as this--that John and I must go at the top of our speed, and that it was for the sake of the mistress.</s> </p>
 
-</div>
-<div id="beauty.19" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="19">
-<title>PART I. CHAPTER 19. Only Ignorance</title>
+<qs/></div>
+<div id="beauty.19" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="19">
+<qe/><title>PART I. CHAPTER 19. Only Ignorance</title>
 <p pid="1" id="beauty.c19.p1"><s sid="1" id="beauty.c19.s1">I do not know how long I was ill. Mr.</s> <s sid="2" id="beauty.c19.s2">Bond, the horse-doctor, came every day.</s> <s sid="3" id="beauty.c19.s3">One day he bled me; John held a pail for the blood.</s> <s sid="4" id="beauty.c19.s4">I felt very faint after it and thought I should die, and I believe they all thought so too.</s> </p>
 
 <p pid="2" id="beauty.c19.p2"><s sid="5" id="beauty.c19.s5">Ginger and Merrylegs had been moved into the other stable, so that I might be quiet, for the fever made me very quick of hearing; any little noise seemed quite loud, and I could tell every one's footstep going to and from the house.</s> <s sid="6" id="beauty.c19.s6">I knew all that was going on.</s> <s sid="7" id="beauty.c19.s7">One night John had to give me a draught; Thomas Green came in to help him.</s> <s sid="8" id="beauty.c19.s8">After I had taken it and John had made me as comfortable as he could, he said he should stay half an hour to see how the medicine settled.</s> <s sid="9" id="beauty.c19.s9">Thomas said he would stay with him, so they went and sat down on a bench that had been brought into Merrylegs' stall, and put down the lantern at their feet, that I might not be disturbed with the light.</s> </p>
@@ -645,9 +645,9 @@
 
 <p pid="13" id="beauty.c19.p13"><s sid="36" id="beauty.c19.s36">I heard no more of this conversation, for the medicine did well and sent me to sleep, and in the morning I felt much better; but I often thought of John's words when I came to know more of the world.</s> </p>
 
-</div>
-<div id="beauty.20" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="20">
-<title>PART I. CHAPTER 20. Joe Green</title>
+<qs/></div>
+<div id="beauty.20" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="20">
+<qe/><title>PART I. CHAPTER 20. Joe Green</title>
 <p pid="1" id="beauty.c20.p1"><s sid="1" id="beauty.c20.s1">Joe Green went on very well; he learned quickly, and was so attentive and careful that John began to trust him in many things; but as I have said, he was small of his age, and it was seldom that he was allowed to exercise either Ginger or me; but it so happened one morning that John was out with Justice in the luggage cart, and the master wanted a note to be taken immediately to a gentleman's house, about three miles distant, and sent his orders for Joe to saddle me and take it, adding the caution that he was to ride steadily.</s> </p>
 
 <p pid="2" id="beauty.c20.p2"><s sid="2" id="beauty.c20.s2">The note was delivered, and we were quietly returning when we came to the brick-field.</s> <s sid="3" id="beauty.c20.s3">Here we saw a cart heavily laden with bricks; the wheels had stuck fast in the stiff mud of some deep ruts, and the carter was shouting and flogging the two horses unmercifully.</s> <s sid="4" id="beauty.c20.s4">Joe pulled up.</s> <s sid="5" id="beauty.c20.s5">It was a sad sight.</s> <s sid="6" id="beauty.c20.s6">There were the two horses straining and struggling with all their might to drag the cart out, but they could not move it; the sweat streamed from their legs and flanks, their sides heaved, and every muscle was strained, while the man, fiercely pulling at the head of the fore horse, swore and lashed most brutally.</s> </p>
@@ -684,9 +684,9 @@
 
 <p pid="18" id="beauty.c20.p18"><s sid="44" id="beauty.c20.s44">It was wonderful what a change had come over Joe.</s> <s sid="45" id="beauty.c20.s45">John laughed, and said he had grown an inch taller in that week, and I believe he had.</s> <s sid="46" id="beauty.c20.s46">He was just as kind and gentle as before, but there was more purpose and determination in all that he did--as if he had jumped at once from a boy into a man.</s> </p>
 
-</div>
-<div id="beauty.21" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="21">
-<title>PART I. CHAPTER 21. The Parting</title>
+<qs/></div>
+<div id="beauty.21" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="21">
+<qe/><title>PART I. CHAPTER 21. The Parting</title>
 <p pid="1" id="beauty.c21.p1"><s sid="1" id="beauty.c21.s1">Now I had lived in this happy place three years, but sad changes were about to come over us.</s> <s sid="2" id="beauty.c21.s2">We heard from time to time that our mistress was ill. The doctor was often at the house, and the master looked grave and anxious.</s> <s sid="3" id="beauty.c21.s3">Then we heard that she must leave her home at once, and go to a warm country for two or three years.</s> <s sid="4" id="beauty.c21.s4">The news fell upon the household like the tolling of a deathbell.</s> <s sid="5" id="beauty.c21.s5">Everybody was sorry; but the master began directly to make arrangements for breaking up his establishment and leaving England.</s> <s sid="6" id="beauty.c21.s6">We used to hear it talked about in our stable; indeed, nothing else was talked about.</s> </p>
 
 <p pid="2" id="beauty.c21.p2"><s sid="7" id="beauty.c21.s7">John went about his work silent and sad, and Joe scarcely whistled.</s> <s sid="8" id="beauty.c21.s8">There was a great deal of coming and going; Ginger and I had full work.</s> </p>
@@ -717,9 +717,9 @@
 
 <p pid="15" id="beauty.c21.p15" type="speech"><s sid="48" id="beauty.c21.s48"><qs/>"We shall never see her again,"<qe/><sss/> he said--<sse/><qs/>"never."<qe/></s> <s sid="49" id="beauty.c21.s49">He took the reins, mounted the box, and with Joe drove slowly home; but it was not our home now.</s> </p>
 
-</div>
-<div id="beauty.22" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="22">
-<title>PART II. CHAPTER 22. Earlshall</title>
+<qs/></div>
+<div id="beauty.22" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="22">
+<qe/><title>PART II. CHAPTER 22. Earlshall</title>
 <p pid="1" id="beauty.c22.p1"><s sid="1" id="beauty.c22.s1">The next morning after breakfast Joe put Merrylegs into the mistress' low chaise to take him to the vicarage; he came first and said good-by to us, and Merrylegs neighed to us from the yard.</s> <s sid="2" id="beauty.c22.s2">Then John put the saddle on Ginger and the leading rein on me, and rode us across the country about fifteen miles to Earlshall Park, where the Earl of W---- lived.</s> <s sid="3" id="beauty.c22.s3">There was a very fine house and a great deal of stabling.</s> <s sid="4" id="beauty.c22.s4">We went into the yard through a stone gateway, and John asked for Mr. York.</s> <s sid="5" id="beauty.c22.s5">It was some time before he came.</s> <s sid="6" id="beauty.c22.s6">He was a fine-looking, middle-aged man, and his voice said at once that he expected to be obeyed.</s> <s sid="7" id="beauty.c22.s7">He was very friendly and polite to John, and after giving us a slight look he called a groom to take us to our boxes, and invited John to take some refreshment.</s> </p>
 
 <p pid="2" id="beauty.c22.p2"><s sid="8" id="beauty.c22.s8">We were taken to a light, airy stable, and placed in boxes adjoining each other, where we were rubbed down and fed.</s> <s sid="9" id="beauty.c22.s9">In about half an hour John and Mr. York, who was to be our new coachman, came in to see us.</s> </p>
@@ -760,9 +760,9 @@
 
 <p pid="20" id="beauty.c22.p20"><s sid="49" id="beauty.c22.s49">Day by day, hole by hole, our bearing reins were shortened, and instead of looking forward with pleasure to having my harness put on, as I used to do, I began to dread it.</s> <s sid="50" id="beauty.c22.s50">Ginger, too, seemed restless, though she said very little.</s> <s sid="51" id="beauty.c22.s51">At last I thought the worst was over; for several days there was no more shortening, and I determined to make the best of it and do my duty, though it was now a constant harass instead of a pleasure; but the worst was not come.</s> </p>
 
-</div>
-<div id="beauty.23" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="23">
-<title>PART II. CHAPTER 23. A Strike for Liberty</title>
+<qs/></div>
+<div id="beauty.23" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="23">
+<qe/><title>PART II. CHAPTER 23. A Strike for Liberty</title>
 <p pid="1" id="beauty.c23.p1"><s sid="1" id="beauty.c23.s1">One day my lady came down later than usual, and the silk rustled more than ever.</s> </p>
 
 <p pid="2" id="beauty.c23.p2" type="speech"><s sid="2" id="beauty.c23.s2"><qs/>"Drive to the Duchess of B----'s,"<qe/><sls/> she said, and then after a pause, <sle/><qs/>"Are you never going to get those horses' heads up, York?</s> <s sid="3" id="beauty.c23.s3">Raise them at once and let us have no more of this humoring and nonsense."<qe/></s> </p>
@@ -789,9 +789,9 @@
 
 <p pid="13" id="beauty.c23.p13"><s sid="46" id="beauty.c23.s46">In my old home I always knew that John and my master were my friends; but here, although in many ways I was well treated, I had no friend.</s> <s sid="47" id="beauty.c23.s47">York might have known, and very likely did know, how that rein harassed me; but I suppose he took it as a matter of course that it could not be helped; at any rate, nothing was done to relieve me.</s> </p>
 
-</div>
-<div id="beauty.24" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="24">
-<title>PART II. CHAPTER 24. The Lady Anne, or a Runaway Horse</title>
+<qs/></div>
+<div id="beauty.24" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="24">
+<qe/><title>PART II. CHAPTER 24. The Lady Anne, or a Runaway Horse</title>
 <p pid="1" id="beauty.c24.p1"><s sid="1" id="beauty.c24.s1">Early in the spring, Lord W---- and part of his family went up to London, and took York with them.</s> <s sid="2" id="beauty.c24.s2">I and Ginger and some other horses were left at home for use, and the head groom was left in charge.</s> </p>
 
 <p pid="2" id="beauty.c24.p2"><s sid="3" id="beauty.c24.s3">The Lady Harriet, who remained at the hall, was a great invalid, and never went out in the carriage, and the Lady Anne preferred riding on horseback with her brother or cousins.</s> <s sid="4" id="beauty.c24.s4">She was a perfect horsewoman, and as gay and gentle as she was beautiful.</s> <s sid="5" id="beauty.c24.s5">She chose me for her horse, and named me "Black Auster".</s> <s sid="6" id="beauty.c24.s6">I enjoyed these rides very much in the clear cold air, sometimes with Ginger, sometimes with Lizzie.</s> <s sid="7" id="beauty.c24.s7">This Lizzie was a bright bay mare, almost thoroughbred, and a great favorite with the gentlemen, on account of her fine action and lively spirit; but Ginger, who knew more of her than I did, told me she was rather nervous.</s> </p>
@@ -856,9 +856,9 @@
 
 <p pid="32" id="beauty.c24.p32" type="speech"><s sid="101" id="beauty.c24.s101">Two days after the accident Blantyre paid me a visit; he patted me and praised me very much; he told Lord George that he was sure the horse knew of Annie's danger as well as he did.</s> <s sid="102" id="beauty.c24.s102"><qs/>"I could not have held him in if I would,"<qe/><sss/> said he, <sse/><qs/>"she ought never to ride any other horse."<qe/></s> <s sid="103" id="beauty.c24.s103">I found by their conversation that my young mistress was now out of danger, and would soon be able to ride again.</s> <s sid="104" id="beauty.c24.s104">This was good news to me and I looked forward to a happy life.</s> </p>
 
-</div>
-<div id="beauty.25" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="25">
-<title>PART II. CHAPTER 25. Reuben Smith</title>
+<qs/></div>
+<div id="beauty.25" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="25">
+<qe/><title>PART II. CHAPTER 25. Reuben Smith</title>
 <p pid="1" id="beauty.c25.p1"><s sid="1" id="beauty.c25.s1">Now I must say a little about Reuben Smith, who was left in charge of the stables when York went to London.</s> <s sid="2" id="beauty.c25.s2">No one more thoroughly understood his business than he did, and when he was all right there could not be a more faithful or valuable man.</s> <s sid="3" id="beauty.c25.s3">He was gentle and very clever in his management of horses, and could doctor them almost as well as a farrier, for he had lived two years with a veterinary surgeon.</s> <s sid="4" id="beauty.c25.s4">He was a first-rate driver; he could take a four-in-hand or a tandem as easily as a pair.</s> <s sid="5" id="beauty.c25.s5">He was a handsome man, a good scholar, and had very pleasant manners.</s> <s sid="6" id="beauty.c25.s6">I believe everybody liked him; certainly the horses did.</s> <s sid="7" id="beauty.c25.s7">The only wonder was that he should be in an under situation and not in the place of a head coachman like York; but he had one great fault and that was the love of drink.</s> <s sid="8" id="beauty.c25.s8">He was not like some men, always at it; he used to keep steady for weeks or months together, and then he would break out and have a "bout" of it, as York called it, and be a disgrace to himself, a terror to his wife, and a nuisance to all that had to do with him.</s> <s sid="9" id="beauty.c25.s9">He was, however, so useful that two or three times York had hushed the matter up and kept it from the earl's knowledge; but one night, when Reuben had to drive a party home from a ball he was so drunk that he could not hold the reins, and a gentleman of the party had to mount the box and drive the ladies home.</s> <s sid="10" id="beauty.c25.s10">Of course, this could not be hidden, and Reuben was at once dismissed; his poor wife and little children had to turn out of the pretty cottage by the park gate and go where they could.</s> <s sid="11" id="beauty.c25.s11">Old Max told me all this, for it happened a good while ago; but shortly before Ginger and I came Smith had been taken back again.</s> <s sid="12" id="beauty.c25.s12">York had interceded for him with the earl, who is very kind-hearted, and the man had promised faithfully that he would never taste another drop as long as he lived there.</s> <s sid="13" id="beauty.c25.s13">He had kept his promise so well that York thought he might be safely trusted to fill his place while he was away, and he was so clever and honest that no one else seemed so well fitted for it.</s> </p>
 
 <p pid="2" id="beauty.c25.p2" type="speech"><s sid="14" id="beauty.c25.s14">It was now early in April, and the family was expected home some time in May.</s> <s sid="15" id="beauty.c25.s15">The light brougham was to be fresh done up, and as Colonel Blantyre was obliged to return to his regiment it was arranged that Smith should drive him to the town in it, and ride back; for this purpose he took the saddle with him, and I was chosen for the journey.</s> <s sid="16" id="beauty.c25.s16">At the station the colonel put some money into Smith's hand and bid him good-by, saying, <qs/>"Take care of your young mistress, Reuben, and don't let Black Auster be hacked about by any random young prig that wants to ride him--keep him for the lady."<qe/></s> </p>
@@ -877,9 +877,9 @@
 
 <p pid="9" id="beauty.c25.p9"><s sid="32" id="beauty.c25.s32">This could not go on; no horse could keep his footing under such circumstances; the pain was too great.</s> <s sid="33" id="beauty.c25.s33">I stumbled, and fell with violence on both my knees.</s> <s sid="34" id="beauty.c25.s34">Smith was flung off by my fall, and, owing to the speed I was going at, he must have fallen with great force.</s> <s sid="35" id="beauty.c25.s35">I soon recovered my feet and limped to the side of the road, where it was free from stones.</s> <s sid="36" id="beauty.c25.s36">The moon had just risen above the hedge, and by its light I could see Smith lying a few yards beyond me.</s> <s sid="37" id="beauty.c25.s37">He did not rise; he made one slight effort to do so, and then there was a heavy groan.</s> <s sid="38" id="beauty.c25.s38">I could have groaned, too, for I was suffering intense pain both from my foot and knees; but horses are used to bear their pain in silence.</s> <s sid="39" id="beauty.c25.s39">I uttered no sound, but I stood there and listened.</s> <s sid="40" id="beauty.c25.s40">One more heavy groan from Smith; but though he now lay in the full moonlight I could see no motion.</s> <s sid="41" id="beauty.c25.s41">I could do nothing for him nor myself, but, oh! how I listened for the sound of horse, or wheels, or footsteps!</s> <s sid="42" id="beauty.c25.s42">The road was not much frequented, and at this time of the night we might stay for hours before help came to us.</s> <s sid="43" id="beauty.c25.s43">I stood watching and listening.</s> <s sid="44" id="beauty.c25.s44">It was a calm, sweet April night; there were no sounds but a few low notes of a nightingale, and nothing moved but the white clouds near the moon and a brown owl that flitted over the hedge.</s> <s sid="45" id="beauty.c25.s45">It made me think of the summer nights long ago, when I used to lie beside my mother in the green pleasant meadow at Farmer Grey's.</s> </p>
 
-</div>
-<div id="beauty.26" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="26">
-<title>PART II. CHAPTER 26. How it Ended</title>
+<qs/></div>
+<div id="beauty.26" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="26">
+<qe/><title>PART II. CHAPTER 26. How it Ended</title>
 <p pid="1" id="beauty.c26.p1"><s sid="1" id="beauty.c26.s1">It must have been nearly midnight when I heard at a great distance the sound of a horse's feet.</s> <s sid="2" id="beauty.c26.s2">Sometimes the sound died away, then it grew clearer again and nearer.</s> <s sid="3" id="beauty.c26.s3">The road to Earlshall led through woods that belonged to the earl; the sound came in that direction, and I hoped it might be some one coming in search of us.</s> <s sid="4" id="beauty.c26.s4">As the sound came nearer and nearer I was almost sure I could distinguish Ginger's step; a little nearer still, and I could tell she was in the dog-cart.</s> <s sid="5" id="beauty.c26.s5">I neighed loudly, and was overjoyed to hear an answering neigh from Ginger, and men's voices.</s> <s sid="6" id="beauty.c26.s6">They came slowly over the stones, and stopped at the dark figure that lay upon the ground.</s> </p>
 
 <p pid="2" id="beauty.c26.p2" type="speech"><s sid="7" id="beauty.c26.s7">One of the men jumped out, and stooped down over it.</s> <s sid="8" id="beauty.c26.s8"><qs/>"It is Reuben,"<qe/><sss/> he said, <sse/><qs/>"and he does not stir!"<qe/></s> </p>
@@ -906,9 +906,9 @@
 
 <p pid="13" id="beauty.c26.p13" type="speech"><s sid="46" id="beauty.c26.s46">Everybody pitied Susan.</s> <s sid="47" id="beauty.c26.s47">She was nearly out of her mind; she kept saying over and over again, <qs/>"Oh! he was so good--so good!</s> <s sid="48" id="beauty.c26.s48">It was all that cursed drink; why will they sell that cursed drink?</s> <s sid="49" id="beauty.c26.s49">Oh Reuben, Reuben!"<qe/></s> <s sid="50" id="beauty.c26.s50">So she went on till after he was buried; and then, as she had no home or relations, she, with her six little children, was obliged once more to leave the pleasant home by the tall oak-trees, and go into that great gloomy Union House.</s> </p>
 
-</div>
-<div id="beauty.27" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="27">
-<title>PART II. CHAPTER 27. Ruined and Going Downhill</title>
+<qs/></div>
+<div id="beauty.27" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="27">
+<qe/><title>PART II. CHAPTER 27. Ruined and Going Downhill</title>
 <p pid="1" id="beauty.c27.p1"><s sid="1" id="beauty.c27.s1">As soon as my knees were sufficiently healed I was turned into a small meadow for a month or two; no other creature was there; and though I enjoyed the liberty and the sweet grass, yet I had been so long used to society that I felt very lonely.</s> <s sid="2" id="beauty.c27.s2">Ginger and I had become fast friends, and now I missed her company extremely.</s> <s sid="3" id="beauty.c27.s3">I often neighed when I heard horses' feet passing in the road, but I seldom got an answer; till one morning the gate was opened, and who should come in but dear old Ginger.</s> <s sid="4" id="beauty.c27.s4">The man slipped off her halter, and left her there.</s> <s sid="5" id="beauty.c27.s5">With a joyful whinny I trotted up to her; we were both glad to meet, but I soon found that it was not for our pleasure that she was brought to be with me.</s> <s sid="6" id="beauty.c27.s6">Her story would be too long to tell, but the end of it was that she had been ruined by hard riding, and was now turned off to see what rest would do.</s> </p>
 
 <p pid="2" id="beauty.c27.p2" type="speech"><s sid="7" id="beauty.c27.s7">Lord George was young and would take no warning; he was a hard rider, and would hunt whenever he could get the chance, quite careless of his horse.</s> <s sid="8" id="beauty.c27.s8">Soon after I left the stable there was a steeplechase, and he determined to ride.</s> <s sid="9" id="beauty.c27.s9">Though the groom told him she was a little strained, and was not fit for the race, he did not believe it, and on the day of the race urged Ginger to keep up with the foremost riders.</s> <s sid="10" id="beauty.c27.s10">With her high spirit, she strained herself to the utmost; she came in with the first three horses, but her wind was touched, besides which he was too heavy for her, and her back was strained.</s> <s sid="11" id="beauty.c27.s11"><qs/>"And so,"<qe/><sss/> she said, <sse/><qs/>"here we are, ruined in the prime of our youth and strength, you by a drunkard, and I by a fool; it is very hard."<qe/></s> <s sid="12" id="beauty.c27.s12">We both felt in ourselves that we were not what we had been.</s> <s sid="13" id="beauty.c27.s13">However, that did not spoil the pleasure we had in each other's company; we did not gallop about as we once did, but we used to feed, and lie down together, and stand for hours under one of the shady lime-trees with our heads close to each other; and so we passed our time till the family returned from town.</s> </p>
@@ -931,9 +931,9 @@
 
 <p pid="11" id="beauty.c27.p11"><s sid="32" id="beauty.c27.s32">When I reached the end of my journey I found myself in a tolerably comfortable stable, and well attended to.</s> <s sid="33" id="beauty.c27.s33">These stables were not so airy and pleasant as those I had been used to.</s> <s sid="34" id="beauty.c27.s34">The stalls were laid on a slope instead of being level, and as my head was kept tied to the manger, I was obliged always to stand on the slope, which was very fatiguing.</s> <s sid="35" id="beauty.c27.s35">Men do not seem to know yet that horses can do more work if they can stand comfortably and can turn about; however, I was well fed and well cleaned, and, on the whole, I think our master took as much care of us as he could.</s> <s sid="36" id="beauty.c27.s36">He kept a good many horses and carriages of different kinds for hire.</s> <s sid="37" id="beauty.c27.s37">Sometimes his own men drove them; at others, the horse and chaise were let to gentlemen or ladies who drove themselves.</s> </p>
 
-</div>
-<div id="beauty.28" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="28">
-<title>PART II. CHAPTER 28. A Job Horse and His Drivers</title>
+<qs/></div>
+<div id="beauty.28" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="28">
+<qe/><title>PART II. CHAPTER 28. A Job Horse and His Drivers</title>
 <p pid="1" id="beauty.c28.p1"><s sid="1" id="beauty.c28.s1">Hitherto I had always been driven by people who at least knew how to drive; but in this place I was to get my experience of all the different kinds of bad and ignorant driving to which we horses are subjected; for I was a "job horse", and was let out to all sorts of people who wished to hire me; and as I was good-tempered and gentle, I think I was oftener let out to the ignorant drivers than some of the other horses, because I could be depended upon.</s> <s sid="2" id="beauty.c28.s2">It would take a long time to tell of all the different styles in which I was driven, but I will mention a few of them.</s> </p>
 
 <p pid="2" id="beauty.c28.p2"><s sid="3" id="beauty.c28.s3">First, there were the tight-rein drivers--men who seemed to think that all depended on holding the reins as hard as they could, never relaxing the pull on the horse's mouth, or giving him the least liberty of movement.</s> <s sid="4" id="beauty.c28.s4">They are always talking about "keeping the horse well in hand", and "holding a horse up", just as if a horse was not made to hold himself up.</s> </p>
@@ -974,9 +974,9 @@
 
 <p pid="20" id="beauty.c28.p20"><s sid="49" id="beauty.c28.s49">This was the sort of experience we job horses often came in for.</s> </p>
 
-</div>
-<div id="beauty.29" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="29">
-<title>PART II. CHAPTER 29. Cockneys</title>
+<qs/></div>
+<div id="beauty.29" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="29">
+<qe/><title>PART II. CHAPTER 29. Cockneys</title>
 <p pid="1" id="beauty.c29.p1"><s sid="1" id="beauty.c29.s1">Then there is the steam-engine style of driving; these drivers were mostly people from towns, who never had a horse of their own and generally traveled by rail.</s> </p>
 
 <p pid="2" id="beauty.c29.p2"><s sid="2" id="beauty.c29.s2">They always seemed to think that a horse was something like a steam-engine, only smaller.</s> <s sid="3" id="beauty.c29.s3">At any rate, they think that if only they pay for it a horse is bound to go just as far and just as fast and with just as heavy a load as they please.</s> <s sid="4" id="beauty.c29.s4">And be the roads heavy and muddy, or dry and good; be they stony or smooth, uphill or downhill, it is all the same--on, on, on, one must go, at the same pace, with no relief and no consideration.</s> </p>
@@ -1031,9 +1031,9 @@
 
 <p pid="29" id="beauty.c29.p29"><s sid="99" id="beauty.c29.s99">This gentleman took a great liking to me, and after trying me several times with the saddle he prevailed upon my master to sell me to a friend of his, who wanted a safe, pleasant horse for riding.</s> <s sid="100" id="beauty.c29.s100">And so it came to pass that in the summer I was sold to Mr. Barry.</s> </p>
 
-</div>
-<div id="beauty.30" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="30">
-<title>PART II. CHAPTER 30. A Thief</title>
+<qs/></div>
+<div id="beauty.30" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="30">
+<qe/><title>PART II. CHAPTER 30. A Thief</title>
 <p pid="1" id="beauty.c30.p1"><s sid="1" id="beauty.c30.s1">My new master was an unmarried man.</s> <s sid="2" id="beauty.c30.s2">He lived at Bath, and was much engaged in business.</s> <s sid="3" id="beauty.c30.s3">His doctor advised him to take horse exercise, and for this purpose he bought me.</s> <s sid="4" id="beauty.c30.s4">He hired a stable a short distance from his lodgings, and engaged a man named Filcher as groom.</s> <s sid="5" id="beauty.c30.s5">My master knew very little about horses, but he treated me well, and I should have had a good and easy place but for circumstances of which he was ignorant.</s> <s sid="6" id="beauty.c30.s6">He ordered the best hay with plenty of oats, crushed beans, and bran, with vetches, or rye grass, as the man might think needful.</s> <s sid="7" id="beauty.c30.s7">I heard the master give the order, so I knew there was plenty of good food, and I thought I was well off.</s> </p>
 
 <p pid="2" id="beauty.c30.p2"><s sid="8" id="beauty.c30.s8">For a few days all went on well.</s> <s sid="9" id="beauty.c30.s9">I found that my groom understood his business.</s> <s sid="10" id="beauty.c30.s10">He kept the stable clean and airy, and he groomed me thoroughly; and was never otherwise than gentle.</s> <s sid="11" id="beauty.c30.s11">He had been an hostler in one of the great hotels in Bath.</s> <s sid="12" id="beauty.c30.s12">He had given that up, and now cultivated fruit and vegetables for the market, and his wife bred and fattened poultry and rabbits for sale.</s> <s sid="13" id="beauty.c30.s13">After awhile it seemed to me that my oats came very short; I had the beans, but bran was mixed with them instead of oats, of which there were very few; certainly not more than a quarter of what there should have been.</s> <s sid="14" id="beauty.c30.s14">In two or three weeks this began to tell upon my strength and spirits.</s> <s sid="15" id="beauty.c30.s15">The grass food, though very good, was not the thing to keep up my condition without corn.</s> <s sid="16" id="beauty.c30.s16">However, I could not complain, nor make known my wants.</s> <s sid="17" id="beauty.c30.s17">So it went on for about two months; and I wondered that my master did not see that something was the matter.</s> <s sid="18" id="beauty.c30.s18">However, one afternoon he rode out into the country to see a friend of his, a gentleman farmer, who lived on the road to Wells.</s> </p>
@@ -1062,9 +1062,9 @@
 
 <p pid="14" id="beauty.c30.p14"><s sid="42" id="beauty.c30.s42">Filcher was cleaning my feet at the time, but they soon saw him, and though he blustered a good deal they walked him off to the "lock-up", and his boy with him.</s> <s sid="43" id="beauty.c30.s43">I heard afterward that the boy was not held to be guilty, but the man was sentenced to prison for two months.</s> </p>
 
-</div>
-<div id="beauty.31" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="31">
-<title>PART II. CHAPTER 31. A Humbug</title>
+<qs/></div>
+<div id="beauty.31" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="31">
+<qe/><title>PART II. CHAPTER 31. A Humbug</title>
 <p pid="1" id="beauty.c31.p1"><s sid="1" id="beauty.c31.s1">My master was not immediately suited, but in a few days my new groom came.</s> <s sid="2" id="beauty.c31.s2">He was a tall, good-looking fellow enough; but if ever there was a humbug in the shape of a groom Alfred Smirk was the man.</s> <s sid="3" id="beauty.c31.s3">He was very civil to me, and never used me ill; in fact, he did a great deal of stroking and patting when his master was there to see it.</s> <s sid="4" id="beauty.c31.s4">He always brushed my mane and tail with water and my hoofs with oil before he brought me to the door, to make me look smart; but as to cleaning my feet or looking to my shoes, or grooming me thoroughly, he thought no more of that than if I had been a cow.</s> <s sid="5" id="beauty.c31.s5">He left my bit rusty, my saddle damp, and my crupper stiff.</s> </p>
 
 <p pid="2" id="beauty.c31.p2" type="speech"><s sid="6" id="beauty.c31.s6">Alfred Smirk considered himself very handsome; he spent a great deal of time about his hair, whiskers and necktie, before a little looking-glass in the harness-room.</s> <s sid="7" id="beauty.c31.s7">When his master was speaking to him it was always, <qs/>"Yes, sir; yes, sir"<qe/>--touching his hat at every word; and every one thought he was a very nice young man and that Mr. Barry was very fortunate to meet with him.</s> <s sid="8" id="beauty.c31.s8">I should say he was the laziest, most conceited fellow I ever came near.</s> <s sid="9" id="beauty.c31.s9">Of course, it was a great thing not to be ill-used, but then a horse wants more than that.</s> <s sid="10" id="beauty.c31.s10">I had a loose box, and might have been very comfortable if he had not been too indolent to clean it out.</s> <s sid="11" id="beauty.c31.s11">He never took all the straw away, and the smell from what lay underneath was very bad; while the strong vapors that rose made my eyes smart and inflame, and I did not feel the same appetite for my food.</s> </p>
@@ -1097,9 +1097,9 @@
 
 <p pid="16" id="beauty.c31.p16"><s sid="35" id="beauty.c31.s35">The farrier ordered all the litter to be taken out of my box day by day, and the floor kept very clean.</s> <s sid="36" id="beauty.c31.s36">Then I was to have bran mashes, a little green food, and not so much corn, till my feet were well again.</s> <s sid="37" id="beauty.c31.s37">With this treatment I soon regained my spirits; but Mr. Barry was so much disgusted at being twice deceived by his grooms that he determined to give up keeping a horse, and to hire when he wanted one.</s> <s sid="38" id="beauty.c31.s38">I was therefore kept till my feet were quite sound, and was then sold again.</s> </p>
 
-</div>
-<div id="beauty.32" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="32">
-<title>PART III. CHAPTER 32. A Horse Fair</title>
+<qs/></div>
+<div id="beauty.32" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="32">
+<qe/><title>PART III. CHAPTER 32. A Horse Fair</title>
 <p pid="1" id="beauty.c32.p1"><s sid="1" id="beauty.c32.s1">No doubt a horse fair is a very amusing place to those who have nothing to lose; at any rate, there is plenty to see.</s> </p>
 
 <p pid="2" id="beauty.c32.p2"><s sid="2" id="beauty.c32.s2">Long strings of young horses out of the country, fresh from the marshes; and droves of shaggy little Welsh ponies, no higher than Merrylegs; and hundreds of cart horses of all sorts, some of them with their long tails braided up and tied with scarlet cord; and a good many like myself, handsome and high-bred, but fallen into the middle class, through some accident or blemish, unsoundness of wind, or some other complaint.</s> <s sid="3" id="beauty.c32.s3">There were some splendid animals quite in their prime, and fit for anything; they were throwing out their legs and showing off their paces in high style, as they were trotted out with a leading rein, the groom running by the side.</s> <s sid="4" id="beauty.c32.s4">But round in the background there were a number of poor things, sadly broken down with hard work, with their knees knuckling over and their hind legs swinging out at every step, and there were some very dejected-looking old horses, with the under lip hanging down and the ears lying back heavily, as if there were no more pleasure in life, and no more hope; there were some so thin you might see all their ribs, and some with old sores on their backs and hips.</s> <s sid="5" id="beauty.c32.s5">These were sad sights for a horse to look upon, who knows not but he may come to the same state.</s> </p>
@@ -1146,9 +1146,9 @@
 
 <p pid="23" id="beauty.c32.p23" type="speech"><s sid="54" id="beauty.c32.s54"><qs/>"Sausage dumpling and apple turnover!"<qe/> shouted the boy, which set them all laughing.</s> <s sid="55" id="beauty.c32.s55">I was led into a comfortable, clean-smelling stall, with plenty of dry straw, and after a capital supper I lay down, thinking I was going to be happy.</s> </p>
 
-</div>
-<div id="beauty.33" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="33">
-<title>PART III. CHAPTER 33. A London Cab Horse</title>
+<qs/></div>
+<div id="beauty.33" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="33">
+<qe/><title>PART III. CHAPTER 33. A London Cab Horse</title>
 <p pid="1" id="beauty.c33.p1"><s sid="1" id="beauty.c33.s1">Jeremiah Barker was my new master's name, but as every one called him Jerry, I shall do the same.</s> <s sid="2" id="beauty.c33.s2">Polly, his wife, was just as good a match as a man could have.</s> <s sid="3" id="beauty.c33.s3">She was a plump, trim, tidy little woman, with smooth, dark hair, dark eyes, and a merry little mouth.</s> <s sid="4" id="beauty.c33.s4">The boy was twelve years old, a tall, frank, good-tempered lad; and little Dorothy (Dolly they called her) was her mother over again, at eight years old.</s> <s sid="5" id="beauty.c33.s5">They were all wonderfully fond of each other; I never knew such a happy, merry family before or since.</s> <s sid="6" id="beauty.c33.s6">Jerry had a cab of his own, and two horses, which he drove and attended to himself.</s> <s sid="7" id="beauty.c33.s7">His other horse was a tall, white, rather large-boned animal called "Captain".</s> <s sid="8" id="beauty.c33.s8">He was old now, but when he was young he must have been splendid; he had still a proud way of holding his head and arching his neck; in fact, he was a high-bred, fine-mannered, noble old horse, every inch of him.</s> <s sid="9" id="beauty.c33.s9">He told me that in his early youth he went to the Crimean War; he belonged to an officer in the cavalry, and used to lead the regiment.</s> <s sid="10" id="beauty.c33.s10">I will tell more of that hereafter.</s> </p>
 
 <p pid="2" id="beauty.c33.p2"><s sid="11" id="beauty.c33.s11">The next morning, when I was well-groomed, Polly and Dolly came into the yard to see me and make friends.</s> <s sid="12" id="beauty.c33.s12">Harry had been helping his father since the early morning, and had stated his opinion that I should turn out a "regular brick".</s> <s sid="13" id="beauty.c33.s13">Polly brought me a slice of apple, and Dolly a piece of bread, and made as much of me as if I had been the "Black Beauty" of olden time.</s> <s sid="14" id="beauty.c33.s14">It was a great treat to be petted again and talked to in a gentle voice, and I let them see as well as I could that I wished to be friendly.</s> <s sid="15" id="beauty.c33.s15">Polly thought I was very handsome, and a great deal too good for a cab, if it was not for the broken knees.</s> </p>
@@ -1179,9 +1179,9 @@
 
 <p pid="15" id="beauty.c33.p15"><s sid="48" id="beauty.c33.s48">Jerry kept us very clean, and gave us as much change of food as he could, and always plenty of it; and not only that, but he always gave us plenty of clean fresh water, which he allowed to stand by us both night and day, except of course when we came in warm.</s> <s sid="49" id="beauty.c33.s49">Some people say that a horse ought not to drink all he likes; but I know if we are allowed to drink when we want it we drink only a little at a time, and it does us a great deal more good than swallowing down half a bucketful at a time, because we have been left without till we are thirsty and miserable.</s> <s sid="50" id="beauty.c33.s50">Some grooms will go home to their beer and leave us for hours with our dry hay and oats and nothing to moisten them; then of course we gulp down too much at once, which helps to spoil our breathing and sometimes chills our stomachs.</s> <s sid="51" id="beauty.c33.s51">But the best thing we had here was our Sundays for rest; we worked so hard in the week that I do not think we could have kept up to it but for that day; besides, we had then time to enjoy each other's company.</s> <s sid="52" id="beauty.c33.s52">It was on these days that I learned my companion's history.</s> </p>
 
-</div>
-<div id="beauty.34" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="34">
-<title>PART III. CHAPTER 34. An Old War Horse</title>
+<qs/></div>
+<div id="beauty.34" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="34">
+<qe/><title>PART III. CHAPTER 34. An Old War Horse</title>
 <p pid="1" id="beauty.c34.p1"><s sid="1" id="beauty.c34.s1">Captain had been broken in and trained for an army horse; his first owner was an officer of cavalry going out to the Crimean war.</s> <s sid="2" id="beauty.c34.s2">He said he quite enjoyed the training with all the other horses, trotting together, turning together, to the right hand or the left, halting at the word of command, or dashing forward at full speed at the sound of the trumpet or signal of the officer.</s> <s sid="3" id="beauty.c34.s3">He was, when young, a dark, dappled iron-gray, and considered very handsome.</s> <s sid="4" id="beauty.c34.s4">His master, a young, high-spirited gentleman, was very fond of him, and treated him from the first with the greatest care and kindness.</s> <s sid="5" id="beauty.c34.s5">He told me he thought the life of an army horse was very pleasant; but when it came to being sent abroad over the sea in a great ship, he almost changed his mind.</s> </p>
 
 <p pid="2" id="beauty.c34.p2" type="speech"><s sid="6" id="beauty.c34.s6"><qs/>"That part of it,"<qe/> said he, "was dreadful!</s> <s sid="7" id="beauty.c34.s7">Of course we could not walk off the land into the ship; so they were obliged to put strong straps under our bodies, and then we were lifted off our legs in spite of our struggles, and were swung through the air over the water, to the deck of the great vessel.</s> <s sid="8" id="beauty.c34.s8">There we were placed in small close stalls, and never for a long time saw the sky, or were able to stretch our legs.</s> <s sid="9" id="beauty.c34.s9">The ship sometimes rolled about in high winds, and we were knocked about, and felt bad enough.</s> </p>
@@ -1214,9 +1214,9 @@
 
 <p pid="22" id="beauty.c34.p22" type="speech"><s sid="53" id="beauty.c34.s53"><qs/>"No,"<qe/><sss/> he said, <sse/><qs/>"that is more than a horse can understand, but the enemy must have been awfully wicked people, if it was right to go all that way over the sea on purpose to kill them."<qe/></s> </p>
 
-</div>
-<div id="beauty.35" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="35">
-<title>PART III. CHAPTER 35. Jerry Barker</title>
+<qs/></div>
+<div id="beauty.35" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="35">
+<qe/><title>PART III. CHAPTER 35. Jerry Barker</title>
 <p pid="1" id="beauty.c35.p1"><s sid="1" id="beauty.c35.s1">I never knew a better man than my new master.</s> <s sid="2" id="beauty.c35.s2">He was kind and good, and as strong for the right as John Manly; and so good-tempered and merry that very few people could pick a quarrel with him.</s> <s sid="3" id="beauty.c35.s3">He was very fond of making little songs, and singing them to himself.</s> <s sid="4" id="beauty.c35.s4">One he was very fond of was this:</s> </p>
 
 <p pid="2" id="beauty.c35.p2" type="speech"><s sid="5" id="beauty.c35.s5"><qs/>"Come, father and mother, And sister and brother, Come, all of you, turn to And help one another."<qe/></s> </p>
@@ -1295,9 +1295,9 @@
 
 <p pid="39" id="beauty.c35.p39"><s sid="73" id="beauty.c35.s73">Governor Gray turned round again to his newspaper, and the other men went to their cabs.</s> </p>
 
-</div>
-<div id="beauty.36" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="36">
-<title>PART III. CHAPTER 36. The Sunday Cab</title>
+<qs/></div>
+<div id="beauty.36" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="36">
+<qe/><title>PART III. CHAPTER 36. The Sunday Cab</title>
 <p pid="1" id="beauty.c36.p1" type="speech"><s sid="1" id="beauty.c36.s1">One morning, as Jerry had just put me into the shafts and was fastening the traces, a gentleman walked into the yard.</s> <s sid="2" id="beauty.c36.s2"><qs/>"Your servant, sir,"<qe/> said Jerry.</s> </p>
 
 <p pid="2" id="beauty.c36.p2" type="speech"><s sid="3" id="beauty.c36.s3"><qs/>"Good-morning, Mr. Barker,"<qe/> said the gentleman.</s> <s sid="4" id="beauty.c36.s4"><qs/>"I should be glad to make some arrangements with you for taking Mrs. Briggs regularly to church on Sunday mornings.</s> <s sid="5" id="beauty.c36.s5">We go to the New Church now, and that is rather further than she can walk."<qe/></s> </p>
@@ -1352,9 +1352,9 @@
 
 <p pid="27" id="beauty.c36.p27" type="speech"><s sid="58" id="beauty.c36.s58"><qs/>"'Tis not for me to lay down plans for other people,"<qe/><sss/> said Jerry, <sse/><qs/>"but if they can't walk so far they can go to what is nearer; and if it should rain they can put on their mackintoshes as they do on a week-day.</s> <s sid="59" id="beauty.c36.s59">If a thing is right it can be done, and if it is wrong it can be done without; and a good man will find a way.</s> <s sid="60" id="beauty.c36.s60">And that is as true for us cabmen as it is for the church-goers."<qe/></s> </p>
 
-</div>
-<div id="beauty.37" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="37">
-<title>PART III. CHAPTER 37. The Golden Rule</title>
+<qs/></div>
+<div id="beauty.37" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="37">
+<qe/><title>PART III. CHAPTER 37. The Golden Rule</title>
 <p pid="1" id="beauty.c37.p1"><s sid="1" id="beauty.c37.s1">Two or three weeks after this, as we came into the yard rather late in the evening, Polly came running across the road with the lantern (she always brought it to him if it was not very wet).</s> </p>
 
 <p pid="2" id="beauty.c37.p2" type="speech"><s sid="2" id="beauty.c37.s2"><qs/>"It has all come right, Jerry; Mrs. Briggs sent her servant this afternoon to ask you to take her out to-morrow at eleven o'clock.</s> <s sid="3" id="beauty.c37.s3">I said, 'Yes, I thought so, but we supposed she employed some one else now.'"<qe/></s> </p>
@@ -1403,9 +1403,9 @@
 
 <p pid="24" id="beauty.c37.p24"><s sid="31" id="beauty.c37.s31">When he handed Dolly the flowers she jumped about for joy.</s> </p>
 
-</div>
-<div id="beauty.38" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="38">
-<title>PART III. CHAPTER 38. Dolly and a Real Gentleman</title>
+<qs/></div>
+<div id="beauty.38" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="38">
+<qe/><title>PART III. CHAPTER 38. Dolly and a Real Gentleman</title>
 <p pid="1" id="beauty.c38.p1"><s sid="1" id="beauty.c38.s1">Winter came in early, with a great deal of cold and wet.</s> <s sid="2" id="beauty.c38.s2">There was snow, or sleet, or rain almost every day for weeks, changing only for keen driving winds or sharp frosts.</s> <s sid="3" id="beauty.c38.s3">The horses all felt it very much.</s> <s sid="4" id="beauty.c38.s4">When it is a dry cold a couple of good thick rugs will keep the warmth in us; but when it is soaking rain they soon get wet through and are no good.</s> <s sid="5" id="beauty.c38.s5">Some of the drivers had a waterproof cover to throw over, which was a fine thing; but some of the men were so poor that they could not protect either themselves or their horses, and many of them suffered very much that winter.</s> <s sid="6" id="beauty.c38.s6">When we horses had worked half the day we went to our dry stables, and could rest, while they had to sit on their boxes, sometimes staying out as late as one or two o'clock in the morning if they had a party to wait for.</s> </p>
 
 <p pid="2" id="beauty.c38.p2"><s sid="7" id="beauty.c38.s7">When the streets were slippery with frost or snow that was the worst of all for us horses.</s> <s sid="8" id="beauty.c38.s8">One mile of such traveling, with a weight to draw and no firm footing, would take more out of us than four on a good road; every nerve and muscle of our bodies is on the strain to keep our balance; and, added to this, the fear of falling is more exhausting than anything else.</s> <s sid="9" id="beauty.c38.s9">If the roads are very bad indeed our shoes are roughed, but that makes us feel nervous at first.</s> </p>
@@ -1440,9 +1440,9 @@
 
 <p pid="17" id="beauty.c38.p17" type="speech"><s sid="48" id="beauty.c38.s48">After this we continued our journey, and as they got out of the cab our friend was saying, <qs/>"My doctrine is this, that if we see cruelty or wrong that we have the power to stop, and do nothing, we make ourselves sharers in the guilt."<qe/></s> </p>
 
-</div>
-<div id="beauty.39" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="39">
-<title>PART III. CHAPTER 39. Seedy Sam</title>
+<qs/></div>
+<div id="beauty.39" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="39">
+<qe/><title>PART III. CHAPTER 39. Seedy Sam</title>
 <p pid="1" id="beauty.c39.p1"><s sid="1" id="beauty.c39.s1">I should say that for a cab-horse I was very well off indeed; my driver was my owner, and it was his interest to treat me well and not overwork me, even had he not been so good a man as he was; but there were a great many horses which belonged to the large cab-owners, who let them out to their drivers for so much money a day.</s> <s sid="2" id="beauty.c39.s2">As the horses did not belong to these men the only thing they thought of was how to get their money out of them, first, to pay the master, and then to provide for their own living; and a dreadful time some of these horses had of it.</s> <s sid="3" id="beauty.c39.s3">Of course, I understood but little, but it was often talked over on the stand, and the governor, who was a kind-hearted man and fond of horses, would sometimes speak up if one came in very much jaded or ill-used.</s> </p>
 
 <p pid="2" id="beauty.c39.p2"><s sid="4" id="beauty.c39.s4">One day a shabby, miserable-looking driver, who went by the name of "Seedy Sam", brought in his horse looking dreadfully beat, and the governor said:</s> </p>
@@ -1481,9 +1481,9 @@
 
 <p pid="19" id="beauty.c39.p19" type="speech"><s sid="46" id="beauty.c39.s46">No one spoke for a while, and then the governor said, <qs/>"I'll tell you what, mates, this is a warning for us."<qe/></s> </p>
 
-</div>
-<div id="beauty.40" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="40">
-<title>PART III. CHAPTER 40. Poor Ginger</title>
+<qs/></div>
+<div id="beauty.40" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="40">
+<qe/><title>PART III. CHAPTER 40. Poor Ginger</title>
 <p pid="1" id="beauty.c40.p1" type="speech"><s sid="1" id="beauty.c40.s1">One day, while our cab and many others were waiting outside one of the parks where music was playing, a shabby old cab drove up beside ours.</s> <s sid="2" id="beauty.c40.s2">The horse was an old worn-out chestnut, with an ill-kept coat, and bones that showed plainly through it, the knees knuckled over, and the fore-legs were very unsteady.</s> <s sid="3" id="beauty.c40.s3">I had been eating some hay, and the wind rolled a little lock of it that way, and the poor creature put out her long thin neck and picked it up, and then turned and looked about for more.</s> <s sid="4" id="beauty.c40.s4">There was a hopeless look in the dull eye that I could not help noticing, and then, as I was thinking where I had seen that horse before, she looked full at me and said, <qs/>"Black Beauty, is that you?"<qe/></s> </p>
 
 <p pid="2" id="beauty.c40.p2"><s sid="5" id="beauty.c40.s5">It was Ginger! but how changed!</s> <s sid="6" id="beauty.c40.s6">The beautifully arched and glossy neck was now straight, and lank, and fallen in; the clean straight legs and delicate fetlocks were swelled; the joints were grown out of shape with hard work; the face, that was once so full of spirit and life, was now full of suffering, and I could tell by the heaving of her sides, and her frequent cough, how bad her breath was.</s> </p>
@@ -1504,9 +1504,9 @@
 
 <p pid="10" id="beauty.c40.p10"><s sid="23" id="beauty.c40.s23">A short time after this a cart with a dead horse in it passed our cab-stand.</s> <s sid="24" id="beauty.c40.s24">The head hung out of the cart-tail, the lifeless tongue was slowly dropping with blood; and the sunken eyes! but I can't speak of them, the sight was too dreadful.</s> <s sid="25" id="beauty.c40.s25">It was a chestnut horse with a long, thin neck.</s> <s sid="26" id="beauty.c40.s26">I saw a white streak down the forehead.</s> <s sid="27" id="beauty.c40.s27">I believe it was Ginger; I hoped it was, for then her troubles would be over.</s> <s sid="28" id="beauty.c40.s28">Oh! if men were more merciful they would shoot us before we came to such misery.</s> </p>
 
-</div>
-<div id="beauty.41" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="41">
-<title>PART III. CHAPTER 41. The Butcher</title>
+<qs/></div>
+<div id="beauty.41" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="41">
+<qe/><title>PART III. CHAPTER 41. The Butcher</title>
 <p pid="1" id="beauty.c41.p1"><s sid="1" id="beauty.c41.s1">I saw a great deal of trouble among the horses in London, and much of it might have been prevented by a little common sense.</s> <s sid="2" id="beauty.c41.s2">We horses do not mind hard work if we are treated reasonably, and I am sure there are many driven by quite poor men who have a happier life than I had when I used to go in the Countess of W----'s carriage, with my silver-mounted harness and high feeding.</s> </p>
 
 <p pid="2" id="beauty.c41.p2"><s sid="3" id="beauty.c41.s3">It often went to my heart to see how the little ponies were used, straining along with heavy loads or staggering under heavy blows from some low, cruel boy.</s> <s sid="4" id="beauty.c41.s4">Once I saw a little gray pony with a thick mane and a pretty head, and so much like Merrylegs that if I had not been in harness I should have neighed to him.</s> <s sid="5" id="beauty.c41.s5">He was doing his best to pull a heavy cart, while a strong rough boy was cutting him under the belly with his whip and chucking cruelly at his little mouth.</s> <s sid="6" id="beauty.c41.s6">Could it be Merrylegs?</s> <s sid="7" id="beauty.c41.s7">It was just like him; but then Mr. Blomefield was never to sell him, and I think he would not do it; but this might have been quite as good a little fellow, and had as happy a place when he was young.</s> </p>
@@ -1527,9 +1527,9 @@
 
 <p pid="10" id="beauty.c41.p10"><s sid="30" id="beauty.c41.s30">There was an old man, too, who used to come up our street with a little coal cart; he wore a coal-heaver's hat, and looked rough and black.</s> <s sid="31" id="beauty.c41.s31">He and his old horse used to plod together along the street, like two good partners who understood each other; the horse would stop of his own accord at the doors where they took coal of him; he used to keep one ear bent toward his master.</s> <s sid="32" id="beauty.c41.s32">The old man's cry could be heard up the street long before he came near.</s> <s sid="33" id="beauty.c41.s33">I never knew what he said, but the children called him "Old Ba-a-ar Hoo", for it sounded like that.</s> <s sid="34" id="beauty.c41.s34">Polly took her coal of him, and was very friendly, and Jerry said it was a comfort to think how happy an old horse might be in a poor place.</s> </p>
 
-</div>
-<div id="beauty.42" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="42">
-<title>PART III. CHAPTER 42. The Election</title>
+<qs/></div>
+<div id="beauty.42" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="42">
+<qe/><title>PART III. CHAPTER 42. The Election</title>
 <p pid="1" id="beauty.c42.p1" type="speech"><s sid="1" id="beauty.c42.s1">As we came into the yard one afternoon Polly came out.</s> <s sid="2" id="beauty.c42.s2"><qs/>"Jerry!</s> <s sid="3" id="beauty.c42.s3">I've had Mr. B---- here asking about your vote, and he wants to hire your cab for the election; he will call for an answer."<qe/></s> </p>
 
 <p pid="2" id="beauty.c42.p2" type="speech"><s sid="4" id="beauty.c42.s4"><qs/>"Well, Polly, you may say that my cab will be otherwise engaged.</s> <s sid="5" id="beauty.c42.s5">I should not like to have it pasted over with their great bills, and as to making Jack and Captain race about to the public-houses to bring up half-drunken voters, why, I think 'twould be an insult to the horses.</s> <s sid="6" id="beauty.c42.s6">No, I shan't do it."<qe/></s> </p>
@@ -1564,9 +1564,9 @@
 
 <p pid="17" id="beauty.c42.p17" type="speech"><s sid="26" id="beauty.c42.s26"><qs/>"No, Harry, I am serious, and I am ashamed to see how men go on who ought to know better.</s> <s sid="27" id="beauty.c42.s27">An election is a very serious thing; at least it ought to be, and every man ought to vote according to his conscience, and let his neighbor do the same."<qe/></s> </p>
 
-</div>
-<div id="beauty.43" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="43">
-<title>PART III. CHAPTER 43. A Friend in Need</title>
+<qs/></div>
+<div id="beauty.43" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="43">
+<qe/><title>PART III. CHAPTER 43. A Friend in Need</title>
 <p pid="1" id="beauty.c43.p1" type="speech"><s sid="1" id="beauty.c43.s1">The election day came at last; there was no lack of work for Jerry and me.</s> <s sid="2" id="beauty.c43.s2">First came a stout puffy gentleman with a carpet bag; he wanted to go to the Bishopsgate station; then we were called by a party who wished to be taken to the Regent's Park; and next we were wanted in a side street where a timid, anxious old lady was waiting to be taken to the bank; there we had to stop to take her back again, and just as we had set her down a red-faced gentleman, with a handful of papers, came running up out of breath, and before Jerry could get down he had opened the door, popped himself in, and called out, <qs/>"Bow Street Police Station, quick!"<qe/> so off we went with him, and when after another turn or two we came back, there was no other cab on the stand.</s> <s sid="3" id="beauty.c43.s3">Jerry put on my nose-bag, for as he said, <qs/>"We must eat when we can on such days as these; so munch away, Jack, and make the best of your time, old boy."<qe/></s> </p>
 
 <p pid="2" id="beauty.c43.p2"><s sid="4" id="beauty.c43.s4">I found I had a good feed of crushed oats wetted up with a little bran; this would be a treat any day, but very refreshing then.</s> <s sid="5" id="beauty.c43.s5">Jerry was so thoughtful and kind--what horse would not do his best for such a master?</s> <s sid="6" id="beauty.c43.s6">Then he took out one of Polly's meat pies, and standing near me, he began to eat it.</s> <s sid="7" id="beauty.c43.s7">The streets were very full, and the cabs, with the candidates' colors on them, were dashing about through the crowd as if life and limb were of no consequence; we saw two people knocked down that day, and one was a woman.</s> <s sid="8" id="beauty.c43.s8">The horses were having a bad time of it, poor things! but the voters inside thought nothing of that; many of them were half-drunk, hurrahing out of the cab windows if their own party came by.</s> <s sid="9" id="beauty.c43.s9">It was the first election I had seen, and I don't want to be in another, though I have heard things are better now.</s> </p>
@@ -1623,9 +1623,9 @@
 
 <p pid="28" id="beauty.c43.p28"><s sid="62" id="beauty.c43.s62">Jerry thanked her and seemed much pleased, and turning out of the station we at last reached home, and I, at least, was tired.</s> </p>
 
-</div>
-<div id="beauty.44" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="44">
-<title>PART III. CHAPTER 44. Old Captain and His Successor</title>
+<qs/></div>
+<div id="beauty.44" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="44">
+<qe/><title>PART III. CHAPTER 44. Old Captain and His Successor</title>
 <p pid="1" id="beauty.c44.p1"><s sid="1" id="beauty.c44.s1">Captain and I were great friends.</s> <s sid="2" id="beauty.c44.s2">He was a noble old fellow, and he was very good company.</s> <s sid="3" id="beauty.c44.s3">I never thought that he would have to leave his home and go down the hill; but his turn came, and this was how it happened.</s> <s sid="4" id="beauty.c44.s4">I was not there, but I heard all about it.</s> </p>
 
 <p pid="2" id="beauty.c44.p2"><s sid="5" id="beauty.c44.s5">He and Jerry had taken a party to the great railway station over London Bridge, and were coming back, somewhere between the bridge and the monument, when Jerry saw a brewer's empty dray coming along, drawn by two powerful horses.</s> <s sid="6" id="beauty.c44.s6">The drayman was lashing his horses with his heavy whip; the dray was light, and they started off at a furious rate; the man had no control over them, and the street was full of traffic.</s> </p>
@@ -1664,9 +1664,9 @@
 
 <p pid="19" id="beauty.c44.p19"><s sid="53" id="beauty.c44.s53">Hotspur thought it a great come-down to be a cab-horse, and was disgusted at standing in the rank, but he confessed to me at the end of the week that an easy mouth and a free head made up for a great deal, and after all, the work was not so degrading as having one's head and tail fastened to each other at the saddle.</s> <s sid="54" id="beauty.c44.s54">In fact, he settled in well, and Jerry liked him very much.</s> </p>
 
-</div>
-<div id="beauty.45" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="45">
-<title>PART III. CHAPTER 45. Jerry's New Year</title>
+<qs/></div>
+<div id="beauty.45" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="45">
+<qe/><title>PART III. CHAPTER 45. Jerry's New Year</title>
 <p pid="1" id="beauty.c45.p1"><s sid="1" id="beauty.c45.s1">For some people Christmas and the New Year are very merry times; but for cabmen and cabmen's horses it is no holiday, though it may be a harvest.</s> <s sid="2" id="beauty.c45.s2">There are so many parties, balls, and places of amusement open that the work is hard and often late.</s> <s sid="3" id="beauty.c45.s3">Sometimes driver and horse have to wait for hours in the rain or frost, shivering with the cold, while the merry people within are dancing away to the music.</s> <s sid="4" id="beauty.c45.s4">I wonder if the beautiful ladies ever think of the weary cabman waiting on his box, and his patient beast standing, till his legs get stiff with cold.</s> </p>
 
 <p pid="2" id="beauty.c45.p2"><s sid="5" id="beauty.c45.s5">I had now most of the evening work, as I was well accustomed to standing, and Jerry was also more afraid of Hotspur taking cold.</s> <s sid="6" id="beauty.c45.s6">We had a great deal of late work in the Christmas week, and Jerry's cough was bad; but however late we were, Polly sat up for him, and came out with a lantern to meet him, looking anxious and troubled.</s> </p>
@@ -1755,9 +1755,9 @@
 
 <p pid="44" id="beauty.c45.p44" type="speech"><s sid="81" id="beauty.c45.s81">The day came for going away.</s> <s sid="82" id="beauty.c45.s82">Jerry had not been allowed to go out yet, and I never saw him after that New Year's eve.</s> <s sid="83" id="beauty.c45.s83">Polly and the children came to bid me good-by.</s> <s sid="84" id="beauty.c45.s84"><qs/>"Poor old Jack! dear old Jack!</s> <s sid="85" id="beauty.c45.s85">I wish we could take you with us,"<qe/> she said, and then laying her hand on my mane she put her face close to my neck and kissed me.</s> <s sid="86" id="beauty.c45.s86">Dolly was crying and kissed me too.</s> <s sid="87" id="beauty.c45.s87">Harry stroked me a great deal, but said nothing, only he seemed very sad, and so I was led away to my new place.</s> </p>
 
-</div>
-<div id="beauty.46" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="46">
-<title>PART IV. CHAPTER 46. Jakes and the Lady</title>
+<qs/></div>
+<div id="beauty.46" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="46">
+<qe/><title>PART IV. CHAPTER 46. Jakes and the Lady</title>
 <p pid="1" id="beauty.c46.p1" type="speech"><s sid="1" id="beauty.c46.s1">I was sold to a corn dealer and baker, whom Jerry knew, and with him he thought I should have good food and fair work.</s> <s sid="2" id="beauty.c46.s2">In the first he was quite right, and if my master had always been on the premises I do not think I should have been overloaded, but there was a foreman who was always hurrying and driving every one, and frequently when I had quite a full load he would order something else to be taken on.</s> <s sid="3" id="beauty.c46.s3">My carter, whose name was Jakes, often said it was more than I ought to take, but the other always overruled him.</s> <s sid="4" id="beauty.c46.s4"><qs/>"'Twas no use going twice when once would do, and he chose to get business forward."<qe/></s> </p>
 
 <p pid="2" id="beauty.c46.p2"><s sid="5" id="beauty.c46.s5">Jakes, like the other carters, always had the check-rein up, which prevented me from drawing easily, and by the time I had been there three or four months I found the work telling very much on my strength.</s> </p>
@@ -1806,9 +1806,9 @@
 
 <p pid="24" id="beauty.c46.p24"><s sid="47" id="beauty.c46.s47">I believe, had I stayed there very long, I should have become purblind, and that would have been a great misfortune, for I have heard men say that a stone-blind horse was safer to drive than one which had imperfect sight, as it generally makes them very timid.</s> <s sid="48" id="beauty.c46.s48">However, I escaped without any permanent injury to my sight, and was sold to a large cab owner.</s> </p>
 
-</div>
-<div id="beauty.47" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="47">
-<title>PART IV. CHAPTER 47. Hard Times</title>
+<qs/></div>
+<div id="beauty.47" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="47">
+<qe/><title>PART IV. CHAPTER 47. Hard Times</title>
 <p pid="1" id="beauty.c47.p1"><s sid="1" id="beauty.c47.s1">My new master I shall never forget; he had black eyes and a hooked nose, his mouth was as full of teeth as a bull-dog's, and his voice was as harsh as the grinding of cart wheels over graveled stones.</s> <s sid="2" id="beauty.c47.s2">His name was Nicholas Skinner, and I believe he was the man that poor Seedy Sam drove for.</s> </p>
 
 <p pid="2" id="beauty.c47.p2"><s sid="3" id="beauty.c47.s3">I have heard men say that seeing is believing; but I should say that feeling is believing; for much as I had seen before, I never knew till now the utter misery of a cab-horse's life.</s> </p>
@@ -1851,9 +1851,9 @@
 
 <p pid="21" id="beauty.c47.p21"><s sid="48" id="beauty.c47.s48">Upon this advice Skinner, rather unwillingly, I think, gave orders that I should be well fed and cared for, and the stable man, happily for me, carried out the orders with a much better will than his master had in giving them.</s> <s sid="49" id="beauty.c47.s49">Ten days of perfect rest, plenty of good oats, hay, bran mashes, with boiled linseed mixed in them, did more to get up my condition than anything else could have done; those linseed mashes were delicious, and I began to think, after all, it might be better to live than go to the dogs.</s> <s sid="50" id="beauty.c47.s50">When the twelfth day after the accident came, I was taken to the sale, a few miles out of London.</s> <s sid="51" id="beauty.c47.s51">I felt that any change from my present place must be an improvement, so I held up my head, and hoped for the best.</s> </p>
 
-</div>
-<div id="beauty.48" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="48">
-<title>PART IV. CHAPTER 48. Farmer Thoroughgood and His Grandson Willie</title>
+<qs/></div>
+<div id="beauty.48" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="48">
+<qe/><title>PART IV. CHAPTER 48. Farmer Thoroughgood and His Grandson Willie</title>
 <p pid="1" id="beauty.c48.p1"><s sid="1" id="beauty.c48.s1">At this sale, of course I found myself in company with the old broken-down horses--some lame, some broken-winded, some old, and some that I am sure it would have been merciful to shoot.</s> </p>
 
 <p pid="2" id="beauty.c48.p2"><s sid="2" id="beauty.c48.s2">The buyers and sellers, too, many of them, looked not much better off than the poor beasts they were bargaining about.</s> <s sid="3" id="beauty.c48.s3">There were poor old men, trying to get a horse or a pony for a few pounds, that might drag about some little wood or coal cart.</s> <s sid="4" id="beauty.c48.s4">There were poor men trying to sell a worn-out beast for two or three pounds, rather than have the greater loss of killing him.</s> <s sid="5" id="beauty.c48.s5">Some of them looked as if poverty and hard times had hardened them all over; but there were others that I would have willingly used the last of my strength in serving; poor and shabby, but kind and human, with voices that I could trust.</s> <s sid="6" id="beauty.c48.s6">There was one tottering old man who took a great fancy to me, and I to him, but I was not strong enough--it was an anxious time!</s> <s sid="7" id="beauty.c48.s7">Coming from the better part of the fair, I noticed a man who looked like a gentleman farmer, with a young boy by his side; he had a broad back and round shoulders, a kind, ruddy face, and he wore a broad-brimmed hat.</s> <s sid="8" id="beauty.c48.s8">When he came up to me and my companions he stood still and gave a pitiful look round upon us.</s> <s sid="9" id="beauty.c48.s9">I saw his eye rest on me; I had still a good mane and tail, which did something for my appearance.</s> <s sid="10" id="beauty.c48.s10">I pricked my ears and looked at him.</s> </p>
@@ -1912,9 +1912,9 @@
 
 <p pid="29" id="beauty.c48.p29" type="speech"><s sid="60" id="beauty.c48.s60"><qs/>"So am I, my boy; but he has to thank you more than me; we must now be looking out for a quiet, genteel place for him, where he will be valued."<qe/></s> </p>
 
-</div>
-<div id="beauty.49" subcorpus="ChiLit" booktitle="Black Beauty" book="beauty" type="chapter" num="49">
-<title>PART IV. CHAPTER 49. My Last Home</title>
+<qs/></div>
+<div id="beauty.49" subcorpus="ChiLit" booktitle="Black Beauty" bookauthor="Anna Sewell" book="beauty" type="chapter" num="49">
+<qe/><title>PART IV. CHAPTER 49. My Last Home</title>
 <p pid="1" id="beauty.c49.p1"><s sid="1" id="beauty.c49.s1">One day during this summer the groom cleaned and dressed me with such extraordinary care that I thought some new change must be at hand; he trimmed my fetlocks and legs, passed the tarbrush over my hoofs, and even parted my forelock.</s> <s sid="2" id="beauty.c49.s2">I think the harness had an extra polish.</s> <s sid="3" id="beauty.c49.s3">Willie seemed half-anxious, half-merry, as he got into the chaise with his grandfather.</s> </p>
 
 <p pid="2" id="beauty.c49.p2" type="speech"><s sid="4" id="beauty.c49.s4"><qs/>"If the ladies take to him,"<qe/><sss/> said the old gentleman, <sse/><qs/>"they'll be suited and he'll be suited.</s> <s sid="5" id="beauty.c49.s5">We can but try."<qe/></s> </p>
@@ -1959,7 +1959,7 @@
 
 <p pid="22" id="beauty.c49.p22"><s sid="56" id="beauty.c49.s56">Willie always speaks to me when he can, and treats me as his special friend.</s> <s sid="57" id="beauty.c49.s57">My ladies have promised that I shall never be sold, and so I have nothing to fear; and here my story ends.</s> <s sid="58" id="beauty.c49.s58">My troubles are all over, and I am at home; and often before I am quite awake, I fancy I am still in the orchard at Birtwick, standing with my old friends under the apple-trees.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

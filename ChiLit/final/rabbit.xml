@@ -4,8 +4,8 @@
 
 <title>The Tale of Peter Rabbit</title>
 <author>Beatrix Potter</author>
-<div id="rabbit.1" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" book="rabbit" type="chapter" num="1">
-<title>BOOK 1.</title>
+<div id="rabbit.1" subcorpus="ChiLit" booktitle="The Tale of Peter Rabbit" bookauthor="Beatrix Potter" book="rabbit" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="rabbit.c1.p1"><s sid="1" id="rabbit.c1.s1">Once upon a time there were four little Rabbits, and their names were--</s> </p>
 
 <p pid="2" id="rabbit.c1.p2"><s sid="2" id="rabbit.c1.s2">Flopsy, Mopsy, Cotton-tail, and Peter.</s> </p>
@@ -80,7 +80,7 @@
 
 <p pid="37" id="rabbit.c1.p37"><s sid="59" id="rabbit.c1.s59">THE END</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

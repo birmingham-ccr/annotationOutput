@@ -4,8 +4,8 @@
 
 <title>Stalky &amp; Co.</title>
 <author>Rudyard Kipling</author>
-<div id="stalky.0" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="0">
-<title/>
+<div id="stalky.0" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="stalky.c0.p1" type="speech"><s sid="1" id="stalky.c0.s1"><qs/>"Let us now praise famous men"<qe/>-- Men of little showing-- For their work continueth, And their work continueth, Greater than their knowing.</s> </p>
 
 <p pid="2" id="stalky.c0.p2"><s sid="2" id="stalky.c0.s2">Western wind and open surge Tore us from our mothers; Flung us on a naked shore (Twelve bleak houses by the shore!</s> <s sid="3" id="stalky.c0.s3">Seven summers by the shore!)</s> <s sid="4" id="stalky.c0.s4">'Mid two hundred brothers.</s> </p>
@@ -32,9 +32,9 @@
 
 <p pid="13" id="stalky.c0.p13"><s sid="19" id="stalky.c0.s19">Bless and praise we famous men Men of little showing!</s> <s sid="20" id="stalky.c0.s20">For their work continueth And their work continueth Broad and deep continueth Great beyond their knowing!</s> </p>
 
-</div>
-<div id="stalky.1" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="1">
-<title>CHAPTER 1. "IN AMBUSH."</title>
+<qs/></div>
+<div id="stalky.1" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="1">
+<qe/><title>CHAPTER 1. "IN AMBUSH."</title>
 <p pid="1" id="stalky.c1.p1"><s sid="1" id="stalky.c1.s1">In summer all right-minded boys built huts in the furze-hill behind the College--little lairs whittled out of the heart of the prickly bushes, full of stumps, odd root-ends, and spikes, but, since they were strictly forbidden, palaces of delight.</s> <s sid="2" id="stalky.c1.s2">And for the fifth summer in succession, Stalky, McTurk, and Beetle (this was before they reached the dignity of a study) had built like beavers a place of retreat and meditation, where they smoked.</s> </p>
 
 <p pid="2" id="stalky.c1.p2"><s sid="3" id="stalky.c1.s3">Now, there was nothing in their characters as known to Mr. Prout, their house-master, at all commanding respect; nor did Foxy, the subtle red-haired school Sergeant, trust them.</s> <s sid="4" id="stalky.c1.s4">His business was to wear tennis-shoes, carry binoculars, and swoop hawklike upon evil boys.</s> <s sid="5" id="stalky.c1.s5">Had he taken the field alone, that hut would have been raided, for Foxy knew the manners of his quarry; but Providence moved Mr. Prout, whose school-name, derived from the size of his feet, was Hoofer, to investigate on his own account; and it was the cautious Stalky who found the track of his pugs on the very floor of their lair one peaceful afternoon when Stalky would fain have forgotten Prout and his works in a volume of Surtees and a new briar-wood pipe.</s> <s sid="6" id="stalky.c1.s6">Crusoe, at sight of the footprint, did not act more swiftly than Stalky.</s> <s sid="7" id="stalky.c1.s7">He removed the pipes, swept up all loose match-ends, and departed to warn Beetle and McTurk.</s> </p>
@@ -503,9 +503,9 @@
 
 <p pid="234" id="stalky.c1.p234"><s sid="884" id="stalky.c1.s884">That afternoon there was joy in Aves.</s> </p>
 
-</div>
-<div id="stalky.2" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="2">
-<title>CHAPTER 2. SLAVES OF THE LAMP</title>
+<qs/></div>
+<div id="stalky.2" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="2">
+<qe/><title>CHAPTER 2. SLAVES OF THE LAMP</title>
 <p pid="1" id="stalky.c2.p1"><s sid="1" id="stalky.c2.s1">The music-room on the top floor of Number Five was filled with the "Aladdin" company at rehearsal.</s> <s sid="2" id="stalky.c2.s2">Dickson Quartus, commonly known as Dick Four, was Aladdin, stage-manager, ballet-master, half the orchestra, and largely librettist, for the "book" had been rewritten and filled with local allusions.</s> <s sid="3" id="stalky.c2.s3">The pantomime was to be given next week, in the down-stairs study occupied by Aladdin, Abanazar, and the Emperor of China.</s> <s sid="4" id="stalky.c2.s4">The Slave of the Lamp, with the Princess Badroulbadour and the Widow Twankay, owned Number Five study across the same landing, so that the company could be easily assembled.</s> <s sid="5" id="stalky.c2.s5">The floor shook to the stamp-and-go of the ballet, while Aladdin, in pink cotton tights, a blue and tinsel jacket, and a plumed hat, banged alternately on the piano and his banjo.</s> <s sid="6" id="stalky.c2.s6">He was the moving spirit of the game, as befitted a senior who had passed his Army Preliminary and hoped to enter Sandhurst next spring.</s> </p>
 
 <p pid="2" id="stalky.c2.p2" type="speech"><s sid="7" id="stalky.c2.s7">Aladdin came to his own at last, Abanazar lay poisoned on the floor, the Widow Twankay danced her dance, and the company decided it would <qs/>"come all right on the night."<qe/></s> </p>
@@ -856,9 +856,9 @@
 
 <p pid="175" id="stalky.c2.p175" type="speech"><s sid="537" id="stalky.c2.s537"><qs/>"Arrah, Patsy, mind the baby!</s> <s sid="538" id="stalky.c2.s538">Arrah, Patsy, mind the child!</s> <s sid="539" id="stalky.c2.s539">Wrap him up in an overcoat, he's surely goin' wild!</s> <s sid="540" id="stalky.c2.s540">Arrah, Patsy, mind the baby; just ye mind the child awhile!</s> <s sid="541" id="stalky.c2.s541">He'll kick an' bite an' cry all night!</s> <s sid="542" id="stalky.c2.s542">Arrah, Patsy, mind the child!"<qe/></s> </p>
 
-</div>
-<div id="stalky.3" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="3">
-<title>CHAPTER 3. AN UNSAVORY INTERLUDE.</title>
+<qs/></div>
+<div id="stalky.3" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="3">
+<qe/><title>CHAPTER 3. AN UNSAVORY INTERLUDE.</title>
 <p pid="1" id="stalky.c3.p1" type="speech"><s sid="1" id="stalky.c3.s1">It was a maiden aunt of Stalky who sent him both books, with the inscription, <qs/>"To dearest Artie, on his sixteenth birthday;"<qe/><sls/> it was McTurk who ordered their hypothecation; and it was Beetle, returned from Bideford, who flung them on the window-sill of Number Five study with news that Bastable would advance but ninepence on the two; <sle/><qs/>"Eric; or, Little by Little,"<qe/><sls/> being almost as great a drug as <sle/><qs/>"St.</s> <s sid="2" id="stalky.c3.s2">Winifred's."<qe/></s> <s sid="3" id="stalky.c3.s3"><qs/>"An' I don't think much of your aunt.</s> <s sid="4" id="stalky.c3.s4">We're nearly out of cartridges, too--Artie, dear."<qe/></s> </p>
 
 <p pid="2" id="stalky.c3.p2"><s sid="5" id="stalky.c3.s5">Whereupon Stalky rose up to grapple with him, but McTurk sat on Stalky's head, calling him a "pure-minded boy" till peace was declared.</s> <s sid="6" id="stalky.c3.s6">As they were grievously in arrears with a Latin prose, as it was a blazing July afternoon, and as they ought to have been at a house cricket-match, they began to renew their acquaintance, intimate and unholy, with the volumes.</s> </p>
@@ -1395,9 +1395,9 @@
 
 <p pid="268" id="stalky.c3.p268"><s sid="778" id="stalky.c3.s778">Richards spat on a fresh boot and fell to his work, chuckling.</s> </p>
 
-</div>
-<div id="stalky.4" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="4">
-<title>CHAPTER 4. THE IMPRESSIONISTS.</title>
+<qs/></div>
+<div id="stalky.4" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="4">
+<qe/><title>CHAPTER 4. THE IMPRESSIONISTS.</title>
 <p pid="1" id="stalky.c4.p1"><s sid="1" id="stalky.c4.s1">They had dropped into the chaplain's study for a Saturday night smoke---all four house-masters--and the three briars and the one cigar reeking in amity proved the Rev.</s> <s sid="2" id="stalky.c4.s2">John Gillett's good generalship.</s> <s sid="3" id="stalky.c4.s3">Since the discovery of the cat, King had been too ready to see affront where none was meant, and the Reverend John, buffer-state and general confidant, had worked for a week to bring about a good understanding.</s> <s sid="4" id="stalky.c4.s4">He was fat, clean-shaven, except for a big mustache, of an imperturbable good temper, and, those who loved him least said, a guileful Jesuit.</s> <s sid="5" id="stalky.c4.s5">He smiled benignantly upon his handiwork--four sorely tried men talking without very much malice.</s> </p>
 
 <p pid="2" id="stalky.c4.p2" type="speech"><s sid="6" id="stalky.c4.s6"><qs/>"Now remember,"<qe/><sls/> he said, when the conversation turned that way, <sle/><qs/>"I impute nothing.</s> <s sid="7" id="stalky.c4.s7">But every time that any one has taken direct steps against Number Five study, the issue has been more or less humiliating to the taker."<qe/></s> </p>
@@ -1864,9 +1864,9 @@
 
 <p pid="233" id="stalky.c4.p233" type="speech"><s sid="651" id="stalky.c4.s651"><qs/>"I'm--I'm thinking of the flagrant injustice of it!"<qe/></s> </p>
 
-</div>
-<div id="stalky.5" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="5">
-<title>CHAPTER 5. THE MORAL REFORMERS.</title>
+<qs/></div>
+<div id="stalky.5" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="5">
+<qe/><title>CHAPTER 5. THE MORAL REFORMERS.</title>
 <p pid="1" id="stalky.c5.p1"><s sid="1" id="stalky.c5.s1">There was no disguising the defeat.</s> <s sid="2" id="stalky.c5.s2">The victory was to Prout, but they grudged it not.</s> <s sid="3" id="stalky.c5.s3">If he had broken the rules of the game by calling in the Head, they had had a good run for their money.</s> </p>
 
 <p pid="2" id="stalky.c5.p2"><s sid="4" id="stalky.c5.s4">The Reverend John sought the earliest opportunity of talking things over.</s> <s sid="5" id="stalky.c5.s5">Members of a bachelor Common-room, of a school where masters' studies are designedly dotted among studies and form-rooms, can, if they choose, see a great deal of their charges.</s> <s sid="6" id="stalky.c5.s6">Number Five had spent some cautious years in testing the Reverend John.</s> <s sid="7" id="stalky.c5.s7">He was emphatically a gentleman.</s> <s sid="8" id="stalky.c5.s8">He knocked at a study door before entering; he comported himself as a visitor and not a strayed lictor; he never prosed, and he never carried over into official life the confidences of idle hours.</s> <s sid="9" id="stalky.c5.s9">Prout was ever an unmitigated nuisance; King came solely as an avenger of blood; even little Hartopp, talking natural history, seldom forgot his office; but the Reverend John was a guest desired and beloved by Number Five.</s> </p>
@@ -2427,9 +2427,9 @@
 
 <p pid="280" id="stalky.c5.p280" type="speech"><s sid="758" id="stalky.c5.s758"><qs/>"Won't we, though!</s> <s sid="759" id="stalky.c5.s759">Half a shake, Padre Sahib, till we get our towels, and _nous sommes avec vous_!"<qe/></s> </p>
 
-</div>
-<div id="stalky.6" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="6">
-<title>CHAPTER 6. A LITTLE PREP.</title>
+<qs/></div>
+<div id="stalky.6" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="6">
+<qe/><title>CHAPTER 6. A LITTLE PREP.</title>
 <p pid="1" id="stalky.c6.p1"><s sid="1" id="stalky.c6.s1">Easter term was but a month old when Stettson major, a day-boy, contracted diphtheria, and the Head was very angry.</s> <s sid="2" id="stalky.c6.s2">He decreed a new and narrower set of bounds--the infection had been traced to an out-lying farmhouse--urged the prefects severely to lick all trespassers, and promised extra attentions from his own hand.</s> <s sid="3" id="stalky.c6.s3">There were no words bad enough for Stettson major, quarantined at his mother's house, who had lowered the school-average of health.</s> <s sid="4" id="stalky.c6.s4">This he said in the gymnasium after prayers.</s> <s sid="5" id="stalky.c6.s5">Then he wrote some two hundred letters to as many anxious parents and guardians, and bade the school carry on.</s> <s sid="6" id="stalky.c6.s6">The trouble did not spread, but, one night, a dog-cart drove to the Head's door, and in the morning the Head had gone, leaving all things in charge of Mr. King, senior house-master.</s> <s sid="7" id="stalky.c6.s7">The Head often ran up to town, where the school devoutly believed he bribed officials for early proofs of the Army Examination papers; but this absence was unusually prolonged.</s> </p>
 
 <p pid="2" id="stalky.c6.p2" type="speech"><s sid="8" id="stalky.c6.s8"><qs/>"Downy old bird!"<qe/> said Stalky to the allies one wet afternoon in the study.</s> <s sid="9" id="stalky.c6.s9"><qs/>"He must have gone on a bend and been locked up under a false name."<qe/></s> </p>
@@ -2836,9 +2836,9 @@
 
 <p pid="203" id="stalky.c6.p203"><s sid="615" id="stalky.c6.s615">It's a way we have in the Army, It's a way we have in the Navy, It's a way we have at the Public Schools, Which nobody can deny!"</s> </p>
 
-</div>
-<div id="stalky.7" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="7">
-<title>CHAPTER 7. THE FLAG OF THEIR COUNTRY.</title>
+<qs/></div>
+<div id="stalky.7" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="7">
+<qe/><title>CHAPTER 7. THE FLAG OF THEIR COUNTRY.</title>
 <p pid="1" id="stalky.c7.p1" type="speech"><s sid="1" id="stalky.c7.s1">It was winter and bitter cold of mornings.</s> <s sid="2" id="stalky.c7.s2">Consequently Stalky and Beetle--McTurk being of the offensive type that makes ornate toilet under all circumstances--drowsed till the last moment before turning out to call-over in the gas-lit gymnasium.</s> <s sid="3" id="stalky.c7.s3">It followed that they were often late; and since every unpunctuality earned them a black mark, and since three black marks a week meant defaulters' drill, equally it followed that they spent hours under the Sergeant's hand.</s> <s sid="4" id="stalky.c7.s4">Foxy drilled the defaulters with all the pomp of his old parade-ground.</s> <s sid="5" id="stalky.c7.s5">"Don't think it's any pleasure to me" (his introduction never varied).</s> <s sid="6" id="stalky.c7.s6"><qs/>"I'd much sooner be smoking a quiet pipe in my own quarters--but I see we 'ave the Old Brigade on our 'ands this afternoon.</s> <s sid="7" id="stalky.c7.s7">If I only 'ad you regular, Muster Corkran,"<qe/> said he, dressing the line.</s> </p>
 
 <p pid="2" id="stalky.c7.p2" type="speech"><s sid="8" id="stalky.c7.s8"><qs/>"You've had me for nearly six weeks, you old glutton.</s> <s sid="9" id="stalky.c7.s9">Number off from the right!"<qe/></s> </p>
@@ -3285,9 +3285,9 @@
 
 <p pid="223" id="stalky.c7.p223" type="speech"><s sid="614" id="stalky.c7.s614"><qs/>"'Cause there isn't any.</s> <s sid="615" id="stalky.c7.s615">The volunteer cadet-corps is broke up--disbanded--dead--putrid--corrupt---stinkin'.</s> <s sid="616" id="stalky.c7.s616">An' if you look at me like that, Beetle, I'll slay you too... Oh, yes, an' I'm goin' to be reported to the Head for swearin'."<qe/></s> </p>
 
-</div>
-<div id="stalky.8" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="8">
-<title>CHAPTER 8. THE LAST TERM.</title>
+<qs/></div>
+<div id="stalky.8" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="8">
+<qe/><title>CHAPTER 8. THE LAST TERM.</title>
 <p pid="1" id="stalky.c8.p1" type="speech"><s sid="1" id="stalky.c8.s1">It was within a few days of the holidays, the term-end examinations, and, more important still, the issue of the College paper which Beetle edited.</s> <s sid="2" id="stalky.c8.s2">He had been cajoled into that office by the blandishments of Stalky and McTurk and the extreme rigor of study law.</s> <s sid="3" id="stalky.c8.s3">Once installed, he discovered, as others have done before him, that his duty was to do the work while his friends criticized.</s> <s sid="4" id="stalky.c8.s4">Stalky christened it the <qs/>"Swillingford Patriot,"<qe/> in pious memory of Sponge--and McTurk compared the output unfavorably with Ruskin and De Quincey.</s> <s sid="5" id="stalky.c8.s5">Only the Head took an interest in the publication, and his methods were peculiar.</s> <s sid="6" id="stalky.c8.s6">He gave Beetle the run of his brown-bound, tobacco-scented library; prohibiting nothing, recommending nothing.</s> <s sid="7" id="stalky.c8.s7">There Beetle found a fat arm-chair, a silver inkstand, and unlimited pens and paper.</s> <s sid="8" id="stalky.c8.s8">There were scores and scores of ancient dramatists; there were Hakluyt, his voyages; French translations of Muscovite authors called Pushkin and Lermontoff; little tales of a heady and bewildering nature, interspersed with unusual songs--Peacock was that writer's name; there was Borrow's "Lavengro"; an odd theme, purporting to be a translation of something, called a <qs/>"Ruba'iyat,"<qe/> which the Head said was a poem not yet come to its own; there were hundreds of volumes of verse---Crashaw; Dryden; Alexander Smith; L. E.</s> <s sid="9" id="stalky.c8.s9">L.; Lydia Sigourney; Fletcher and a purple island; Donne; Marlowe's "Faust "; and--this made McTurk (to whom Beetle conveyed it) sheer drunk for three days--Ossian; "The Earthly Paradise"; "Atalanta in Calydon"; and Rossetti--to name only a few.</s> <s sid="10" id="stalky.c8.s10">Then the Head, drifting in under pretense of playing censor to the paper, would read here a verse and here another of these poets, opening up avenues.</s> <s sid="11" id="stalky.c8.s11">And, slow breathing, with half-shut eyes above his cigar, would he speak of great men living, and journals, long dead, founded in their riotous youth; of years when all the planets were little new-lit stars trying to find their places in the uncaring void, and he, the Head, knew them as young men know one another.</s> <s sid="12" id="stalky.c8.s12">So the regular work went to the dogs, Beetle being full of other matters and meters, hoarded in secret and only told to McTurk of an afternoon, on the sands, walking high and disposedly round the wreck of the Armada galleons, shouting and declaiming against the long-ridged seas.</s> </p>
 
 <p pid="2" id="stalky.c8.p2"><s sid="13" id="stalky.c8.s13">Thanks in large part to their house-master's experienced distrust, the three for three consecutive terms had been passed over for promotion to the rank of prefect--an office that went by merit, and carried with it the honor of the ground-ash, and liberty, under restrictions, to use it.</s> </p>
@@ -3730,9 +3730,9 @@
 
 <p pid="225" id="stalky.c8.p225" type="speech"><s sid="613" id="stalky.c8.s613"><qs/>"As nice a lot of high-minded youngsters as you'd wish to see,"<qe/> said McTurk, gazing round with bland patronage.</s> <s sid="614" id="stalky.c8.s614"><qs/>"A trifle immoral, but then--boys will be boys.</s> <s sid="615" id="stalky.c8.s615">It's no good tryin' to look stuffy, Carson.</s> <s sid="616" id="stalky.c8.s616">_Mister_ Corkran will now oblige with the story of Tulke an' Mary Yeo!"<qe/></s> </p>
 
-</div>
-<div id="stalky.9" subcorpus="ChiLit" booktitle="Stalky &amp; Co." book="stalky" type="chapter" num="9">
-<title>CHAPTER 9. SLAVES OF THE LAMP. Part II.</title>
+<qs/></div>
+<div id="stalky.9" subcorpus="ChiLit" booktitle="Stalky &amp; Co." bookauthor="Rudyard Kipling" book="stalky" type="chapter" num="9">
+<qe/><title>CHAPTER 9. SLAVES OF THE LAMP. Part II.</title>
 <p pid="1" id="stalky.c9.p1"><s sid="1" id="stalky.c9.s1">That very Infant who told the story of the capture of Boh Na Ghee [_A Conference_ _of the Powers_:</s> <s sid="2" id="stalky.c9.s2">"Many Inventions"] to Eustace Cleaver, novelist, inherited an estateful baronetcy, with vast revenues, resigned the service, and became a landholder, while his mother stood guard over him to see that he married the right girl.</s> <s sid="3" id="stalky.c9.s3">But, new to his position, he presented the local volunteers with a full-sized magazine-rifle range, two miles long, across the heart of his estate, and the surrounding families, who lived in savage seclusion among woods full of pheasants, regarded him as an erring maniac.</s> <s sid="4" id="stalky.c9.s4">The noise of the firing disturbed their poultry, and Infant was cast out from the society of J.P.'s and decent men till such time as a daughter of the county might lure him back to right thinking.</s> <s sid="5" id="stalky.c9.s5">He took his revenge by filling the house with choice selections of old schoolmates home on leave--affable detrimentals, at whom the bicycle-riding maidens of the surrounding families were allowed to look from afar.</s> <s sid="6" id="stalky.c9.s6">I knew when a troop-ship was in port by the Infant's invitations.</s> <s sid="7" id="stalky.c9.s7">Sometimes he would produce old friends of equal seniority; at others, young and blushing giants whom I had left small fags far down in the Lower Second; and to these Infant and the elders expounded the whole duty of man in the Army.</s> </p>
 
 <p pid="2" id="stalky.c9.p2" type="speech"><s sid="8" id="stalky.c9.s8"><qs/>"I've had to cut the service,"<qe/><sss/> said the Infant; <sse/><qs/>"but that's no reason why my vast stores of experience should be lost to posterity."<qe/></s> <s sid="9" id="stalky.c9.s9">He was just thirty, and in that same summer an imperious wire drew me to his baronial castle:</s> <s sid="10" id="stalky.c9.s10"><qs/>"Got good haul; ex _Tamar_.</s> <s sid="11" id="stalky.c9.s11">Come along."<qe/></s> </p>
@@ -3955,7 +3955,7 @@
 
 <p pid="123" id="stalky.c9.p123"><s sid="459" id="stalky.c9.s459">And I have.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

@@ -4,15 +4,15 @@
 
 <title>The Tale Of Benjamin Bunny</title>
 <author>Beatrix Potter</author>
-<div id="bunny.0" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" book="bunny" type="chapter" num="0">
-<title/>
+<div id="bunny.0" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" bookauthor="Beatrix Potter" book="bunny" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="bunny.c0.p1"><s sid="1" id="bunny.c0.s1">FOR THE CHILDREN OF SAWREY</s> </p>
 
 <p pid="2" id="bunny.c0.p2"><s sid="2" id="bunny.c0.s2">FROM OLD MR.</s> <s sid="3" id="bunny.c0.s3">BUNNY</s> </p>
 
-</div>
-<div id="bunny.1" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" book="bunny" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="bunny.1" subcorpus="ChiLit" booktitle="The Tale Of Benjamin Bunny" bookauthor="Beatrix Potter" book="bunny" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="bunny.c1.p1"><s sid="1" id="bunny.c1.s1">One morning a little rabbit sat on a bank.</s> </p>
 
 <p pid="2" id="bunny.c1.p2"><s sid="2" id="bunny.c1.s2">He pricked his ears and listened to the trit-trot, trit-trot of a pony.</s> </p>
@@ -131,7 +131,7 @@
 
 <p pid="59" id="bunny.c1.p59"><s sid="73" id="bunny.c1.s73">THE END</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

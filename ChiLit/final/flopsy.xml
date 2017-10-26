@@ -4,17 +4,17 @@
 
 <title>The Tale of the Flopsy Bunnies</title>
 <author>Beatrix Potter</author>
-<div id="flopsy.0" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" book="flopsy" type="chapter" num="0">
-<title/>
+<div id="flopsy.0" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" bookauthor="Beatrix Potter" book="flopsy" type="chapter" num="0">
+<qe/><title/>
 <p pid="1" id="flopsy.c0.p1"><s sid="1" id="flopsy.c0.s1">FOR ALL LITTLE FRIENDS</s> </p>
 
 <p pid="2" id="flopsy.c0.p2"><s sid="2" id="flopsy.c0.s2">OF</s> </p>
 
 <p pid="3" id="flopsy.c0.p3"><s sid="3" id="flopsy.c0.s3">MR.</s> <s sid="4" id="flopsy.c0.s4">MCGREGOR &amp; PETER &amp; BENJAMIN</s> </p>
 
-</div>
-<div id="flopsy.1" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" book="flopsy" type="chapter" num="1">
-<title>BOOK 1.</title>
+<qs/></div>
+<div id="flopsy.1" subcorpus="ChiLit" booktitle="The Tale of the Flopsy Bunnies" bookauthor="Beatrix Potter" book="flopsy" type="chapter" num="1">
+<qe/><title>BOOK 1.</title>
 <p pid="1" id="flopsy.c1.p1" type="speech"><s sid="1" id="flopsy.c1.s1">It is said that the effect of eating too much lettuce is <qs/>"soporific."<qe/></s> </p>
 
 <p pid="2" id="flopsy.c1.p2"><s sid="2" id="flopsy.c1.s2">_I_ have never felt sleepy after eating lettuces; but then _I_ am not a rabbit.</s> </p>
@@ -127,7 +127,7 @@
 
 <p pid="56" id="flopsy.c1.p56"><s sid="76" id="flopsy.c1.s76">But next Christmas Thomasina Tittlemouse got a present of enough rabbit-wool to make herself a cloak and a hood, and a handsome muff and a pair of warm mittens.</s> </p>
 
-</div>
+<qs/></div>
 
 
 </div0>

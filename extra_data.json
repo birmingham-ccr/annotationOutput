@@ -151,7 +151,7 @@
     }, 
     "end": {}, 
     "repository_versions": {
-        "clic": "1.6:f19acc5", 
+        "clic:import": "1.6:876222b", 
         "corpora": "master:2affe56"
     }
 }
